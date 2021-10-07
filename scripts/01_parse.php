@@ -10,6 +10,7 @@ $pairs = [
     '　' => '',
 ];
 $pool = [];
+$missing = [];
 foreach (glob($basePath . '/raw/data/*.json') as $jsonFile) {
     $json = json_decode(file_get_contents($jsonFile), true);
     if (!empty($json)) {
@@ -17,6 +18,7 @@ foreach (glob($basePath . '/raw/data/*.json') as $jsonFile) {
             if (is_string($point['category'])) {
                 $point['category'] = [$point['category']];
             }
+            $isMissing = true;
             $pos = strpos($point['market_address'], '號');
             if (false !== $pos) {
                 $point['market_address'] = strtr($point['market_address'], $pairs);
@@ -63,7 +65,7 @@ foreach (glob($basePath . '/raw/data/*.json') as $jsonFile) {
                         if (!isset($pool[$point['city']])) {
                             $pool[$point['city']] = [];
                         }
-                        if(is_array($point['market_name'])) {
+                        if (is_array($point['market_name'])) {
                             $point['market_name'] = implode('/', $point['market_name']);
                         }
                         if (!isset($pool[$point['city']][$address])) {
@@ -82,11 +84,17 @@ foreach (glob($basePath . '/raw/data/*.json') as $jsonFile) {
                         if (is_array($point['pay_list'])) {
                             $point['pay_list'] = implode(' / ', $point['pay_list']);
                         }
+                        $isMissing = false;
                         $pool[$point['city']][$address]['shops'][] = [
                             'shop' => $point['shop'],
                             'pay_list' => $point['pay_list'],
                         ];
                     }
+                }
+            }
+            if ($isMissing) {
+                if(!isset($missing[$point['market_address']])) {
+                    $missing[$point['market_address']] = [$point['city'],$point['area']];
                 }
             }
         }
@@ -122,4 +130,10 @@ foreach ($pool as $city => $lv1) {
         ];
     }
     file_put_contents($basePath . '/data/' . $city . '.json', json_encode($fc[$city], JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+}
+
+$missingFh = fopen($basePath . '/data/missing.csv', 'w');
+fputcsv($missingFh, ['address', 'city', 'area', 'x', 'y']);
+foreach($missing AS $address => $data) {
+    fputcsv($missingFh, [$address, $data[0], $data[1], '', '']);
 }
