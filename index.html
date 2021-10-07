@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta property="og:title" content="好食券地圖">
+    <meta property="og:description" content="好食券地圖">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="http://kiang.github.io/foodlover/og_image.png">
+    <title>好食券地圖</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/ol.css" type="text/css">
+    <link rel="stylesheet" href="css/ol3-sidebar.min.css" type="text/css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
+    <style>
+        body {
+            padding: 0;
+            margin: 0;
+            overflow: hidden;
+        }
+
+        html,
+        body,
+        #map {
+            height: 100%;
+            font: 10pt "Helvetica Neue", Arial, Helvetica, sans-serif;
+        }
+
+        .lorem {
+            font-style: italic;
+            color: #AAA;
+        }
+
+        .ui-front {
+            z-index: 9999;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="fb-root"></div>
+    <script>
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = 'https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v2.12&appId=1393405437614114&autoLogAppEvents=1';
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+    <div id="sidebar" class="sidebar collapsed">
+        <!-- Nav tabs -->
+        <div class="sidebar-tabs">
+            <ul role="tablist">
+                <li><a href="#home" role="tab"><i class="fa fa-bars"></i></a></li>
+                <li><a href="#book" role="tab"><i class="fa fa-book"></i></a></li>
+                <li><a href="#settings" role="tab"><i class="fa fa-gear"></i></a></li>
+                <li><a href="https://github.com/kiang/foodlover" role="tab" target="_blank"><i
+                            class="fa fa-github"></i></a></li>
+                <li><a href="#fb" role="tab"><i class="fa fa-facebook"></i></a></li>
+            </ul>
+        </div>
+
+        <!-- Tab panes -->
+        <div class="sidebar-content">
+            <div class="sidebar-pane" id="home">
+                <h1 class="sidebar-header"><span id="sidebarTitle">請點選地圖中的點</span><span class="sidebar-close"><i
+                            class="fa fa-caret-left"></i></span></h1>
+                <div id="sidebarContent">
+                    <div class="accordion" id="accordionMain">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="heading1">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseInfo" aria-expanded="true" aria-controls="collapseInfo">
+                                    基本資料
+                                </button>
+                            </h2>
+                            <div id="collapseInfo" class="accordion-collapse collapse show" aria-labelledby="heading1"
+                                data-bs-parent="#accordionMain">
+                                <div class="accordion-body" id="infoBox"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="btn-group-vertical" role="group" style="width: 100%;">
+                    <a href="https://github.com/kiang/foodlover/issues" target="_blank" class="btn btn-primary btn-lg btn-block">網站問題反應</a>
+                    <a href="https://www.facebook.com/k.olc.tw/posts/1927095310797256" target="_blank" class="btn btn-primary btn-lg btn-block">FB 討論</a>
+                    <a href="https://link.medium.com/KefoPYtA3jb" target="_blank" class="btn btn-primary btn-lg btn-block">Medium 討論</a>
+                </div>
+            </div>
+            <div class="sidebar-pane" id="book">
+                <h1 class="sidebar-header"><span id="weekTitle">說明</span><span class="sidebar-close"><i
+                            class="fa fa-caret-left"></i></span></h1>
+                <div>
+                    注意事項：
+                    <ul>
+                        <li><a href="https://religion.moi.gov.tw/" target="_blank">資料來源</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="sidebar-pane" id="settings">
+                <h1 class="sidebar-header"><span id="weekTitle">設定</span><span class="sidebar-close"><i
+                            class="fa fa-caret-left"></i></span></h1>
+                <div>
+                    <a href="#" class="btn btn-primary btn-lg btn-block" id="btn-geolocation">回到目前位置</a>
+                </div>
+                <hr />
+            </div>
+            <div class="sidebar-pane" id="fb">
+                <div class="fb-page" data-href="https://www.facebook.com/k.olc.tw/" data-tabs="timeline"
+                    data-width="380" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false"
+                    data-show-facepile="true">
+                    <blockquote cite="https://www.facebook.com/k.olc.tw/" class="fb-xfbml-parse-ignore"><a
+                            href="https://www.facebook.com/k.olc.tw/">江明宗</a></blockquote>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="map" class="sidebar-map"></div>
+    <script src="js/jquery.min.js" type="text/javascript"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-p34f1UUtsS3wqzfto5wAAmdvj+osOnFyQFpp4Ua3gs/ZVWx6oOypYoCJhGGScy+8"
+        crossorigin="anonymous"></script>
+    <script src="js/ol.js" type="text/javascript"></script>
+    <script src="js/ol5-sidebar.min.js" type="text/javascript"></script>
+    <script src="js/main.js" type="text/javascript"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-80817009-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-80817009-1');
+    </script>
+</body>
+</html>
