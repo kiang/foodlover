@@ -29,9 +29,9 @@ foreach (glob($basePath . '/raw/data/*.json') as $jsonFile) {
                 $point['category'] = [$point['category']];
             }
             $isMissing = true;
+            $point['market_address'] = strtr($point['market_address'], $pairs);
             $pos = strpos($point['market_address'], '號');
             if (false !== $pos) {
-                $point['market_address'] = strtr($point['market_address'], $pairs);
                 $address = substr($point['market_address'], 0, $pos) . '號';
                 $address = str_replace($point['city'], '', $address);
                 $address = trim(str_replace($point['area'], '', $address));
