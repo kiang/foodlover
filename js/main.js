@@ -12,11 +12,14 @@ for (var z = 0; z < 20; ++z) {
   matrixIds[z] = z;
 }
 
-var cityList = {};
-var filterCity = '', filterTown = '';
-var filterExtent = false;
+var baseUrl = window.location.origin + window.location.pathname;
+
+var filterPayment = '';
 function pointStyle(f) {
   var p = f.getProperties(), color = '#ceaf30', stroke, radius;
+  if(filterPayment !== '' && p.pay_list.indexOf(filterPayment) === -1) {
+    return null;
+  }
   if (f === currentFeature) {
     color = '#3c0';
     stroke = new ol.style.Stroke({
@@ -142,7 +145,7 @@ map.on('singleclick', function (evt) {
         selectedCounty = p.COUNTYNAME;
         vectorPoints.getSource().clear();
         if (!pointsPool[selectedCounty]) {
-          $.getJSON('https://kiang.github.io/foodlover/data/' + selectedCounty + '.json', function (c) {
+          $.getJSON(baseUrl + 'data/' + selectedCounty + '.json', function (c) {
             pointsPool[selectedCounty] = c;
             vectorPoints.getSource().addFeatures(pointFormat.readFeatures(pointsPool[selectedCounty]));
             vectorPoints.getSource().refresh();
@@ -156,7 +159,7 @@ map.on('singleclick', function (evt) {
         currentFeature = feature;
         vectorPoints.getSource().refresh();
         sidebar.close();
-        $.getJSON('https://kiang.github.io/foodlover/data/point/' + selectedCounty + '/' + p.k + '.json', function (c) {
+        $.getJSON(baseUrl + 'data/point/' + selectedCounty + '/' + p.k + '.json', function (c) {
           var currentP = currentFeature.getProperties();
           var lonLat = ol.proj.toLonLat(currentP.geometry.getCoordinates());
           var message = '<table class="table table-dark">';
@@ -242,4 +245,12 @@ $('#btn-geolocation').click(function () {
     alert('目前使用的設備無法提供地理資訊');
   }
   return false;
+});
+
+$('a.filter-payment').click(function() {
+  var currentObj = $(this);
+  $('a.filter-payment').removeClass('btn-primary').addClass('btn-secondary');
+  filterPayment = currentObj.attr('data-payment');
+  currentObj.removeClass('btn-secondary').addClass('btn-primary');
+  vectorPoints.getSource().refresh();
 });
