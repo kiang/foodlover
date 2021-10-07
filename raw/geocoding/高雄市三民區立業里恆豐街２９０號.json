@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "高雄市三民區立業里恆豐街２９０號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[高雄市]\tT:1,V:1,R:0,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+8)(-24),E:-1,N:-1",
+      "OutTraceInfo": "[高雄市]\t { 模糊比對 } (三民區)\t找到符合的[鄉鎮市區]，(立業里)\t找到符合的[村里]，(恆豐街)\t找不到符合的[路街名]，進行轉換搜尋[街變成路，路變成街]，進行轉換搜尋[路變成地區名]，轉換搜尋找不到符合的[路街名]，(290號)\t進行[雙號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +8 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -24 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "高雄市三民區立業里7鄰鐵道三街266號",
+      "COUNTY": "高雄市",
+      "TOWN": "三民區",
+      "VILLAGE": "立業里",
+      "NEIGHBORHOOD": "7鄰",
+      "ROAD": "鐵道三街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "266號",
+      "X": 120.297220,
+      "Y": 22.640291
+    },
+    {
+      "FULL_ADDR": "高雄市三民區立業里2鄰鐵道三街298號",
+      "COUNTY": "高雄市",
+      "TOWN": "三民區",
+      "VILLAGE": "立業里",
+      "NEIGHBORHOOD": "2鄰",
+      "ROAD": "鐵道三街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "298號",
+      "X": 120.296618,
+      "Y": 22.640252
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "宜蘭縣羅東鎮南昌里站前南路１８３號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[宜蘭縣]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+2)(-6),E:-1,N:-1",
+      "OutTraceInfo": "[宜蘭縣]\t { 模糊比對 } (羅東鎮)\t找到符合的[鄉鎮市區]，(南昌里)\t找到符合的[村里]，(站前南路)\t找到符合的[路街名]，(183號)\t進行[單號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +2 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -6 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "宜蘭縣羅東鎮南昌里19鄰站前南路177號",
+      "COUNTY": "宜蘭縣",
+      "TOWN": "羅東鎮",
+      "VILLAGE": "南昌里",
+      "NEIGHBORHOOD": "19鄰",
+      "ROAD": "站前南路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "177號",
+      "X": 121.774475,
+      "Y": 24.671921
+    },
+    {
+      "FULL_ADDR": "宜蘭縣羅東鎮南昌里19鄰站前南路185號",
+      "COUNTY": "宜蘭縣",
+      "TOWN": "羅東鎮",
+      "VILLAGE": "南昌里",
+      "NEIGHBORHOOD": "19鄰",
+      "ROAD": "站前南路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "185號",
+      "X": 121.774423,
+      "Y": 24.672232
+    }
+  ]
+}

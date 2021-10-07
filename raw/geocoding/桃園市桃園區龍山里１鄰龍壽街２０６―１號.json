@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "桃園市桃園區龍山里１鄰龍壽街２０６―１號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[桃園市]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:0,NO:0(+70),E:-1,N:0",
+      "OutTraceInfo": "[桃園市]\t { 模糊比對 } (桃園區)\t找到符合的[鄉鎮市區]，(龍山里)\t找到符合的[村里]，(龍壽街)\t找到符合的[路街名]，(二0六―)\t找不到符合的[地區]，進行轉換搜尋[路或街變成地區名]，轉換搜尋找不到符合的[地區]，(1號)\t進行[單號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +70 號，進行[找最小門牌的號之、之號]，(1鄰)\t找不到進行[忽略鄰]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "桃園市桃園區龍山里8鄰龍壽街71之1號",
+      "COUNTY": "桃園市",
+      "TOWN": "桃園區",
+      "VILLAGE": "龍山里",
+      "NEIGHBORHOOD": "8鄰",
+      "ROAD": "龍壽街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "71之1號",
+      "X": 121.268722,
+      "Y": 24.978273
+    },
+    {
+      "FULL_ADDR": "桃園市桃園區龍山里8鄰龍壽街71之2號",
+      "COUNTY": "桃園市",
+      "TOWN": "桃園區",
+      "VILLAGE": "龍山里",
+      "NEIGHBORHOOD": "8鄰",
+      "ROAD": "龍壽街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "71之2號",
+      "X": 121.268921,
+      "Y": 24.978370
+    }
+  ]
+}

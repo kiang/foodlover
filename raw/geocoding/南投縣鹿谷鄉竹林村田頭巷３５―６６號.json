@@ -1,0 +1,80 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "南投縣鹿谷鄉竹林村田頭巷３５―６６號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "3",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[南投縣]\tT:1,V:1,R:-1,S:-1,L:0,A:-1,SA:-1,T:-1,AR:0,NO:0(+30)(-8),E:-1,N:-1",
+      "OutTraceInfo": "[南投縣]\t { 模糊比對 } (鹿谷鄉)\t找到符合的[鄉鎮市區]，(竹林村)\t找到符合的[村里]，(田頭巷)\t找不到符合的[巷]，(三五―)\t找不到符合的[地區]，轉換搜尋找不到符合的[地區]，(66號)\t進行[雙號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +30 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -8 號，進行[找最小門牌的號之、之號]，模糊比對找到 3 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "南投縣鹿谷鄉竹林村18鄰光復路96之3號",
+      "COUNTY": "南投縣",
+      "TOWN": "鹿谷鄉",
+      "VILLAGE": "竹林村",
+      "NEIGHBORHOOD": "18鄰",
+      "ROAD": "光復路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "96之3號",
+      "X": 120.754239,
+      "Y": 23.727854
+    },
+    {
+      "FULL_ADDR": "南投縣鹿谷鄉竹林村18鄰光復路96之4號",
+      "COUNTY": "南投縣",
+      "TOWN": "鹿谷鄉",
+      "VILLAGE": "竹林村",
+      "NEIGHBORHOOD": "18鄰",
+      "ROAD": "光復路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "96之4號",
+      "X": 120.754178,
+      "Y": 23.727860
+    },
+    {
+      "FULL_ADDR": "南投縣鹿谷鄉竹林村18鄰光復路96之8號",
+      "COUNTY": "南投縣",
+      "TOWN": "鹿谷鄉",
+      "VILLAGE": "竹林村",
+      "NEIGHBORHOOD": "18鄰",
+      "ROAD": "光復路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "96之8號",
+      "X": 120.755190,
+      "Y": 23.727696
+    }
+  ]
+}

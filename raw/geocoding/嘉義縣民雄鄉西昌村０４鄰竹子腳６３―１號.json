@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "嘉義縣民雄鄉西昌村０４鄰竹子腳６３―１號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[嘉義縣]\tT:1,V:1,R:-1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[嘉義縣]\t { 模糊比對 } (民雄鄉)\t找到符合的[鄉鎮市區]，(西昌村)\t找到符合的[村里]，(竹子腳六三―)\t找不到符合的[地區]，轉換搜尋找不到符合的[地區]，(1號)\t找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "嘉義縣民雄鄉西昌村6鄰竹子脚1號",
+      "COUNTY": "嘉義縣",
+      "TOWN": "民雄鄉",
+      "VILLAGE": "西昌村",
+      "NEIGHBORHOOD": "6鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "竹子脚",
+      "NUMBER": "1號",
+      "X": 120.382887,
+      "Y": 23.544311
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "南投縣魚池鄉新城村修正巷４―２號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[南投縣]\tT:1,V:1,R:-1,S:-1,L:0,A:-1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[南投縣]\t { 模糊比對 } (魚池鄉)\t找到符合的[鄉鎮市區]，(新城村)\t找到符合的[村里]，(修正巷)\t找不到符合的[巷]，(四―)\t找不到符合的[地區]，轉換搜尋找不到符合的[地區]，(2號)\t找到符合的[門牌號碼]，進行[雙號過濾]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "南投縣魚池鄉新城村1鄰通文巷2號",
+      "COUNTY": "南投縣",
+      "TOWN": "魚池鄉",
+      "VILLAGE": "新城村",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "通文巷",
+      "NUMBER": "2號",
+      "X": 120.926192,
+      "Y": 23.900942
+    },
+    {
+      "FULL_ADDR": "南投縣魚池鄉新城村13鄰香茶巷2號",
+      "COUNTY": "南投縣",
+      "TOWN": "魚池鄉",
+      "VILLAGE": "新城村",
+      "NEIGHBORHOOD": "13鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "香茶巷",
+      "NUMBER": "2號",
+      "X": 120.935739,
+      "Y": 23.921484
+    }
+  ]
+}

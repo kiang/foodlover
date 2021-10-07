@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "宜蘭縣羅東鎮漢民里０２５鄰民權路１８５―４號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[宜蘭縣]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:0,NO:0(+173),E:-1,N:-1",
+      "OutTraceInfo": "[宜蘭縣]\t { 模糊比對 } (羅東鎮)\t找到符合的[鄉鎮市區]，(漢民里)\t找到符合的[村里]，(民權路)\t找到符合的[路街名]，(一八五―)\t找不到符合的[地區]，進行轉換搜尋[路或街變成地區名]，轉換搜尋找不到符合的[地區]，(4號)\t進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +173 號，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "宜蘭縣羅東鎮漢民里25鄰民權路177號",
+      "COUNTY": "宜蘭縣",
+      "TOWN": "羅東鎮",
+      "VILLAGE": "漢民里",
+      "NEIGHBORHOOD": "25鄰",
+      "ROAD": "民權路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "177號",
+      "X": 121.766323,
+      "Y": 24.676328
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺中市北屯區廍子里廍子里樹孝路７０２號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺中市]\tT:1,V:1,R:0,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[臺中市]\t { 模糊比對 } (北屯區)\t找到符合的[鄉鎮市區]，(廍子里)\t找到符合的[村里]，(廍子里樹孝路)\t找不到符合的[路街名]，進行轉換搜尋[街變成路，路變成街]，進行轉換搜尋[路變成地區名]，轉換搜尋找不到符合的[路街名]，(702號)\t找到符合的[門牌號碼]，進行[雙號過濾]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "臺中市北屯區廍子里22鄰環太東路702號",
+      "COUNTY": "臺中市",
+      "TOWN": "北屯區",
+      "VILLAGE": "廍子里",
+      "NEIGHBORHOOD": "22鄰",
+      "ROAD": "環太東路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "702號",
+      "X": 120.736836,
+      "Y": 24.159960
+    },
+    {
+      "FULL_ADDR": "臺中市北屯區廍子里23鄰樹孝路702號",
+      "COUNTY": "臺中市",
+      "TOWN": "北屯區",
+      "VILLAGE": "廍子里",
+      "NEIGHBORHOOD": "23鄰",
+      "ROAD": "樹孝路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "702號",
+      "X": 120.722393,
+      "Y": 24.160692
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "屏東縣恆春鎮城西里１４鄰西門路１０７―２號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[屏東縣]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:0,NO:0(+1)(-1),E:-1,N:0",
+      "OutTraceInfo": "[屏東縣]\t { 模糊比對 } (恆春鎮)\t找到符合的[鄉鎮市區]，(城西里)\t找到符合的[村里]，(西門路)\t找到符合的[路街名]，(一0七―)\t找不到符合的[地區]，進行轉換搜尋[路或街變成地區名]，轉換搜尋找不到符合的[地區]，(2號)\t進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +1 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -1 號，(14鄰)\t找不到進行[忽略鄰]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "屏東縣恆春鎮城西里9鄰西門路1號",
+      "COUNTY": "屏東縣",
+      "TOWN": "恆春鎮",
+      "VILLAGE": "城西里",
+      "NEIGHBORHOOD": "9鄰",
+      "ROAD": "西門路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "1號",
+      "X": 120.743173,
+      "Y": 22.005610
+    },
+    {
+      "FULL_ADDR": "屏東縣恆春鎮城西里9鄰西門路3號",
+      "COUNTY": "屏東縣",
+      "TOWN": "恆春鎮",
+      "VILLAGE": "城西里",
+      "NEIGHBORHOOD": "9鄰",
+      "ROAD": "西門路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "3號",
+      "X": 120.743167,
+      "Y": 22.005644
+    }
+  ]
+}

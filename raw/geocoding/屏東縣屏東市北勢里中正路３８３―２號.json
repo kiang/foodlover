@@ -1,0 +1,80 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "屏東縣屏東市北勢里中正路３８３―２號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "3",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[屏東縣]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:0,NO:0(+253),E:-1,N:-1",
+      "OutTraceInfo": "[屏東縣]\t { 模糊比對 } (屏東市)\t找到符合的[鄉鎮市區]，(北勢里)\t找到符合的[村里]，(中正路)\t找到符合的[路街名]，(三八三―)\t找不到符合的[地區]，進行轉換搜尋[路或街變成地區名]，轉換搜尋找不到符合的[地區]，(2號)\t進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +253 號，進行[找最小門牌的號之、之號]，模糊比對找到 3 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "屏東縣屏東市北勢里18鄰中正路255之1號",
+      "COUNTY": "屏東縣",
+      "TOWN": "屏東市",
+      "VILLAGE": "北勢里",
+      "NEIGHBORHOOD": "18鄰",
+      "ROAD": "中正路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "255之1號",
+      "X": 120.491936,
+      "Y": 22.682417
+    },
+    {
+      "FULL_ADDR": "屏東縣屏東市北勢里18鄰中正路255之2號",
+      "COUNTY": "屏東縣",
+      "TOWN": "屏東市",
+      "VILLAGE": "北勢里",
+      "NEIGHBORHOOD": "18鄰",
+      "ROAD": "中正路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "255之2號",
+      "X": 120.491949,
+      "Y": 22.682455
+    },
+    {
+      "FULL_ADDR": "屏東縣屏東市北勢里18鄰中正路255之3號",
+      "COUNTY": "屏東縣",
+      "TOWN": "屏東市",
+      "VILLAGE": "北勢里",
+      "NEIGHBORHOOD": "18鄰",
+      "ROAD": "中正路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "255之3號",
+      "X": 120.491967,
+      "Y": 22.682525
+    }
+  ]
+}

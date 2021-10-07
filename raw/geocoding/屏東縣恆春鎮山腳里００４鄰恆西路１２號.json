@@ -1,0 +1,80 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "屏東縣恆春鎮山腳里００４鄰恆西路１２號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "3",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[屏東縣]\tT:1,V:1,R:0,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:0",
+      "OutTraceInfo": "[屏東縣]\t { 模糊比對 } (恆春鎮)\t找到符合的[鄉鎮市區]，(山腳里)\t找到符合的[村里]，(恆西路)\t找不到符合的[路街名]，進行轉換搜尋[街變成路，路變成街]，進行轉換搜尋[路變成地區名]，轉換搜尋找不到符合的[路街名]，(12號)\t找到符合的[門牌號碼]，進行[雙號過濾]，(4鄰)\t找不到進行[忽略鄰]，模糊比對找到 3 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "屏東縣恆春鎮山腳里11鄰恒東路12號",
+      "COUNTY": "屏東縣",
+      "TOWN": "恆春鎮",
+      "VILLAGE": "山腳里",
+      "NEIGHBORHOOD": "11鄰",
+      "ROAD": "恒東路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "12號",
+      "X": 120.774911,
+      "Y": 22.003214
+    },
+    {
+      "FULL_ADDR": "屏東縣恆春鎮山腳里33鄰恒公路12號",
+      "COUNTY": "屏東縣",
+      "TOWN": "恆春鎮",
+      "VILLAGE": "山腳里",
+      "NEIGHBORHOOD": "33鄰",
+      "ROAD": "恒公路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "12號",
+      "X": 120.746854,
+      "Y": 21.991619
+    },
+    {
+      "FULL_ADDR": "屏東縣恆春鎮山腳里7鄰山脚路12號",
+      "COUNTY": "屏東縣",
+      "TOWN": "恆春鎮",
+      "VILLAGE": "山腳里",
+      "NEIGHBORHOOD": "7鄰",
+      "ROAD": "山脚路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "12號",
+      "X": 120.756811,
+      "Y": 21.992477
+    }
+  ]
+}

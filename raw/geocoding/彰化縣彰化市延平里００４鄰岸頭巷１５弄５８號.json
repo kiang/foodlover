@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "彰化縣彰化市延平里００４鄰岸頭巷１５弄５８號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[彰化縣]\tT:1,V:1,R:-1,S:-1,L:0,A:1,SA:-1,T:-1,AR:1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[彰化縣]\t { 模糊比對 } (彰化市)\t找到符合的[鄉鎮市區]，(延平里)\t找到符合的[村里]，(岸頭巷)\t找不到符合的[巷]，(15弄)\t找到符合的[弄]，(岸頭巷)\t找到符合的[地區]，(58號)\t找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "彰化縣彰化市延平里7鄰岸頭巷15弄58號",
+      "COUNTY": "彰化縣",
+      "TOWN": "彰化市",
+      "VILLAGE": "延平里",
+      "NEIGHBORHOOD": "7鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "15弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "岸頭巷",
+      "NUMBER": "58號",
+      "X": 120.547051,
+      "Y": 24.059913
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺北市中山區康樂里中山北路２段２７巷３―３號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺北市]\tT:1,V:1,R:1,S:1,L:1,A:-1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[臺北市]\t { 模糊比對 } (中山區)\t找到符合的[鄉鎮市區]，(康樂里)\t找到符合的[村里]，(中山北路)\t找到符合的[路街名]，(2)\t找到符合的[路段]，(27巷)\t找到符合的[巷]，(三―)\t找不到符合的[地區]，進行轉換搜尋[路或街變成地區名]，轉換搜尋找不到符合的[地區]，(3號)\t找到符合的[門牌號碼]，進行[單號過濾]，進行[找最小門牌的號之、之號]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "臺北市中山區康樂里3鄰中山北路二段27巷3之2號",
+      "COUNTY": "臺北市",
+      "TOWN": "中山區",
+      "VILLAGE": "康樂里",
+      "NEIGHBORHOOD": "3鄰",
+      "ROAD": "中山北路",
+      "SECTION": "2",
+      "LANE": "27巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "3之2號",
+      "X": 121.523391,
+      "Y": 25.053242
+    },
+    {
+      "FULL_ADDR": "臺北市中山區康樂里3鄰中山北路二段27巷3之3號",
+      "COUNTY": "臺北市",
+      "TOWN": "中山區",
+      "VILLAGE": "康樂里",
+      "NEIGHBORHOOD": "3鄰",
+      "ROAD": "中山北路",
+      "SECTION": "2",
+      "LANE": "27巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "3之3號",
+      "X": 121.523612,
+      "Y": 25.053294
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "新北市萬里區野柳里港東路攤販街2號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[新北市]\tT:1,V:1,R:0,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:2,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[新北市]\t { 模糊比對 } (萬里區)\t找到符合的[鄉鎮市區]，(野柳里)\t找到符合的[村里]，(港東路)\t找不到符合的[路街名]，進行轉換搜尋[街變成路，路變成街]，進行轉換搜尋[地區名+路]，進行轉換搜尋[地區名+街]，轉換搜尋找不到符合的[路街名]，(攤販街)\t找不到符合的[地區]，進行轉換搜尋[路或街變成地區名]，轉換搜尋找到符合的[地區]，(2號)\t找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "新北市萬里區野柳里13鄰港東2號",
+      "COUNTY": "新北市",
+      "TOWN": "萬里區",
+      "VILLAGE": "野柳里",
+      "NEIGHBORHOOD": "13鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "港東",
+      "NUMBER": "2號",
+      "X": 121.686410,
+      "Y": 25.202815
+    }
+  ]
+}

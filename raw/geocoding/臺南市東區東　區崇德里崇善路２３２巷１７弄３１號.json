@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺南市東區東　區崇德里崇善路２３２巷１７弄３１號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺南市]\tT:1,V:0,R:1,S:-1,L:1,A:1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[臺南市]\t { 模糊比對 } (東區)\t找到符合的[鄉鎮市區]，(東區崇德里)\t找不到符合的[村里]，進行轉換搜尋[村變成里，里變成村]，轉換搜尋找不到進行[忽略村里]，(崇善路)\t找到符合的[路街名]，(232巷)\t找到符合的[巷]，(17弄)\t找到符合的[弄]，(31號)\t找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "臺南市東區崇德里1鄰崇善路232巷17弄31號",
+      "COUNTY": "臺南市",
+      "TOWN": "東區",
+      "VILLAGE": "崇德里",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "崇善路",
+      "SECTION": "",
+      "LANE": "232巷",
+      "ALLEY": "17弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "31號",
+      "X": 120.227543,
+      "Y": 22.976855
+    }
+  ]
+}

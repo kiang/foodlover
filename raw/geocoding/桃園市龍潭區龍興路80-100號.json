@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "桃園市龍潭區龍興路80-100號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[桃園市]\tT:1,V:-1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+24)(-4),E:-1,N:-1",
+      "OutTraceInfo": "[桃園市]\t { 模糊比對 } (龍潭區)\t找到符合的[鄉鎮市區]，(龍興路)\t找到符合的[路街名]，(80-100號)\t進行[雙號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +24 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -4 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "桃園市龍潭區龍潭里19鄰龍興路76號",
+      "COUNTY": "桃園市",
+      "TOWN": "龍潭區",
+      "VILLAGE": "龍潭里",
+      "NEIGHBORHOOD": "19鄰",
+      "ROAD": "龍興路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "76號",
+      "X": 121.215866,
+      "Y": 24.865841
+    },
+    {
+      "FULL_ADDR": "桃園市龍潭區龍潭里21鄰龍興路104號",
+      "COUNTY": "桃園市",
+      "TOWN": "龍潭區",
+      "VILLAGE": "龍潭里",
+      "NEIGHBORHOOD": "21鄰",
+      "ROAD": "龍興路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "104號",
+      "X": 121.216319,
+      "Y": 24.866026
+    }
+  ]
+}

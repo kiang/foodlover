@@ -1,0 +1,80 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "屏東縣潮州鎮彭城里彭城路２巷５號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "3",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[屏東縣]\tT:1,V:1,R:1,S:-1,L:0,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[屏東縣]\t { 模糊比對 } (潮州鎮)\t找到符合的[鄉鎮市區]，(彭城里)\t找到符合的[村里]，(彭城路)\t找到符合的[路街名]，(2巷)\t找不到符合的[巷]，(2)\t找到符合的[門牌號碼]，進行[雙號過濾]，模糊比對找到 3 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "屏東縣潮州鎮彭城里1鄰彭城路125巷2號",
+      "COUNTY": "屏東縣",
+      "TOWN": "潮州鎮",
+      "VILLAGE": "彭城里",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "彭城路",
+      "SECTION": "",
+      "LANE": "125巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "2號",
+      "X": 120.551474,
+      "Y": 22.535126
+    },
+    {
+      "FULL_ADDR": "屏東縣潮州鎮彭城里3鄰彭城路176巷2號",
+      "COUNTY": "屏東縣",
+      "TOWN": "潮州鎮",
+      "VILLAGE": "彭城里",
+      "NEIGHBORHOOD": "3鄰",
+      "ROAD": "彭城路",
+      "SECTION": "",
+      "LANE": "176巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "2號",
+      "X": 120.551546,
+      "Y": 22.536207
+    },
+    {
+      "FULL_ADDR": "屏東縣潮州鎮彭城里7鄰彭城路224巷2號",
+      "COUNTY": "屏東縣",
+      "TOWN": "潮州鎮",
+      "VILLAGE": "彭城里",
+      "NEIGHBORHOOD": "7鄰",
+      "ROAD": "彭城路",
+      "SECTION": "",
+      "LANE": "224巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "2號",
+      "X": 120.550925,
+      "Y": 22.537329
+    }
+  ]
+}

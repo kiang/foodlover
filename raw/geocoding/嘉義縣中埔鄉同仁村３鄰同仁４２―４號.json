@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "嘉義縣中埔鄉同仁村３鄰同仁４２―４號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[嘉義縣]\tT:1,V:1,R:-1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:0",
+      "OutTraceInfo": "[嘉義縣]\t { 模糊比對 } (中埔鄉)\t找到符合的[鄉鎮市區]，(同仁村)\t找到符合的[村里]，(同仁四二―)\t找不到符合的[地區]，轉換搜尋找不到符合的[地區]，(4號)\t找到符合的[門牌號碼]，進行[雙號過濾]，(3鄰)\t找不到進行[忽略鄰]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "嘉義縣中埔鄉同仁村12鄰荖園仔4號",
+      "COUNTY": "嘉義縣",
+      "TOWN": "中埔鄉",
+      "VILLAGE": "同仁村",
+      "NEIGHBORHOOD": "12鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "荖園仔",
+      "NUMBER": "4號",
+      "X": 120.510780,
+      "Y": 23.413596
+    },
+    {
+      "FULL_ADDR": "嘉義縣中埔鄉同仁村16鄰柚仔宅4號",
+      "COUNTY": "嘉義縣",
+      "TOWN": "中埔鄉",
+      "VILLAGE": "同仁村",
+      "NEIGHBORHOOD": "16鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "柚仔宅",
+      "NUMBER": "4號",
+      "X": 120.504067,
+      "Y": 23.414249
+    }
+  ]
+}

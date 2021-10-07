@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺北市內湖區五分街及安康路434巷至488號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺北市]\tT:1,V:-1,R:1,S:-1,L:0,A:-1,SA:-1,T:-1,AR:0,NO:0(-386),E:-1,N:-1",
+      "OutTraceInfo": "[臺北市]\t { 模糊比對 } (內湖區)\t找到符合的[鄉鎮市區]，(五分街)\t找到符合的[路街名]，(及安康路434巷)\t找不到符合的[巷]，(至)\t找不到符合的[地區]，進行轉換搜尋[路或街變成地區名]，轉換搜尋找不到符合的[地區]，(488號)\t進行[雙號過濾]，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -386 號，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "臺北市內湖區五分里33鄰五分街102號",
+      "COUNTY": "臺北市",
+      "TOWN": "內湖區",
+      "VILLAGE": "五分里",
+      "NEIGHBORHOOD": "33鄰",
+      "ROAD": "五分街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "102號",
+      "X": 121.616874,
+      "Y": 25.066842
+    }
+  ]
+}

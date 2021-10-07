@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "南投縣魚池鄉大林村４鄰金天巷７０―３號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[南投縣]\tT:1,V:1,R:-1,S:-1,L:0,A:-1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:0",
+      "OutTraceInfo": "[南投縣]\t { 模糊比對 } (魚池鄉)\t找到符合的[鄉鎮市區]，(大林村)\t找到符合的[村里]，(金天巷)\t找不到符合的[巷]，(七0―)\t找不到符合的[地區]，轉換搜尋找不到符合的[地區]，(3號)\t找到符合的[門牌號碼]，進行[單號過濾]，(4鄰)\t找不到進行[忽略鄰]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "南投縣魚池鄉大林村11鄰嵩山巷3號",
+      "COUNTY": "南投縣",
+      "TOWN": "魚池鄉",
+      "VILLAGE": "大林村",
+      "NEIGHBORHOOD": "11鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "嵩山巷",
+      "NUMBER": "3號",
+      "X": 120.948331,
+      "Y": 23.887615
+    },
+    {
+      "FULL_ADDR": "南投縣魚池鄉大林村3鄰金天巷3號",
+      "COUNTY": "南投縣",
+      "TOWN": "魚池鄉",
+      "VILLAGE": "大林村",
+      "NEIGHBORHOOD": "3鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "金天巷",
+      "NUMBER": "3號",
+      "X": 120.943250,
+      "Y": 23.876508
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "基隆市仁愛區同風里孝一路２３巷３弄１號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[基隆市]\tT:1,V:1,R:1,S:-1,L:1,A:1,SA:-1,T:-1,AR:-1,NO:2,E:-1,N:-1",
+      "OutTraceInfo": "[基隆市]\t { 模糊比對 } (仁愛區)\t找到符合的[鄉鎮市區]，(同風里)\t找到符合的[村里]，(孝一路)\t找到符合的[路街名]，(23巷)\t找到符合的[巷]，(3弄)\t找到符合的[弄]，(1號)\t找不到符合的[門牌號碼]，進行轉換搜尋[弄視為號]，轉換搜尋找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "基隆市仁愛區同風里5鄰孝一路23巷3弄3號",
+      "COUNTY": "基隆市",
+      "TOWN": "仁愛區",
+      "VILLAGE": "同風里",
+      "NEIGHBORHOOD": "5鄰",
+      "ROAD": "孝一路",
+      "SECTION": "",
+      "LANE": "23巷",
+      "ALLEY": "3弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "3號",
+      "X": 121.739979,
+      "Y": 25.128581
+    }
+  ]
+}
