@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "臺北市萬華區環南綜合市場丙棟２樓１００９號",
+    "x": 121.497131,
+    "y": 25.0185,
+    "shops": [
+        {
+            "shop": "吳和紜",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

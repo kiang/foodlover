@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "餐食攤販",
+    "address": "臺南市北區西門路４段１７１巷２號（小北成功夜市第８排１５８、１５９號攤位）",
+    "x": 120.207922,
+    "y": 23.010567,
+    "shops": [
+        {
+            "shop": "江昇璟",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
 }

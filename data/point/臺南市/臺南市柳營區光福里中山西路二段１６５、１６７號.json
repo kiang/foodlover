@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市柳營區光福里中山西路二段１６５、１６７號１樓",
+    "x": 120.312777,
+    "y": 23.276481,
+    "shops": [
+        {
+            "shop": "佳興美食店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市沙鹿區福興里鎮南路二段２４７號１樓",
+    "x": 120.568568,
+    "y": 24.223473,
+    "shops": [
+        {
+            "shop": "善誠美食館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

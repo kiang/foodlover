@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "其他外燴及團膳承包",
+    "address": "高雄市苓雅區正言里正言路１５、１７號１樓",
+    "x": 120.329739,
+    "y": 22.630469,
+    "shops": [
+        {
+            "shop": "張家台南味麵館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

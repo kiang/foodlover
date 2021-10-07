@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "臺中市沙鹿區鹿寮里光明街３５０巷１６３號１樓",
+    "x": 120.560401,
+    "y": 24.24765,
+    "shops": [
+        {
+            "shop": "乙町翁商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

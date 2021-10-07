@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市北區文元里文賢路１０９２號１樓",
+    "x": 120.193738,
+    "y": 23.015566,
+    "shops": [
+        {
+            "shop": "玖貳號",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

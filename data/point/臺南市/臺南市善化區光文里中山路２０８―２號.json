@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺南市善化區光文里中山路２０８―２號",
+    "x": 120.306484,
+    "y": 23.133827,
+    "shops": [
+        {
+            "shop": "岑黛食堂",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

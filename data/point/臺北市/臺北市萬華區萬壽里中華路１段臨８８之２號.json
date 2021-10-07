@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺北市萬華區萬壽里中華路１段臨８８之２號",
+    "x": 121.508613,
+    "y": 25.044789,
+    "shops": [
+        {
+            "shop": "京沺屋飲料店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

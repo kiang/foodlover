@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市南區新興里西門路１段４４７號",
+    "x": 120.19738,
+    "y": 22.981134,
+    "shops": [
+        {
+            "shop": "鄉夏雪淇冰",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

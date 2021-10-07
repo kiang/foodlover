@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "便當、自助餐店",
+    "address": "臺中市大里區仁化里仁化路３９８號",
+    "x": 120.706025,
+    "y": 24.095562,
+    "shops": [
+        {
+            "shop": "大港都燒臘店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

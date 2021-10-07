@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "一卡通": true,
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺東縣卑南鄉賓朗村後湖路４８號",
+    "x": 121.086634,
+    "y": 22.813502,
+    "shops": [
+        {
+            "shop": "果珍濃實業社",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money"
 }

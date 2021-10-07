@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市沙鹿區三鹿里１０鄰向上路７段７號１樓",
+    "x": 120.56683,
+    "y": 24.203599,
+    "shops": [
+        {
+            "shop": "中二高爌肉飯",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

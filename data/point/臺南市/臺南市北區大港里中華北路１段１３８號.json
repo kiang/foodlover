@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺南市北區大港里中華北路１段１３８號１樓",
+    "x": 120.18537,
+    "y": 23.01049,
+    "shops": [
+        {
+            "shop": "普森美式早點",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

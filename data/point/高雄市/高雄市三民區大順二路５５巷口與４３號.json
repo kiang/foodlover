@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "高雄市三民區大順二路５５巷口與４３號巷口（寶雅和陽信銀行中間）",
+    "x": 120.325748,
+    "y": 22.64072,
+    "shops": [
+        {
+            "shop": "沅味巷口飯糰大順店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

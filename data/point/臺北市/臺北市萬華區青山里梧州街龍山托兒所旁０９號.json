@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "臺北市萬華區青山里梧州街龍山托兒所旁０９號",
+    "x": 121.497767,
+    "y": 25.038091,
+    "shops": [
+        {
+            "shop": "建萬０５１７號（陳中和）",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

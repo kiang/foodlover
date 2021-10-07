@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市善化區東關里中山路３７７號（第２攤））",
+    "x": 120.291606,
+    "y": 23.132187,
+    "shops": [
+        {
+            "shop": "品香海苔飯卷",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

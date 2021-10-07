@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "臺北市萬華區綠堤里環南綜合市場丙棟２樓１０１４號",
+    "x": 121.491626,
+    "y": 25.031841,
+    "shops": [
+        {
+            "shop": "陳志柱",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

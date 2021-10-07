@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市善化區光文里忠孝路３２號１樓",
+    "x": 120.303276,
+    "y": 23.13182,
+    "shops": [
+        {
+            "shop": "崧太商行",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

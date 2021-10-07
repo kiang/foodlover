@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "一卡通": true,
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市南區竹溪里健康路１段１２７號１樓",
+    "x": 120.209104,
+    "y": 22.981092,
+    "shops": [
+        {
+            "shop": "吉穎美食店",
+            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
 }

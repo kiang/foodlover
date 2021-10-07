@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺中市沙鹿區晉江里北勢東路４８０號１樓",
+    "x": 120.577303,
+    "y": 24.223638,
+    "shops": [
+        {
+            "shop": "快來好喝茶飲店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

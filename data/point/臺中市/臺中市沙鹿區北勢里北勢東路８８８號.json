@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "茶葉批發\/冰果店、冷（熱）飲店\/未分類其他食品批發",
+    "address": "臺中市沙鹿區北勢里北勢東路８８８號１樓",
+    "x": 120.567099,
+    "y": 24.229472,
+    "shops": [
+        {
+            "shop": "捌捌鹿茶業有限公司",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

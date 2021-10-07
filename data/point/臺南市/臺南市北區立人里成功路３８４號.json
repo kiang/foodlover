@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市北區立人里成功路３８４號１樓",
+    "x": 120.199929,
+    "y": 23.000305,
+    "shops": [
+        {
+            "shop": "樂源茶行",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市北區福德里育德路６０１號１樓",
+    "x": 120.207025,
+    "y": 23.016537,
+    "shops": [
+        {
+            "shop": "瑭德茶坊",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

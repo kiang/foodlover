@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "高雄市鳥松區大華里本舘路６－１號１樓",
+    "x": 120.346536,
+    "y": 22.648032,
+    "shops": [
+        {
+            "shop": "美濃粄條",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

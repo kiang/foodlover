@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺東縣鹿野鄉永安村９鄰高台路４２巷１０５弄１９號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "完全比對",
+      "OutMatchCode": "[臺東縣]\tFULL:1",
+      "OutTraceInfo": "[臺東縣]\t { 完全比對 } 找到符合的門牌地址"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "臺東縣鹿野鄉永安村9鄰高臺路42巷105弄19號",
+      "COUNTY": "臺東縣",
+      "TOWN": "鹿野鄉",
+      "VILLAGE": "永安村",
+      "NEIGHBORHOOD": "9鄰",
+      "ROAD": "高臺路",
+      "SECTION": "",
+      "LANE": "42巷",
+      "ALLEY": "105弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "19號",
+      "X": 121.121589,
+      "Y": 22.915037
+    }
+  ]
+}

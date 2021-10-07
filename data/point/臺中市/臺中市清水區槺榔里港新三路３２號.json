@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "咖啡館",
+    "address": "臺中市清水區槺榔里港新三路３２號",
+    "x": 120.541898,
+    "y": 24.26684,
+    "shops": [
+        {
+            "shop": "昔墨咖啡",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "高雄市鳳山區文德里八德路二段２８０號１樓",
+    "x": 120.351356,
+    "y": 22.644601,
+    "shops": [
+        {
+            "shop": "全紅古早味紅茶二苓分店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "臺南市北區鄭仔寮花園夜市第１８排第２８號",
+    "x": 120.208494,
+    "y": 23.001282,
+    "shops": [
+        {
+            "shop": "曾湘婷",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

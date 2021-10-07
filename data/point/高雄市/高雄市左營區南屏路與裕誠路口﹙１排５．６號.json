@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "高雄市左營區南屏路與裕誠路口﹙１排５．６號﹚",
+    "x": 120.295063,
+    "y": 22.67161,
+    "shops": [
+        {
+            "shop": "大眾餐飲",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

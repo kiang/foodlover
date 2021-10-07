@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店\/餐盒零售",
+    "address": "臺中市清水區吳厝里和睦路３段２０６號",
+    "x": 120.608633,
+    "y": 24.271556,
+    "shops": [
+        {
+            "shop": "明興快餐店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

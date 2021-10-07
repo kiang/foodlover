@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳\/冰果店、冷（熱）飲店\/咖啡館",
+    "address": "臺南市南區省躬里萬年路１６０巷６之３號",
+    "x": 120.185681,
+    "y": 22.934431,
+    "shops": [
+        {
+            "shop": "寂寞先生咖啡",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

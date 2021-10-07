@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市南區濱南路６００號",
+    "x": 120.176216,
+    "y": 22.934956,
+    "shops": [
+        {
+            "shop": "啃食漢堡",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

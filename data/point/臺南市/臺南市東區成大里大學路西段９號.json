@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "連鎖速食店\/冰果店、冷（熱）飲店",
+    "address": "臺南市東區成大里大學路西段９號１樓",
+    "x": 120.217884,
+    "y": 22.996196,
+    "shops": [
+        {
+            "shop": "必富吉企業社",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

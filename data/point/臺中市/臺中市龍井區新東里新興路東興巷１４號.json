@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺中市龍井區新東里新興路東興巷１４號１樓",
+    "x": 120.593241,
+    "y": 24.181334,
+    "shops": [
+        {
+            "shop": "樂提茶飲",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

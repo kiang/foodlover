@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市沙鹿區沙鹿里中山路３１５－１號１樓",
+    "x": 120.559842,
+    "y": 24.238505,
+    "shops": [
+        {
+            "shop": "粥氏商行",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

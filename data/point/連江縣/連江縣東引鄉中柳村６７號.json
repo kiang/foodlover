@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "菸酒零售\/餐館、餐廳",
+    "address": "連江縣東引鄉中柳村６７號",
+    "x": 120.487453,
+    "y": 26.367896,
+    "shops": [
+        {
+            "shop": "烹小鮮小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

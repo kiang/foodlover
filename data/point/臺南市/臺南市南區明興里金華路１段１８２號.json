@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "一卡通": true,
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市南區明興里金華路１段１８２號１樓",
+    "x": 120.190102,
+    "y": 22.965878,
+    "shops": [
+        {
+            "shop": "展旋企業社",
+            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
 }

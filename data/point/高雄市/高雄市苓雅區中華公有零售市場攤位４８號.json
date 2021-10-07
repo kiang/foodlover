@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "一卡通": true,
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "高雄市苓雅區中華公有零售市場攤位４８號",
+    "x": 120.320079,
+    "y": 22.620864,
+    "shops": [
+        {
+            "shop": "呂瑞祥",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money"
 }

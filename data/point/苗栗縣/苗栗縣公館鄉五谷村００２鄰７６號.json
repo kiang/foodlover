@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "未分類其他家用器具及用品零售\/冰果店、冷（熱）飲店",
+    "address": "苗栗縣公館鄉五谷村００２鄰７６號１樓",
+    "x": 120.819363,
+    "y": 24.527791,
+    "shops": [
+        {
+            "shop": "水源冷飲站",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

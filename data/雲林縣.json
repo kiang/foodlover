@@ -1810,6 +1810,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣古坑鄉永光村光華路１６０、１６２號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.563536,
+                    23.615203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣古坑鄉永昌村光昌路２４７號",
                 "pay_list": "街口支付\/一卡通\/LINE Pay Money"
             },
@@ -2244,6 +2258,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣四湖鄉萡東村萡子寮１８３號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.151368,
+                    23.626933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣四湖鄉湖西村１１鄰中正路３６６號",
                 "pay_list": "台灣 PAY"
             },
@@ -2496,6 +2524,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣崙背鄉東明村正義路２８１─１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.357521,
+                    23.761049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣崙背鄉豐榮村０１４鄰３２８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308166,
+                    23.793899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣崙背鄉南陽村１５鄰仁愛街４２－３號",
                 "pay_list": "台灣 PAY"
             },
@@ -2678,6 +2734,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣斗六市成功里成功一街１５，１７號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.549615,
+                    23.70524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣斗六市鎮東里文化路５３號",
                 "pay_list": "LINE Pay Money"
             },
@@ -2734,6 +2804,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣斗六市鎮南里中山路臨時攤販市場雲林溪攤販７３號",
+                "pay_list": "一卡通\/LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538096,
+                    23.696649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣斗六市四維里太平路１１９號",
                 "pay_list": "一卡通"
             },
@@ -2742,6 +2826,20 @@
                 "coordinates": [
                     120.54197669959,
                     23.708545726416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市鎮南里１５鄰民生南路２３１、２３３號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.537128,
+                    23.698613
                 ]
             }
         },
@@ -2854,6 +2952,20 @@
                 "coordinates": [
                     120.55634638935,
                     23.711823123105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市鎮西里中堅西路２２２．２２２之１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.531546,
+                    23.702749
                 ]
             }
         },
@@ -3112,6 +3224,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣斗六市社口里大學路二段５９８、６００號",
+                "pay_list": "一卡通\/愛金卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.542257,
+                    23.698138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣斗六市公誠里上海路２２８號",
                 "pay_list": "台灣 PAY"
             },
@@ -3148,6 +3274,20 @@
                 "coordinates": [
                     120.56602190479,
                     23.744882569841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市中和里雲中街９巷１２，１４號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.539689,
+                    23.708024
                 ]
             }
         },
@@ -4246,6 +4386,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣斗六市成功里成功三街１２號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.550708,
+                    23.704995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣斗六市龍潭里龍潭路１之５０號",
                 "pay_list": "LINE Pay Money"
             },
@@ -4302,6 +4456,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣斗六市鎮南里中山路４２０、４２２號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.537702,
+                    23.697044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣斗六市信義里鎮北路４０號",
                 "pay_list": "LINE Pay Money"
             },
@@ -4324,6 +4492,20 @@
                 "coordinates": [
                     120.53565624708,
                     23.700583805186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市社口里社口街２６１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.544231,
+                    23.700254
                 ]
             }
         },
@@ -6150,6 +6332,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣虎尾鎮西安里林森路二段１５９．１６１號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.42598,
+                    23.700493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣虎尾鎮西安里林森路二段１２５號",
                 "pay_list": "台灣 PAY"
             },
@@ -6466,6 +6662,20 @@
                 "coordinates": [
                     120.43761287632,
                     23.709248546324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣虎尾鎮東仁里００１鄰光復路３４８和３４８―１號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.444515,
+                    23.709719
                 ]
             }
         },
@@ -7788,6 +7998,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣西螺鎮中和里歷史建築西螺東市場暨公有第二零售市場Ｂ區編號",
+                "pay_list": "一卡通\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.463314,
+                    23.80125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣西螺鎮廣福里中山路９３號",
                 "pay_list": "LINE Pay Money"
             },
@@ -7928,6 +8152,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣麥寮鄉麥豐村新興路橫街巷２１之１１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.251125,
+                    23.745989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣麥寮鄉麥津村１７鄰中興路６３號",
                 "pay_list": "街口支付"
             },
@@ -8062,6 +8300,20 @@
                 "coordinates": [
                     120.25190275936,
                     23.751945263358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣麥寮鄉麥豐村新興路橫街巷６０號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.25275,
+                    23.74785
                 ]
             }
         },

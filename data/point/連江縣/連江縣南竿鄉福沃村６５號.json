@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店\/菸酒零售",
+    "address": "連江縣南竿鄉福沃村６５號",
+    "x": 119.944238,
+    "y": 26.157731,
+    "shops": [
+        {
+            "shop": "活力早餐",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

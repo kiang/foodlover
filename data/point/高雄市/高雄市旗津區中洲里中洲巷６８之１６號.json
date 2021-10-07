@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "未分類其他食品、飲料及菸草製品零售\/水產品零售\/飲料零售\/餐館、餐廳",
+    "address": "高雄市旗津區中洲里中洲巷６８之１６號",
+    "x": 120.298937,
+    "y": 22.575267,
+    "shops": [
+        {
+            "shop": "海濱飲食店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

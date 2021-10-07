@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺東縣金峰鄉正興村１鄰正興路２號",
+    "x": 120.998741,
+    "y": 22.604299,
+    "shops": [
+        {
+            "shop": "嘉興小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

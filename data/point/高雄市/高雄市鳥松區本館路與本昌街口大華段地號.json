@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "高雄市鳥松區本館路與本昌街口大華段地號５７",
+    "x": 120.346725,
+    "y": 22.647413,
+    "shops": [
+        {
+            "shop": "吉禧素食",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

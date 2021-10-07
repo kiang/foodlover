@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "便當、自助餐店",
+    "address": "臺北市南港區玉成里八德路四段７８８―１號",
+    "x": 121.580098,
+    "y": 25.050765,
+    "shops": [
+        {
+            "shop": "弁當工場股份有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

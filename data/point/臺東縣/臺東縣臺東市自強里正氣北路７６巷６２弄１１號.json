@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "民宿\/餐館、餐廳\/咖啡館",
+    "address": "臺東縣臺東市自強里正氣北路７６巷６２弄１１號",
+    "x": 121.139458,
+    "y": 22.75849,
+    "shops": [
+        {
+            "shop": "伊亞咖啡館",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

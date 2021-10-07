@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "飲料零售\/麵店、小吃店",
+    "address": "苗栗縣苗栗市福麗里３６鄰民族路１５１、１５３號１樓",
+    "x": 120.811828,
+    "y": 24.564744,
+    "shops": [
+        {
+            "shop": "元山小館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

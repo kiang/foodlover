@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "臺北市萬華區廣州街仁濟醫院２４３號前（Ｍ－０５５）",
+    "x": 121.498,
+    "y": 25.036867,
+    "shops": [
+        {
+            "shop": "廖學勇",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

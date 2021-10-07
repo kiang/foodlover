@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市梧棲區中和里６鄰文化路２段２０５號",
+    "x": 120.531118,
+    "y": 24.256684,
+    "shops": [
+        {
+            "shop": "集文小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "民宿\/餐館、餐廳",
+    "address": "連江縣北竿鄉芹壁村５４號",
+    "x": 119.982316,
+    "y": 26.224107,
+    "shops": [
+        {
+            "shop": "芹壁愛情海",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

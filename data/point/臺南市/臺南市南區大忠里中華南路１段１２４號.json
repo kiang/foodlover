@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺南市南區大忠里中華南路１段１２４號",
+    "x": 120.212185,
+    "y": 22.971283,
+    "shops": [
+        {
+            "shop": "良晨美食餐館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,6 +1,17 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "臺北市大同區寧夏路臨時攤販集中場編號第１１３號",
+    "x": 121.515187,
+    "y": 25.054417,
+    "shops": [
+        {
+            "shop": "蘇王玉珠",
+            "pay_list": "街口支付"
+        },
+        {
+            "shop": "攤販─蘇皇心",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

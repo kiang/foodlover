@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市南區金華路２段４４９號１樓",
+    "x": 120.191839,
+    "y": 22.987866,
+    "shops": [
+        {
+            "shop": "甘樂茶葉行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

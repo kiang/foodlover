@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市善化區光文里民生路３６６號１樓",
+    "x": 120.297146,
+    "y": 23.130447,
+    "shops": [
+        {
+            "shop": "善成商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

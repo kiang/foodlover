@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "未分類其他食品、飲料及菸草製品零售\/麵店、小吃店",
+    "address": "高雄市橋頭區東林里興樹路成功巷３５號",
+    "x": 120.299242,
+    "y": 22.76387,
+    "shops": [
+        {
+            "shop": "水流莊牧場",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

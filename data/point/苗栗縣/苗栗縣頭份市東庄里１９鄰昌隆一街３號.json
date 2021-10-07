@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "咖啡館",
+    "address": "苗栗縣頭份市東庄里１９鄰昌隆一街３號",
+    "x": 120.899818,
+    "y": 24.687546,
+    "shops": [
+        {
+            "shop": "耶比精品咖啡",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

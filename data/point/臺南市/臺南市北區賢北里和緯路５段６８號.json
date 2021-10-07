@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市北區賢北里和緯路５段６８號",
+    "x": 120.184313,
+    "y": 23.006177,
+    "shops": [
+        {
+            "shop": "加倍桔茶飲便利商店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

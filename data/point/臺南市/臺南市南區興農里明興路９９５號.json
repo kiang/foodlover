@@ -1,8 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "一卡通": true,
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市南區興農里明興路９９５號１樓",
+    "x": 120.18322,
+    "y": 22.931464,
+    "shops": [
+        {
+            "shop": "火城麵店",
+            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
 }

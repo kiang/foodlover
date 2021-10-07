@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "苗栗縣通霄鎮白東里００５鄰３１號１樓",
+    "x": 120.710112,
+    "y": 24.570969,
+    "shops": [
+        {
+            "shop": "勇心食品商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店\/青草零售",
+    "address": "臺南市北區立人里成功路５６８號１樓",
+    "x": 120.195713,
+    "y": 23.001778,
+    "shops": [
+        {
+            "shop": "元帥茶行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

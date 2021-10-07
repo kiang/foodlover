@@ -1,6 +1,17 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "企業總管理機構\/餐館、餐廳",
+    "address": "臺南市南區開南里新建路４７號２樓",
+    "x": 120.185539,
+    "y": 22.966999,
+    "shops": [
+        {
+            "shop": "夏都國際開發股份有限公司城緻城悅分公司",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "夏都國際開發股份有限公司城食百匯分公司",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

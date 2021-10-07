@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "咖啡館",
+    "address": "臺南市善化區光文里民權路３７－１號１樓",
+    "x": 120.303822,
+    "y": 23.131983,
+    "shops": [
+        {
+            "shop": "恆萃咖啡",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "商業設計\/冰果店、冷（熱）飲店",
+    "address": "臺南市南區西門路２段２２２號",
+    "x": 120.197861,
+    "y": 22.974567,
+    "shops": [
+        {
+            "shop": "港南台商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

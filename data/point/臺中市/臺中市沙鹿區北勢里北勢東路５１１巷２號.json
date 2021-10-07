@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "咖啡館",
+    "address": "臺中市沙鹿區北勢里北勢東路５１１巷２號１樓",
+    "x": 120.575753,
+    "y": 24.22532,
+    "shops": [
+        {
+            "shop": "練勤堂",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

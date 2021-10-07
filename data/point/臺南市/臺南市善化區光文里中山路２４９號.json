@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市善化區光文里中山路２４９號１樓",
+    "x": 120.297203,
+    "y": 23.132102,
+    "shops": [
+        {
+            "shop": "馥總商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

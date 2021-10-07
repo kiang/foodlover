@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市善化區蓮潭里陽光大道１９５號１樓",
+    "x": 120.306884,
+    "y": 23.111242,
+    "shops": [
+        {
+            "shop": "古帆商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

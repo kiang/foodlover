@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "飲料零售\/旅館\/餐館、餐廳",
+    "address": "高雄市苓雅區城西里中華四路７１及７５號",
+    "x": 120.301347,
+    "y": 22.614508,
+    "shops": [
+        {
+            "shop": "陽光大飯店股份有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

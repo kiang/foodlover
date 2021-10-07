@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "臺南市北區成德里西門路４段１０１號",
+    "x": 120.206485,
+    "y": 23.008043,
+    "shops": [
+        {
+            "shop": "小康??魠魚??（府城攤販集中場Ａ５８、Ａ５９號）",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

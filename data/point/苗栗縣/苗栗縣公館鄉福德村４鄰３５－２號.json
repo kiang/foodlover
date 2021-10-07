@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "冰果店、冷（熱）飲店\/餐館、餐廳",
+    "address": "苗栗縣公館鄉福德村４鄰３５－２號前面",
+    "x": 120.856211,
+    "y": 24.477302,
+    "shops": [
+        {
+            "shop": "樹葡萄",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
 }

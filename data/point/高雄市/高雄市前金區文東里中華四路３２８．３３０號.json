@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "高雄市前金區文東里中華四路３２８．３３０號一樓",
+    "x": 120.2992,
+    "y": 22.621407,
+    "shops": [
+        {
+            "shop": "苡勝小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

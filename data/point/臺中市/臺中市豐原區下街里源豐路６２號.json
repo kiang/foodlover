@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市豐原區下街里源豐路６２號１樓",
+    "x": 120.716116,
+    "y": 24.252586,
+    "shops": [
+        {
+            "shop": "味坊企業社",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

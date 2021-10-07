@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺南市南區喜東里喜樂路７號１樓",
+    "x": 120.18059,
+    "y": 22.938761,
+    "shops": [
+        {
+            "shop": "孫崑展早餐店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

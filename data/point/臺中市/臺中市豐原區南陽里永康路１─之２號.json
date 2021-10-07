@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺中市豐原區南陽里永康路１─之２號１樓",
+    "x": 120.72694,
+    "y": 24.243618,
+    "shops": [
+        {
+            "shop": "好冰友餐飲店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

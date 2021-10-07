@@ -1,5 +1,25 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "臺北市大同區星明里寧夏路臨時攤販集中場編號第０５８號",
+    "x": 121.515187,
+    "y": 25.054417,
+    "shops": [
+        {
+            "shop": "攤販─蔡志能",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "攤販─蕭玉玲",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "攤販─張月華",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "攤販─方俊凱",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

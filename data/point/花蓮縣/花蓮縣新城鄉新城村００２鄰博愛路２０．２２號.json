@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "花蓮縣新城鄉新城村００２鄰博愛路２０．２２號",
+    "x": 121.649788,
+    "y": 24.128437,
+    "shops": [
+        {
+            "shop": "佳興餐飲有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

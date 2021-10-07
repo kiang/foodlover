@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市善化區東關里中興路１２３號",
+    "x": 120.291081,
+    "y": 23.131516,
+    "shops": [
+        {
+            "shop": "善化馮紅豆餅",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

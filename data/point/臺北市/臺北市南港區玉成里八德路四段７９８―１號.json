@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "未分類其他食品、飲料及菸草製品零售\/餐館、餐廳",
+    "address": "臺北市南港區玉成里八德路四段７９８―１號",
+    "x": 121.580098,
+    "y": 25.050765,
+    "shops": [
+        {
+            "shop": "福運燒肉割包店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

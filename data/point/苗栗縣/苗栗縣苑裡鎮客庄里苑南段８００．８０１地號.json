@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "苗栗縣苑裡鎮客庄里苑南段８００．８０１地號",
+    "x": 120.653077,
+    "y": 24.439381,
+    "shops": [
+        {
+            "shop": "鈞芮餐飲",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

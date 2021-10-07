@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店\/餐館、餐廳",
+    "address": "花蓮縣吉安鄉慶豐村慶南３街２４２之１號１樓",
+    "x": 121.567113,
+    "y": 23.977699,
+    "shops": [
+        {
+            "shop": "草緣齋工作室",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

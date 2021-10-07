@@ -1,6 +1,17 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "臺南市南區新興里夏林路１４３號１樓",
+    "x": 120.195353,
+    "y": 22.980637,
+    "shops": [
+        {
+            "shop": "炒香米飯小吃店",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "魚漿遇見肉小吃店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市北區成功里北安路１段９２號１樓",
+    "x": 120.210481,
+    "y": 23.016696,
+    "shops": [
+        {
+            "shop": "東星茶行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

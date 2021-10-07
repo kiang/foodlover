@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市西屯區上石里２０９７地號",
+    "x": 120.643,
+    "y": 24.172547,
+    "shops": [
+        {
+            "shop": "壹柒串燒酒場",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "飲料零售\/餐館、餐廳",
+    "address": "連江縣東引鄉樂華村１２１號",
+    "x": 120.488433,
+    "y": 26.367422,
+    "shops": [
+        {
+            "shop": "頂紅風味小火鍋",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

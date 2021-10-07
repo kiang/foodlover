@@ -1,8 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "一卡通": true,
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺中市北區新興里太平路６３巷１號１樓",
+    "x": 120.684413,
+    "y": 24.147518,
+    "shops": [
+        {
+            "shop": "四季樂飲飲料店",
+            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
 }

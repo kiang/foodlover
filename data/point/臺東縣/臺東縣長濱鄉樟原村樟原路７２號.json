@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "餐館、餐廳\/未分類其他食品、飲料及菸草製品零售\/視唱中心（ＫＴＶ）",
+    "address": "臺東縣長濱鄉樟原村樟原路７２號",
+    "x": 121.429045,
+    "y": 23.401797,
+    "shops": [
+        {
+            "shop": "大蜜蜂小吃店",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
 }

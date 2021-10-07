@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "青草零售\/餐館、餐廳\/未分類其他住宿",
+    "address": "臺東縣太麻里鄉大王村１７鄰佳崙路２９２號",
+    "x": 120.959968,
+    "y": 22.645071,
+    "shops": [
+        {
+            "shop": "環山雅築民宿",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

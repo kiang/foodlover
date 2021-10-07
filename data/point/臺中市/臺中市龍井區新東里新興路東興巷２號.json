@@ -1,6 +1,17 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺中市龍井區新東里新興路東興巷２號１樓",
+    "x": 120.592905,
+    "y": 24.181493,
+    "shops": [
+        {
+            "shop": "花茶大師",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        },
+        {
+            "shop": "森園餐飲有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
 }

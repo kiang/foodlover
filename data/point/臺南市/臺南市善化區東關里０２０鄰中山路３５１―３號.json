@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市善化區東關里０２０鄰中山路３５１―３號１樓",
+    "x": 120.293539,
+    "y": 23.131996,
+    "shops": [
+        {
+            "shop": "佳恩行",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

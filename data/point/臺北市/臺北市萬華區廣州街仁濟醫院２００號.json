@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "臺北市萬華區廣州街仁濟醫院２００號前（Ｍ１０１）",
+    "x": 121.497896,
+    "y": 25.036677,
+    "shops": [
+        {
+            "shop": "陳姿妤",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺南市善化區東關里大同路３６８號１樓",
+    "x": 120.290702,
+    "y": 23.131167,
+    "shops": [
+        {
+            "shop": "萬家津早餐店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,8 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "一卡通": true,
-        "LINE Pay Money": true,
-        "愛金卡": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市善化區坐駕里中正路４５２號１樓",
+    "x": 120.294037,
+    "y": 23.131059,
+    "shops": [
+        {
+            "shop": "品聚餐飲",
+            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money \/ 愛金卡"
+        }
+    ],
+    "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/愛金卡"
 }

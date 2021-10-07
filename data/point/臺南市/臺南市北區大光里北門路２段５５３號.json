@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "未分類其他綜合商品零售\/冰果店、冷（熱）飲店",
+    "address": "臺南市北區大光里北門路２段５５３號１樓",
+    "x": 120.21619,
+    "y": 23.010892,
+    "shops": [
+        {
+            "shop": "億品茶企業社",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

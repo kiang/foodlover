@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市南區松安里灣裡路２８４號１樓",
+    "x": 120.182102,
+    "y": 22.926714,
+    "shops": [
+        {
+            "shop": "金鉅實業社",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

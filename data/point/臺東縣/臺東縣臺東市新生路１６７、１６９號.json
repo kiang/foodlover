@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "不動產租賃\/旅館\/餐館、餐廳\/進口菸酒批發",
+    "address": "臺東縣臺東市新生路１６７、１６９號",
+    "x": 121.133532,
+    "y": 22.765889,
+    "shops": [
+        {
+            "shop": "承泰國際投資股份有限公司台東分公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

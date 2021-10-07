@@ -1,5 +1,17 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市沙鹿區鹿寮里錦華街７９巷１８號１樓",
+    "x": 120.563548,
+    "y": 24.250461,
+    "shops": [
+        {
+            "shop": "烤家大院商行",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "粥公濟食品",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

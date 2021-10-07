@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "菸酒零售\/餐食攤販\/調理飲料攤販",
+    "address": "臺南市北區東興里小東路１５３號１樓",
+    "x": 120.226864,
+    "y": 23.000457,
+    "shops": [
+        {
+            "shop": "巴人川味重慶江湖菜",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

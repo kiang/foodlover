@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "臺中市沙鹿區鹿寮里成功東街５０號１樓",
+    "x": 120.562702,
+    "y": 24.242142,
+    "shops": [
+        {
+            "shop": "晴記蘭州拉麵店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

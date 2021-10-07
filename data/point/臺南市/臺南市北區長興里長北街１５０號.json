@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店\/麵店、小吃店",
+    "address": "臺南市北區長興里長北街１５０號旁",
+    "x": 120.204976,
+    "y": 23.00318,
+    "shops": [
+        {
+            "shop": "葉籽冷飲",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

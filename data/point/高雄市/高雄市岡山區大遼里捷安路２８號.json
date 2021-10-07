@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "未分類其他食品、飲料及菸草製品零售\/菸酒零售\/餐館、餐廳\/視唱中心（ＫＴＶ）",
+    "address": "高雄市岡山區大遼里捷安路２８號",
+    "x": 120.300576,
+    "y": 22.782059,
+    "shops": [
+        {
+            "shop": "合溫馨企業股份有限公司岡山分公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

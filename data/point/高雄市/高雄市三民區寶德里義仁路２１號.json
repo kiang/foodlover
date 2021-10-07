@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "高雄市三民區寶德里義仁路２１號對面",
+    "x": 120.33437,
+    "y": 22.642572,
+    "shops": [
+        {
+            "shop": "義仁街臨時黃昏市場",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

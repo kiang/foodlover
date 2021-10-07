@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市善化區光文里中山路２１４號１樓",
+    "x": 120.29929,
+    "y": 23.132615,
+    "shops": [
+        {
+            "shop": "明捷紅茶行",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

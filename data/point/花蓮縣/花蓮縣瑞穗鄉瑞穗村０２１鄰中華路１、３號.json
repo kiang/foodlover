@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "花蓮縣瑞穗鄉瑞穗村０２１鄰中華路１、３號１樓",
+    "x": 121.377941,
+    "y": 23.498221,
+    "shops": [
+        {
+            "shop": "波波餃食堂",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

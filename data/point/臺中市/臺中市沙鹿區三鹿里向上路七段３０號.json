@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市沙鹿區三鹿里向上路七段３０號",
+    "x": 120.565976,
+    "y": 24.205051,
+    "shops": [
+        {
+            "shop": "每壹粥商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

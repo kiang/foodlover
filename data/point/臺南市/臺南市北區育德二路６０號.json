@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市北區育德二路６０號路旁",
+    "x": 120.202715,
+    "y": 23.008092,
+    "shops": [
+        {
+            "shop": "香甜豆花",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

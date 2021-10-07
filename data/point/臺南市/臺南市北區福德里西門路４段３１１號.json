@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市北區福德里西門路４段３１１號１樓",
+    "x": 120.209408,
+    "y": 23.014111,
+    "shops": [
+        {
+            "shop": "瑪谷多元技術服務行",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

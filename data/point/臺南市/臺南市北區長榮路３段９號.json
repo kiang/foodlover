@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市北區長榮路３段９號",
+    "x": 120.220592,
+    "y": 23.007968,
+    "shops": [
+        {
+            "shop": "余家刀切麵",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
 }

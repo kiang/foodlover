@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺中市沙鹿區竹林里２６鄰光華路５２８號",
+    "x": 120.570392,
+    "y": 24.243341,
+    "shops": [
+        {
+            "shop": "小伊甸",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

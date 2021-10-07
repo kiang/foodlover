@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "水產品零售\/麵店、小吃店",
+    "address": "臺南市北門區三光里０１６鄰蘆竹溝３４３號",
+    "x": 120.097041,
+    "y": 23.232809,
+    "shops": [
+        {
+            "shop": "北門蚵記仁外燴",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

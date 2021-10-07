@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市沙鹿區洛泉里和平街１號",
+    "x": 120.560959,
+    "y": 24.23797,
+    "shops": [
+        {
+            "shop": "吳記煎包店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

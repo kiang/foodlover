@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市南區府南里金華路１段５２２號",
+    "x": 120.190963,
+    "y": 22.973922,
+    "shops": [
+        {
+            "shop": "兄弟仔肉燥飯",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

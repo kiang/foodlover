@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市北區文元里文賢路１１０８號１樓",
+    "x": 120.193668,
+    "y": 23.015968,
+    "shops": [
+        {
+            "shop": "四葉草古早味紅茶",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

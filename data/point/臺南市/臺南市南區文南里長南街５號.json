@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市南區文南里長南街５號１樓",
+    "x": 120.191012,
+    "y": 22.982748,
+    "shops": [
+        {
+            "shop": "蓁愛玉手作坊",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

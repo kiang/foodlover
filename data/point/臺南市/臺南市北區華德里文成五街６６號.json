@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "未分類其他食品、飲料及菸草製品零售\/未分類其他個人服務\/咖啡館",
+    "address": "臺南市北區華德里文成五街６６號１樓",
+    "x": 120.204995,
+    "y": 23.018909,
+    "shops": [
+        {
+            "shop": "九杯精品咖啡有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

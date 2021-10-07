@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "臺中市沙鹿區鹿寮里光榮街８１號２樓",
+    "x": 120.564471,
+    "y": 24.242933,
+    "shops": [
+        {
+            "shop": "旬之藏餐飲店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

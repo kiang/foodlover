@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺中市東區新庄里大勇街１２號１樓",
+    "x": 120.686905,
+    "y": 24.135629,
+    "shops": [
+        {
+            "shop": "米登丸口早午餐店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

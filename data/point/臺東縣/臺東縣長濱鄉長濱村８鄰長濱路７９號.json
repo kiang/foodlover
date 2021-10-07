@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺東縣長濱鄉長濱村８鄰長濱路７９號",
+    "x": 121.455575,
+    "y": 23.317612,
+    "shops": [
+        {
+            "shop": "柏園美加美店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

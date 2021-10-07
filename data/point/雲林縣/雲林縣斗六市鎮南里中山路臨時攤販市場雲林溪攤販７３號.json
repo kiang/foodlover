@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "一卡通": true,
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "麵店、小吃店",
+    "address": "雲林縣斗六市鎮南里中山路臨時攤販市場雲林溪攤販７３號",
+    "x": 120.538096,
+    "y": 23.696649,
+    "shops": [
+        {
+            "shop": "星城圓",
+            "pay_list": "一卡通 \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money\/街口支付"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店\/冰果店、冷（熱）飲店",
+    "address": "臺南市北區振興里林森路３段１８５號１樓",
+    "x": 120.224071,
+    "y": 23.006951,
+    "shops": [
+        {
+            "shop": "金三益健康茶飲",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

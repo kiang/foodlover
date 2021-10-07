@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市南區鹽埕里金華路一段５１７號",
+    "x": 120.190817,
+    "y": 22.974899,
+    "shops": [
+        {
+            "shop": "私御藏茶飲",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

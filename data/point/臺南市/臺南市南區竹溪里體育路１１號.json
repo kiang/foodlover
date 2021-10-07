@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市南區竹溪里體育路１１號１樓",
+    "x": 120.207209,
+    "y": 22.980937,
+    "shops": [
+        {
+            "shop": "富裕晟商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

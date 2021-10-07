@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "雲林縣斗六市鎮西里中堅西路２２２．２２２之１號",
+    "x": 120.531546,
+    "y": 23.702749,
+    "shops": [
+        {
+            "shop": "斗六鍋物店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

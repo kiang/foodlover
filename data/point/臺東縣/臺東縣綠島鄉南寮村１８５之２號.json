@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺東縣綠島鄉南寮村１８５之２號",
+    "x": 121.467588,
+    "y": 22.669664,
+    "shops": [
+        {
+            "shop": "玖伍壹冷飲店",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

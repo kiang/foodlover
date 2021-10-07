@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "咖啡館",
+    "address": "臺中市沙鹿區洛泉里中山路１６３號１樓",
+    "x": 120.56574,
+    "y": 24.236971,
+    "shops": [
+        {
+            "shop": "王甲咖啡",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

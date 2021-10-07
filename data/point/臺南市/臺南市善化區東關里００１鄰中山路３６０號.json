@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "飲料零售\/冰果店、冷（熱）飲店",
+    "address": "臺南市善化區東關里００１鄰中山路３６０號１樓",
+    "x": 120.293121,
+    "y": 23.13227,
+    "shops": [
+        {
+            "shop": "海格芮有限公司",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

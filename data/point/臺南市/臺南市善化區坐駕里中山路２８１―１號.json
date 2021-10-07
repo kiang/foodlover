@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "連鎖速食店",
+    "address": "臺南市善化區坐駕里中山路２８１―１號１樓",
+    "x": 120.29621,
+    "y": 23.131938,
+    "shops": [
+        {
+            "shop": "嘉美樂食品行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

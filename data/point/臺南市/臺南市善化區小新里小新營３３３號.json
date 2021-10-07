@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店\/冰果店、冷（熱）飲店",
+    "address": "臺南市善化區小新里小新營３３３號１樓",
+    "x": 120.318291,
+    "y": 23.125896,
+    "shops": [
+        {
+            "shop": "三三三工作室",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

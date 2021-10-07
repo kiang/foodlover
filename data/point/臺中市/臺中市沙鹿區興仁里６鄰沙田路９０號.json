@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市沙鹿區興仁里６鄰沙田路９０號１樓",
+    "x": 120.558905,
+    "y": 24.234233,
+    "shops": [
+        {
+            "shop": "吉田小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

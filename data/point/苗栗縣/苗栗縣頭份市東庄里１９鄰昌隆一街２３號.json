@@ -1,9 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true,
-        "愛金卡": true,
-        "街口支付": true,
-        "一卡通": true
-    }
+    "name": "早餐店",
+    "address": "苗栗縣頭份市東庄里１９鄰昌隆一街２３號１樓",
+    "x": 120.898478,
+    "y": 24.687417,
+    "shops": [
+        {
+            "shop": "品媞漢堡商店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 愛金卡 \/ 街口支付 \/ 一卡通"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
 }

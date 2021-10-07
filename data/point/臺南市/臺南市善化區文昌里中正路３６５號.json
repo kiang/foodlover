@@ -1,7 +1,17 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true,
-        "一卡通": true
-    }
+    "name": "未分類其他食品、飲料及菸草製品零售\/冰果店、冷（熱）飲店",
+    "address": "臺南市善化區文昌里中正路３６５號、３６７號",
+    "x": 120.293923,
+    "y": 23.127143,
+    "shops": [
+        {
+            "shop": "瓏華商行",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "飛得盈企業有限公司",
+            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/一卡通"
 }

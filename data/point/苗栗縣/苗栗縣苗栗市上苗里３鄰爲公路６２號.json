@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "苗栗縣苗栗市上苗里３鄰爲公路６２號１樓",
+    "x": 120.824166,
+    "y": 24.569842,
+    "shops": [
+        {
+            "shop": "八方雲集為公店",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

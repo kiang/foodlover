@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺中市沙鹿區鹿寮里光華路４０２―１號１樓",
+    "x": 120.564715,
+    "y": 24.241074,
+    "shops": [
+        {
+            "shop": "仰辰早午餐",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

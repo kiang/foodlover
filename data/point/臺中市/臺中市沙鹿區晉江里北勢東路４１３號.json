@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺中市沙鹿區晉江里北勢東路４１３號",
+    "x": 120.578013,
+    "y": 24.222078,
+    "shops": [
+        {
+            "shop": "晨日炭佐商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

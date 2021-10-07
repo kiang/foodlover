@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "觀光旅館\/餐館、餐廳",
+    "address": "臺北市中山區正得里林森北路７４丶７６號",
+    "x": 121.524576,
+    "y": 25.049605,
+    "shops": [
+        {
+            "shop": "柯達大飯店股份有限公司林森分公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

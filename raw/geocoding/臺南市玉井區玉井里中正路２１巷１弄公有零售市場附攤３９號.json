@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺南市玉井區玉井里中正路２１巷１弄公有零售市場附攤３９號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺南市]\tT:1,V:1,R:1,S:-1,L:1,A:0,SA:-1,T:-1,AR:0,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[臺南市]\t { 模糊比對 } (玉井區)\t找到符合的[鄉鎮市區]，(玉井里)\t找到符合的[村里]，(中正路)\t找到符合的[路街名]，(21巷)\t找到符合的[巷]，(1弄)\t找不到符合的[弄]，(公有零售市場附攤)\t找不到符合的[地區]，進行轉換搜尋[路或街變成地區名]，轉換搜尋找不到符合的[地區]，(39號)\t找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "臺南市玉井區玉井里1鄰中正路21巷39號",
+      "COUNTY": "臺南市",
+      "TOWN": "玉井區",
+      "VILLAGE": "玉井里",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "中正路",
+      "SECTION": "",
+      "LANE": "21巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "39號",
+      "X": 120.459543,
+      "Y": 23.123570
+    }
+  ]
+}

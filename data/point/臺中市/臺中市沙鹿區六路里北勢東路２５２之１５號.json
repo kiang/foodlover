@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市沙鹿區六路里北勢東路２５２之１５號１樓",
+    "x": 120.58023,
+    "y": 24.213315,
+    "shops": [
+        {
+            "shop": "明頌企業社",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

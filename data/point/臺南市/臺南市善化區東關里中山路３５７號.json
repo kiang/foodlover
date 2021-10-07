@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市善化區東關里中山路３５７號１樓",
+    "x": 120.292692,
+    "y": 23.1321,
+    "shops": [
+        {
+            "shop": "宥品商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

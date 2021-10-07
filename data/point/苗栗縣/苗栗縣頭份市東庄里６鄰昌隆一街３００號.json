@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "苗栗縣頭份市東庄里６鄰昌隆一街３００號１樓",
+    "x": 120.896413,
+    "y": 24.687411,
+    "shops": [
+        {
+            "shop": "好日日餐飲事業有限公司",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

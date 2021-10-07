@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "臺北市中正區水源市場１樓５４號",
+    "x": 121.51205,
+    "y": 25.042182,
+    "shops": [
+        {
+            "shop": "公館米粉湯",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺中市豐原區東湳里豐科路９７５號",
+    "x": 120.728043,
+    "y": 24.275162,
+    "shops": [
+        {
+            "shop": "告白咖啡館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

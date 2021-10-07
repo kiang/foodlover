@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "民宿\/菸酒零售\/其他管理顧問服務\/飲酒店",
+    "address": "連江縣南竿鄉福沃村５１號",
+    "x": 119.944602,
+    "y": 26.157968,
+    "shops": [
+        {
+            "shop": "白日夢花園海景民宿",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

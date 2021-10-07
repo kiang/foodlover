@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市善化區坐駕里中正路３８６－２號１樓",
+    "x": 120.294085,
+    "y": 23.129422,
+    "shops": [
+        {
+            "shop": "成弘商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

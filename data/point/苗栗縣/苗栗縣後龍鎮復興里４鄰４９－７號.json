@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "麵店、小吃店",
+    "address": "苗栗縣後龍鎮復興里４鄰４９－７號",
+    "x": 120.814577,
+    "y": 24.611965,
+    "shops": [
+        {
+            "shop": "東陽担仔麵",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
 }

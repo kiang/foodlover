@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "經營網路購物\/餐食攤販",
+    "address": "臺南市北區北園街８７巷１號",
+    "x": 120.22292,
+    "y": 23.010439,
+    "shops": [
+        {
+            "shop": "李伊涵",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

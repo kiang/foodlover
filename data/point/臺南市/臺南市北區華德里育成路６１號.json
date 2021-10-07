@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "脫水蔬果零售\/水果零售\/冰果店、冷（熱）飲店",
+    "address": "臺南市北區華德里育成路６１號１樓",
+    "x": 120.208877,
+    "y": 23.016786,
+    "shops": [
+        {
+            "shop": "盛通泰農產商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

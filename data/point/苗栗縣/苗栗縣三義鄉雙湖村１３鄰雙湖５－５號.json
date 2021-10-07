@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "餐館、餐廳",
+    "address": "苗栗縣三義鄉雙湖村１３鄰雙湖５－５號１樓",
+    "x": 120.773478,
+    "y": 24.418749,
+    "shops": [
+        {
+            "shop": "蒸烹派客家美食",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

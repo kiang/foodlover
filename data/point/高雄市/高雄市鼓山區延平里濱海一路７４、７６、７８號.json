@@ -1,5 +1,17 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "高雄市鼓山區延平里濱海一路７４、７６、７８號",
+    "x": 120.270993,
+    "y": 22.619927,
+    "shops": [
+        {
+            "shop": "海之冰冷飲店",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "渡船頭冷飲店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

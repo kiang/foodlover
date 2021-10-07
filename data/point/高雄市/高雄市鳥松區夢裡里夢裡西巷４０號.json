@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "高雄市鳥松區夢裡里夢裡西巷４０號１樓",
+    "x": 120.357345,
+    "y": 22.667619,
+    "shops": [
+        {
+            "shop": "如新企業社",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

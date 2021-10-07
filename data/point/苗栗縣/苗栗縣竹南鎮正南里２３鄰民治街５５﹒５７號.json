@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "未分類其他食品、飲料及菸草製品零售\/連鎖速食店\/飲料零售",
+    "address": "苗栗縣竹南鎮正南里２３鄰民治街５５﹒５７號１樓",
+    "x": 120.877035,
+    "y": 24.684828,
+    "shops": [
+        {
+            "shop": "陸德食品有限公司",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

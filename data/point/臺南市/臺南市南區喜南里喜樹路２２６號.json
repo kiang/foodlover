@@ -1,8 +1,13 @@
 {
-    "pay_list": {
-        "一卡通": true,
-        "LINE Pay Money": true,
-        "愛金卡": true,
-        "街口支付": true
-    }
+    "name": "餐食攤販",
+    "address": "臺南市南區喜南里喜樹路２２６號",
+    "x": 120.178291,
+    "y": 22.941009,
+    "shops": [
+        {
+            "shop": "金山香腸大腸",
+            "pay_list": "一卡通 \/ LINE Pay Money \/ 愛金卡 \/ 街口支付"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money\/愛金卡\/街口支付"
 }

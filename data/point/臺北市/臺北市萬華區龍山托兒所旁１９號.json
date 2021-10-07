@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "臺北市萬華區龍山托兒所旁１９號",
+    "x": 121.494915,
+    "y": 25.029322,
+    "shops": [
+        {
+            "shop": "建萬０４８１號（陳萬鐘）",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

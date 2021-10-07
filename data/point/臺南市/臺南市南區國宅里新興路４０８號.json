@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "飲料零售\/麵店、小吃店",
+    "address": "臺南市南區國宅里新興路４０８號１樓",
+    "x": 120.187946,
+    "y": 22.97513,
+    "shops": [
+        {
+            "shop": "杉原商行",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

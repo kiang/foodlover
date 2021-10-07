@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺北市松山區龍田里龍城市場１１８號",
+    "x": 121.556095,
+    "y": 25.053843,
+    "shops": [
+        {
+            "shop": "潘錦雀",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

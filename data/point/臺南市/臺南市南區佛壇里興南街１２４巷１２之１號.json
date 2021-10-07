@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "未分類其他家用器具及用品批發\/咖啡零售\/冰果店、冷（熱）飲店",
+    "address": "臺南市南區佛壇里興南街１２４巷１２之１號１樓",
+    "x": 120.182526,
+    "y": 22.922639,
+    "shops": [
+        {
+            "shop": "貝勒拉芙商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

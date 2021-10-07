@@ -8754,6 +8754,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺中市北區育德里大德街５７號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.678724,
+                    24.157734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺中市北區新北里一中街１０１號",
                 "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
@@ -9056,6 +9070,20 @@
                 "coordinates": [
                     120.671552,
                     24.167041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北區新興里太平路６３巷１號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684413,
+                    24.147518
                 ]
             }
         },
@@ -21634,6 +21662,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺中市大里區仁化里仁化路３９８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.706025,
+                    24.095562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺中市大里區東興里永興路１７２號",
                 "pay_list": "LINE Pay Money\/街口支付"
             },
@@ -24722,6 +24764,20 @@
                 "coordinates": [
                     120.631006,
                     24.239986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大雅區文雅里永和路１３４―４號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.643611,
+                    24.220213
                 ]
             }
         },
@@ -28914,6 +28970,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺中市東勢區粵寧里新豐街９３號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.825505,
+                    24.264427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺中市東勢區東安里中山路９４號",
                 "pay_list": "台灣 PAY\/一卡通"
             },
@@ -30636,6 +30706,2876 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺中市東區新庄里大智北一街２５號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.68702,
+                    24.136462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市東區新庄里復興路４段２２０巷３弄２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.688901,
+                    24.136253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市東區富臺里自由路３段１５１，１５３號",
+                "pay_list": "街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.692348,
+                    24.142909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市東區新庄里大勇街１２號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.686905,
+                    24.135629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市東區新庄里復興路４段５０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684219,
+                    24.134803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市東區東興里大智路４１０號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.690078,
+                    24.127807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區大庄里１６鄰中央路１段９１５號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538115,
+                    24.247601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區福德里臺灣大道８段３００－１號",
+                "pay_list": "街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.53924,
+                    24.249134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區中正里文化路２段１２６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.530663,
+                    24.254681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區中正里中興路２３０號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.533914,
+                    24.255348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區頂寮里大仁路２段７２號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.540516,
+                    24.261457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區中正里文化路２段２７０號",
+                "pay_list": "台灣 PAY\/一卡通\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.53179,
+                    24.257269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區大庄里中央路１段９１４―３號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.537166,
+                    24.244503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區中正里文化路２段２６８號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.531775,
+                    24.25723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區安仁里文化路２段６１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.529664,
+                    24.253411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區中正里文化路２段１９４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.531397,
+                    24.256364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區下寮里大智路二段１６１號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538622,
+                    24.257812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區下寮里大智路二段３７９―１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538622,
+                    24.257812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區中正里文化路二段２８０號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.531904,
+                    24.257494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區草湳里文化路１段１３３號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.528397,
+                    24.247668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區南簡里中華路２段５３８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.558124,
+                    24.255253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區下寮里文化路２段３９３號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.532391,
+                    24.25964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區中和里文化路２段１９１號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.531009,
+                    24.256336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區頂寮里大仁路２段２９１巷１０號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.535812,
+                    24.26255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區頂寮里大智路二段３９８巷１６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.533367,
+                    24.260684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區南簡里９鄰港埠路２段３２０之２４巷３２號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.540836,
+                    24.257835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區中和里６鄰文化路２段２０５號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.531118,
+                    24.256684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區頂寮里港埠路２段４２９號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.539931,
+                    24.259264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區大庄里０３５鄰臺灣大道八段７７８號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.542186,
+                    24.248068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區文化里００６鄰文化路二段１３５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.530542,
+                    24.255248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區中正里０１３鄰文化路二段１７８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.531251,
+                    24.256036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區頂寮里大仁路二段１５８號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538882,
+                    24.262101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區中正里中興路１０６號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.534642,
+                    24.253381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區大庄里中央路１段９１８之２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538338,
+                    24.24763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區中正里中和街７１號",
+                "pay_list": "街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.531358,
+                    24.254921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區大庄里和平街４７號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.540651,
+                    24.249406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區文化里中興路６５號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.535645,
+                    24.252679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區文化里中興路６７巷２８弄４６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.534238,
+                    24.252669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區中正里中興路２５２巷１８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.534252,
+                    24.255624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區中正里文化路２段２９９號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.531611,
+                    24.25774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區大村里中央路１段６６６─１６號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.537156,
+                    24.239794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區下寮里文化路２段３３１號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.531864,
+                    24.258303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區草湳里臺灣大道９段１４３號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.531826,
+                    24.251321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區大庄里文昌路５６５號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.536953,
+                    24.245415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區中正里文化路２段１８８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.531328,
+                    24.256211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區大村里文昌路３９１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.540907,
+                    24.244123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區中正里中興路２７０號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.534167,
+                    24.255825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區大庄里中央路１段８２５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.537463,
+                    24.245578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區大庄里中央路１段９１８之９號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538445,
+                    24.247996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區下寮里文化路２段３５１號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.532066,
+                    24.258828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區大庄里文昌路４８８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538264,
+                    24.245273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區大庄里民和路１段１１６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.548807,
+                    24.247903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區福德里中央路２段２１７號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.539704,
+                    24.253029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區文化里中和街３３號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.531071,
+                    24.25428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區中正里中和街１３８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.532208,
+                    24.256339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區北勢里３０鄰北勢東路５１５號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.575836,
+                    24.22557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區北勢里３０鄰北勢東路５１７－３號",
+                "pay_list": "LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.575715,
+                    24.225733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區三鹿里１０鄰向上路七段１１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.566744,
+                    24.203662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里０１４鄰光華路３６５號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.565513,
+                    24.243233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區洛泉里００８鄰中山路２５４號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.560764,
+                    24.237936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區洛泉里００８鄰中山路２６４號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.560569,
+                    24.237962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區洛泉里中山路２６３－１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.561045,
+                    24.237717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區北勢里北勢東路５４７號",
+                "pay_list": "歐付寶"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.574752,
+                    24.227281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區北勢里２３鄰北勢東路５６１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.574532,
+                    24.227549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區竹林里２６鄰光華路５２８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.570392,
+                    24.243341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區北勢里２８鄰英才路１０號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.575191,
+                    24.226991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區晉江里１４鄰臺灣大道七段２００號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.577203,
+                    24.225883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里中山路３８０―１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.560906,
+                    24.242051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區晉江里臺灣大道６段１０１８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.58165,
+                    24.216826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區洛泉里和平街１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.560959,
+                    24.23797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區晉江里台灣大道６段１０１８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.58165,
+                    24.216826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區晉江里臺灣大道７段２００號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.577203,
+                    24.225883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區晉江里臺灣大道七段２００號",
+                "pay_list": "LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.577203,
+                    24.225883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區洛泉里日新街１０１號",
+                "pay_list": "歐付寶\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.561282,
+                    24.236898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區晉江里臺灣大道六段１０１８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.58165,
+                    24.216826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區洛泉里中山路２７４號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.560361,
+                    24.238083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區北勢里北勢東路５３６號",
+                "pay_list": "LINE Pay Money\/台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.575076,
+                    24.22716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區北勢里北勢東路６０９號",
+                "pay_list": "一卡通\/LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.573682,
+                    24.228897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里成功東街５０號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.562702,
+                    24.242142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區北勢里北英路１６２號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.574527,
+                    24.227239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區埔子里屏西路３１５號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.570374,
+                    24.213643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里中山路４４８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.562518,
+                    24.244668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區三鹿里自強路７７８號",
+                "pay_list": "街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.559729,
+                    24.207108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區福興里鎮南路２段２３９號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.568573,
+                    24.223306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區六路里平等路１７０號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.579123,
+                    24.218392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區晉江里東晉路８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.578089,
+                    24.221852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里成功東街４８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.562639,
+                    24.242156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區興安里沙田路４５之９號",
+                "pay_list": "LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.558556,
+                    24.230243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區北勢里１８鄰鎮南路２段３７８號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.566882,
+                    24.229617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區洛泉里２鄰中山路１８４―１號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.567279,
+                    24.236775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區北勢里英才路１７號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.574838,
+                    24.226499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區興仁里６鄰沙田路９０號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.558905,
+                    24.234233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區居仁里中山路４０１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.560417,
+                    24.240698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區北勢里北勢東路５１７－２號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.575736,
+                    24.225709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區福興里鎮南路二段２４７號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.568568,
+                    24.223473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里成功東街７７號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.563488,
+                    24.242179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區沙鹿里中山路３２１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.55986,
+                    24.238588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區北勢里北勢東路５２５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.575424,
+                    24.226194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區六路里北勢東路３３１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.579348,
+                    24.218326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區北勢里北勢東路６９８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.572008,
+                    24.22978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里光榮街９６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.564856,
+                    24.242825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區埔子里００７鄰鎮慶街４０號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.572346,
+                    24.208921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區竹林里中山路３２－９號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.578902,
+                    24.237956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區北勢里北勢東路５５２號",
+                "pay_list": "台灣 PAY\/一卡通\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.574458,
+                    24.22811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區洛泉里中山路２０２―１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.567279,
+                    24.236775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區北勢里北勢東路８８８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.567099,
+                    24.229472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區洛泉里中山路２３９號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.561589,
+                    24.237634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區洛泉里中山路２１８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.562256,
+                    24.237752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區晉江里東晉東路７３１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.576903,
+                    24.220853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區埔子里臺灣大道六段３９９號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.580462,
+                    24.201418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區晉江里東晉東路５８之９號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.594274,
+                    24.218938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區埔子里都會南街３７５巷１５號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.587301,
+                    24.193245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里光華路３１６號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.565113,
+                    24.241596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里光華路３０８－３號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.56561,
+                    24.241069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區興仁里光華路１６９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.562099,
+                    24.233087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區晉江里東晉一街１１號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.578239,
+                    24.219649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區斗抵里太平路２２－１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.551283,
+                    24.217911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區六路里北勢東路３３３號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.579336,
+                    24.218384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區竹林里光華路５０８號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.570317,
+                    24.243689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區晉江里１３鄰北勢東路５２６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.575455,
+                    24.226537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區興安里１３鄰興安路４９―５號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.558438,
+                    24.23335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里中山路５４８號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.565897,
+                    24.249845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區北勢里３０鄰北勢東路５１９號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.575695,
+                    24.225766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區洛泉里中山路１８７號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.563821,
+                    24.237286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里１８鄰成功東街５８號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.562882,
+                    24.24209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區三鹿里向上路６段９１０號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.567494,
+                    24.203804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里中山路４４１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.561213,
+                    24.242999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區三鹿里向上路７段１８號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.566123,
+                    24.204929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區沙鹿里０１０鄰大同街５６號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.558595,
+                    24.236986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區北勢里北中路９７號",
+                "pay_list": "街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.568707,
+                    24.229071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里０２１鄰光華路３２４號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.565144,
+                    24.24198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區西勢里中航路一段２３１號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.600138,
+                    24.256284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區北勢里北勢東路８５４號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.567964,
+                    24.229761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區北勢里２３鄰北勢東路５８３號",
+                "pay_list": "街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.574223,
+                    24.228081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區北勢里北勢東路７１４巷２９號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.571659,
+                    24.230574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區洛泉里１９鄰養泉莊１０號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.565378,
+                    24.236772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里２５鄰光華路３２１號",
+                "pay_list": "一卡通\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.564868,
+                    24.241973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區北勢里０２３鄰北勢東路５５９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.574554,
+                    24.227519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區清泉里清泉路４－６號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.62074,
+                    24.241432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區興仁里四平街４３―１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.559135,
+                    24.231795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區三鹿里１０鄰向上路７段７號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.56683,
+                    24.203599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區興安里大同街３１―１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.55671,
+                    24.232735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區北勢里北勢東路５９６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.574099,
+                    24.229036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區居仁里中山路３２５號",
+                "pay_list": "台灣 PAY\/一卡通\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.55988,
+                    24.238697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里中山路４０４―１號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.560906,
+                    24.242051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區公明里忠貞路１５０巷１５弄３號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.60774,
+                    24.243026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區晉江里晉文路３９巷３４號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.57979,
+                    24.224314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區北勢里北勢東路７１０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.571762,
+                    24.229789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區晉江里北勢東路４７７號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.577173,
+                    24.223431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里中山路４４２―１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.560906,
+                    24.242051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區興安里沙田路５３―３號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.557742,
+                    24.228045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區興安里沙田路４７號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.558648,
+                    24.231795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里成功東街２０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.561914,
+                    24.242356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區興仁里沙田路６０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.558938,
+                    24.232558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區竹林里光華路４７２號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.569653,
+                    24.244467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區興仁里四平街新平巷６―３號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.559811,
+                    24.235291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里錦華街７９巷１８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.563548,
+                    24.250461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區洛泉里中山路２４８―３號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.567279,
+                    24.236775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區北勢里北勢東路５１１巷２號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.575753,
+                    24.22532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區洛泉里中山路１６３號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.56574,
+                    24.236971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里光明街３５０巷１６３號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.560401,
+                    24.24765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區晉江里北勢東路４７２－６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.577636,
+                    24.223127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區興仁里鎮南路２段５９２號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.560818,
+                    24.234273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區興安里沙田路４７―１號",
+                "pay_list": "台灣 PAY\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.557742,
+                    24.228045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區興仁里鎮南路２段５９４號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.560773,
+                    24.234293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區美仁里四平街１０４號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.560633,
+                    24.235565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區晉江里北勢東路４０９號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.578393,
+                    24.221515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區六路里北勢東路２５２之１５號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.58023,
+                    24.213315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里光華路３４７號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.564933,
+                    24.242498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿峰里星河路９０２號",
+                "pay_list": "街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.572481,
+                    24.259367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里光榮街８１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.564471,
+                    24.242933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區六路里北勢東路３１１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.579421,
+                    24.217827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區六路里北勢東路３２３號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.579376,
+                    24.218125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區晉江里北勢東路４１３號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.578013,
+                    24.222078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區六路里六路十二街８６巷１５號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.575873,
+                    24.21279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區六路里北勢東路１５０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.580622,
+                    24.21011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里成功東街５３號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.562898,
+                    24.242341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區沙鹿里新興街１４號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.559273,
+                    24.238278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里成功東街４９號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.562736,
+                    24.242387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區南勢里鎮南路一段３８５號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.5706,
+                    24.216373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區清泉里東大路２段１６１３號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.614716,
+                    24.242744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區南勢里鎮南路二段３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.57048,
+                    24.21674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區六路里北勢東路３０７號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.579436,
+                    24.217722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區沙鹿里中山路３１５－１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.559842,
+                    24.238505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里光大路２８６號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.564976,
+                    24.243138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區北勢里英才路１０２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.571378,
+                    24.225802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里光華路３２３號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.564874,
+                    24.242014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區晉江里北勢東路４４５號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.577552,
+                    24.222843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里成功東街２３號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.561977,
+                    24.242592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里中山路４１７號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.560896,
+                    24.242011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里中山路４６０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.562364,
+                    24.245248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里中山路金星二巷４７號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.566616,
+                    24.248821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區北勢里北勢東路８８３號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.567214,
+                    24.229299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里光華路３４５號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.564926,
+                    24.242457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區晉江里北勢東路４８０號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.577303,
+                    24.223638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區三鹿里向上路七段３０號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.565976,
+                    24.205051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區六路里北勢東路２９３號",
+                "pay_list": "一卡通\/愛金卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.579492,
+                    24.217379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區三鹿里向上路７段２１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.566522,
+                    24.203824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里光華路４０２―１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.564715,
+                    24.241074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區六路里北勢東路３１３號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.579415,
+                    24.217876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區興仁里鎮南路２段６２９號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.559192,
+                    24.234476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里２５鄰成功東街５２號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.562702,
+                    24.242142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市清水區海濱里北堤路３０號",
+                "pay_list": "LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.521047,
+                    24.293067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市清水區吳厝里和睦路３段２０６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.608633,
+                    24.271556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市清水區中興里新興路９９號",
+                "pay_list": "街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.577465,
+                    24.270733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺中市清水區橋頭里五權路１８號",
                 "pay_list": "LINE Pay Money"
             },
@@ -30644,20 +33584,6 @@
                 "coordinates": [
                     120.57064006172,
                     24.276320611788
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "臺中市清水區海濱里北堤路３０號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.52104694366,
-                    24.293067228198
                 ]
             }
         },
@@ -31288,6 +34214,20 @@
                 "coordinates": [
                     120.56905162698,
                     24.273572919349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市清水區槺榔里港新三路３２號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.541898,
+                    24.26684
                 ]
             }
         },
@@ -32064,6 +35004,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺中市石岡區龍興里萬仙街岡仙巷１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.787118,
+                    24.263075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺中市石岡區萬興里豐勢路７７２－６號",
                 "pay_list": "LINE Pay Money"
             },
@@ -32086,6 +35040,20 @@
                 "coordinates": [
                     120.7744360051,
                     24.276492879582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市石岡區九房里豐勢路山下巷３―３―２號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.785131,
+                    24.270572
                 ]
             }
         },
@@ -32142,6 +35110,20 @@
                 "coordinates": [
                     120.77674495495,
                     24.276414997975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市石岡區德興里和盛街南眉巷１０號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.809135,
+                    24.25654
                 ]
             }
         },
@@ -33044,6 +36026,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺中市西區吉龍里五權西路一段５７巷２弄７號",
+                "pay_list": "一卡通"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.663498,
+                    24.139527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺中市西區公德里精誠路１３９號",
                 "pay_list": "LINE Pay Money"
             },
@@ -33324,6 +36320,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺中市西區安龍里梅川西路一段５、７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.668484,
+                    24.14363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺中市西區吉龍里五權五街５０號",
                 "pay_list": "街口支付\/LINE Pay Money"
             },
@@ -33458,6 +36468,20 @@
                 "coordinates": [
                     120.66188995771,
                     24.151208703216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西區吉龍里五權西路一段２號",
+                "pay_list": "一卡通"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.665394,
+                    24.1399
                 ]
             }
         },
@@ -34018,6 +37042,20 @@
                 "coordinates": [
                     120.66279824223,
                     24.152396981493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西區双龍里模範市場１巷３５號",
+                "pay_list": "街口支付\/LINE Pay Money\/愛金卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.666471,
+                    24.146553
                 ]
             }
         },
@@ -34780,6 +37818,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺中市西區中興里中興４巷１０號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.662555,
+                    24.149483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺中市西區民龍里臺灣大道２段１６５號",
                 "pay_list": "台灣 PAY"
             },
@@ -34858,6 +37910,20 @@
                 "coordinates": [
                     120.66187641069,
                     24.13447516904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西區中興里美村路１段２０１、２０３號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.661852,
+                    24.146872
                 ]
             }
         },
@@ -35298,6 +38364,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺中市西區公德里精誠二十二街３１丶３３號",
+                "pay_list": "一卡通"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.656664,
+                    24.147414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西區後龍里民權路２４６，２４８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.670074,
+                    24.149452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺中市西區土庫里福人街４１號",
                 "pay_list": "街口支付\/LINE Pay Money"
             },
@@ -35396,6 +38490,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺中市西屯區福林里西屯路３段宏福５巷１１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.615994,
+                    24.18802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺中市西屯區福聯里福順路８６５號",
                 "pay_list": "LINE Pay Money"
             },
@@ -35432,6 +38540,20 @@
                 "coordinates": [
                     120.61582560525,
                     24.188816555219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區福林里西屯路三段宏福１巷６弄１４號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.617585,
+                    24.187878
                 ]
             }
         },
@@ -35530,6 +38652,20 @@
                 "coordinates": [
                     120.63883366996,
                     24.158072459558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區大石里中平路２１９－２，２１９－３號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.663347,
+                    24.176451
                 ]
             }
         },
@@ -35662,6 +38798,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺中市西屯區上石里２０９７地號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.643,
+                    24.172547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺中市西屯區西平里福星路３３２－１號",
                 "pay_list": "LINE Pay Money"
             },
@@ -35712,6 +38862,20 @@
                 "coordinates": [
                     120.64467792891,
                     24.182144160359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區逢甲里上石北２巷３號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.646219,
+                    24.172156
                 ]
             }
         },
@@ -37314,6 +40478,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺中市西屯區惠來里００１鄰臺灣大道３段３００、３０２號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.644084,
+                    24.166053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺中市西屯區潮洋里市政路５６１號",
                 "pay_list": "台灣 PAY"
             },
@@ -38252,6 +41430,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺中市豐原區西湳里三豐路二段３１７號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.721569,
+                    24.271559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺中市豐原區中山里信義街７９號",
                 "pay_list": "LINE Pay Money"
             },
@@ -38372,6 +41564,20 @@
                 "coordinates": [
                     120.72075829225,
                     24.230685110255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區豐原里三豐路一段６１巷１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.722448,
+                    24.255856
                 ]
             }
         },
@@ -38616,6 +41822,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺中市豐原區西湳里三豐路二段４５５－２號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.721762,
+                    24.274827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺中市豐原區中陽里自成街４６號",
                 "pay_list": "街口支付"
             },
@@ -38756,6 +41976,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺中市豐原區北陽里００９鄰圓環東路７１０、７１４號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.729906,
+                    24.25198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺中市豐原區豐原里中正路２７號",
                 "pay_list": "一卡通\/LINE Pay Money"
             },
@@ -38806,6 +42040,20 @@
                 "coordinates": [
                     120.73590129615,
                     24.247298154609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區下街里源豐路６０號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.71614,
+                    24.252507
                 ]
             }
         },
@@ -38960,6 +42208,34 @@
                 "coordinates": [
                     120.71886245091,
                     24.248443546602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區南嵩里水源路坪頂巷８號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.764779,
+                    24.259506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區北陽里１８鄰南陽路綠山巷１５０弄１１－１號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.739198,
+                    24.240998
                 ]
             }
         },
@@ -39260,6 +42536,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺中市豐原區東湳里三豐路２段１０８號",
+                "pay_list": "一卡通\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.720626,
+                    24.266155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺中市豐原區葫蘆里中山路４６４號",
                 "pay_list": "一卡通\/愛金卡"
             },
@@ -39478,6 +42768,20 @@
                 "coordinates": [
                     120.71801035552,
                     24.242997678269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區南陽里永康路１─之２號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.72694,
+                    24.243618
                 ]
             }
         },
@@ -39904,6 +43208,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺中市豐原區下街里源豐路６２號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.716116,
+                    24.252586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺中市豐原區北陽里南陽路２１０―２號",
                 "pay_list": "LINE Pay Money"
             },
@@ -39940,6 +43258,20 @@
                 "coordinates": [
                     120.75143460891,
                     24.270843423688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區頂街里和平街２１、２３號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.719854,
+                    24.252389
                 ]
             }
         },
@@ -40108,6 +43440,20 @@
                 "coordinates": [
                     120.72096441271,
                     24.251169614817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區東湳里豐科路９７５號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.728043,
+                    24.275162
                 ]
             }
         },
@@ -40808,6 +44154,20 @@
                 "coordinates": [
                     120.70755440732,
                     24.076318713254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市霧峰區本鄉里中正路１０２３、１０２５號",
+                "pay_list": "LINE Pay Money\/街口支付\/一卡通"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.698897,
+                    24.067654
                 ]
             }
         },
@@ -41752,6 +45112,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺中市龍井區新東里新興路東興巷２號",
+                "pay_list": "LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.592905,
+                    24.181493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺中市龍井區新東里１９鄰新興路１巷１９號",
                 "pay_list": "LINE Pay Money"
             },
@@ -41760,6 +45134,20 @@
                 "coordinates": [
                     120.59276366431,
                     24.180980988048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市龍井區新東里新興路東興巷５４號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.593412,
+                    24.181149
                 ]
             }
         },
@@ -41914,6 +45302,20 @@
                 "coordinates": [
                     120.58389049461,
                     24.18176722101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市龍井區新東里新興路東興巷３５號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.593141,
+                    24.181065
                 ]
             }
         },
@@ -42382,6 +45784,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺中市龍井區新東里新興路４０之３－１號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.588254,
+                    24.181104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺中市龍井區龍崗里竹師路２段４９巷１０弄１４號",
                 "pay_list": "街口支付\/LINE Pay Money"
             },
@@ -42432,6 +45848,20 @@
                 "coordinates": [
                     120.52338175996,
                     24.200024337157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市龍井區新東里新興路東興巷１７號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.592941,
+                    24.181086
                 ]
             }
         },
@@ -42586,6 +46016,20 @@
                 "coordinates": [
                     120.59401930637,
                     24.189646687703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市龍井區新東里新興路東興巷１４號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.593241,
+                    24.181334
                 ]
             }
         },
@@ -42858,6 +46302,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺中市龍井區新東里新興路東興巷４６－１號",
+                "pay_list": "街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.593283,
+                    24.181152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺中市龍井區新東里新興路１巷３號",
                 "pay_list": "LINE Pay Money"
             },
@@ -42908,6 +46366,20 @@
                 "coordinates": [
                     120.52373937289,
                     24.207049305307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市龍井區新東里新興路東興巷１號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.592789,
+                    24.181349
                 ]
             }
         }

@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "一卡通": true,
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺中市沙鹿區鹿寮里２５鄰光華路３２１號１樓",
+    "x": 120.564868,
+    "y": 24.241973,
+    "shops": [
+        {
+            "shop": "鼎饌茶舖",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money"
 }

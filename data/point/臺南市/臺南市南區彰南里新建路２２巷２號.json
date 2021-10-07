@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市南區彰南里新建路２２巷２號１樓",
+    "x": 120.185087,
+    "y": 22.969798,
+    "shops": [
+        {
+            "shop": "朵拉企業社",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

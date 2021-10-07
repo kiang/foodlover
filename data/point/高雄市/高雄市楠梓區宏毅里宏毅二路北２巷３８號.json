@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "一卡通": true,
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "高雄市楠梓區宏毅里宏毅二路北２巷３８號",
+    "x": 120.304717,
+    "y": 22.715282,
+    "shops": [
+        {
+            "shop": "達臻美食館楠梓店",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money"
 }

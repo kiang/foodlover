@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺中市沙鹿區美仁里四平街１０４號１樓",
+    "x": 120.560633,
+    "y": 24.235565,
+    "shops": [
+        {
+            "shop": "哲哲稱琦商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

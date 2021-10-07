@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "臺南市南區新興里金華路２段２６號１樓",
+    "x": 120.191205,
+    "y": 22.976074,
+    "shops": [
+        {
+            "shop": "宜奕食坊",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

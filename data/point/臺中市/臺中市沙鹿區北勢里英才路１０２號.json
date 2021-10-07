@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "臺中市沙鹿區北勢里英才路１０２號１樓",
+    "x": 120.571378,
+    "y": 24.225802,
+    "shops": [
+        {
+            "shop": "達拉麵店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市西屯區福林里西屯路３段宏福５巷１１號",
+    "x": 120.615994,
+    "y": 24.18802,
+    "shops": [
+        {
+            "shop": "佳佳萬巒猪腳店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

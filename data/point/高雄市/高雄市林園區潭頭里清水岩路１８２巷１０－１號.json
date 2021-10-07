@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "高雄市林園區潭頭里清水岩路１８２巷１０－１號",
+    "x": 120.392356,
+    "y": 22.520897,
+    "shops": [
+        {
+            "shop": "嘰嘰喳喳脆皮雞蛋糕",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

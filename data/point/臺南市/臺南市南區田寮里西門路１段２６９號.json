@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "咖啡零售\/冰果店、冷（熱）飲店",
+    "address": "臺南市南區田寮里西門路１段２６９號１樓",
+    "x": 120.197464,
+    "y": 22.976462,
+    "shops": [
+        {
+            "shop": "頑童主義咖啡",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

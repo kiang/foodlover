@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺北市萬華區頂碩里艋舺大道１２０巷３５號",
+    "x": 121.502275,
+    "y": 25.032062,
+    "shops": [
+        {
+            "shop": "蔡明華",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
 }

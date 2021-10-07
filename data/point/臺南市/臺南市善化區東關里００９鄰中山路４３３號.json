@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市善化區東關里００９鄰中山路４３３號１樓",
+    "x": 120.290336,
+    "y": 23.132301,
+    "shops": [
+        {
+            "shop": "國茂茶坊",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

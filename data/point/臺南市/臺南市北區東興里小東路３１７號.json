@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市北區東興里小東路３１７號１樓",
+    "x": 120.23078,
+    "y": 22.999248,
+    "shops": [
+        {
+            "shop": "阿隆陽春麵",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

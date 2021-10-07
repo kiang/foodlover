@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "咖啡零售\/咖啡館",
+    "address": "臺南市北區公園里北忠街１６巷３３弄６號１樓",
+    "x": 120.21194,
+    "y": 22.999348,
+    "shops": [
+        {
+            "shop": "原初咖啡",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

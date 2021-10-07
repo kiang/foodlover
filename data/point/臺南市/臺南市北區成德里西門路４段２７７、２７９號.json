@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "未分類其他食品、飲料及菸草製品零售\/冰果店、冷（熱）飲店",
+    "address": "臺南市北區成德里西門路４段２７７、２７９號１樓",
+    "x": 120.209541,
+    "y": 23.014392,
+    "shops": [
+        {
+            "shop": "奇樂達商行",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

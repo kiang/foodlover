@@ -1,8 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "一卡通": true,
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "餐館、餐廳",
+    "address": "臺北市萬華區艋舺大道１０１號１３樓至１６樓",
+    "x": 121.501472,
+    "y": 25.033339,
+    "shops": [
+        {
+            "shop": "聚滿盛股份有限公司",
+            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
 }

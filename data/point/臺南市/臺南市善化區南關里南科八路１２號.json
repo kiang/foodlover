@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "其他外燴及團膳承包\/冰果店、冷（熱）飲店\/咖啡館",
+    "address": "臺南市善化區南關里南科八路１２號１樓",
+    "x": 120.276276,
+    "y": 23.115542,
+    "shops": [
+        {
+            "shop": "美麗學分商行群創分行二廠",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

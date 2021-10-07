@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "未分類其他食品、飲料及菸草製品零售\/蔬菜零售\/麵店、小吃店",
+    "address": "高雄市茂林區茂林里茂林巷１２之６號",
+    "x": 120.652727,
+    "y": 22.878892,
+    "shops": [
+        {
+            "shop": "金勝商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

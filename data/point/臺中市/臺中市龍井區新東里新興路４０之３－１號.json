@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺中市龍井區新東里新興路４０之３－１號１樓",
+    "x": 120.588254,
+    "y": 24.181104,
+    "shops": [
+        {
+            "shop": "關老爺茶行",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

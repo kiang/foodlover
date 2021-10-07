@@ -1,7 +1,17 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true,
-        "台灣 PAY": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市南區國宅里金華路２段２１巷２８號１樓",
+    "x": 120.189829,
+    "y": 22.976592,
+    "shops": [
+        {
+            "shop": "克坊商行",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "品茶冷飲店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money\/台灣 PAY"
 }

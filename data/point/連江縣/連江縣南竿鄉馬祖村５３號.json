@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "咖啡零售\/餐食攤販",
+    "address": "連江縣南竿鄉馬祖村５３號",
+    "x": 119.91849,
+    "y": 26.15951,
+    "shops": [
+        {
+            "shop": "記錄商行",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

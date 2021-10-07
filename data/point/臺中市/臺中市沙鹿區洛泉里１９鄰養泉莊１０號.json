@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "早餐店\/麵店、小吃店",
+    "address": "臺中市沙鹿區洛泉里１９鄰養泉莊１０號１樓",
+    "x": 120.565378,
+    "y": 24.236772,
+    "shops": [
+        {
+            "shop": "泓達食堂",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

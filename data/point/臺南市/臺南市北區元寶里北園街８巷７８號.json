@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺南市北區元寶里北園街８巷７８號１樓",
+    "x": 120.223929,
+    "y": 23.011232,
+    "shops": [
+        {
+            "shop": "美而美早餐店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "一卡通": true,
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市南區永寧里灣裡路２４３號一樓",
+    "x": 120.182114,
+    "y": 22.927247,
+    "shops": [
+        {
+            "shop": "灣裡小吃店",
+            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
 }

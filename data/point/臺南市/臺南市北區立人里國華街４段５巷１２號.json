@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "臺南市北區立人里國華街４段５巷１２號２樓之２",
+    "x": 120.199386,
+    "y": 23.000644,
+    "shops": [
+        {
+            "shop": "優膳糧府城餐飲股份有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

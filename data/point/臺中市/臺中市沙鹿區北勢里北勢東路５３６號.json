@@ -1,6 +1,17 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true,
-        "台灣 PAY": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市沙鹿區北勢里北勢東路５３６號１樓",
+    "x": 120.575076,
+    "y": 24.22716,
+    "shops": [
+        {
+            "shop": "光旭兆企業社",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "寬睿小吃店",
+            "pay_list": "台灣 PAY"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/台灣 PAY"
 }

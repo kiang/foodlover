@@ -6752,6 +6752,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺北市中山區正得里林森北路７４丶７６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.524576,
+                    25.049605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺北市中山區復華里長春路３６２號",
                 "pay_list": "街口支付\/LINE Pay Money"
             },
@@ -8278,6 +8292,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺北市中正區水源市場１樓２６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.518288,
+                    25.031078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區水源市場１樓５４號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51205,
+                    25.042182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺北市中正區重慶南路１段４６巷２號",
                 "pay_list": "LINE Pay Money\/街口支付"
             },
@@ -8496,6 +8538,20 @@
                 "coordinates": [
                     121.50572908984,
                     25.028711890494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區建國里凱達格蘭大道２號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.516341,
+                    25.038951
                 ]
             }
         },
@@ -8894,6 +8950,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺北市中正區黎明里漢口街１段３、５、９、１１號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.513548,
+                    25.045237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺北市中正區文祥里臨沂街７０號",
                 "pay_list": "台灣 PAY"
             },
@@ -8972,6 +9042,20 @@
                 "coordinates": [
                     121.50889015768,
                     25.04273435828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區東門里杭州南路１段１４―８、１４－９號",
+                "pay_list": "一卡通"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.523922,
+                    25.03657
                 ]
             }
         },
@@ -9126,6 +9210,20 @@
                 "coordinates": [
                     121.53149770196,
                     25.015920574893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區龍福里南海路２２丶２４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.516716,
+                    25.032416
                 ]
             }
         },
@@ -11170,6 +11268,20 @@
                 "coordinates": [
                     121.55706150416,
                     25.028545216835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區富臺里忠孝東路五段４３９、４３９－１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.577447,
+                    25.041017
                 ]
             }
         },
@@ -14228,6 +14340,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺北市內湖區金湖里民權東路６段４６９，４７１號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60509,
+                    25.073221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺北市內湖區葫洲里康寧路３段５４―９號",
                 "pay_list": "街口支付\/LINE Pay Money"
             },
@@ -15020,6 +15146,20 @@
                 "coordinates": [
                     121.60996704718,
                     25.072899187152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區湖元里新湖二路２５９巷７號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.582309,
+                    25.063607
                 ]
             }
         },
@@ -16188,6 +16328,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺北市北投區福興里致遠一路二段１２７號",
+                "pay_list": "LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.512399,
+                    25.11355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市北投區福興里致遠一路二段４３號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.513701,
+                    25.111772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺北市北投區關渡里知行路２９９號",
                 "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
@@ -16280,6 +16448,20 @@
                 "coordinates": [
                     121.51622591197,
                     25.117797012283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市北投區清江里三合街二段４４７號",
+                "pay_list": "一卡通\/愛金卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.502135,
+                    25.126427
                 ]
             }
         },
@@ -17224,6 +17406,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺北市北投區光明路新生巷６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.501791,
+                    25.133005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺北市北投區中和街２０巷６號",
                 "pay_list": "LINE Pay Money"
             },
@@ -17784,6 +17980,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺北市北投區清江里三合街二段４５５號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.501942,
+                    25.126387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺北市北投區吉利里致遠二路１２９號",
                 "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
@@ -17806,6 +18016,20 @@
                 "coordinates": [
                     121.49904714912,
                     25.132963116604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市北投區福興里致遠一路二段１１５號",
+                "pay_list": "街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.512593,
+                    25.113315
                 ]
             }
         },
@@ -18848,6 +19072,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺北市南港區玉成里八德路四段７８８―１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.580098,
+                    25.050765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺北市南港區三重里經貿二路６６－２號",
                 "pay_list": "LINE Pay Money"
             },
@@ -19290,6 +19528,20 @@
                 "coordinates": [
                     121.58142367367,
                     25.04807781814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市南港區玉成里八德路四段７９８―１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.580098,
+                    25.050765
                 ]
             }
         },
@@ -22908,6 +23160,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺北市大同區星明里寧夏路臨時攤販集中場編號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.515187,
+                    25.054417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺北市大同區星明里寧夏路２３之４號",
                 "pay_list": "LINE Pay Money"
             },
@@ -22930,6 +23196,20 @@
                 "coordinates": [
                     121.51502975847,
                     25.055523941266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區寧夏路臨時攤販集中場編號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.515187,
+                    25.054417
                 ]
             }
         },
@@ -23244,6 +23524,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺北市大同區光能里赤峰街４之３號",
+                "pay_list": "街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.519142,
+                    25.05365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺北市大同區雙連里歸綏街１２７號",
                 "pay_list": "一卡通\/LINE Pay Money"
             },
@@ -23462,6 +23756,20 @@
                 "coordinates": [
                     121.51682241224,
                     25.049215119764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區光能里赤峰街２７號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.519354,
+                    25.054105
                 ]
             }
         },
@@ -23728,6 +24036,20 @@
                 "coordinates": [
                     121.52047653242,
                     25.057491544893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區保安里承德路三段２３６、２３８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51942,
+                    25.073975
                 ]
             }
         },
@@ -24518,6 +24840,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺北市大同區光能里赤峰街７號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.519211,
+                    25.053583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區光能里赤峰街７１巷２號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.519808,
+                    25.056598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺北市大同區朝陽里南京西路１７７號",
                 "pay_list": "台灣 PAY"
             },
@@ -24652,6 +25002,20 @@
                 "coordinates": [
                     121.50983856707,
                     25.057625723397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區建明里太原路４０、４２、４４號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.515264,
+                    25.05102
                 ]
             }
         },
@@ -25870,6 +26234,20 @@
                 "coordinates": [
                     121.55515443026,
                     25.03005729563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區師大路３９巷８，１０號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.529267,
+                    25.024519
                 ]
             }
         },
@@ -27668,6 +28046,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺北市大安區大學里辛亥路１段４４及４６號",
+                "pay_list": "街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.530309,
+                    25.020142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺北市大安區建安里敦化南路１段１８７巷４２號",
                 "pay_list": "LINE Pay Money"
             },
@@ -28166,6 +28558,20 @@
                 "coordinates": [
                     121.55662760776,
                     24.979268408958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市文山區指南里指南路三段３８巷臨３３之５號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.591132,
+                    24.96706
                 ]
             }
         },
@@ -30314,6 +30720,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺北市文山區木新里木新路２段５９、６１號",
+                "pay_list": "街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.567896,
+                    24.983564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺北市文山區景行里景興路２８２巷１號",
                 "pay_list": "LINE Pay Money"
             },
@@ -30650,6 +31070,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺北市松山區吉仁里八德路三段７６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.552732,
+                    25.048061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺北市松山區三民里民生東路５段１３８巷１３號",
                 "pay_list": "街口支付"
             },
@@ -30762,6 +31196,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺北市松山區龍田里龍城市場１１８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.556095,
+                    25.053843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺北市松山區敦化里八德路３段１２巷５２弄３４號",
                 "pay_list": "LINE Pay Money"
             },
@@ -30790,6 +31238,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺北市松山區龍田里龍城市場１樓１０４號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.556095,
+                    25.053843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺北市松山區慈祐里饒河街２０４號",
                 "pay_list": "LINE Pay Money"
             },
@@ -30804,6 +31266,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺北市松山區饒河街夜間攤販集中場２５７號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.577509,
+                    25.050989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺北市松山區復興北路２３１巷１７號",
                 "pay_list": "LINE Pay Money"
             },
@@ -30812,6 +31288,20 @@
                 "coordinates": [
                     121.54553836739,
                     25.057088018043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區夜間攤販集中場第２４３號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.563301,
+                    25.054355
                 ]
             }
         },
@@ -30882,6 +31372,20 @@
                 "coordinates": [
                     121.56076869854,
                     25.060867969879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區東勢里南京東路４段５９﹒６１號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55282,
+                    25.05185
                 ]
             }
         },
@@ -32372,6 +32876,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺北市松山區復建里八德路三段１９２號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.556135,
+                    25.047919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區復源里八德路三段１２６號",
+                "pay_list": "愛金卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.554212,
+                    25.04804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺北市松山區中正里八德路２段４２９號",
                 "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
             },
@@ -33114,6 +33646,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺北市萬華區青山里梧州街龍山托兒所旁０９號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.497767,
+                    25.038091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區龍山托兒所旁１９號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.494915,
+                    25.029322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺北市萬華區青山里華西街２號",
                 "pay_list": "LINE Pay Money"
             },
@@ -33156,6 +33716,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺北市萬華區福音里昆明街２７８、２８０號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50321,
+                    25.035408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺北市萬華區新起里康定路８１－９號",
                 "pay_list": "歐付寶"
             },
@@ -33164,6 +33738,20 @@
                 "coordinates": [
                     121.50256745708,
                     25.040221292623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區頂碩里艋舺大道１２０巷３５號",
+                "pay_list": "LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.502275,
+                    25.032062
                 ]
             }
         },
@@ -33192,6 +33780,118 @@
                 "coordinates": [
                     121.49855381592,
                     25.036647266553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區綠堤里環南綜合市場甲棟２樓６８８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.491626,
+                    25.031841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區綠堤里環南綜合市場甲棟２樓６８０號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.491626,
+                    25.031841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區環南綜合市場乙棟２樓９９２號",
+                "pay_list": "LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.511501,
+                    25.02407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區綠堤里環南綜合市場丁棟２樓１３１２號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.491626,
+                    25.031841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區綠堤里環南綜合市場丙棟２樓１００７號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.492924,
+                    25.030362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區環南綜合市場丙棟２樓１００９號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.497131,
+                    25.0185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區綠堤里環南綜合市場丙棟２樓１０１２號",
+                "pay_list": "LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.491626,
+                    25.031841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區綠堤里環南綜合市場丙棟２樓１０１４號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.491626,
+                    25.031841
                 ]
             }
         },
@@ -33282,6 +33982,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺北市萬華區萬壽里中華路１段臨８８之２號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.508613,
+                    25.044789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺北市萬華區富福里康定路２７１號",
                 "pay_list": "LINE Pay Money"
             },
@@ -33304,6 +34018,20 @@
                 "coordinates": [
                     121.50165270802,
                     25.038503815357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區綠堤里環南市場甲棟２樓６７８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.491626,
+                    25.031841
                 ]
             }
         },
@@ -33506,6 +34234,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺北市萬華區廣州街仁濟醫院２４３號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.498,
+                    25.036867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區廣州街仁濟醫院２００號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.497896,
+                    25.036677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺北市萬華區廣州街２４１號",
                 "pay_list": "LINE Pay Money"
             },
@@ -33570,6 +34326,20 @@
                 "coordinates": [
                     121.5057165014,
                     25.046433354492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區頂碩里艋舺大道１２０巷１１弄１號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.502371,
+                    25.032882
                 ]
             }
         },
@@ -33738,6 +34508,20 @@
                 "coordinates": [
                     121.5063300293,
                     25.041789628891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區西門里成都路１０巷３１．３３號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.506209,
+                    25.041865
                 ]
             }
         },
@@ -34732,6 +35516,20 @@
                 "coordinates": [
                     121.50481689371,
                     25.043307292115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區艋舺大道１０１號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.501472,
+                    25.033339
                 ]
             }
         },

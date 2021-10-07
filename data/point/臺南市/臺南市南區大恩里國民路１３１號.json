@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店\/咖啡零售\/冰果店、冷（熱）飲店\/咖啡館",
+    "address": "臺南市南區大恩里國民路１３１號１樓",
+    "x": 120.212628,
+    "y": 22.967222,
+    "shops": [
+        {
+            "shop": "栗子咖啡屋",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "臺南市善化區坐駕里中山路３２９號１樓",
+    "x": 120.29463,
+    "y": 23.131997,
+    "shops": [
+        {
+            "shop": "美好美食坊",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

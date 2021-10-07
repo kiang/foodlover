@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "一卡通": true,
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "餐食攤販",
+    "address": "臺南市善化區坐駕里善成段１４１４、１４１１地號",
+    "x": 120.299749,
+    "y": 23.125969,
+    "shops": [
+        {
+            "shop": "善化夜市",
+            "pay_list": "一卡通 \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money\/街口支付"
 }

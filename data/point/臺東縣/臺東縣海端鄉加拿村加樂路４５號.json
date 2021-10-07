@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "視聽中心\/飲料零售\/麵店、小吃店\/菸酒零售",
+    "address": "臺東縣海端鄉加拿村加樂路４５號",
+    "x": 121.131328,
+    "y": 23.009081,
+    "shops": [
+        {
+            "shop": "美伶的店",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
 }

@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "一卡通": true,
-        "LINE Pay Money": true
-    }
+    "name": "便當、自助餐店",
+    "address": "臺南市南區新興路６１號３樓－１",
+    "x": 120.196682,
+    "y": 22.978981,
+    "shops": [
+        {
+            "shop": "樂琪美食料理",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺中市沙鹿區晉江里東晉路８號１樓",
+    "x": 120.578089,
+    "y": 24.221852,
+    "shops": [
+        {
+            "shop": "卡墨輕食咖啡館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

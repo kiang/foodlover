@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市北區小北里西門路４段７０巷３號",
+    "x": 120.207041,
+    "y": 23.007339,
+    "shops": [
+        {
+            "shop": "南霸天麻辣臭豆腐",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

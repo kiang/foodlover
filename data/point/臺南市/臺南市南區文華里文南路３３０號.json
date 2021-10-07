@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市南區文華里文南路３３０號１樓",
+    "x": 120.190259,
+    "y": 22.987563,
+    "shops": [
+        {
+            "shop": "主恩之家刀削麵食店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

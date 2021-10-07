@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "咖啡館",
+    "address": "臺中市東區新庄里復興路４段２２０巷３弄２號１樓",
+    "x": 120.688901,
+    "y": 24.136253,
+    "shops": [
+        {
+            "shop": "小鳥松咖啡店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

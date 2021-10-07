@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true,
-        "愛金卡": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市西區双龍里模範市場１巷３５號１樓",
+    "x": 120.666471,
+    "y": 24.146553,
+    "shops": [
+        {
+            "shop": "酉澤商行",
+            "pay_list": "街口支付 \/ LINE Pay Money \/ 愛金卡"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money\/愛金卡"
 }

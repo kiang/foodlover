@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "高雄市燕巢區橫山里大山巷１－２號",
+    "x": 120.377402,
+    "y": 22.764126,
+    "shops": [
+        {
+            "shop": "福榮食堂",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

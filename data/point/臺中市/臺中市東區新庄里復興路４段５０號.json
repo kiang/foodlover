@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺中市東區新庄里復興路４段５０號１樓、２樓",
+    "x": 120.684219,
+    "y": 24.134803,
+    "shops": [
+        {
+            "shop": "品泉企業社",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "一卡通": true,
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市南區省躬里明興路９２９號",
+    "x": 120.18254,
+    "y": 22.933026,
+    "shops": [
+        {
+            "shop": "裕耘易商行",
+            "pay_list": "街口支付 \/ 一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/一卡通\/LINE Pay Money"
 }

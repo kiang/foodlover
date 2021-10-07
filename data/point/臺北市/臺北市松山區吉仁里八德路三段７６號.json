@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺北市松山區吉仁里八德路三段７６號（中崙市場２樓４號）",
+    "x": 121.552732,
+    "y": 25.048061,
+    "shops": [
+        {
+            "shop": "楊淑貞",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

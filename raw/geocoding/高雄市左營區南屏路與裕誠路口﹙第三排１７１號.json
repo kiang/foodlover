@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "高雄市左營區南屏路與裕誠路口﹙第三排１７１號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[高雄市]\tT:1,V:-1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:0,NO:0(+32)(-52),E:-1,N:-1",
+      "OutTraceInfo": "[高雄市]\t { 模糊比對 } (左營區)\t找到符合的[鄉鎮市區]，(南屏路)\t找到符合的[路街名]，(與裕誠路口﹙第三排)\t找不到符合的[地區]，進行轉換搜尋[路或街變成地區名]，轉換搜尋找不到符合的[地區]，(171號)\t進行[單號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +32 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -52 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "高雄市左營區新下里15鄰南屏路119號",
+      "COUNTY": "高雄市",
+      "TOWN": "左營區",
+      "VILLAGE": "新下里",
+      "NEIGHBORHOOD": "15鄰",
+      "ROAD": "南屏路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "119號",
+      "X": 120.296636,
+      "Y": 22.670769
+    },
+    {
+      "FULL_ADDR": "高雄市左營區新下里18鄰南屏路203號",
+      "COUNTY": "高雄市",
+      "TOWN": "左營區",
+      "VILLAGE": "新下里",
+      "NEIGHBORHOOD": "18鄰",
+      "ROAD": "南屏路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "203號",
+      "X": 120.297038,
+      "Y": 22.670417
+    }
+  ]
+}

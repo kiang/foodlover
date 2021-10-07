@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "咖啡館",
+    "address": "高雄市苓雅區林圍里厦門街１９號１樓",
+    "x": 120.314169,
+    "y": 22.625664,
+    "shops": [
+        {
+            "shop": "我的咖啡店",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

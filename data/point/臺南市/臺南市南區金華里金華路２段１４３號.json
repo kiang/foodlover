@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "一卡通": true,
-        "LINE Pay Money": true,
-        "愛金卡": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市南區金華里金華路２段１４３號１樓",
+    "x": 120.191226,
+    "y": 22.980637,
+    "shops": [
+        {
+            "shop": "布萊壎有限公司",
+            "pay_list": "一卡通 \/ LINE Pay Money \/ 愛金卡"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
 }

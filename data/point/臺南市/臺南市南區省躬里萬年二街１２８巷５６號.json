@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市南區省躬里萬年二街１２８巷５６號十三樓",
+    "x": 120.187836,
+    "y": 22.933543,
+    "shops": [
+        {
+            "shop": "漫步佐敦",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

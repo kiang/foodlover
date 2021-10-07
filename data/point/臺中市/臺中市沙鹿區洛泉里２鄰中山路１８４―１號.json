@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "未分類其他家用器具及用品零售\/冰果店、冷（熱）飲店",
+    "address": "臺中市沙鹿區洛泉里２鄰中山路１８４―１號１樓",
+    "x": 120.567279,
+    "y": 24.236775,
+    "shops": [
+        {
+            "shop": "竹林茶棧",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

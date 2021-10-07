@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺南市善化區光文里中山路１９１號",
+    "x": 120.300075,
+    "y": 23.13251,
+    "shops": [
+        {
+            "shop": "家安廚房商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

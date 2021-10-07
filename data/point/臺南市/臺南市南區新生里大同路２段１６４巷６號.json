@@ -1,8 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "一卡通": true,
-        "LINE Pay Money": true,
-        "愛金卡": true
-    }
+    "name": "早餐店",
+    "address": "臺南市南區新生里大同路２段１６４巷６號",
+    "x": 120.213029,
+    "y": 22.977833,
+    "shops": [
+        {
+            "shop": "品宸早餐店",
+            "pay_list": "街口支付 \/ 一卡通 \/ LINE Pay Money \/ 愛金卡"
+        }
+    ],
+    "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
 }

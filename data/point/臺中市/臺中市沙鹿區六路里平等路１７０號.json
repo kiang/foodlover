@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺中市沙鹿區六路里平等路１７０號１樓",
+    "x": 120.579123,
+    "y": 24.218392,
+    "shops": [
+        {
+            "shop": "宅食趣",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

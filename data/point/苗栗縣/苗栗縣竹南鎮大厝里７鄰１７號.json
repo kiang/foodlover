@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "未分類其他食品、飲料及菸草製品零售\/冰果店、冷（熱）飲店",
+    "address": "苗栗縣竹南鎮大厝里７鄰１７號",
+    "x": 120.876523,
+    "y": 24.675909,
+    "shops": [
+        {
+            "shop": "二笨食品行",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

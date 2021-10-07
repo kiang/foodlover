@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市沙鹿區鹿寮里０２１鄰光華路３２４號１樓",
+    "x": 120.565144,
+    "y": 24.24198,
+    "shops": [
+        {
+            "shop": "吉立美食",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

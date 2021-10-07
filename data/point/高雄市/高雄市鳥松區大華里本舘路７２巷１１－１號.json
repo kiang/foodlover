@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "未分類其他食品、飲料及菸草製品零售\/咖啡館\/未分類其他食品批發\/咖啡批發",
+    "address": "高雄市鳥松區大華里本舘路７２巷１１－１號１樓",
+    "x": 120.340523,
+    "y": 22.652749,
+    "shops": [
+        {
+            "shop": "春正商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

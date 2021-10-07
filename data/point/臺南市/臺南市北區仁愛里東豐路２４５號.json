@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "飲酒店\/冰果店、冷（熱）飲店\/咖啡館",
+    "address": "臺南市北區仁愛里東豐路２４５號１樓",
+    "x": 120.221483,
+    "y": 23.003202,
+    "shops": [
+        {
+            "shop": "一方咖啡館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "早餐店",
+    "address": "臺南市北區公園里成功路２２巷５之５號１樓",
+    "x": 120.20929,
+    "y": 22.999329,
+    "shops": [
+        {
+            "shop": "日十早午餐",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

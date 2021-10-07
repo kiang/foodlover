@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市沙鹿區北勢里北勢東路６９８號１樓",
+    "x": 120.572008,
+    "y": 24.22978,
+    "shops": [
+        {
+            "shop": "八仙商號",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

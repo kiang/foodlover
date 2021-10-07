@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店\/民宿",
+    "address": "臺東縣綠島鄉中寮村１０鄰中寮路５２號",
+    "x": 121.472707,
+    "y": 22.673463,
+    "shops": [
+        {
+            "shop": "梅蓮民宿",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

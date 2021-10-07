@@ -5506,6 +5506,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市三民區大順二路５５巷口與４３號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.325748,
+                    22.64072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市三民區灣利里建工路４８２號",
                 "pay_list": "LINE Pay Money"
             },
@@ -5542,6 +5556,20 @@
                 "coordinates": [
                     120.30650607282,
                     22.644548658337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區寶玉里大豐二路３３９、３４１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.334618,
+                    22.649228
                 ]
             }
         },
@@ -5612,6 +5640,20 @@
                 "coordinates": [
                     120.32196478084,
                     22.653194297402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區寶德里義仁路２１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.33437,
+                    22.642572
                 ]
             }
         },
@@ -6550,6 +6592,20 @@
                 "coordinates": [
                     120.29467193096,
                     22.642095146228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區鼎力里民族一路６１７、６１９號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.316991,
+                    22.669312
                 ]
             }
         },
@@ -8488,6 +8544,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市仁武區後安里永宏巷３８－３０號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.344682,
+                    22.713795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市仁武區大灣里００５鄰仁雄路１８２號",
                 "pay_list": "台灣 PAY\/LINE Pay Money"
             },
@@ -8958,6 +9028,20 @@
                 "coordinates": [
                     120.69967663077,
                     23.109294208916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前金區前金公有零售市場乙字第１３號",
+                "pay_list": "歐付寶"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.299632,
+                    22.629003
                 ]
             }
         },
@@ -10168,6 +10252,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市前金區後金里六合二路２４２．２４４號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.290459,
+                    22.62936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市前金區博孝里成功一路２９５號",
                 "pay_list": "台灣 PAY"
             },
@@ -10218,6 +10316,20 @@
                 "coordinates": [
                     120.29750339656,
                     22.619078274646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前金區文東里中華四路３２８．３３０號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2992,
+                    22.621407
                 ]
             }
         },
@@ -10358,6 +10470,20 @@
                 "coordinates": [
                     120.2977956622,
                     22.619316157946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前金區後金里成功一路４６５、４６７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.29173,
+                    22.629069
                 ]
             }
         },
@@ -12464,6 +12590,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市前鎮區西甲里西甲中巷２５號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307233,
+                    22.610565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市前鎮區明義里草衙二路３２２號",
                 "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
@@ -13752,6 +13892,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市大寮區大寮里光明路２段３９６—２號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.420573,
+                    22.586027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市大寮區永芳里萬丹路４０９號",
                 "pay_list": "LINE Pay Money\/街口支付"
             },
@@ -13760,6 +13914,20 @@
                 "coordinates": [
                     120.40240021164,
                     22.613805868244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市大寮區潮寮里華中南路〈潮寮北段６９６地號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.429008,
+                    22.569071
                 ]
             }
         },
@@ -15824,6 +15992,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市大社區大社里中正路２７、２９號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.348754,
+                    22.733062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市大社區大社里中山路２５７號",
                 "pay_list": "LINE Pay Money"
             },
@@ -16398,6 +16580,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市小港區濟南里宏平路２８２、２８６號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.356961,
+                    22.570126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市小港區六苓里漢民路６６９號",
                 "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
@@ -16630,6 +16826,20 @@
                 "coordinates": [
                     120.35332047193,
                     22.566580713656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市小港區松金里高松路１４８、１５０號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.36584,
+                    22.573105
                 ]
             }
         },
@@ -17728,6 +17938,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市小港區康莊路８８巷第１３號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.35548,
+                    22.567817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市小港區三苓里二苓路１７２號",
                 "pay_list": "LINE Pay Money"
             },
@@ -18568,6 +18792,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市岡山區大遼里捷安路２８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.300576,
+                    22.782059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市岡山區大遼里捷安路２６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.300656,
+                    22.781556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市岡山區仁壽里阿公店路２段１３５號",
                 "pay_list": "台灣 PAY"
             },
@@ -18898,6 +19150,20 @@
                 "coordinates": [
                     120.29895562748,
                     22.790373407787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市岡山區大遼里崙仔頂路１－２號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.312552,
+                    22.778243
                 ]
             }
         },
@@ -20346,6 +20612,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市左營區南屏路與裕誠路口﹙瑞豐夜市攤位號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293921,
+                    22.67273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市左營區自助里左營大路２－５８號",
                 "pay_list": "街口支付"
             },
@@ -20382,6 +20662,34 @@
                 "coordinates": [
                     120.28920817065,
                     22.670418990704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市左營區南屏路與裕誠路口﹙１排５．６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295063,
+                    22.67161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市左營區南屏路與裕誠路口﹙第三排１７１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.296636,
+                    22.670769
                 ]
             }
         },
@@ -20438,6 +20746,48 @@
                 "coordinates": [
                     120.31712580061,
                     22.684330426846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市左營區南屏路與裕誠路口﹙第１３排﹚６９９．７００．７２５號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.300079,
+                    22.667242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市左營區南屏路與裕誠路口（第１１排５９５號",
+                "pay_list": "一卡通\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.300079,
+                    22.667242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市左營區新下里博愛二路７６７及７７７號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.303118,
+                    22.670155
                 ]
             }
         },
@@ -20550,6 +20900,20 @@
                 "coordinates": [
                     120.30076371953,
                     22.671444619685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市左營區新上里光興街１５９、１６１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.311485,
+                    22.663855
                 ]
             }
         },
@@ -22278,6 +22642,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市左營區埤西里南大路４號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.288998,
+                    22.682293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市左營區海勝里城峰路６２號",
                 "pay_list": "LINE Pay Money"
             },
@@ -22762,6 +23140,20 @@
                 "coordinates": [
                     120.29887640512,
                     22.631854386322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市新興區秋山里六合二路５６、５８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.299885,
+                    22.632508
                 ]
             }
         },
@@ -23524,6 +23916,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市新興區中正四路４６、４６之１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.299266,
+                    22.630744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市新興區成功里中正三路１１０號",
                 "pay_list": "台灣 PAY"
             },
@@ -23574,6 +23980,20 @@
                 "coordinates": [
                     120.29870021123,
                     22.632260086649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市新興區德生里民生一路２３、２５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308115,
+                    22.627099
                 ]
             }
         },
@@ -24414,6 +24834,20 @@
                 "coordinates": [
                     120.3077762228,
                     22.628389046967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市新興區光耀里民族二路４３、４５號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.312877,
+                    22.630226
                 ]
             }
         },
@@ -25918,6 +26352,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市旗津區永安里廟前路３５、４１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.268304,
+                    22.613087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市旗津區振興里廟前路６６號",
                 "pay_list": "台灣 PAY\/LINE Pay Money"
             },
@@ -25954,6 +26402,20 @@
                 "coordinates": [
                     120.26776290782,
                     22.612046347874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市旗津區中洲里中洲巷６８之１６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.298937,
+                    22.575267
                 ]
             }
         },
@@ -26632,6 +27094,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市林園區潭頭里清水岩路１８２巷１０－１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.392356,
+                    22.520897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市林園區仁愛里００２鄰東林西路２０２號",
                 "pay_list": "LINE Pay Money"
             },
@@ -26766,6 +27242,62 @@
                 "coordinates": [
                     120.39469024675,
                     22.511768472256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市桃源區桃源里２鄰北進巷３７號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.765231,
+                    23.159541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市桃源區寶山里寶山巷７３之１號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.720933,
+                    23.054424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市桃源區桃源里北進巷２８號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.764799,
+                    23.159437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市桃源區梅山里梅山巷５６號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.826077,
+                    23.264479
                 ]
             }
         },
@@ -27494,6 +28026,20 @@
                 "coordinates": [
                     120.29716972989,
                     22.723952841309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市楠梓區宏毅里宏毅二路北２巷３８號",
+                "pay_list": "一卡通\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304717,
+                    22.715282
                 ]
             }
         },
@@ -28320,6 +28866,20 @@
                 "coordinates": [
                     120.30304438706,
                     22.726001407537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市楠梓區國昌里德民路８５８、８６０號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.286976,
+                    22.719821
                 ]
             }
         },
@@ -29908,6 +30468,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市橋頭區東林里興樹路成功巷３５號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.299242,
+                    22.76387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市橋頭區橋南里興糖路５巷１號",
                 "pay_list": "台灣 PAY"
             },
@@ -30482,6 +31056,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市燕巢區橫山里大山巷１－２號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.377402,
+                    22.764126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市燕巢區橫山里橫山路５５號",
                 "pay_list": "LINE Pay Money"
             },
@@ -30602,6 +31190,20 @@
                 "coordinates": [
                     120.35867494531,
                     22.793532708549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市燕巢區鳳旗路１９６．１９８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.350669,
+                    22.753316
                 ]
             }
         },
@@ -31294,6 +31896,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市苓雅區福西里林靖攤販集中場１２號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.331183,
+                    22.623494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市苓雅區五福里憲政路７２號",
                 "pay_list": "LINE Pay Money"
             },
@@ -31596,6 +32212,20 @@
                 "coordinates": [
                     120.33201425623,
                     22.619126497109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區中華公有零售市場攤位４８號",
+                "pay_list": "一卡通\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.320079,
+                    22.620864
                 ]
             }
         },
@@ -32002,6 +32632,20 @@
                 "coordinates": [
                     120.31069041505,
                     22.621252805296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區林安里五福一路１１１、１１３之１、２、３號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.311457,
+                    22.626348
                 ]
             }
         },
@@ -32778,6 +33422,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市苓雅區林安里五福一路１８７、１８９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.311457,
+                    22.626348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市苓雅區林圍里青年一路８―４號",
                 "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
@@ -32856,6 +33514,20 @@
                 "coordinates": [
                     120.29797854304,
                     22.617935082291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區普天里三多二路３０２、３０６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.314734,
+                    22.617581
                 ]
             }
         },
@@ -33002,6 +33674,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市苓雅區城東里中山二路３５５、３５７號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.303597,
+                    22.615501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市苓雅區意誠里新光路１４０巷４１號",
                 "pay_list": "台灣 PAY"
             },
@@ -33122,6 +33808,20 @@
                 "coordinates": [
                     120.29797974776,
                     22.613979644886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區城西里中華四路７１及７５號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.301347,
+                    22.614508
                 ]
             }
         },
@@ -33744,6 +34444,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市苓雅區林圍里厦門街１９號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.314169,
+                    22.625664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區正言里正言路１５、１７號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.329739,
+                    22.630469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市苓雅區安祥里六合路２６號",
                 "pay_list": "台灣 PAY"
             },
@@ -33808,6 +34536,62 @@
                 "coordinates": [
                     120.31825232702,
                     22.618264972893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市茂林區茂林里茂林巷１２之６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.652727,
+                    22.878892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市茂林區茂林里茂林巷１３８號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.67591,
+                    22.896829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市茂林區茂林里茂林巷１１６號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.667942,
+                    22.885003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市茂林區茂林里茂林巷１２之４號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.649883,
+                    22.880089
                 ]
             }
         },
@@ -34514,6 +35298,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市路竹區復興路３１３巷８號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.27412,
+                    22.848336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市路竹區甲南里大仁路５２２號",
                 "pay_list": "LINE Pay Money"
             },
@@ -34746,6 +35544,90 @@
                 "coordinates": [
                     120.35292389379,
                     22.733589108462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市那瑪夏區達卡努瓦大光巷５７號",
+                "pay_list": "一卡通\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.694687,
+                    23.216909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市那瑪夏區達卡努瓦７鄰大光巷１５６號",
+                "pay_list": "街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.719558,
+                    23.277225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市那瑪夏區達卡努瓦里大光巷１８８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.719202,
+                    23.273917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市那瑪夏區瑪雅里平和巷２９號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.697557,
+                    23.238244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市那瑪夏區達卡努瓦秀嶺巷１１０號",
+                "pay_list": "LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.693304,
+                    23.218916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市那瑪夏區達卡努瓦秀嶺巷１９６號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.717348,
+                    23.27004
                 ]
             }
         },
@@ -35004,6 +35886,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市鳥松區本館路與本昌街口大華段地號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.346725,
+                    22.647413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳥松區大華里本舘路６－１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.346536,
+                    22.648032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市鳥松區仁美里學堂路２９號",
                 "pay_list": "LINE Pay Money"
             },
@@ -35130,6 +36040,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市鳥松區坔埔里同富街１３２巷２弄２號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.384923,
+                    22.655109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市鳥松區鳥松里大埤路１２３號",
                 "pay_list": "一卡通\/街口支付\/LINE Pay Money"
             },
@@ -35158,6 +36082,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市鳥松區夢裡里夢裡西巷４０號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.357345,
+                    22.667619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳥松區大華里本舘路４３９－６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.334632,
+                    22.656599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市鳥松區鳥松里中正路２５１號",
                 "pay_list": "街口支付\/一卡通\/愛金卡"
             },
@@ -35166,6 +36118,20 @@
                 "coordinates": [
                     120.36381514028,
                     22.659849047355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳥松區大華里本館路２７９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.339943,
+                    22.652276
                 ]
             }
         },
@@ -35236,6 +36202,20 @@
                 "coordinates": [
                     120.36302224806,
                     22.662456951066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳥松區大華里本舘路７２巷１１－１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.340523,
+                    22.652749
                 ]
             }
         },
@@ -35320,6 +36300,20 @@
                 "coordinates": [
                     120.34033050007,
                     22.652057396583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳥松區大華里本舘路２７９―１號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.346778,
+                    22.647403
                 ]
             }
         },
@@ -35418,6 +36412,34 @@
                 "coordinates": [
                     120.36308856616,
                     22.66402657384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳥松區大華里０１６鄰本舘路１９６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.335888,
+                    22.655947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳥松區大華里本舘路２１２號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.335417,
+                    22.656351
                 ]
             }
         },
@@ -36356,6 +37378,20 @@
                 "coordinates": [
                     120.34937826661,
                     22.613412649519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區文德里八德路二段２８０號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.351356,
+                    22.644601
                 ]
             }
         },
@@ -37412,6 +38448,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市鳳山區文德里文衡路５９８－１及５９８－２號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.346185,
+                    22.641971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市鳳山區文德里青年路二段３７２號",
                 "pay_list": "街口支付\/LINE Pay Money"
             },
@@ -37490,6 +38540,20 @@
                 "coordinates": [
                     120.34368911551,
                     22.606220146592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區文德里八德路二段２７５號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.351685,
+                    22.644691
                 ]
             }
         },
@@ -38350,6 +39414,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市鹽埕區河濱里大勇路５８、６０號",
+                "pay_list": "街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.283784,
+                    22.623163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市鹽埕區光明里五福四路１６０號",
                 "pay_list": "LINE Pay Money"
             },
@@ -38610,6 +39688,20 @@
                 "coordinates": [
                     120.28442779553,
                     22.623410031975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鹽埕區光明里莒光街１９８，２００號",
+                "pay_list": "一卡通"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.285528,
+                    22.624851
                 ]
             }
         },
@@ -39750,6 +40842,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市鼓山區龍華段二小段７７７地號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.270217,
+                    22.621891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市鼓山區華豐里華榮路３２１號",
                 "pay_list": "LINE Pay Money"
             },
@@ -39758,6 +40864,20 @@
                 "coordinates": [
                     120.29642971187,
                     22.666847472225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鼓山區龍華段二小段７７６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.279377,
+                    22.651526
                 ]
             }
         },
@@ -39960,6 +41080,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市鼓山區延平里濱海一路７４、７６、７８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.270993,
+                    22.619927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市鼓山區龍子里大順一路１０５號",
                 "pay_list": "台灣 PAY\/LINE Pay Money"
             },
@@ -39968,6 +41102,20 @@
                 "coordinates": [
                     120.30722422418,
                     22.656679856312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鼓山區龍水里美術東２路２４９號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.288274,
+                    22.663361
                 ]
             }
         },
@@ -41080,6 +42228,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市鼓山區龍子里明誠三路１、３號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.302372,
+                    22.661003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市鼓山區華豐里明倫路９３號",
                 "pay_list": "LINE Pay Money"
             },
@@ -41150,6 +42312,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市鼓山區明誠里明華路２４８、２５０號",
+                "pay_list": "街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.302072,
+                    22.662728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市鼓山區民強里西藏街１７７號",
                 "pay_list": "LINE Pay Money"
             },
@@ -41172,6 +42348,20 @@
                 "coordinates": [
                     120.29769328204,
                     22.654697503189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鼓山區維生里濱海一路８９﹒９１號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.270849,
+                    22.619646
                 ]
             }
         },

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "臺南市北區福德里文成路１９２號",
+    "x": 120.203755,
+    "y": 23.013175,
+    "shops": [
+        {
+            "shop": "納貝餐飲有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

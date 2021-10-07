@@ -1,6 +1,17 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市沙鹿區鹿寮里成功東街２０號１樓",
+    "x": 120.561914,
+    "y": 24.242356,
+    "shops": [
+        {
+            "shop": "魔王狂爆雞排",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "鑫億商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

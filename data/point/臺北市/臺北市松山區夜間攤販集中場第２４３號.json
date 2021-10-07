@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "臺北市松山區夜間攤販集中場第２４３號",
+    "x": 121.563301,
+    "y": 25.054355,
+    "shops": [
+        {
+            "shop": "冰心泡芙",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

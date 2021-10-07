@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "咖啡館",
+    "address": "臺南市南區興農里明興路１１５１巷１０之２號",
+    "x": 120.186676,
+    "y": 22.926947,
+    "shops": [
+        {
+            "shop": "寧蒙咖啡",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

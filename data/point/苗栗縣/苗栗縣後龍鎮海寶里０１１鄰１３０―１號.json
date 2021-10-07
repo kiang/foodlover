@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "一卡通": true,
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "苗栗縣後龍鎮海寶里０１１鄰１３０―１號",
+    "x": 120.833348,
+    "y": 24.658149,
+    "shops": [
+        {
+            "shop": "天使魚手作坊",
+            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
 }

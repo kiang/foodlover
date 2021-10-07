@@ -1,8 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "一卡通": true,
-        "LINE Pay Money": true,
-        "愛金卡": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺中市沙鹿區西勢里中航路一段２３１號",
+    "x": 120.600138,
+    "y": 24.256284,
+    "shops": [
+        {
+            "shop": "中航茶行",
+            "pay_list": "街口支付 \/ 一卡通 \/ LINE Pay Money \/ 愛金卡"
+        }
+    ],
+    "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
 }

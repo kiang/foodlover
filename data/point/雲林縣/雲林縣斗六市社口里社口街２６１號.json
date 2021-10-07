@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "餐館、餐廳",
+    "address": "雲林縣斗六市社口里社口街２６１號",
+    "x": 120.544231,
+    "y": 23.700254,
+    "shops": [
+        {
+            "shop": "圓砌升降鍋物",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

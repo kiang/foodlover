@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店\/泛舟等水域遊憩活動",
+    "address": "臺東縣蘭嶼鄉朗島村５鄰１７３號前面",
+    "x": 121.526456,
+    "y": 22.078074,
+    "shops": [
+        {
+            "shop": "陳食鋪",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

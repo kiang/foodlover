@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "臺中市沙鹿區北勢里北勢東路７１４巷２９號１樓",
+    "x": 120.571659,
+    "y": 24.230574,
+    "shops": [
+        {
+            "shop": "多福祿小館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

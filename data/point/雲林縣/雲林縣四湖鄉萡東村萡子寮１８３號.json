@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "雲林縣四湖鄉萡東村萡子寮１８３號",
+    "x": 120.151368,
+    "y": 23.626933,
+    "shops": [
+        {
+            "shop": "阿順師餐飲企業社",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

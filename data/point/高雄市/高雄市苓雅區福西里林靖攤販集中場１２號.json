@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "高雄市苓雅區福西里林靖攤販集中場１２號",
+    "x": 120.331183,
+    "y": 22.623494,
+    "shops": [
+        {
+            "shop": "陳姿吟",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

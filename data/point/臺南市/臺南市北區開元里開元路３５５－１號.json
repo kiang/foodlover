@@ -1,8 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "一卡通": true,
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "乳製品（奶粉除外）零售\/水果零售\/冰果店、冷（熱）飲店",
+    "address": "臺南市北區開元里開元路３５５－１號１樓",
+    "x": 120.22256,
+    "y": 23.008846,
+    "shops": [
+        {
+            "shop": "盈心實業社",
+            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
 }

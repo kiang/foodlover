@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "一卡通": true,
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市北區大和里大和路３３０巷５２號１樓",
+    "x": 120.190556,
+    "y": 23.014796,
+    "shops": [
+        {
+            "shop": "緣鴻商號",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money"
 }

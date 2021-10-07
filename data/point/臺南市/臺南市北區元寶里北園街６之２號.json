@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "飲料零售\/麵店、小吃店",
+    "address": "臺南市北區元寶里北園街６之２號１樓",
+    "x": 120.223354,
+    "y": 23.010141,
+    "shops": [
+        {
+            "shop": "嘉美食堂",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

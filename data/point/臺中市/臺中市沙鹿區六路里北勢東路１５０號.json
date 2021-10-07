@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺中市沙鹿區六路里北勢東路１５０號１樓",
+    "x": 120.580622,
+    "y": 24.21011,
+    "shops": [
+        {
+            "shop": "在一起早餐店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

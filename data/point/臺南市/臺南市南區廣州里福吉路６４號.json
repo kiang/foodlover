@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "咖啡館",
+    "address": "臺南市南區廣州里福吉路６４號４樓",
+    "x": 120.193136,
+    "y": 22.982052,
+    "shops": [
+        {
+            "shop": "午營股份有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市梧棲區文化里中和街３３號１樓",
+    "x": 120.531071,
+    "y": 24.25428,
+    "shops": [
+        {
+            "shop": "一家牛肉麵館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

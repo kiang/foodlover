@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "高雄市燕巢區鳳旗路１９６．１９８號１樓",
+    "x": 120.350669,
+    "y": 22.753316,
+    "shops": [
+        {
+            "shop": "滿溢深海魚湯肉燥飯",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

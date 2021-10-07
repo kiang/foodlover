@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "一卡通": true,
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "高雄市左營區南屏路與裕誠路口（第１１排５９５號）",
+    "x": 120.300079,
+    "y": 22.667242,
+    "shops": [
+        {
+            "shop": "海賊王大章魚小丸子",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money"
 }

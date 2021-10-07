@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "臺中市沙鹿區埔子里都會南街３７５巷１５號",
+    "x": 120.587301,
+    "y": 24.193245,
+    "shops": [
+        {
+            "shop": "肇健實業社營業所",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

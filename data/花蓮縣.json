@@ -1796,6 +1796,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "花蓮縣吉安鄉東昌村東里１５街７６巷５號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.597902,
+                    23.962672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "花蓮縣吉安鄉北昌村０２８鄰北昌五街８號",
                 "pay_list": "LINE Pay Money"
             },
@@ -2874,6 +2888,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "花蓮縣吉安鄉慶豐村慶南３街２４２之１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.567113,
+                    23.977699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "花蓮縣吉安鄉勝安村００６鄰自立路一段１８號",
                 "pay_list": "LINE Pay Money"
             },
@@ -3224,6 +3252,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "花蓮縣壽豐鄉鹽寮村大橋３６－１１、３６－１３號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.607011,
+                    23.930924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "花蓮縣壽豐鄉池南村環潭南路２號",
                 "pay_list": "台灣 PAY"
             },
@@ -3490,6 +3532,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "花蓮縣壽豐鄉志學村００２鄰路內２號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.528953,
+                    23.913066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "花蓮縣壽豐鄉志學村中正路１９９號",
                 "pay_list": "台灣 PAY\/LINE Pay Money"
             },
@@ -3602,6 +3658,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "花蓮縣新城鄉新城村０１９鄰新興七街１６號",
+                "pay_list": "台灣 PAY\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.641369,
+                    24.125907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "花蓮縣新城鄉大漢村七星街９號",
                 "pay_list": "台灣 PAY"
             },
@@ -3680,6 +3750,20 @@
                 "coordinates": [
                     121.60527904134,
                     24.036464628741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣新城鄉新城村００２鄰博愛路２０．２２號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.649788,
+                    24.128437
                 ]
             }
         },
@@ -4022,6 +4106,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "花蓮縣玉里鎮樂合里５鄰溫泉３６－３．３６－４號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.342453,
+                    23.280669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "花蓮縣玉里鎮中城里０３４鄰樂園街７號",
                 "pay_list": "LINE Pay Money"
             },
@@ -4274,6 +4372,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "花蓮縣瑞穗鄉瑞祥村３鄰溫泉路１段２３１號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.346305,
+                    23.495124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣瑞穗鄉瑞祥村０１２鄰溫泉路二段３６８號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.350295,
+                    23.494287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "花蓮縣瑞穗鄉富源村廣東路１６１號",
                 "pay_list": "LINE Pay Money"
             },
@@ -4394,6 +4520,20 @@
                 "coordinates": [
                     121.35550241449,
                     23.46323585382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣瑞穗鄉瑞穗村０２１鄰中華路１、３號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.377941,
+                    23.498221
                 ]
             }
         },
@@ -4604,6 +4744,20 @@
                 "coordinates": [
                     121.65055654152,
                     24.158861702576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣秀林鄉崇德村下台地段０５３７－００００地號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.653188,
+                    24.166604
                 ]
             }
         },
@@ -5226,6 +5380,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "花蓮縣花蓮市國聯里９鄰商校街２５８、２６０、２６２號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.598221,
+                    23.987041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "花蓮縣花蓮市主和里０２５鄰中福路１２２號",
                 "pay_list": "街口支付\/一卡通\/LINE Pay Money"
             },
@@ -5338,6 +5506,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "花蓮縣花蓮市國裕里富吉路２之２、２之３號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.599839,
+                    23.994519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "花蓮縣花蓮市國治里０１２鄰節約街１６―１號",
                 "pay_list": "台灣 PAY"
             },
@@ -5374,6 +5556,20 @@
                 "coordinates": [
                     121.62081309991,
                     23.999245501906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主力里中和街２２８﹒２３０號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.598414,
+                    23.974554
                 ]
             }
         },
@@ -5632,6 +5828,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "花蓮縣花蓮市民德里育樂新村９號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.621953,
+                    23.982545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "花蓮縣花蓮市民意里００１鄰府前路４００號",
                 "pay_list": "台灣 PAY"
             },
@@ -5752,6 +5962,20 @@
                 "coordinates": [
                     121.6208821011,
                     23.985146783945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民德里育樂新村８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.621953,
+                    23.982545
                 ]
             }
         },
@@ -6402,6 +6626,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "花蓮縣花蓮市主力里００６鄰和平路４５１，４５３號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.600798,
+                    23.977143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國光里００３鄰大同街８７、８９號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.609378,
+                    23.982638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "花蓮縣花蓮市國慶里中山路一段３８６―６號",
                 "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
@@ -6466,6 +6718,20 @@
                 "coordinates": [
                     121.52246630797,
                     23.600537595709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣豐濱鄉靜浦村２鄰９６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.497038,
+                    23.46243
                 ]
             }
         },

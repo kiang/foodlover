@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "臺南市南區文南里健康路２段２２８號１樓",
+    "x": 120.191235,
+    "y": 22.981719,
+    "shops": [
+        {
+            "shop": "明德素食軒",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

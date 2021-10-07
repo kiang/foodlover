@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "高雄市鳥松區坔埔里同富街１３２巷２弄２號",
+    "x": 120.384923,
+    "y": 22.655109,
+    "shops": [
+        {
+            "shop": "戲蚵海鮮燒烤",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

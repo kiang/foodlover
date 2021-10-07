@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺南市善化區蓮潭里善新大道３０９號",
+    "x": 120.310896,
+    "y": 23.116803,
+    "shops": [
+        {
+            "shop": "奕廣商行",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

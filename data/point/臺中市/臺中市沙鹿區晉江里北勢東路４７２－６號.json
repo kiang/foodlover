@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "臺中市沙鹿區晉江里北勢東路４７２－６號１樓",
+    "x": 120.577636,
+    "y": 24.223127,
+    "shops": [
+        {
+            "shop": "蒙燒飲食店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

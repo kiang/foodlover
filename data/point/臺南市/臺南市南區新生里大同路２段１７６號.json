@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市南區新生里大同路２段１７６號１樓",
+    "x": 120.213392,
+    "y": 22.97726,
+    "shops": [
+        {
+            "shop": "沛妍商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

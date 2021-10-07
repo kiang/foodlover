@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺南市北區和順里海安路３段１７６號１樓",
+    "x": 120.20025,
+    "y": 23.005466,
+    "shops": [
+        {
+            "shop": "海安活力早餐",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "臺南市北區成功里西門路４段１０１號（府城攤販集中場Ａ５４號）",
+    "x": 120.210646,
+    "y": 23.016558,
+    "shops": [
+        {
+            "shop": "五香臭豆腐（府城攤販集中場Ａ５４號）",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

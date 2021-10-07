@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "花蓮縣吉安鄉東昌村東里１５街７６巷５號",
+    "x": 121.597902,
+    "y": 23.962672,
+    "shops": [
+        {
+            "shop": "日船章魚小丸子吉安店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

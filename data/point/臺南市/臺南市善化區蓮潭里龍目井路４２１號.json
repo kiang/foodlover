@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺南市善化區蓮潭里龍目井路４２１號１樓",
+    "x": 120.305616,
+    "y": 23.109199,
+    "shops": [
+        {
+            "shop": "文青飲食店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

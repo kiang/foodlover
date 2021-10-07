@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺中市沙鹿區三鹿里向上路７段２１號",
+    "x": 120.566522,
+    "y": 24.203824,
+    "shops": [
+        {
+            "shop": "奔源企業社",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

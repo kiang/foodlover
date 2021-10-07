@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "一卡通": true,
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市南區鹽埕里金華路１段３０７號旁",
+    "x": 120.190151,
+    "y": 22.968772,
+    "shops": [
+        {
+            "shop": "古都香臭臭鍋",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money"
 }

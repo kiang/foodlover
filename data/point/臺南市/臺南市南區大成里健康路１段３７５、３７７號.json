@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "臺南市南區大成里健康路１段３７５、３７７號１樓",
+    "x": 120.198292,
+    "y": 22.981317,
+    "shops": [
+        {
+            "shop": "英倫港式餐廳有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

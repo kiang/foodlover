@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市北區福德里和緯路２段３８６號１樓",
+    "x": 120.203801,
+    "y": 23.012625,
+    "shops": [
+        {
+            "shop": "費尼希卡義式冰淇淋",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "未分類其他家用器具及用品零售\/麵店、小吃店",
+    "address": "臺中市豐原區西湳里三豐路二段３１７號",
+    "x": 120.721569,
+    "y": 24.271559,
+    "shops": [
+        {
+            "shop": "士官長肉包三豐店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

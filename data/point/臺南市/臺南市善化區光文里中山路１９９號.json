@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市善化區光文里中山路１９９號１樓",
+    "x": 120.29982,
+    "y": 23.132494,
+    "shops": [
+        {
+            "shop": "大鵬冷熱飲店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "歐付寶": true,
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市沙鹿區洛泉里日新街１０１號",
+    "x": 120.561282,
+    "y": 24.236898,
+    "shops": [
+        {
+            "shop": "丁丁咬一口株式會社",
+            "pay_list": "歐付寶 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "歐付寶\/LINE Pay Money"
 }

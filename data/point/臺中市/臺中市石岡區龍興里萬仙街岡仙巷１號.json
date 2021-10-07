@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "菸酒零售\/麵店、小吃店\/視唱中心（ＫＴＶ）",
+    "address": "臺中市石岡區龍興里萬仙街岡仙巷１號",
+    "x": 120.787118,
+    "y": 24.263075,
+    "shops": [
+        {
+            "shop": "五福飲食店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

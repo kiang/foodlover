@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺東縣鹿野鄉永安村９鄰高台路４２巷１０５弄１９號",
+    "x": 121.121589,
+    "y": 22.915037,
+    "shops": [
+        {
+            "shop": "老王咖啡店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

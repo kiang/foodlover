@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "臺南市南區金華里新孝路１３２號１樓",
+    "x": 120.186251,
+    "y": 22.977961,
+    "shops": [
+        {
+            "shop": "貳礫吐司工坊",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

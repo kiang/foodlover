@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "其他水產品批發\/成畜批發\/餐館、餐廳",
+    "address": "臺中市沙鹿區竹林里中山路３２－９號",
+    "x": 120.578902,
+    "y": 24.237956,
+    "shops": [
+        {
+            "shop": "竹林餐飲有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

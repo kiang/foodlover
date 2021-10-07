@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店\/冰果店、冷（熱）飲店",
+    "address": "高雄市小港區松金里高松路１４８、１５０號１樓",
+    "x": 120.36584,
+    "y": 22.573105,
+    "shops": [
+        {
+            "shop": "築地小火鍋",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

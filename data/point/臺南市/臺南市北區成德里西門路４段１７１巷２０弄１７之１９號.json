@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市北區成德里西門路４段１７１巷２０弄１７之１９號",
+    "x": 120.206425,
+    "y": 23.011507,
+    "shops": [
+        {
+            "shop": "喜烘廚美味廚房",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

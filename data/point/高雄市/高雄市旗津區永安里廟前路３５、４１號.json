@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "高雄市旗津區永安里廟前路３５、４１號",
+    "x": 120.268304,
+    "y": 22.613087,
+    "shops": [
+        {
+            "shop": "旗津海產店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

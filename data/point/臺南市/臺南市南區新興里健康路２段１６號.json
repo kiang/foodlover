@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市南區新興里健康路２段１６號１樓",
+    "x": 120.197155,
+    "y": 22.981676,
+    "shops": [
+        {
+            "shop": "允承冰品店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

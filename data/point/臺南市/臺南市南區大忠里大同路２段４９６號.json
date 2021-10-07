@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市南區大忠里大同路２段４９６號１樓",
+    "x": 120.214578,
+    "y": 22.972664,
+    "shops": [
+        {
+            "shop": "神來也茶飲館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

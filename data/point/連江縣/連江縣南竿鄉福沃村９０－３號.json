@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "電腦及其週邊設備維修\/其他外燴及團膳承包\/電腦套裝軟體零售\/電腦及電腦週邊設備零售",
+    "address": "連江縣南竿鄉福沃村９０－３號",
+    "x": 119.943237,
+    "y": 26.157164,
+    "shops": [
+        {
+            "shop": "開心農場文創工坊",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

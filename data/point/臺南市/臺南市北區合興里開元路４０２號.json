@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺南市北區合興里開元路４０２號１樓",
+    "x": 120.225286,
+    "y": 23.010366,
+    "shops": [
+        {
+            "shop": "金周到小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

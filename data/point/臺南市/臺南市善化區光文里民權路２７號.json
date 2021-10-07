@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店\/冰果店、冷（熱）飲店",
+    "address": "臺南市善化區光文里民權路２７號１樓",
+    "x": 120.304316,
+    "y": 23.132054,
+    "shops": [
+        {
+            "shop": "木瓜媽魚友社",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

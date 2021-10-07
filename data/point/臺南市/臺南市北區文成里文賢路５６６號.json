@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市北區文成里文賢路５６６號１樓",
+    "x": 120.193879,
+    "y": 23.00807,
+    "shops": [
+        {
+            "shop": "塏晟商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "連鎖速食店\/早餐店",
+    "address": "臺南市北區大光里公園路７９８號１樓",
+    "x": 120.211382,
+    "y": 23.011869,
+    "shops": [
+        {
+            "shop": "挺鮮實業有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

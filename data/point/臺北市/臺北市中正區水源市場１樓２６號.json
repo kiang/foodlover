@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "臺北市中正區水源市場１樓２６號",
+    "x": 121.518288,
+    "y": 25.031078,
+    "shops": [
+        {
+            "shop": "水源市場一樓第２６攤位",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

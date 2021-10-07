@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "咖啡館",
+    "address": "臺南市南區竹溪里健康路１段１１３巷６６號１樓",
+    "x": 120.20936,
+    "y": 22.979503,
+    "shops": [
+        {
+            "shop": "咖啡二重奏商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

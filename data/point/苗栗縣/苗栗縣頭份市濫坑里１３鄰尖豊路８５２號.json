@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "苗栗縣頭份市濫坑里１３鄰尖豊路８５２號",
+    "x": 120.882957,
+    "y": 24.641224,
+    "shops": [
+        {
+            "shop": "成記小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

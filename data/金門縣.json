@@ -228,6 +228,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "金門縣金城鎮西門里環島北路１７號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.32219,
+                    24.441068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "金門縣金城鎮北門里民生路９－１３號",
                 "pay_list": "LINE Pay Money"
             },
@@ -284,6 +298,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "金門縣金城鎮東門里北堤段５３３地號",
+                "pay_list": "LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.320482,
+                    24.430924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "金門縣金城鎮西門里珠浦西路１２號",
                 "pay_list": "街口支付\/LINE Pay Money"
             },
@@ -320,6 +348,20 @@
                 "coordinates": [
                     118.32223165518,
                     24.441119744373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金城鎮西門里民權路２２６巷１弄１２、１６號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.320134,
+                    24.439648
                 ]
             }
         },
@@ -922,6 +964,20 @@
                 "coordinates": [
                     118.31874206175,
                     24.435428357532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金城鎮金水里後豐港９─１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.28643,
+                    24.415661
                 ]
             }
         },

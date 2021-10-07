@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "機車零件、機車百貨零售\/全新機車零售\/咖啡館",
+    "address": "高雄市三民區鼎力里民族一路６１７、６１９號",
+    "x": 120.316991,
+    "y": 22.669312,
+    "shops": [
+        {
+            "shop": "環台聯合企業有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

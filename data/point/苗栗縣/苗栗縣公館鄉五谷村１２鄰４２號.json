@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "麵店、小吃店",
+    "address": "苗栗縣公館鄉五谷村１２鄰４２號",
+    "x": 120.819855,
+    "y": 24.52887,
+    "shops": [
+        {
+            "shop": "秀蘭小吃",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
 }

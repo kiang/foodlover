@@ -1,5 +1,25 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺中市沙鹿區晉江里台灣大道６段１０１８號Ｐ棟２樓美食街",
+    "x": 120.58165,
+    "y": 24.216826,
+    "shops": [
+        {
+            "shop": "活力晨食館",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "雪克飲料",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "和風館",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "蔬香館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

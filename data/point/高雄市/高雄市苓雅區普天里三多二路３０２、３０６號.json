@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "連鎖速食店",
+    "address": "高雄市苓雅區普天里三多二路３０２、３０６號",
+    "x": 120.314734,
+    "y": 22.617581,
+    "shops": [
+        {
+            "shop": "香佳餐飲有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

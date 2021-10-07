@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺中市沙鹿區興安里沙田路４７號１樓",
+    "x": 120.558648,
+    "y": 24.231795,
+    "shops": [
+        {
+            "shop": "九湛商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺中市沙鹿區埔子里屏西路３１５號１樓",
+    "x": 120.570374,
+    "y": 24.213643,
+    "shops": [
+        {
+            "shop": "茉田早餐",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

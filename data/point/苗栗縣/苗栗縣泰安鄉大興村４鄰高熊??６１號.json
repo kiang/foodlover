@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店\/未分類其他住宿",
+    "address": "苗栗縣泰安鄉大興村４鄰高熊??６１號",
+    "x": 120.913084,
+    "y": 24.424192,
+    "shops": [
+        {
+            "shop": "烏嘠彥露營區",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

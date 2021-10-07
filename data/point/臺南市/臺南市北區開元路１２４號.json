@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "臺南市北區開元路１２４號（開元市場２０６７號攤位）",
+    "x": 120.218397,
+    "y": 23.006575,
+    "shops": [
+        {
+            "shop": "阿美素食",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

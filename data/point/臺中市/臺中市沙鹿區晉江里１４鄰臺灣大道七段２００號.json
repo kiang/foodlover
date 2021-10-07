@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店\/麵店、小吃店",
+    "address": "臺中市沙鹿區晉江里１４鄰臺灣大道七段２００號",
+    "x": 120.577203,
+    "y": 24.225883,
+    "shops": [
+        {
+            "shop": "解渴之道",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

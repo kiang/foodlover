@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "苗栗縣西湖鄉五湖村７鄰１１４－１號",
+    "x": 120.783388,
+    "y": 24.521138,
+    "shops": [
+        {
+            "shop": "泰勝綜合農場",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

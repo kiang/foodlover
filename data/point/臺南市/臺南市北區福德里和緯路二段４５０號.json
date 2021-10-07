@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "咖啡館",
+    "address": "臺南市北區福德里和緯路二段４５０號",
+    "x": 120.202429,
+    "y": 23.012475,
+    "shops": [
+        {
+            "shop": "圖蕾實業社",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市東區東興里大智路４１０號１樓、４１２號１樓",
+    "x": 120.690078,
+    "y": 24.127807,
+    "shops": [
+        {
+            "shop": "新馥小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺中市沙鹿區興安里大同街３１―１號１樓",
+    "x": 120.55671,
+    "y": 24.232735,
+    "shops": [
+        {
+            "shop": "沙鹿小熊木瓜牛奶店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

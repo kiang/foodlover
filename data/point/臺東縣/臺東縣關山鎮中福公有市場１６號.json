@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺東縣關山鎮中福公有市場１６號攤位",
+    "x": 121.151401,
+    "y": 23.009345,
+    "shops": [
+        {
+            "shop": "美味鮮飲食店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

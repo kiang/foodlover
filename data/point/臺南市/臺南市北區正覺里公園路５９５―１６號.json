@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "一卡通": true,
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市北區正覺里公園路５９５―１６號１樓",
+    "x": 120.211833,
+    "y": 23.013439,
+    "shops": [
+        {
+            "shop": "灃瀅原生茶飲",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳\/冰果店、冷（熱）飲店",
+    "address": "臺南市北區北華里成功路６８巷４―５號",
+    "x": 120.206747,
+    "y": 22.99846,
+    "shops": [
+        {
+            "shop": "性格朝午食",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

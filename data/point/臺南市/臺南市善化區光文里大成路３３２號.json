@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市善化區光文里大成路３３２號１樓",
+    "x": 120.297561,
+    "y": 23.129788,
+    "shops": [
+        {
+            "shop": "般若小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

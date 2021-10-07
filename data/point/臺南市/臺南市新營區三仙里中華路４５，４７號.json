@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "便當、自助餐店",
+    "address": "臺南市新營區三仙里中華路４５，４７號",
+    "x": 120.310781,
+    "y": 23.304549,
+    "shops": [
+        {
+            "shop": "好食多美食廣場",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

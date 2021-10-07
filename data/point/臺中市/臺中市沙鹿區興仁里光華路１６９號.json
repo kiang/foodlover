@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "未分類其他食品、飲料及菸草製品零售\/不動產投資開發\/餐館、餐廳\/咖啡館",
+    "address": "臺中市沙鹿區興仁里光華路１６９號",
+    "x": 120.562099,
+    "y": 24.233087,
+    "shops": [
+        {
+            "shop": "澄玉實業股份有限公司",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

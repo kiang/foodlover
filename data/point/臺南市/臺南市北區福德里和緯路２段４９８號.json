@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "調理飲料攤販",
+    "address": "臺南市北區福德里和緯路２段４９８號１樓",
+    "x": 120.201547,
+    "y": 23.012241,
+    "shops": [
+        {
+            "shop": "北岸西堤茶飲店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

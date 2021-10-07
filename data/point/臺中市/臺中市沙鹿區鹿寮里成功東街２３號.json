@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺中市沙鹿區鹿寮里成功東街２３號１樓",
+    "x": 120.561977,
+    "y": 24.242592,
+    "shops": [
+        {
+            "shop": "書賢早午餐店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

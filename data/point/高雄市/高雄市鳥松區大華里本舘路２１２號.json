@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "高雄市鳥松區大華里本舘路２１２號１樓",
+    "x": 120.335417,
+    "y": 22.656351,
+    "shops": [
+        {
+            "shop": "本館淬自然健康茶飲",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

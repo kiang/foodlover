@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺北市萬華區福音里昆明街２７８、２８０號１樓",
+    "x": 121.50321,
+    "y": 25.035408,
+    "shops": [
+        {
+            "shop": "得嘉食品行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "高雄市新興區秋山里六合二路５６、５８號",
+    "x": 120.299885,
+    "y": 22.632508,
+    "shops": [
+        {
+            "shop": "六合二路攤販（吳麗芬）",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

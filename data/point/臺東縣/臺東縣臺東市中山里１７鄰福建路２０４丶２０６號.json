@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺東縣臺東市中山里１７鄰福建路２０４丶２０６號",
+    "x": 121.152354,
+    "y": 22.752431,
+    "shops": [
+        {
+            "shop": "家華豬心",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

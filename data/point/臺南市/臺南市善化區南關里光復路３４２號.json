@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "臺南市善化區南關里光復路３４２號１樓",
+    "x": 120.288066,
+    "y": 23.127481,
+    "shops": [
+        {
+            "shop": "禾米素食料理專賣店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

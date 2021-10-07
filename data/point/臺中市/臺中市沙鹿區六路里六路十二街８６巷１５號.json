@@ -1,8 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "一卡通": true,
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市沙鹿區六路里六路十二街８６巷１５號１樓",
+    "x": 120.575873,
+    "y": 24.21279,
+    "shops": [
+        {
+            "shop": "長利食品行",
+            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
 }

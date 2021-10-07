@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "一卡通": true,
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市北區大豐里文賢路３６３號１樓",
+    "x": 120.193557,
+    "y": 23.007729,
+    "shops": [
+        {
+            "shop": "文賢冷飲店",
+            "pay_list": "街口支付 \/ 一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/一卡通\/LINE Pay Money"
 }

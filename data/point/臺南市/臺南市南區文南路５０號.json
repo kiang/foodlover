@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市南區文南路５０號１樓",
+    "x": 120.189931,
+    "y": 22.983105,
+    "shops": [
+        {
+            "shop": "蕭如芬芋頭餅",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

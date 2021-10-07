@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "苗栗縣苑裡鎮客庄里１４鄰８３－３號",
+    "x": 120.657499,
+    "y": 24.438711,
+    "shops": [
+        {
+            "shop": "品盈冷飲站",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

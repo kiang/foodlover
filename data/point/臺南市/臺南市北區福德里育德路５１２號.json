@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市北區福德里育德路５１２號１樓",
+    "x": 120.206796,
+    "y": 23.014775,
+    "shops": [
+        {
+            "shop": "凱昕商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "咖啡零售\/咖啡館",
+    "address": "臺南市北區大興里公園路４６８－３號１樓",
+    "x": 120.21041,
+    "y": 23.006121,
+    "shops": [
+        {
+            "shop": "造啡機咖啡專賣店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

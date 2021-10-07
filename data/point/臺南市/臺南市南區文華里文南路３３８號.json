@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市南區文華里文南路３３８號",
+    "x": 120.190269,
+    "y": 22.987725,
+    "shops": [
+        {
+            "shop": "立啟商號",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

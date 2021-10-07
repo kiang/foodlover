@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "高雄市鳥松區大華里本舘路４３９－６號",
+    "x": 120.334632,
+    "y": 22.656599,
+    "shops": [
+        {
+            "shop": "本館海鮮燒烤",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

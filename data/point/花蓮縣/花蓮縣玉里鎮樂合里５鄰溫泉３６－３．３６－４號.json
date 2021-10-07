@@ -1,8 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "一卡通": true,
-        "LINE Pay Money": true,
-        "愛金卡": true
-    }
+    "name": "其他化粧品零售\/飲料零售\/旅館\/餐館、餐廳",
+    "address": "花蓮縣玉里鎮樂合里５鄰溫泉３６－３．３６－４號",
+    "x": 121.342453,
+    "y": 23.280669,
+    "shops": [
+        {
+            "shop": "安通溫泉開發有限公司",
+            "pay_list": "街口支付 \/ 一卡通 \/ LINE Pay Money \/ 愛金卡"
+        }
+    ],
+    "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
 }

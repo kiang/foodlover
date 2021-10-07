@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "咖啡館",
+    "address": "雲林縣斗六市中和里雲中街９巷１２，１４號",
+    "x": 120.539689,
+    "y": 23.708024,
+    "shops": [
+        {
+            "shop": "奧圖文化整合行銷股份有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

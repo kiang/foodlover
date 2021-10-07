@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺南市北區文成里文賢路５１６號１樓",
+    "x": 120.19378,
+    "y": 23.006983,
+    "shops": [
+        {
+            "shop": "慶有餘炭火燒土司店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

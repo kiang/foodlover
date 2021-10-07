@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "調理飲料攤販",
+    "address": "臺東縣東河鄉東河村南東河路６４號",
+    "x": 121.293377,
+    "y": 22.956122,
+    "shops": [
+        {
+            "shop": "迷你咖啡",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

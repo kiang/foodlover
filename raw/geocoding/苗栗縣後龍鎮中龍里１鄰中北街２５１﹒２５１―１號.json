@@ -1,0 +1,80 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "苗栗縣後龍鎮中龍里１鄰中北街２５１﹒２５１―１號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "3",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[苗栗縣]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:0,NO:0(+250),E:-1,N:1",
+      "OutTraceInfo": "[苗栗縣]\t { 模糊比對 } (後龍鎮)\t找到符合的[鄉鎮市區]，(中龍里)\t找到符合的[村里]，(中北街)\t找到符合的[路街名]，(二五一﹒二五一―)\t找不到符合的[地區]，進行轉換搜尋[路或街變成地區名]，轉換搜尋找不到符合的[地區]，(1號)\t進行[單號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +250 號，進行[找最小門牌的號之、之號]，(1鄰)\t找到符合的[鄰]，模糊比對找到 3 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "苗栗縣後龍鎮中龍里1鄰中北街251之1號",
+      "COUNTY": "苗栗縣",
+      "TOWN": "後龍鎮",
+      "VILLAGE": "中龍里",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "中北街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "251之1號",
+      "X": 120.788150,
+      "Y": 24.615055
+    },
+    {
+      "FULL_ADDR": "苗栗縣後龍鎮中龍里1鄰中北街251之2號",
+      "COUNTY": "苗栗縣",
+      "TOWN": "後龍鎮",
+      "VILLAGE": "中龍里",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "中北街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "251之2號",
+      "X": 120.788110,
+      "Y": 24.615088
+    },
+    {
+      "FULL_ADDR": "苗栗縣後龍鎮中龍里1鄰中北街251之3號",
+      "COUNTY": "苗栗縣",
+      "TOWN": "後龍鎮",
+      "VILLAGE": "中龍里",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "中北街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "251之3號",
+      "X": 120.788076,
+      "Y": 24.615114
+    }
+  ]
+}

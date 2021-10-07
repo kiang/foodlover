@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳\/冰果店、冷（熱）飲店",
+    "address": "高雄市左營區新上里光興街１５９、１６１號",
+    "x": 120.311485,
+    "y": 22.663855,
+    "shops": [
+        {
+            "shop": "倍果食品行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

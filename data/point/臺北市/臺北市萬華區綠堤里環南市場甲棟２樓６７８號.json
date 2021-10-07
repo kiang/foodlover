@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺北市萬華區綠堤里環南市場甲棟２樓６７８號",
+    "x": 121.491626,
+    "y": 25.031841,
+    "shops": [
+        {
+            "shop": "吳秀瑾",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

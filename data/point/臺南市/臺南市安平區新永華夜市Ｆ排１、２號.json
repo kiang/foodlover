@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "臺南市安平區新永華夜市Ｆ排１、２號",
+    "x": 120.164019,
+    "y": 22.999511,
+    "shops": [
+        {
+            "shop": "戲蚵",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

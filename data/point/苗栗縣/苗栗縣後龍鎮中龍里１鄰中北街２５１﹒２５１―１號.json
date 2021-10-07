@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "麵店、小吃店",
+    "address": "苗栗縣後龍鎮中龍里１鄰中北街２５１﹒２５１―１號１樓",
+    "x": 120.78815,
+    "y": 24.615055,
+    "shops": [
+        {
+            "shop": "雲和鍋貼水餃專賣店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

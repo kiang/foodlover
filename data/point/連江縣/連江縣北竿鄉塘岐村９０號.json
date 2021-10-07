@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "連江縣北竿鄉塘岐村９０號",
+    "x": 119.997682,
+    "y": 26.223666,
+    "shops": [
+        {
+            "shop": "饌食地方小吃館",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

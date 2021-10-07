@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺南市北區西門路３段７２號",
+    "x": 120.202482,
+    "y": 23.001052,
+    "shops": [
+        {
+            "shop": "旺福早午點",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

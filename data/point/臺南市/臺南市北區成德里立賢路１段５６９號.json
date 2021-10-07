@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市北區成德里立賢路１段５６９號１樓",
+    "x": 120.201179,
+    "y": 23.009543,
+    "shops": [
+        {
+            "shop": "席瑪朵珈琲烘焙棧",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "運動及娛樂用品租賃\/其他玩具及娛樂用品零售\/咖啡館",
+    "address": "臺南市南區西門路２段１９８號１、２樓",
+    "x": 120.197861,
+    "y": 22.974567,
+    "shops": [
+        {
+            "shop": "三明治喵桌遊主題輕食坊",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

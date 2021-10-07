@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "未分類其他食品、飲料及菸草製品零售\/餐館、餐廳",
+    "address": "臺南市善化區文正里文正路２５巷５―１號１樓",
+    "x": 120.286589,
+    "y": 23.133807,
+    "shops": [
+        {
+            "shop": "三鮮台小吃坊",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

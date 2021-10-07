@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "臺北市北投區光明路新生巷６號１樓",
+    "x": 121.501791,
+    "y": 25.133005,
+    "shops": [
+        {
+            "shop": "大北小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

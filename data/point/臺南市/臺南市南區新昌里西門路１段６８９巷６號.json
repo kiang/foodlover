@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "其他化粧品零售\/未分類其他全新商品零售\/咖啡館",
+    "address": "臺南市南區新昌里西門路１段６８９巷６號，８號",
+    "x": 120.197196,
+    "y": 22.987107,
+    "shops": [
+        {
+            "shop": "宥盛科技股份有限公司蘭都台南門市",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

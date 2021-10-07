@@ -802,6 +802,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺東縣卑南鄉溫泉村鎮樂路１號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.038985,
+                    22.725327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺東縣卑南鄉明峰村文泰路１８號",
                 "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
@@ -970,6 +984,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺東縣卑南鄉富山村杉原路２２號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.186739,
+                    22.837474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣卑南鄉賓朗村後湖路４８號",
+                "pay_list": "一卡通\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.086634,
+                    22.813502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺東縣卑南鄉太平村太平路３５２號",
                 "pay_list": "LINE Pay Money"
             },
@@ -984,6 +1026,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺東縣卑南鄉太平村太平路１０６巷２５號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.091205,
+                    22.776544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺東縣大武鄉大武村４鄰民族街８號",
                 "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
@@ -992,6 +1048,20 @@
                 "coordinates": [
                     120.90650051444,
                     22.363554978678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣大武鄉南興村達興路１５７號",
+                "pay_list": "街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.887663,
+                    22.309165
                 ]
             }
         },
@@ -1048,6 +1118,20 @@
                 "coordinates": [
                     120.89334375532,
                     22.339060290415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣大武鄉南興村００３鄰達興路３號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.889707,
+                    22.309701
                 ]
             }
         },
@@ -1138,6 +1222,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺東縣太麻里鄉大王村１７鄰佳崙路２４８號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.971221,
+                    22.63927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺東縣太麻里鄉泰和村４鄰太麻里街２００號",
                 "pay_list": "LINE Pay Money"
             },
@@ -1146,6 +1244,20 @@
                 "coordinates": [
                     121.00639027757,
                     22.612903040868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣太麻里鄉北里村森川路１３號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.012388,
+                    22.637174
                 ]
             }
         },
@@ -1194,6 +1306,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺東縣太麻里鄉大王村１７鄰佳崙路２９２號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.959968,
+                    22.645071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣太麻里鄉金崙村金崙路１５１號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96521,
+                    22.531949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺東縣太麻里鄉泰和村００６鄰太麻里街２６１號",
                 "pay_list": "台灣 PAY"
             },
@@ -1202,6 +1342,20 @@
                 "coordinates": [
                     121.00541465169,
                     22.610281037174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣太麻里鄉金崙村金崙路３９６號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.963438,
+                    22.531199
                 ]
             }
         },
@@ -1544,6 +1698,146 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺東縣東河鄉都蘭村１７鄰都蘭路３８－５號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.227312,
+                    22.870182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣東河鄉都蘭村都蘭路６９號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.207618,
+                    22.879694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣東河鄉東河村南東河路６４號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.293377,
+                    22.956122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣東河鄉都蘭村６１號",
+                "pay_list": "一卡通\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.212087,
+                    22.870265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣東河鄉東河村００７鄰南東河路１０８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.305865,
+                    22.97323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣東河鄉東河村南東河路１８２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.306338,
+                    22.97429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣東河鄉都蘭村都蘭路１２１之１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.226536,
+                    22.872793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣東河鄉都蘭村０２０鄰都蘭路８６號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.227134,
+                    22.872512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣東河鄉都蘭村那界路１２―１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.200676,
+                    22.860029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣東河鄉都蘭村都蘭路４４５―５號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.223979,
+                    22.87028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺東縣東河鄉都蘭村新社３５號",
                 "pay_list": "台灣 PAY"
             },
@@ -1608,6 +1902,34 @@
                 "coordinates": [
                     121.20889146104,
                     23.127231767127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣池上鄉錦園村新開園路１６２號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.226907,
+                    23.112321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣池上鄉萬安村萬安路１－１２號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.219185,
+                    23.097348
                 ]
             }
         },
@@ -1734,6 +2056,160 @@
                 "coordinates": [
                     121.2188069442,
                     23.124032165356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣海端鄉加拿村加樂路４５號",
+                "pay_list": "LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.131328,
+                    23.009081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣綠島鄉南寮村漁港路３７號",
+                "pay_list": "愛金卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.471965,
+                    22.664293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣綠島鄉中寮村１０鄰中寮路５２號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.472707,
+                    22.673463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣綠島鄉南寮村漁港路２７號",
+                "pay_list": "街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.471225,
+                    22.665662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣綠島鄉南寮村南寮路１５０號",
+                "pay_list": "LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.469412,
+                    22.667528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣綠島鄉南寮村南寮路１０２－１２號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.471082,
+                    22.665381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣綠島鄉南寮村漁港路３１號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.472206,
+                    22.663995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣綠島鄉南寮村南寮路１４０號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4697,
+                    22.667157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣綠島鄉南寮村南寮路１２８號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.469976,
+                    22.666733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣綠島鄉南寮村１８５之２號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.467588,
+                    22.669664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣綠島鄉公館村柴口６１之８號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.482302,
+                    22.675587
                 ]
             }
         },
@@ -1908,6 +2384,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺東縣臺東市文化里正氣路水果街３０１－８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.148945,
+                    22.7547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺東縣臺東市豐年里１３鄰中興路３段３５０號",
                 "pay_list": "LINE Pay Money\/街口支付"
             },
@@ -1916,6 +2406,20 @@
                 "coordinates": [
                     121.11073324595,
                     22.771282606396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市中山里１７鄰福建路２０４丶２０６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.152354,
+                    22.752431
                 ]
             }
         },
@@ -2028,6 +2532,20 @@
                 "coordinates": [
                     121.14553405726,
                     22.76022259554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市新生路１６７、１６９號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.133532,
+                    22.765889
                 ]
             }
         },
@@ -2580,6 +3098,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺東縣臺東市文化里中山路４０２‧４０４‧４０４―１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15073,
+                    22.755994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺東縣臺東市復興里００５鄰福建路２４３號",
                 "pay_list": "台灣 PAY"
             },
@@ -2938,6 +3470,20 @@
                 "coordinates": [
                     121.14764858067,
                     22.763710787343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市自強里正氣北路７６巷６２弄１１號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.139458,
+                    22.75849
                 ]
             }
         },
@@ -3952,6 +4498,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺東縣臺東市建和里建和一街四十七巷十號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.050619,
+                    22.720744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺東縣臺東市卑南里更生北路１５９號",
                 "pay_list": "街口支付\/LINE Pay Money"
             },
@@ -3988,6 +4548,20 @@
                 "coordinates": [
                     121.15042816285,
                     22.753419051627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市豐田里中興路四段４２８、４３０號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.084667,
+                    22.774726
                 ]
             }
         },
@@ -4274,6 +4848,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺東縣蘭嶼鄉朗島村５鄰１７３號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.526456,
+                    22.078074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺東縣蘭嶼鄉朗島村朗島２７７號",
                 "pay_list": "台灣 PAY"
             },
@@ -4330,6 +4918,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺東縣蘭嶼鄉東清村東清路７號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.565306,
+                    22.057618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣蘭嶼鄉椰油村７鄰椰油路２９８號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5109,
+                    22.060817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺東縣蘭嶼鄉紅頭村００２鄰紅頭３８－１號",
                 "pay_list": "台灣 PAY"
             },
@@ -4344,6 +4960,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺東縣蘭嶼鄉東清村野銀路１１８號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.566387,
+                    22.038103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺東縣蘭嶼鄉東清村東清１４０號",
                 "pay_list": "台灣 PAY"
             },
@@ -4352,6 +4982,20 @@
                 "coordinates": [
                     121.56750323754,
                     22.060289870243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣蘭嶼鄉東清村東清路１１５－１號",
+                "pay_list": "街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.563936,
+                    22.057962
                 ]
             }
         },
@@ -4414,6 +5058,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺東縣達仁鄉森永村森永路８４號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.865133,
+                    22.281466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺東縣達仁鄉南田村南田路１２號",
                 "pay_list": "台灣 PAY"
             },
@@ -4456,6 +5114,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺東縣金峰鄉正興村１鄰正興路２號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.998741,
+                    22.604299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺東縣金峰鄉嘉蘭村００７鄰嘉蘭４０７號",
                 "pay_list": "台灣 PAY"
             },
@@ -4464,6 +5136,104 @@
                 "coordinates": [
                     120.95547414622,
                     22.595998213019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣長濱鄉寧埔村胆??路１０－２號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.413754,
+                    23.235371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣長濱鄉長濱村５鄰長濱路２１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.453374,
+                    23.316265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣長濱鄉樟原村樟原路７２號",
+                "pay_list": "LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.429045,
+                    23.401797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣長濱鄉樟原村大峰峰路１５號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.493844,
+                    23.433291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣長濱鄉三間村真柄路８８號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.466649,
+                    23.344711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣長濱鄉三間村南溪路７―２號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.460539,
+                    23.402366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣長濱鄉長濱村８鄰長濱路７９號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.455575,
+                    23.317612
                 ]
             }
         },
@@ -4484,6 +5254,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺東縣關山鎮中福公有市場１６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.151401,
+                    23.009345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺東縣關山鎮里壠里博愛路１－６號",
                 "pay_list": "台灣 PAY"
             },
@@ -4492,6 +5276,20 @@
                 "coordinates": [
                     121.15526085201,
                     22.763839175964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣關山鎮新福里６鄰新福路７３號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.17312,
+                    23.049515
                 ]
             }
         },
@@ -4618,6 +5416,20 @@
                 "coordinates": [
                     121.14140054249,
                     22.745767880312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣鹿野鄉永安村９鄰高台路４２巷１０５弄１９號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.121589,
+                    22.915037
                 ]
             }
         },

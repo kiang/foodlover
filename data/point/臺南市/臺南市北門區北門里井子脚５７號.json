@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "民宿\/麵店、小吃店",
+    "address": "臺南市北門區北門里井子脚５７號",
+    "x": 120.110651,
+    "y": 23.26065,
+    "shops": [
+        {
+            "shop": "鹽鄉民宿餐廳",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

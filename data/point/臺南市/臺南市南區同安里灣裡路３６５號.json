@@ -1,8 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "一卡通": true,
-        "LINE Pay Money": true,
-        "愛金卡": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市南區同安里灣裡路３６５號１樓",
+    "x": 120.183114,
+    "y": 22.924478,
+    "shops": [
+        {
+            "shop": "亞惠企業社",
+            "pay_list": "街口支付 \/ 一卡通 \/ LINE Pay Money \/ 愛金卡"
+        }
+    ],
+    "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
 }

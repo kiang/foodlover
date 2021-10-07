@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "便當、自助餐店",
+    "address": "臺北市中正區建國里凱達格蘭大道２號",
+    "x": 121.516341,
+    "y": 25.038951,
+    "shops": [
+        {
+            "shop": "日耀新小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "水果零售\/麵店、小吃店",
+    "address": "臺東縣臺東市文化里正氣路水果街３０１－８號",
+    "x": 121.148945,
+    "y": 22.7547,
+    "shops": [
+        {
+            "shop": "陳炳斐",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

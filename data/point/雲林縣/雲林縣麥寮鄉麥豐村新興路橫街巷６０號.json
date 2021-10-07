@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "一卡通": true,
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "雲林縣麥寮鄉麥豐村新興路橫街巷６０號一樓",
+    "x": 120.25275,
+    "y": 23.74785,
+    "shops": [
+        {
+            "shop": "瓏銀飲料店",
+            "pay_list": "街口支付 \/ 一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/一卡通\/LINE Pay Money"
 }

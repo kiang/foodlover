@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺南市北區北華里成功路１７６號１樓",
+    "x": 120.204069,
+    "y": 22.99887,
+    "shops": [
+        {
+            "shop": "台東春牛豆漿",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

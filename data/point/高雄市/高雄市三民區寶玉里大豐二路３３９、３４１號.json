@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "高雄市三民區寶玉里大豐二路３３９、３４１號１樓",
+    "x": 120.334618,
+    "y": 22.649228,
+    "shops": [
+        {
+            "shop": "宋萱商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

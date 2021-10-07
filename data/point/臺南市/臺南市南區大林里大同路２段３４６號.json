@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "調理飲料攤販",
+    "address": "臺南市南區大林里大同路２段３４６號",
+    "x": 120.213849,
+    "y": 22.975845,
+    "shops": [
+        {
+            "shop": "昱安冷飲店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺東縣東河鄉都蘭村１７鄰都蘭路３８－５號",
+    "x": 121.227312,
+    "y": 22.870182,
+    "shops": [
+        {
+            "shop": "汪秋霞",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

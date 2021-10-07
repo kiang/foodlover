@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "未分類其他食品、飲料及菸草製品零售\/非酒精飲料批發\/飲料零售\/餐館、餐廳",
+    "address": "臺南市南區府南里金華路１段４８４巷１５１弄７號",
+    "x": 120.193888,
+    "y": 22.971105,
+    "shops": [
+        {
+            "shop": "勝裕食品有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

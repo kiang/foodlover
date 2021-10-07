@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "苗栗縣通霄鎮通東里慈惠宮前臨時攤販集中區第１０號",
+    "x": 120.680735,
+    "y": 24.487957,
+    "shops": [
+        {
+            "shop": "小倆口冰店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

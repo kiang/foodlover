@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市沙鹿區北勢里北英路１６２號",
+    "x": 120.574527,
+    "y": 24.227239,
+    "shops": [
+        {
+            "shop": "古月商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

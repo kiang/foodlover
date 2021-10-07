@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市北區北園街４２號１樓",
+    "x": 120.223158,
+    "y": 23.011417,
+    "shops": [
+        {
+            "shop": "莊記仙草舖",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

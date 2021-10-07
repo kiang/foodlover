@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "高雄市鼓山區龍水里美術東２路２４９號、２５１號",
+    "x": 120.288274,
+    "y": 22.663361,
+    "shops": [
+        {
+            "shop": "溢金香企業行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

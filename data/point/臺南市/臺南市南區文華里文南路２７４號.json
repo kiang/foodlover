@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市南區文華里文南路２７４號",
+    "x": 120.190171,
+    "y": 22.986305,
+    "shops": [
+        {
+            "shop": "八達謙商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

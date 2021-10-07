@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "一卡通": true,
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市麻豆區晋江里台南市麻豆區晋江里１９鄰興中路１６８，１７０號",
+    "x": 120.253268,
+    "y": 23.183567,
+    "shops": [
+        {
+            "shop": "亞鑫飲品專賣店",
+            "pay_list": "街口支付 \/ 一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/一卡通\/LINE Pay Money"
 }

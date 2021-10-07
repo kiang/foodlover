@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺中市沙鹿區沙鹿里中山路３２１號１樓",
+    "x": 120.55986,
+    "y": 24.238588,
+    "shops": [
+        {
+            "shop": "滴兒餐飲企業社",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

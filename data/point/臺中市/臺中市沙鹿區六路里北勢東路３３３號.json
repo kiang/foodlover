@@ -1,8 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "一卡通": true,
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "咖啡館",
+    "address": "臺中市沙鹿區六路里北勢東路３３３號",
+    "x": 120.579336,
+    "y": 24.218384,
+    "shops": [
+        {
+            "shop": "映昌股份有限公司",
+            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市北區賢北里和緯路５段６６號１樓",
+    "x": 120.1844,
+    "y": 23.006216,
+    "shops": [
+        {
+            "shop": "識好茶店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "臺南市北區仁愛里勝利路２３８號",
+    "x": 120.218973,
+    "y": 23.005034,
+    "shops": [
+        {
+            "shop": "喬貝克餐飲屋",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

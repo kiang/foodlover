@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市南區再興里金華路２段６４號１樓",
+    "x": 120.191273,
+    "y": 22.97715,
+    "shops": [
+        {
+            "shop": "我好帥企業社",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

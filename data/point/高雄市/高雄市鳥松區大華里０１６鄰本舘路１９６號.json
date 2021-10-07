@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "高雄市鳥松區大華里０１６鄰本舘路１９６號",
+    "x": 120.335888,
+    "y": 22.655947,
+    "shops": [
+        {
+            "shop": "豪記商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

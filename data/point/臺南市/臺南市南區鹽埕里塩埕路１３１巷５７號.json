@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "未分類其他全新商品零售\/餐館、餐廳\/冰果店、冷（熱）飲店",
+    "address": "臺南市南區鹽埕里塩埕路１３１巷５７號",
+    "x": 120.188338,
+    "y": 22.967821,
+    "shops": [
+        {
+            "shop": "你好商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

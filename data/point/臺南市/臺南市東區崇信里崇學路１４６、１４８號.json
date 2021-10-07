@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市東區崇信里崇學路１４６、１４８號",
+    "x": 120.22626,
+    "y": 22.98283,
+    "shops": [
+        {
+            "shop": "肉燥天王小吃店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

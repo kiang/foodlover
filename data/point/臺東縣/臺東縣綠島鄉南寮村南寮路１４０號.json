@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "未分類其他家用器具及用品零售\/未分類其他食品、飲料及菸草製品零售\/脫水蔬果零售\/冰果店、冷（熱）飲店",
+    "address": "臺東縣綠島鄉南寮村南寮路１４０號",
+    "x": 121.4697,
+    "y": 22.667157,
+    "shops": [
+        {
+            "shop": "宇亨冷飲站",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

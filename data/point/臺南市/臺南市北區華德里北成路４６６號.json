@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "咖啡零售\/咖啡館",
+    "address": "臺南市北區華德里北成路４６６號１樓",
+    "x": 120.20106,
+    "y": 23.018992,
+    "shops": [
+        {
+            "shop": "藝咖啡鮮焙咖啡店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

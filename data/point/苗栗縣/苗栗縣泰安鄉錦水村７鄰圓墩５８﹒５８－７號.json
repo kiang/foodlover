@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "未分類其他食品、飲料及菸草製品零售\/旅館\/溫泉供應\/餐館、餐廳",
+    "address": "苗栗縣泰安鄉錦水村７鄰圓墩５８﹒５８－７號",
+    "x": 120.952029,
+    "y": 24.467601,
+    "shops": [
+        {
+            "shop": "泰安觀止溫泉股份有限公司",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

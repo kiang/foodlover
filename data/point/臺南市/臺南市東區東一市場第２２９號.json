@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "調理飲料攤販\/餐食攤販",
+    "address": "臺南市東區東一市場第２２９號攤位",
+    "x": 120.224957,
+    "y": 22.975612,
+    "shops": [
+        {
+            "shop": "綠豆湯",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

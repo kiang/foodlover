@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺南市善化區光文里０１０鄰中山路１１７號１樓",
+    "x": 120.302446,
+    "y": 23.132891,
+    "shops": [
+        {
+            "shop": "鐵工早餐店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,7 +1,17 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true,
-        "街口支付": true,
-        "一卡通": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺中市霧峰區本鄉里中正路１０２３、１０２５號",
+    "x": 120.698897,
+    "y": 24.067654,
+    "shops": [
+        {
+            "shop": "超級市民有限公司",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "米果商行",
+            "pay_list": "街口支付 \/ 一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付\/一卡通"
 }

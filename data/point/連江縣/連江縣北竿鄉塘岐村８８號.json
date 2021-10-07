@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "連江縣北竿鄉塘岐村８８號",
+    "x": 119.99775,
+    "y": 26.223721,
+    "shops": [
+        {
+            "shop": "龍和閩東風味館",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

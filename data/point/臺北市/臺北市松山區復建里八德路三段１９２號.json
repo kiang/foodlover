@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "一卡通": true,
-        "LINE Pay Money": true,
-        "愛金卡": true
-    }
+    "name": "其他布疋批發\/冰果店、冷（熱）飲店",
+    "address": "臺北市松山區復建里八德路三段１９２號",
+    "x": 121.556135,
+    "y": 25.047919,
+    "shops": [
+        {
+            "shop": "崴方企業有限公司",
+            "pay_list": "一卡通 \/ LINE Pay Money \/ 愛金卡"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
 }

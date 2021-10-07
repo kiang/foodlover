@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "咖啡館",
+    "address": "臺北市大同區保安里承德路三段２３６、２３８號１樓",
+    "x": 121.51942,
+    "y": 25.073975,
+    "shops": [
+        {
+            "shop": "子淵咖啡館",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "臺南市善化區文昌里文昌路８－５號",
+    "x": 120.293007,
+    "y": 23.129916,
+    "shops": [
+        {
+            "shop": "鋐億企業社",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

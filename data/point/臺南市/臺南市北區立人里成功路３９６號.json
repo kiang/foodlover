@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市北區立人里成功路３９６號１樓",
+    "x": 120.19974,
+    "y": 23.000344,
+    "shops": [
+        {
+            "shop": "老夫子牛肉麵",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市豐原區豐原里三豐路一段６１巷１號１樓",
+    "x": 120.722448,
+    "y": 24.255856,
+    "shops": [
+        {
+            "shop": "博卡屋美食工坊",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

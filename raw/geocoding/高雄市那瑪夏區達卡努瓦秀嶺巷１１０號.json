@@ -1,0 +1,80 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "高雄市那瑪夏區達卡努瓦秀嶺巷１１０號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "3",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[高雄市]\tT:1,V:-1,R:-1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[高雄市]\t { 模糊比對 } (那瑪夏區)\t找到符合的[鄉鎮市區]，(達卡努瓦秀嶺巷)\t找不到符合的[地區]，轉換搜尋找不到符合的[地區]，(110號)\t找到符合的[門牌號碼]，進行[雙號過濾]，模糊比對找到 3 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "高雄市那瑪夏區南沙魯里4鄰鞍山巷110號",
+      "COUNTY": "高雄市",
+      "TOWN": "那瑪夏區",
+      "VILLAGE": "南沙魯里",
+      "NEIGHBORHOOD": "4鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "鞍山巷",
+      "NUMBER": "110號",
+      "X": 120.693304,
+      "Y": 23.218916
+    },
+    {
+      "FULL_ADDR": "高雄市那瑪夏區達卡努瓦里2鄰秀嶺巷110號",
+      "COUNTY": "高雄市",
+      "TOWN": "那瑪夏區",
+      "VILLAGE": "達卡努瓦里",
+      "NEIGHBORHOOD": "2鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "秀嶺巷",
+      "NUMBER": "110號",
+      "X": 120.719494,
+      "Y": 23.268505
+    },
+    {
+      "FULL_ADDR": "高雄市那瑪夏區瑪雅里4鄰平和巷110號",
+      "COUNTY": "高雄市",
+      "TOWN": "那瑪夏區",
+      "VILLAGE": "瑪雅里",
+      "NEIGHBORHOOD": "4鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "平和巷",
+      "NUMBER": "110號",
+      "X": 120.696692,
+      "Y": 23.238679
+    }
+  ]
+}

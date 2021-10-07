@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺北市萬華區環南綜合市場乙棟２樓９９２號",
+    "x": 121.511501,
+    "y": 25.02407,
+    "shops": [
+        {
+            "shop": "江宗平",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
 }

@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "一卡通": true,
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市善化區蓮潭里陽光大道２２０號１樓",
+    "x": 120.306863,
+    "y": 23.112552,
+    "shops": [
+        {
+            "shop": "蔚旭下午茶",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店\/冰果店、冷（熱）飲店",
+    "address": "臺南市北區合興里南園街１０５巷１３號",
+    "x": 120.225964,
+    "y": 23.008016,
+    "shops": [
+        {
+            "shop": "邱家咖啡",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

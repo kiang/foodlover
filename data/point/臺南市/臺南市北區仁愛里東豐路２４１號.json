@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "臺南市北區仁愛里東豐路２４１號１樓",
+    "x": 120.221316,
+    "y": 23.003236,
+    "shops": [
+        {
+            "shop": "日光緩緩早午餐店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

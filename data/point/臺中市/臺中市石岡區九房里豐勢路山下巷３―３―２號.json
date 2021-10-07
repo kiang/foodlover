@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "咖啡館\/麵店、小吃店",
+    "address": "臺中市石岡區九房里豐勢路山下巷３―３―２號",
+    "x": 120.785131,
+    "y": 24.270572,
+    "shops": [
+        {
+            "shop": "詩情畫意休閒企業社",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

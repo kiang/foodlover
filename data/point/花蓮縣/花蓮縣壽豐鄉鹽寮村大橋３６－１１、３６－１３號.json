@@ -1,8 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "一卡通": true,
-        "LINE Pay Money": true,
-        "愛金卡": true
-    }
+    "name": "飲料零售\/不動產租賃\/餐館、餐廳",
+    "address": "花蓮縣壽豐鄉鹽寮村大橋３６－１１、３６－１３號",
+    "x": 121.607011,
+    "y": 23.930924,
+    "shops": [
+        {
+            "shop": "海中天企業社",
+            "pay_list": "街口支付 \/ 一卡通 \/ LINE Pay Money \/ 愛金卡"
+        }
+    ],
+    "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
 }

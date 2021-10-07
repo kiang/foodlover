@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "一卡通": true,
-        "LINE Pay Money": true
-    }
+    "name": "未分類其他食品、飲料及菸草製品零售\/飲料零售\/冰果店、冷（熱）飲店",
+    "address": "臺南市北區重興里東豐路３５５號１樓",
+    "x": 120.224963,
+    "y": 23.002765,
+    "shops": [
+        {
+            "shop": "淞鈺冷飲店",
+            "pay_list": "街口支付 \/ 一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/一卡通\/LINE Pay Money"
 }

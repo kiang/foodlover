@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺中市沙鹿區洛泉里００８鄰中山路２６４號",
+    "x": 120.560569,
+    "y": 24.237962,
+    "shops": [
+        {
+            "shop": "員菘仙草甘茶",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

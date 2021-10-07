@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "臺南市東區成大里大學路西段３７號",
+    "x": 120.217381,
+    "y": 22.996274,
+    "shops": [
+        {
+            "shop": "無邪餐飲股份有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

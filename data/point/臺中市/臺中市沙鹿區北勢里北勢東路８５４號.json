@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市沙鹿區北勢里北勢東路８５４號１樓",
+    "x": 120.567964,
+    "y": 24.229761,
+    "shops": [
+        {
+            "shop": "蕃薯根養生煮店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

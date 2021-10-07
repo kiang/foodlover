@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市南區文華里金華路２段４２１號１樓",
+    "x": 120.191785,
+    "y": 22.987304,
+    "shops": [
+        {
+            "shop": "森木二室廚房",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

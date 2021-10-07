@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺南市南區竹溪里健康路１段２０５號１樓",
+    "x": 120.207248,
+    "y": 22.981164,
+    "shops": [
+        {
+            "shop": "驚炭奇",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

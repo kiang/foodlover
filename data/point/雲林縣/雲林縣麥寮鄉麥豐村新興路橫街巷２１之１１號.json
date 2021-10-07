@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店\/調理飲料攤販",
+    "address": "雲林縣麥寮鄉麥豐村新興路橫街巷２１之１１號１樓",
+    "x": 120.251125,
+    "y": 23.745989,
+    "shops": [
+        {
+            "shop": "原成冷飲店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

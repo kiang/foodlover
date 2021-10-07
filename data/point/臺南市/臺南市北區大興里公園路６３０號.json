@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "餐館、餐廳",
+    "address": "臺南市北區大興里公園路６３０號１樓",
+    "x": 120.210125,
+    "y": 23.00755,
+    "shops": [
+        {
+            "shop": "共嚐美式料理坊",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

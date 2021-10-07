@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市善化區蓮潭里陽光三路７０號１樓",
+    "x": 120.309681,
+    "y": 23.112432,
+    "shops": [
+        {
+            "shop": "沅築餐飲",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

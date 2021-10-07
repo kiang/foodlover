@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市龍井區新東里新興路東興巷１７號１樓",
+    "x": 120.592941,
+    "y": 24.181086,
+    "shops": [
+        {
+            "shop": "鳴鼐小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

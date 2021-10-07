@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "未分類其他家用器具及用品零售\/其他服裝及其配件零售\/茶葉零售\/冰果店、冷（熱）飲店",
+    "address": "臺中市沙鹿區三鹿里向上路７段１８號１樓",
+    "x": 120.566123,
+    "y": 24.204929,
+    "shops": [
+        {
+            "shop": "清福冷飲店",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

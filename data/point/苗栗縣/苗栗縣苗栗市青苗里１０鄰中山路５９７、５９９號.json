@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "連鎖速食店",
+    "address": "苗栗縣苗栗市青苗里１０鄰中山路５９７、５９９號",
+    "x": 120.818917,
+    "y": 24.556373,
+    "shops": [
+        {
+            "shop": "海德食品有限公司",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺南市北區華德里北成路３５１號１樓",
+    "x": 120.202158,
+    "y": 23.018971,
+    "shops": [
+        {
+            "shop": "竹軒漢堡屋",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市沙鹿區北勢里３０鄰北勢東路５１７－３號",
+    "x": 120.575715,
+    "y": 24.225733,
+    "shops": [
+        {
+            "shop": "廟口意麵",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
 }

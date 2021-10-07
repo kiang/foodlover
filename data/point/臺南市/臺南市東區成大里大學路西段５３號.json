@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "臺南市東區成大里大學路西段５３號２樓",
+    "x": 120.216998,
+    "y": 22.996306,
+    "shops": [
+        {
+            "shop": "太妃餐飲",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

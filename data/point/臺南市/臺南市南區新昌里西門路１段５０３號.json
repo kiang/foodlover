@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺南市南區新昌里西門路１段５０３號",
+    "x": 120.197441,
+    "y": 22.982728,
+    "shops": [
+        {
+            "shop": "日十西門早餐店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "未分類其他食品、飲料及菸草製品零售\/餐館、餐廳",
+    "address": "臺南市善化區文昌里光復路４８號１樓",
+    "x": 120.292351,
+    "y": 23.128599,
+    "shops": [
+        {
+            "shop": "大成美食坊",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

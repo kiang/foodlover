@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳\/進口菸酒批發",
+    "address": "臺北市內湖區金湖里民權東路６段４６９，４７１號４７１號２樓",
+    "x": 121.60509,
+    "y": 25.073221,
+    "shops": [
+        {
+            "shop": "利誠餐飲有限公司",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

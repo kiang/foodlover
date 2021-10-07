@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市北區長榮路４段４３號",
+    "x": 120.222376,
+    "y": 23.003795,
+    "shops": [
+        {
+            "shop": "鮮汁霸果汁店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

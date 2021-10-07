@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "咖啡館",
+    "address": "臺中市沙鹿區六路里北勢東路３０７號１樓",
+    "x": 120.579436,
+    "y": 24.217722,
+    "shops": [
+        {
+            "shop": "休義天咖啡館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市沙鹿區洛泉里中山路２６３－１號旁",
+    "x": 120.561045,
+    "y": 24.237717,
+    "shops": [
+        {
+            "shop": "玥達人手作可麗餅",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

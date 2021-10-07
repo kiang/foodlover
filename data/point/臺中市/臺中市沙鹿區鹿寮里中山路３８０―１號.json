@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市沙鹿區鹿寮里中山路３８０―１號",
+    "x": 120.560906,
+    "y": 24.242051,
+    "shops": [
+        {
+            "shop": "廟口意麵",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

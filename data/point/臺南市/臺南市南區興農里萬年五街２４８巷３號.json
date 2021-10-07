@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市南區興農里萬年五街２４８巷３號",
+    "x": 120.188896,
+    "y": 22.931687,
+    "shops": [
+        {
+            "shop": "筱雯美食家",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

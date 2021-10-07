@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "一卡通": true,
-        "LINE Pay Money": true,
-        "愛金卡": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺中市沙鹿區鹿寮里光大路２８６號１樓",
+    "x": 120.564976,
+    "y": 24.243138,
+    "shops": [
+        {
+            "shop": "安泰商行",
+            "pay_list": "一卡通 \/ LINE Pay Money \/ 愛金卡"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
 }

@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "餐食攤販",
+    "address": "臺南市善化區光文里民權路２７－１號",
+    "x": 120.304237,
+    "y": 23.132045,
+    "shops": [
+        {
+            "shop": "荷野香實業",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

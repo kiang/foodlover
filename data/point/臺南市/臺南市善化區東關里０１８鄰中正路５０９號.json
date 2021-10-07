@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "一卡通": true,
-        "LINE Pay Money": true,
-        "愛金卡": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市善化區東關里０１８鄰中正路５０９號",
+    "x": 120.293803,
+    "y": 23.131596,
+    "shops": [
+        {
+            "shop": "益鼎商號",
+            "pay_list": "一卡通 \/ LINE Pay Money \/ 愛金卡"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
 }

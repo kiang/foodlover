@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺中市沙鹿區洛泉里中山路２４８―３號１樓",
+    "x": 120.567279,
+    "y": 24.236775,
+    "shops": [
+        {
+            "shop": "茉斯茶飲店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

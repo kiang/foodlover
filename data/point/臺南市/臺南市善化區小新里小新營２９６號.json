@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市善化區小新里小新營２９６號",
+    "x": 120.31905,
+    "y": 23.127417,
+    "shops": [
+        {
+            "shop": "店小二飲食",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "未分類其他食品、飲料及菸草製品零售\/飲料零售\/其他外燴及團膳承包\/餐館、餐廳",
+    "address": "高雄市新興區中正四路４６、４６之１號",
+    "x": 120.299266,
+    "y": 22.630744,
+    "shops": [
+        {
+            "shop": "逸之牛食品有限公司",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

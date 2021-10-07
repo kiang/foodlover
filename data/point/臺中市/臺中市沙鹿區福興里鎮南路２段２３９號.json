@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店\/麵店、小吃店",
+    "address": "臺中市沙鹿區福興里鎮南路２段２３９號",
+    "x": 120.568573,
+    "y": 24.223306,
+    "shops": [
+        {
+            "shop": "紅淳複合式餐飲",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

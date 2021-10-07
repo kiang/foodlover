@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "未分類其他住宿\/咖啡館",
+    "address": "臺東縣東河鄉都蘭村那界路１２―１號",
+    "x": 121.200676,
+    "y": 22.860029,
+    "shops": [
+        {
+            "shop": "星浪新蘭恩典企業社",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

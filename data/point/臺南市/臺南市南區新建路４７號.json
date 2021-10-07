@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "旅館\/企業總管理機構\/餐館、餐廳",
+    "address": "臺南市南區新建路４７號５樓",
+    "x": 120.185539,
+    "y": 22.966999,
+    "shops": [
+        {
+            "shop": "夏都國際開發股份有限公司台南分公司",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

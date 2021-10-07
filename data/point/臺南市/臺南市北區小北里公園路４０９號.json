@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "便當、自助餐店",
+    "address": "臺南市北區小北里公園路４０９號１樓",
+    "x": 120.20983,
+    "y": 23.006967,
+    "shops": [
+        {
+            "shop": "易雲有限公司",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

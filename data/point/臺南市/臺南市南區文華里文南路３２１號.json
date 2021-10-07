@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市南區文華里文南路３２１號１樓",
+    "x": 120.190021,
+    "y": 22.98749,
+    "shops": [
+        {
+            "shop": "弎辰茶行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

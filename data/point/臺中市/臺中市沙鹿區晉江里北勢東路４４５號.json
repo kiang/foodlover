@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "便當、自助餐店",
+    "address": "臺中市沙鹿區晉江里北勢東路４４５號１樓",
+    "x": 120.577552,
+    "y": 24.222843,
+    "shops": [
+        {
+            "shop": "峻成餐飲店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

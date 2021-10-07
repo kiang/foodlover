@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "苗栗縣南庄鄉南江村６鄰２７號",
+    "x": 120.999973,
+    "y": 24.595099,
+    "shops": [
+        {
+            "shop": "大橋頭小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

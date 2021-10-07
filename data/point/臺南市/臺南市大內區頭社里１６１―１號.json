@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市大內區頭社里１６１―１號",
+    "x": 120.383913,
+    "y": 23.143588,
+    "shops": [
+        {
+            "shop": "西拉雅土雞城",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
 }

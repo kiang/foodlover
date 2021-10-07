@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市南區再興里金華路二段１５２號１樓",
+    "x": 120.19144,
+    "y": 22.979293,
+    "shops": [
+        {
+            "shop": "椒小二麻辣燙",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

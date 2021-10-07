@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市北區武聖路６９巷１３５號",
+    "x": 120.191417,
+    "y": 23.00639,
+    "shops": [
+        {
+            "shop": "戰鬥雞",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

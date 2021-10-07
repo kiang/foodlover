@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true,
-        "街口支付": true
-    }
+    "name": "便當、自助餐店",
+    "address": "臺中市沙鹿區興安里沙田路４５之９號",
+    "x": 120.558556,
+    "y": 24.230243,
+    "shops": [
+        {
+            "shop": "阿琴自助餐",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "臺中市豐原區頂街里和平街２１、２３號１、２樓",
+    "x": 120.719854,
+    "y": 24.252389,
+    "shops": [
+        {
+            "shop": "御文商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "未分類其他食品、飲料及菸草製品零售\/其他運動及休閒教育\/餐館、餐廳\/農產品（家畜及家禽肉品）批發市場承銷",
+    "address": "花蓮縣花蓮市民德里育樂新村８號",
+    "x": 121.621953,
+    "y": 23.982545,
+    "shops": [
+        {
+            "shop": "博思文創有限公司",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

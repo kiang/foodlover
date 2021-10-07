@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "高雄市大寮區大寮里光明路２段３９６—２號",
+    "x": 120.420573,
+    "y": 22.586027,
+    "shops": [
+        {
+            "shop": "宗蒜味肉焿",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

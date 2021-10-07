@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺南市南區大成里西門路１段３７８號１樓",
+    "x": 120.197835,
+    "y": 22.980822,
+    "shops": [
+        {
+            "shop": "玎旺小吃部",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

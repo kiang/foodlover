@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "高雄市仁武區後安里永宏巷３８－３０號",
+    "x": 120.344682,
+    "y": 22.713795,
+    "shops": [
+        {
+            "shop": "工茶茶飲",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

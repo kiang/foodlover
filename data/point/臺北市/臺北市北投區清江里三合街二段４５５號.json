@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺北市北投區清江里三合街二段４５５號１樓",
+    "x": 121.501942,
+    "y": 25.126387,
+    "shops": [
+        {
+            "shop": "百吉漢堡",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

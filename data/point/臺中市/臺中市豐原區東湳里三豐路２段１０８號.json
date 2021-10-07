@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "一卡通": true,
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺中市豐原區東湳里三豐路２段１０８號１樓",
+    "x": 120.720626,
+    "y": 24.266155,
+    "shops": [
+        {
+            "shop": "茉田茶行",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money"
 }

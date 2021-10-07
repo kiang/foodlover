@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "餐館、餐廳",
+    "address": "臺中市西區安龍里梅川西路一段５、７號",
+    "x": 120.668484,
+    "y": 24.14363,
+    "shops": [
+        {
+            "shop": "冒煙的喬餐飲股份有限公司國美分公司",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

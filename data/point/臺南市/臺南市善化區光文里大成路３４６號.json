@@ -1,7 +1,13 @@
 {
-    "pay_list": {
-        "一卡通": true,
-        "LINE Pay Money": true,
-        "愛金卡": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市善化區光文里大成路３４６號１樓",
+    "x": 120.297265,
+    "y": 23.129753,
+    "shops": [
+        {
+            "shop": "大成茶坊",
+            "pay_list": "一卡通 \/ LINE Pay Money \/ 愛金卡"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "飲酒店\/餐館、餐廳\/冰果店、冷（熱）飲店",
+    "address": "臺南市南區光明里新建路３１巷１―４號",
+    "x": 120.185526,
+    "y": 22.970237,
+    "shops": [
+        {
+            "shop": "立燊餐飲有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

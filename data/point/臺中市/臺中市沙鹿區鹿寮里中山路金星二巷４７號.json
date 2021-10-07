@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺中市沙鹿區鹿寮里中山路金星二巷４７號１樓",
+    "x": 120.566616,
+    "y": 24.248821,
+    "shops": [
+        {
+            "shop": "旺春豐鉄板吐司",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

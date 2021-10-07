@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺南市北區永祥里實踐街１００巷２號１樓",
+    "x": 120.21932,
+    "y": 23.013469,
+    "shops": [
+        {
+            "shop": "晨翊早餐店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺北市萬華區頂碩里艋舺大道１２０巷１１弄１號",
+    "x": 121.502371,
+    "y": 25.032882,
+    "shops": [
+        {
+            "shop": "老貳有限公司濟善分公司",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

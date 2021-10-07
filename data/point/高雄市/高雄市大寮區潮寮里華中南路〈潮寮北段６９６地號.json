@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "高雄市大寮區潮寮里華中南路〈潮寮北段６９６地號〉",
+    "x": 120.429008,
+    "y": 22.569071,
+    "shops": [
+        {
+            "shop": "潮寮冷飲店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "台灣 PAY": true,
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "高雄市前金區後金里成功一路４６５、４６７號",
+    "x": 120.29173,
+    "y": 22.629069,
+    "shops": [
+        {
+            "shop": "成功小吃店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

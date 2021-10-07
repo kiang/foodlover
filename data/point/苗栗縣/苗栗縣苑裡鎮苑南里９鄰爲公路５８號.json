@@ -1,6 +1,13 @@
 {
-    "pay_list": {
-        "街口支付": true,
-        "LINE Pay Money": true
-    }
+    "name": "未分類其他家用器具及用品零售\/冰果店、冷（熱）飲店",
+    "address": "苗栗縣苑裡鎮苑南里９鄰爲公路５８號１Ｆ",
+    "x": 120.652227,
+    "y": 24.443256,
+    "shops": [
+        {
+            "shop": "站前飲品專賣店",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
 }

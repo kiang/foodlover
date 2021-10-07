@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺南市南區鹽埕里金華路１段１２１號１樓",
+    "x": 120.189553,
+    "y": 22.964297,
+    "shops": [
+        {
+            "shop": "二姐的鴨肉飯",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市北區合興里開元路３５２―１號１樓",
+    "x": 120.223243,
+    "y": 23.008921,
+    "shops": [
+        {
+            "shop": "茶來富茶飲",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

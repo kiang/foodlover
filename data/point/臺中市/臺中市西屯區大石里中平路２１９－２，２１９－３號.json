@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "麵店、小吃店",
+    "address": "臺中市西屯區大石里中平路２１９－２，２１９－３號",
+    "x": 120.663347,
+    "y": 24.176451,
+    "shops": [
+        {
+            "shop": "地中海石燒石鍋料理專賣店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

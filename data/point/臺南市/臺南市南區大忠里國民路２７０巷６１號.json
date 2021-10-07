@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市南區大忠里國民路２７０巷６１號１樓",
+    "x": 120.208888,
+    "y": 22.971679,
+    "shops": [
+        {
+            "shop": "蔗好茶茶飲店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

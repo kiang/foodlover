@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "便當、自助餐店",
+    "address": "臺南市南區喜北里喜樹路１１８巷２３弄７號１樓",
+    "x": 120.179114,
+    "y": 22.94403,
+    "shops": [
+        {
+            "shop": "布魯先生水煮健康餐",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

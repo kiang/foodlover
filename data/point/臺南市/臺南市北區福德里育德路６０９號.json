@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "早餐店",
+    "address": "臺南市北區福德里育德路６０９號",
+    "x": 120.207066,
+    "y": 23.016726,
+    "shops": [
+        {
+            "shop": "志成早點",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }

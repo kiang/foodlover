@@ -1,5 +1,13 @@
 {
-    "pay_list": {
-        "LINE Pay Money": true
-    }
+    "name": "調理飲料攤販",
+    "address": "臺南市北區中樓里勝利路４５９號１樓",
+    "x": 120.218755,
+    "y": 23.005517,
+    "shops": [
+        {
+            "shop": "富食康生活飲食",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
 }
