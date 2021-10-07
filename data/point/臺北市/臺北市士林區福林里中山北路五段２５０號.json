@@ -1,0 +1,28 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺北市士林區福林里中山北路五段２５０號",
+    "x": 121.5270100165,
+    "y": 25.087199221312,
+    "shops": [
+        {
+            "shop": "ＭＯ＆ＭＯ滷味攤",
+            "pay_list": "一卡通"
+        },
+        {
+            "shop": "食唯鱻自助餐",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        },
+        {
+            "shop": "好口味小吃",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "御之殿快餐",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        },
+        {
+            "shop": "義世界小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

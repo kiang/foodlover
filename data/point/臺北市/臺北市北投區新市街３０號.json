@@ -1,0 +1,20 @@
+{
+    "name": "餐食攤販",
+    "address": "臺北市北投區新市街３０號２樓",
+    "x": 121.50240768395,
+    "y": 25.132484932577,
+    "shops": [
+        {
+            "shop": "攤販３９９",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "攤販５０５",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        },
+        {
+            "shop": "攤販６１２",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

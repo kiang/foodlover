@@ -1,0 +1,20 @@
+{
+    "name": "早餐店",
+    "address": "高雄市左營區新上里富國路６０號（龍華公有零售市場甲字第５號）",
+    "x": 120.30676468686,
+    "y": 22.658518407196,
+    "shops": [
+        {
+            "shop": "曉琦飯糰",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "吳媽媽私房菜",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "桔之家",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

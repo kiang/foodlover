@@ -1,0 +1,16 @@
+{
+    "name": "麵店、小吃店",
+    "address": "高雄市岡山區後紅里岡燕路７６號旁",
+    "x": 120.29854474175,
+    "y": 22.792368515277,
+    "shops": [
+        {
+            "shop": "阿粉陽春麵",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "永琳餐廳",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

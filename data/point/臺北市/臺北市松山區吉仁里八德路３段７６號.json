@@ -1,0 +1,24 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺北市松山區吉仁里八德路３段７６號（中崙市場２樓６號）",
+    "x": 121.55301419732,
+    "y": 25.048311387557,
+    "shops": [
+        {
+            "shop": "江小琴",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "莊吳美芳",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        },
+        {
+            "shop": "徐占華",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "別館美式壽司創意料理",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

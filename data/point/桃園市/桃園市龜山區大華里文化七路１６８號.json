@@ -1,0 +1,16 @@
+{
+    "name": "麵店、小吃店",
+    "address": "桃園市龜山區大華里文化七路１６８號",
+    "x": 121.36720154013,
+    "y": 25.051502177064,
+    "shops": [
+        {
+            "shop": "三寶小吃店",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "大華小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

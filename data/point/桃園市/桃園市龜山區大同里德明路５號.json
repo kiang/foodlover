@@ -1,0 +1,32 @@
+{
+    "name": "冰果店、冷（熱）飲店",
+    "address": "桃園市龜山區大同里德明路５號（第二餐廳）",
+    "x": 121.34431590402,
+    "y": 24.984820668452,
+    "shops": [
+        {
+            "shop": "木子甜飲店",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        },
+        {
+            "shop": "夏光宇",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        },
+        {
+            "shop": "粵香港式燒腊",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "粵海自助餐",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "民宸有限公司銘傳門市部",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "藝欣餐廳",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        }
+    ]
+}

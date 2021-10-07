@@ -1,0 +1,20 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺北市大安區民輝里新生南路１段１號",
+    "x": 121.53317682621,
+    "y": 25.044205899954,
+    "shops": [
+        {
+            "shop": "來佳商行",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        },
+        {
+            "shop": "慶小福食品企業社",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "慶晉小吃店",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        }
+    ]
+}

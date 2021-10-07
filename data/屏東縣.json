@@ -7947,6 +7947,19 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣枋山鄉加祿村嘉和路１７２－６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.47441205081,
+                    22.671790325923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣枋山鄉枋山村中山路三段３７號"
             },
             "geometry": {
@@ -10918,6 +10931,19 @@
                 "coordinates": [
                     120.646547,
                     22.700679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣霧臺鄉霧臺村霧臺村神山巷６１―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.72863252499,
+                    22.749553698372
                 ]
             }
         },

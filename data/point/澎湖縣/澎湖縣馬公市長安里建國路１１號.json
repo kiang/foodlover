@@ -1,0 +1,16 @@
+{
+    "name": "冰果店、冷（熱）飲店",
+    "address": "澎湖縣馬公市長安里建國路１１號",
+    "x": 119.56604544428,
+    "y": 23.566303034596,
+    "shops": [
+        {
+            "shop": "鮮之味飲料店",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "心雅商行",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ]
+}

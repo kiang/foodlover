@@ -2851,6 +2851,19 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "宜蘭縣大同鄉英士村林森路１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75997135139,
+                    24.752180477968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "宜蘭縣大同鄉樂水村碼崙路３５巷１號"
             },
             "geometry": {
@@ -3729,6 +3742,19 @@
                 "coordinates": [
                     121.743561,
                     24.777107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "宜蘭縣宜蘭市０１２鄰擺厘里０１２鄰女中路二段４９３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74943364275,
+                    24.744678588256
                 ]
             }
         },
@@ -6316,6 +6342,19 @@
                 "coordinates": [
                     121.767015,
                     24.825106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "宜蘭縣礁溪鄉玉石村０１５鄰溫泉路８５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77333736401,
+                    24.828855180349
                 ]
             }
         },

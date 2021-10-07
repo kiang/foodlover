@@ -1,0 +1,16 @@
+{
+    "name": "餐食攤販",
+    "address": "臺北市大同區星明里寧夏路５０號左",
+    "x": 121.51530571177,
+    "y": 25.056469460783,
+    "shops": [
+        {
+            "shop": "攤販─洪國益",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "客家放山雞莊",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

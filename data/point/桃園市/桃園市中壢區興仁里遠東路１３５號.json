@@ -1,0 +1,28 @@
+{
+    "name": "麵店、小吃店",
+    "address": "桃園市中壢區興仁里遠東路１３５號",
+    "x": 121.26345606029,
+    "y": 24.96989678337,
+    "shops": [
+        {
+            "shop": "仙桃總鋪",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "喜樂早餐",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "鄉園自助餐",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "饌煲食品行",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "山口餐飲店",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

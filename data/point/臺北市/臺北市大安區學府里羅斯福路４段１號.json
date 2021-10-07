@@ -1,0 +1,20 @@
+{
+    "name": "早餐店",
+    "address": "臺北市大安區學府里羅斯福路４段１號（大一女舍Ｂ棟）",
+    "x": 121.53370063613,
+    "y": 25.016981070662,
+    "shops": [
+        {
+            "shop": "台大早餐店",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "食香園素食館（台灣大學第一學生活動中心）",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        },
+        {
+            "shop": "海音咖啡館",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

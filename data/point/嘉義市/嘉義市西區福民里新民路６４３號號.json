@@ -1,0 +1,24 @@
+{
+    "name": "西點麵包零售\/咖啡館",
+    "address": "嘉義市西區福民里新民路６４３號１樓",
+    "x": 120.43999999567,
+    "y": 23.466819999946,
+    "shops": [
+        {
+            "shop": "多更多麵包坊",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "多億多食品有限公司",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "多更多麵包坊",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "多億多食品有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

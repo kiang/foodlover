@@ -1,0 +1,20 @@
+{
+    "name": "外燴（辦桌）承包\/餐館、餐廳",
+    "address": "高雄市鼓山區麗興里蓬萊路２３號２樓",
+    "x": 120.27864125213,
+    "y": 22.618799885068,
+    "shops": [
+        {
+            "shop": "河邊股份有限公司高雄港分公司",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "玄穹有限公司",
+            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money"
+        },
+        {
+            "shop": "便宜坊烤鴨股份有限公司",
+            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money"
+        }
+    ]
+}

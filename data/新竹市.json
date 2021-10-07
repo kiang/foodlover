@@ -17,6 +17,604 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹市北區水田里北大路１５０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96827675032,
+                    24.810059311178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區育英里四維路６０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96244137333,
+                    24.799070763908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區臺溪里中山路４５３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9566139661,
+                    24.79826202883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區西門里長安街３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96545353767,
+                    24.804764577056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區中山里１２鄰中山里北門街６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96615717719,
+                    24.804866580676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區金華里光華一街６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97397393355,
+                    24.81599744312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區南勢里延平路一段４５３巷４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.94650839627,
+                    24.804847935221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區石坊里西門街９４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96407084519,
+                    24.801975220568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區金華里田美三街５１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97669588236,
+                    24.816458260533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區西雅里北新街１１３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95598035765,
+                    24.803038165507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區潛園里和福街１８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96206247109,
+                    24.805193517846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區潛園里西大路４６７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96377336748,
+                    24.804540089387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區福德里德成街６１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9631062027,
+                    24.7995184782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區武功里１３鄰建中路５５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99485300237,
+                    24.801380938191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區仙水里光復路１段３２５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.0185689181,
+                    24.782675614616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區錦華里２鄰東大路一段２３０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97056911809,
+                    24.810642757167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區東園里鐵道路１段５２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98414390286,
+                    24.8120915565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區新莊里１０鄰光復路１段４３０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01421260531,
+                    24.784714759389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區東園里公園路１７３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98228071674,
+                    24.804787740193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區親仁里文化街２２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97112143064,
+                    24.806562653756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區育賢里文化街２－１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97108841339,
+                    24.80476974459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區頂竹里東南街１９７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97526876725,
+                    24.796329724143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區振興里振興路８３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96129927809,
+                    24.794923714814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區軍功里光復路２段４２０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99636130338,
+                    24.797403511821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區頂竹里食品路１９７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9753815959,
+                    24.796448649783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區關東里光復路一段１７２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02246858845,
+                    24.781702695028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區公園里５鄰南大路５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97909447978,
+                    24.803316205679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區明湖里３鄰明湖路１００８巷６弄７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97665096011,
+                    24.768440460317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區復中里中央路３２８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97839146569,
+                    24.810436614098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區復中里民權路２０６巷１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97340451453,
+                    24.810549661423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區仙水里光復路一段５２３―１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01379989247,
+                    24.784578014058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區南大里食品路２３７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97416253214,
+                    24.795696810933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區新興里南大路４７９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96635141401,
+                    24.795442818123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區關帝里南門街５３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96706431152,
+                    24.801488273542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區光復里忠孝路２７巷２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99035571965,
+                    24.801732109915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區復中里三民路６９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9765150502,
+                    24.809121494463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區育賢里民族路３３―３４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97163954809,
+                    24.805242678794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區東山里東山街５６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97963502334,
+                    24.796715001553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區大學路１００１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9974629012,
+                    24.784313276744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區中正里中央路９８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9688250729,
+                    24.805611389284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區文華里國華街１４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97090823693,
+                    24.814755715875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區竹蓮里南大路２８０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97218568995,
+                    24.799295357622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區金山里金山十二街９之２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02227980002,
+                    24.777280039526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區錦華里１鄰中央路１７５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97299346478,
+                    24.80848438294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區新莊里長春街９７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01529353984,
+                    24.78704494525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區綠水里博愛街１４２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98123619338,
+                    24.799540719582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹市香山區頂福里中山路７７５巷５號"
             },
             "geometry": {
@@ -115,6 +713,5531 @@
                 "coordinates": [
                     120.952248,
                     24.799268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區南寮里２２鄰新港三路１―９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92495184969,
+                    24.84807179709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區大同里１３鄰北大路１１７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96877768357,
+                    24.809993688272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區文雅里經國路二段１３０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96340506509,
+                    24.811448153374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區仁德里２鄰世界街１６３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9652147796,
+                    24.806827018922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區北門里中正路２４５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96402353018,
+                    24.812379965573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區新民里西大路６５８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96093627851,
+                    24.808238489685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區新民里西大路６５０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96104889134,
+                    24.808089095494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區南寮里東大路四段２８６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92841269313,
+                    24.845388129446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區北門里４鄰中正路１６１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96628472442,
+                    24.809442221299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區大同里北大路１９５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96605621613,
+                    24.808391690512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區客雅里延平路一段２６２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95278510863,
+                    24.805147089063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區西門里中山路１４２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96452503395,
+                    24.804094797462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區中興里北門街５３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96583891299,
+                    24.806171143507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區水田里北大路１６６巷１弄２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9673991526,
+                    24.810075103146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區南寮里東大路三段６８４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.93803805907,
+                    24.840278558229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區水田里中正路３５２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96305493048,
+                    24.813995127953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區南寮里東大路三段４７９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.94302310383,
+                    24.83705553466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區金華里光華東街４９―３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97454355795,
+                    24.816325550359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區中山里５鄰北門街４２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96607164517,
+                    24.805854653173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區光田里東大路二段１５６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96643624629,
+                    24.815387503928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區潛園里西大路４２７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96398213911,
+                    24.803970885399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區武陵里鐵道路二段４２５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96244126205,
+                    24.820447356305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區興南里勝利路２４５巷１４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96303931791,
+                    24.802263343481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區西門里中山路１３４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96470255091,
+                    24.80420408573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區光華里湳雅街３０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97039436667,
+                    24.817568567043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區水田里中正路３８４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96261564821,
+                    24.814577995913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區仁德里北大路２９９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96307317459,
+                    24.806506080105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區西門里仁化街５―２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96540088686,
+                    24.804869387143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區水田里中正路２０６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96575612097,
+                    24.810494747065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區中興里北門街９２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96583664592,
+                    24.80686390868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區海濱里聖軍路７５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92934854911,
+                    24.842892356628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區舊社里光華二街８０巷７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97723096521,
+                    24.819639751597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區光田里水田街９１巷９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96749340014,
+                    24.815842147098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區民富里經國路二段２５３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96185770438,
+                    24.810094648996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區育英里四維路８９巷２―１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96045698742,
+                    24.800893854047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區石坊里西門街７８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96434448065,
+                    24.802152608139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區中興里大同路１７７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96656678898,
+                    24.807401005364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區水田里中正路１７８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96640460277,
+                    24.809841583779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區石坊里西門街６４巷９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96437653814,
+                    24.802462568327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區光田里東大路二段７８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9679671134,
+                    24.813624011088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區金華里田美三街７０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97686407848,
+                    24.816839113167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區中央里西大路４１４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96476394777,
+                    24.803252754607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區光田里１鄰水田街８５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96768885085,
+                    24.815533140303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區中央里西大路４１６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96473465912,
+                    24.803290758195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區金竹里金竹路１１３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97285586586,
+                    24.823499920891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區中興里中山路８８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96566767019,
+                    24.80481599918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區中興里北門街６３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96581481827,
+                    24.80638475506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區光華里光華街１１０―１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97170650202,
+                    24.818359455723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區光田里水田街２０６巷７２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9697577617,
+                    24.815264520485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區北門里北門街２５４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96516902843,
+                    24.810554832357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區新民里西大路６７０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96081663908,
+                    24.80839835514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區南寮里東大路４段２３６巷３０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.93023571981,
+                    24.845635110306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區南寮里東大路四段２１６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.93029042882,
+                    24.844412758284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區曲溪里中山路５４９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95486801716,
+                    24.795878496809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區中雅里北新街６２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95538833037,
+                    24.803429471087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區長和里４鄰城北街７７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9635738777,
+                    24.81091144371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區南寮里１４鄰南寮街１９９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92934545852,
+                    24.848160974436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區仁德里１３鄰仁德街６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9647591995,
+                    24.805703842756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區石坊里１２鄰中山路１５５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96408939972,
+                    24.803833495601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區湳雅里武陵路２２８巷２６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96969830587,
+                    24.820975460376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區林森路２７５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96222075716,
+                    24.797604188745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區湳中里湳中街８７巷１４弄１８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96412486092,
+                    24.820838166255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區興南里興南街３１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96341975168,
+                    24.801177203523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區舊社里湳雅街１８８―２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97514229622,
+                    24.821472856695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區金華里光華東街３８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97435736965,
+                    24.81592618337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區湳雅里武陵路２５０巷１７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97068481019,
+                    24.821750942731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區北門里中正路２７３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96348806568,
+                    24.813108534796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區中央里西大路３９２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96513460597,
+                    24.802771706275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區磐石里西大路７０５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95600131326,
+                    24.811483537407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區境福里中正路４８５巷４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95816390785,
+                    24.815778704909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區金華里光華東街２０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97426233785,
+                    24.815291726954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區興南里西門街１５２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96268527005,
+                    24.801092694839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區水田里中正路２５２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96492025565,
+                    24.811591258684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區水田里２鄰北大路１６６巷１弄６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96721855862,
+                    24.809965275764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區水田里１６鄰中正路２７６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96422806664,
+                    24.812478065314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區大同里大同路１３２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96759452374,
+                    24.806233560652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區南寮里東大路３段７３０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.93716360581,
+                    24.840888163495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區西門里中山路９８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96537622423,
+                    24.804633012221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區福林里東大路２段５３７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95968457029,
+                    24.821471835877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區水田里中正路２７０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96430525276,
+                    24.812376150761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區光華里光華一街３５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97323629052,
+                    24.816374798904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區中央里西大路３９４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96511184806,
+                    24.802801314845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區海濱里孝賢路８６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92639727934,
+                    24.842875674044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區中雅里北新街１３５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95552746565,
+                    24.803247044117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區湳中里湳中街８０－１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96528861168,
+                    24.82088150731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區光華里光華一街３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97390027052,
+                    24.815835998829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區西雅里北新街８５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95666932816,
+                    24.802891651544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區康樂里東大路三段５３２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9417182936,
+                    24.837916628657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區西門里長安街１７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9654466135,
+                    24.805122379576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區金華里光華東街４０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97440534093,
+                    24.815954541406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區光華里光華南街１０５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97112745317,
+                    24.816431286894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區西雅里延平路一段１２１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95766598012,
+                    24.803999567813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區金華里光華東街４３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.974288372,
+                    24.81616407526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區境福里中正路５１６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95754824928,
+                    24.81656040851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區仁德里西大路５５６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96265244115,
+                    24.806014367534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區北門里民富街１４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96477016955,
+                    24.810286498924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區中興里北門街３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96598135191,
+                    24.805074379582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區光田里水田街１３９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96863107967,
+                    24.816315398609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區大同里大同路２０２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96651131106,
+                    24.807719071048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區崇禮里中山路３１６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96082358457,
+                    24.801720791654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區金華里光華北街１３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9740323198,
+                    24.817788908819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區育英里四維路４１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96212576075,
+                    24.799056148277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區北門里北門街１５１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96521226643,
+                    24.809097895337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區石坊里西門街６８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96459912902,
+                    24.802319246657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區潛園里北大路３４５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96142617729,
+                    24.805462046795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區中興里中山路７６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96592994238,
+                    24.804981553695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區光華里光華北街６０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9723462643,
+                    24.817814789525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區中央里３鄰中山路９７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96537492808,
+                    24.804670029255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區湳中里武陵路１７３―３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96827888069,
+                    24.821118901324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區光田里水田街１２８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96714199302,
+                    24.814856507767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區西門里中山路１２４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96488333,
+                    24.804321590594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區海濱里延平路三段３３５巷１弄２４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92927359009,
+                    24.834638489624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區金華里光華東街４２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97449277577,
+                    24.81601378399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區育英里四維路４９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96144775169,
+                    24.799987999994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區金雅里武陵路２２７巷１９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96973746169,
+                    24.823088882361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區中興里北門街１１３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96540372904,
+                    24.807458885213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區崇禮里北大路４３９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96022662813,
+                    24.802437958094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區石坊里石坊街１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96471335974,
+                    24.803059078791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區石坊里中山路１２９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96410132891,
+                    24.803626111084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區民富里西大路６０３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95910583785,
+                    24.809759050864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區中山里００５鄰北門街４０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96607689867,
+                    24.805814025589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區民富里西大路７２８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95557053828,
+                    24.811720591642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區興南里西門街１３５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96305132818,
+                    24.801120232686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區客雅里延平路一段２４４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95330855399,
+                    24.805157455666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區武陵里武陵路７３巷２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96610136332,
+                    24.81842058768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區南寮里榮濱路８０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9308376583,
+                    24.842156773352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區文雅里竹光路５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96164061096,
+                    24.815139057443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區康樂里東大路三段３０３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9452325203,
+                    24.835216426503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區客雅里延平路一段２７０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95262734222,
+                    24.805146226619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區石坊里西大路３７５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96486534776,
+                    24.802847212844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區北門里北門街１４５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9651640353,
+                    24.808954419457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區光華里光華東街１５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97405071743,
+                    24.81542423032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區中山里東門街１８５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96641119974,
+                    24.804448612901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區大同里中央路９３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96861466844,
+                    24.805671114741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區文雅里中正路３０１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96290394474,
+                    24.813774702294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區西雅里中山路３６４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95916284904,
+                    24.800895944194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區仁德里長安街８３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96524455263,
+                    24.806828018989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區北門里中正路１５９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96632836604,
+                    24.809370634232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區光華里光華一街１１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97377187001,
+                    24.815835976369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區光華里光華街９８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97213513475,
+                    24.817935733612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區新民里北大路３１４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96277907769,
+                    24.806587806485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區民富里北大路４３０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96032679063,
+                    24.803478894253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區仁德里世界街１８１―５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96489402612,
+                    24.806380840104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區光田里水田街１６３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96908474412,
+                    24.816684672682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區石坊里西門街６６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96464778093,
+                    24.802362776112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區水田里中正路２７８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96420550226,
+                    24.812515709214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區金華里光華東街９６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9748706885,
+                    24.817822548145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區育英里四維路８１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96073385069,
+                    24.800848332411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區中興里北門街６９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96577937223,
+                    24.806511237866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區光華里光華街８６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97235588292,
+                    24.817265039675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區大同里世界街１１４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96746774915,
+                    24.807621592473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區中山里中央路４３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96742889843,
+                    24.804883746438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區育英里中山路３２５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95944358205,
+                    24.800814221227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區育英里西門街２１５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96120729647,
+                    24.800010148266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區光華里光華街１１８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9716141836,
+                    24.818458211133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區光田里水田街１６８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96828953035,
+                    24.815812794464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區興南里中山路２２３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9618161228,
+                    24.802140517957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區西門里仁化街１１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96515892415,
+                    24.804945442242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區育英里四維路７８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96209685008,
+                    24.799478229143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區金竹里金竹路１０９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97304998959,
+                    24.823374187663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區仁德里北大路３１３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96262409209,
+                    24.806213351153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區南寮里東大路四段６９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.93473415121,
+                    24.841908885736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區新民里愛文街１３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96464921477,
+                    24.808468017592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區海濱里榮濱路１９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92980661484,
+                    24.840510203715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區仁德里仁德街２－１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96485242373,
+                    24.805535480981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區北門里中正路２２９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96460419558,
+                    24.811646439323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區光華里光華北街５０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97270890877,
+                    24.817854220844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區舊社里湳雅街１６０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97422500878,
+                    24.82072405001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區北門里北大路１７６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96654332426,
+                    24.808956359425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區客雅里延平路一段２７２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95257155323,
+                    24.805151174684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區舊社里湳雅街２１３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97430913231,
+                    24.821025800261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區磐石里和平路８６巷１５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95609204525,
+                    24.809450411301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區興南里００２鄰興南街３２－２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96292495032,
+                    24.80201963271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區大同里世界街１５４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96649019671,
+                    24.807151979029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區湳中里武陵路１７７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96852979584,
+                    24.821356857898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區民富里經國路二段３５２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95789996251,
+                    24.807938277241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區金華里光華東街４４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97452383041,
+                    24.816047285406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區南寮里東大路四段１４１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.93113863146,
+                    24.843784943816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區民富里經國路二段２４７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96197351738,
+                    24.810157246755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區民富里北大路３５６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96126106661,
+                    24.805220759492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區西雅里中山路４４６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95741652812,
+                    24.799640749719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區中央里西大路４３０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96453893841,
+                    24.803547666448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區南寮里東大路三段５５１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.93700471638,
+                    24.840671140027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區育英里四維路４３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96209172572,
+                    24.799090719291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區仁德里北大路２８５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96339547715,
+                    24.806708580867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區臺溪里中華路三段１９０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95729059191,
+                    24.79682631078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區光華里光華北街６９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97178727084,
+                    24.817278295831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區中興里北門街１１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96612008412,
+                    24.805232953583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區民富里經國路二段２７８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95965288531,
+                    24.809034924156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區中央里中山路１０５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96526506311,
+                    24.804572043284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區光華里光華街１０３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9720843708,
+                    24.818008043251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市北區民富里經國路二段２０９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96272257109,
+                    24.810644980272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區復興里經國路一段３７９巷１０弄２５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97837856255,
+                    24.813540106576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區建華里東南街２６７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97642647174,
+                    24.794728954374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區大同路１２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97072990413,
+                    24.802869692232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區光明里光復路２段１０１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99686397501,
+                    24.796397643703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區榮光里林森路２巷９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9709043316,
+                    24.802246751412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區福德里５鄰林森路１６２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96463635021,
+                    24.799421428768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區綠水里２鄰學府路３０９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98401756226,
+                    24.796826856736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區金山里２３鄰光復路１段１６７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02230527843,
+                    24.781507971542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區金山里９鄰光復路１段５９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02488903232,
+                    24.781182713626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區新莊里２８鄰長春街２３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.0140675157,
+                    24.785525184042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區中山路１９１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96250173705,
+                    24.802590226363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區東門里文昌街７２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96735140424,
+                    24.80241259643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區立功里光復路二段１８巷１７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00457476576,
+                    24.792324068681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區龍山里埔頂一路２０１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01719278914,
+                    24.791302734907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區南門里中華路二段５７２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96783081245,
+                    24.79978392655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區中山路１１８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96499419213,
+                    24.804389150638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區復中里３鄰中央路３００號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97782028615,
+                    24.810047939046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區２２鄰新港三路１－９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92495184969,
+                    24.84807179709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區光復里水源街６１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99147584585,
+                    24.8008208287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區頂竹里食品路１８４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97602880379,
+                    24.797149286098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區中正里中央路１０６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9694836376,
+                    24.806026299714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區科學園區新安路２－１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00468950525,
+                    24.782114117748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區金山里金山七街３１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.0203316176,
+                    24.778340009496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區復中里民生路１０５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97735922535,
+                    24.809545517982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區北大路２３０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9646595989,
+                    24.807777511662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區金山里金山八街５０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02037869389,
+                    24.777756752254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區關新里關新路１７３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01917483249,
+                    24.787060659683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區關新里６鄰關新二街１３５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01684000335,
+                    24.786165841109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區關新里關新路１９７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.0195014627,
+                    24.7874813521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區光明里光復路二段１０１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99686397501,
+                    24.796397643703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區仙水里光復路一段３７９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.0168750465,
+                    24.783486045706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區東門里２鄰東門街１３９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96788568832,
+                    24.80408038843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區榮光里信義街７２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97055209798,
+                    24.803132841627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區復中里民權路１４６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9747310783,
+                    24.808698484095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區復中里民權路１５５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97419230756,
+                    24.809053036059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區關新里關新西街６９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01924393956,
+                    24.788191849034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區金山里金山八街７１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02052907074,
+                    24.776928804356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區復中里民生路２１８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97582654294,
+                    24.811921698936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區立功里光復路二段１００號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00270846672,
+                    24.792491324387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區金山里金山八街４８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02037554098,
+                    24.77782798874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區中正里中正路８６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96978045378,
+                    24.805312557496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區新莊里光復路一段４４０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01400473213,
+                    24.784791161298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區軍功里建新路３４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99691407675,
+                    24.798167797547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區軍功里建功一路２８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99823312305,
+                    24.797326350858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區關帝里西大路３６０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9657291709,
+                    24.802021926392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區光復里忠孝路６１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99090936292,
+                    24.802532983351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區軍功里建功一路４５―７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99773471455,
+                    24.798177924282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區豐功里建美路４５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99768736571,
+                    24.802001184931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區東勢里東光路８７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98671163493,
+                    24.803771667069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區復中里錦華街１８巷２２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97344447811,
+                    24.809617103198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區復中里民生路１３８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97707390672,
+                    24.810314441436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區軍功里２鄰光復路２段４１０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99655852801,
+                    24.79726971222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區南門里勝利路７５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96804411984,
+                    24.800323883953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區東大路四段２９３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92773089496,
+                    24.845500748639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區新興里南大路３９９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96806942953,
+                    24.79650478068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區三民里民權路１１１巷２３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97446437675,
+                    24.807365363889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區關新里關新北路１０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01824949622,
+                    24.78680526483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區關新里００６鄰關新二街１１９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01720778231,
+                    24.785993803671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區關新里關新東路３６６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02058058668,
+                    24.786485438922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區新興里南大路４８７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96738733154,
+                    24.796275667586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區東園里中華路一段４２６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98508904065,
+                    24.810703414506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區關東里關東路１０２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02243063705,
+                    24.784037959727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區光復路一段４１２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01619883016,
+                    24.783759959177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區新興里南大路３９３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96818652133,
+                    24.796557532803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區建功里金城一路６７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00281028185,
+                    24.794428054488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區軍功里建新路９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99620075487,
+                    24.798130131764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區龍山里埔頂一路１７６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01545708353,
+                    24.791549857374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區金山里金山街３７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02067421765,
+                    24.777971864497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區關新里光復路一段３６２－１２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01621755932,
+                    24.784050318337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區新莊里光復路一段４４４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01392007944,
+                    24.784820783142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區關東里光復路一段１７６－１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02242369197,
+                    24.78171236241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區寺前里南大路３８２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96994792285,
+                    24.79789052225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區中正里府後街１９巷６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97025896789,
+                    24.805434900859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區復中里民生路１１１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97727631373,
+                    24.809651501324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區振興里南大路５７２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9641115485,
+                    24.79423742713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區龍山里慈雲路５１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.0114204463,
+                    24.790156108169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區金山里金山七街１６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02026491058,
+                    24.778618010681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區榮光里中正路１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97152083407,
+                    24.802723310348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區關東里光復路一段１９６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02199183686,
+                    24.781815894751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區復中里民權路１５０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97466034071,
+                    24.808760227848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區高峰里高翠路３０７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98518665231,
+                    24.778396995868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區仙水里光復路一段３８９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01664809301,
+                    24.783584844483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區金山里金山街１５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01980156394,
+                    24.778389557533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區東山里１５鄰培英街１６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97806800585,
+                    24.797502527886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區親仁里中央路１５２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97188264542,
+                    24.807576260837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區關東里關新東路１９９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01947176908,
+                    24.784793890657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區育賢里東門街４６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97324551703,
+                    24.804269870103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區公園里公園路３１２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97731286242,
+                    24.801777017671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區親仁里１４鄰仁愛街１２６巷２４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97020282473,
+                    24.809820178141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區軍功里建新路２２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99666315074,
+                    24.798053309172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區復興里中央路３５５巷１６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98045007545,
+                    24.81272230944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區成功里林森路３２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96873057093,
+                    24.801824947181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區光明里大學路１００１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9974629012,
+                    24.784313276744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區寺前里南大路３９６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96968100622,
+                    24.797747003536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區榮光里林森路１１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97054659339,
+                    24.801730876275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區復中里民生路２６４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97516965098,
+                    24.812778316074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區東園里忠孝路２８１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98376991043,
+                    24.803584033029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區龍山里慈濟路２２８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01494963739,
+                    24.79174032282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區復中里民生路１２９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97677211022,
+                    24.810311325152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區光復里忠孝路１６６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98925641897,
+                    24.805268455344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區林森路３２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96873057093,
+                    24.801824947181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區中正里府後街３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97046777398,
+                    24.805019174378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區光復里光復路２段７３８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98901973491,
+                    24.800597119907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區錦華里錦華街５巷１０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97222408238,
+                    24.808546990939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區軍功里光復路２段４０８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99660907044,
+                    24.797236217164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區新莊里光復路一段４４６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01388754403,
+                    24.784836766861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區復中里中央路１６２巷１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97353182286,
+                    24.808214343024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區金山里金山九街３６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02091314968,
+                    24.778028440959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區埔頂里埔頂二路１１８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01034933385,
+                    24.79242174147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區仙水里光復路一段３１９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01871221579,
+                    24.782662866385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區仙水里光復路一段２５１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02018565628,
+                    24.782029496063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區成功里勝利路３２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96987997091,
+                    24.802813997542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區榮光里中正路４３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97082201653,
+                    24.803604820467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區三民里三民路１５４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97918300023,
+                    24.809865395765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區新莊里長春街１０５巷１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01545092085,
+                    24.787309287667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區光明里大學路２２６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99855979902,
+                    24.789997271755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區東門里東門街１３７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96791427449,
+                    24.804078588839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區中正里中正路９６巷３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96992582643,
+                    24.805847442068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區金山里金山街２０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02070138031,
+                    24.777775397298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區千甲里千甲路２９４巷３６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00783442036,
+                    24.806558825401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區新莊里長春街７７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01496958163,
+                    24.786510933912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區關新里光復路一段３６０－２１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01680339681,
+                    24.783857492185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區軍功里建功一路６４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99794785888,
+                    24.798298910956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區頂竹里東南街５５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97300689011,
+                    24.799473823343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區新莊里光復路一段３７２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01547200467,
+                    24.784266633256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區中正里中正路９６巷２０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97033475044,
+                    24.805788476552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區復中里三民路９９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97784656342,
+                    24.809686708159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區關新里關新東路３２１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02070437004,
+                    24.786854873819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區埔頂里埔頂路１１９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00885101863,
+                    24.794785623809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區東園里中華路二段３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98335955497,
+                    24.809280954809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區金山里金山八街８９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02056802985,
+                    24.776304828833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區金山里光復路一段８７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.0241412682,
+                    24.781057969873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區成功里大同路３７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96942627892,
+                    24.803559759828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區成功里復興路１６―２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96956000349,
+                    24.802768157685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區關東里光復路一段１６２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02276002001,
+                    24.781641165928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區育賢里東門街７６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97200593997,
+                    24.804287610269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區仙水里光復路一段４６１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01520635111,
+                    24.784128612514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區金山里金山九街３５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02101359703,
+                    24.777869612927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區新莊里新莊街２１２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01753626875,
+                    24.787726271338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區榮光里４鄰林森路１８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97035642301,
+                    24.80200079451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區育賢里東門街３２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97391860667,
+                    24.80432154236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區關新里關新路７３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.0189450103,
+                    24.786534860932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區親仁里文化街８４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96996098637,
+                    24.808121305939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區三民里民族路６９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97523928603,
+                    24.80682468007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區科園里新安路２－２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00468950525,
+                    24.782114117748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區親仁里文化街１０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97141263292,
+                    24.806139448148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區光復里１１鄰忠孝路２７巷９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99014364792,
+                    24.801825181194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區親仁里文化街１８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97116982191,
+                    24.806467050044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區關東里關新二街４９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01919293769,
+                    24.785175386809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區中正里府後街９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97052509939,
+                    24.805206348928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區新莊里新莊街２０６巷１４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01774614283,
+                    24.787096498992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區金山里金山八街４６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02035676539,
+                    24.777912770327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區成功里大同路２０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96979835923,
+                    24.803262432658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區建功里金城二路２６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00249737221,
+                    24.795688547164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區新莊里關東路２６８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02094928095,
+                    24.787077756869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區三民里１７鄰三民路４０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97405669105,
+                    24.807637416207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區武功里新源街１０２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99293035697,
+                    24.801841500038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區高峰里寶山路１２２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97501752029,
+                    24.792503800074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區南大里食品路２３１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97427576444,
+                    24.795768969187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區金山里金山八街６２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02037716703,
+                    24.777490407247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區高峰里寶山路４６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97372472104,
+                    24.79360534273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區竹蓮里南大路３２８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97120268101,
+                    24.798674543988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區軍功里１６鄰建新路５０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99726173417,
+                    24.798326527572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區成功里大成街８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96869171078,
+                    24.802565917996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區金山里金山十街６２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02124652058,
+                    24.776905049211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區光鎮里５鄰南大路６１９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96730009292,
+                    24.787988356381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區東山里１０鄰食品路１３４巷１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9770096361,
+                    24.797838956254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區復中里２１鄰民生路２７０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97481472395,
+                    24.812799473968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區金山街２９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.0204002092,
+                    24.778098393476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區豐功里１４鄰建中一路１５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99361624746,
+                    24.800989499722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區北大路２７７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96353155819,
+                    24.806795379092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區育賢里１０鄰東門街８４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97181335676,
+                    24.804288928406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區復興里經國路一段４７９巷１弄１６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97653420821,
+                    24.814018344816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區復中里民生路１７２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97649678551,
+                    24.811034744776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區東山里東山街３２巷２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98018511541,
+                    24.796260303374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區育賢里民族路３３－４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97212932253,
+                    24.80455785986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區軍功里１６鄰建新路１２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99646603037,
+                    24.797958413776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區振興里２鄰興中街１６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.968174518,
+                    24.79747231078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區親仁里３鄰文化街２８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.971045339,
+                    24.806676399611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區頂竹里食品路１９８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97574675801,
+                    24.796959368614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區東門里東門街１１３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9688804506,
+                    24.804082404355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區東園里鐵道路一段２８巷５３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98536805557,
+                    24.810976196409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區復中里中央路１９８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9743594438,
+                    24.808730291869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區香村里元培街３０６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.94037959653,
+                    24.7778400775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區頂埔里４鄰牛埔東路４２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95024266088,
+                    24.799148914097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區香山里大庄路２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92813064232,
+                    24.789067050002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區１鄰大庄路４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92790952549,
+                    24.789366513721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區牛埔里牛埔東路２９２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.94257148601,
+                    24.795768648558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區香山里大庄路３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92863373934,
+                    24.78856584039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區內湖里內湖路１２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.90593762105,
+                    24.742256054252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區虎山里延平路二段７８５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92134690703,
+                    24.807492228964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區中隘里中華路６段７９９巷１０弄１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9194079289,
+                    24.719447197498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區華江街６９巷２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.91931589422,
+                    24.808543973546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區頂福里景觀大道２０１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.94978756577,
+                    24.786906931789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區埔前里牛埔東路３６２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.94075536871,
+                    24.795160675199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區頂埔里中華路四段３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95439473376,
+                    24.796740135813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區香山里２０鄰大庄路４５巷１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92845362624,
+                    24.789800781143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區頂埔里經國路三段３９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95375337933,
+                    24.799258383713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區東香里富群街３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95731086232,
+                    24.769668609005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區香山里大庄路８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92662948558,
+                    24.790824286681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區中隘里中華路六段７２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.91891760616,
+                    24.72135424924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區香山里香北路６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9278414241,
+                    24.792201741949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區虎山里１１鄰延平路２段３４２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.93395701846,
+                    24.808400375499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區頂埔里牛埔路８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9558604713,
+                    24.798303791589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區大庄路６３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92705563658,
+                    24.790346609507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區香山里香北路７６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92764694132,
+                    24.792099263406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區埔前里牛埔路４６６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.94167437101,
+                    24.796697618121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區虎山里延平路二段６８３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92274226526,
+                    24.804999343729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區內湖里內湖路１０２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.90588608783,
+                    24.742815078144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區牛埔里牛埔路４３９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.94125156636,
+                    24.79623302023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區香山里大庄路９６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92649013999,
+                    24.790979871908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區香山里大庄路３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92803542514,
+                    24.789196836001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區香山里大庄路６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92696220028,
+                    24.790471700777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區香山里大庄路５４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92774000502,
+                    24.789545108626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區香山里２０鄰大庄路４５巷１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92820253628,
+                    24.78959426638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區牛埔里牛埔東路３１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.94213372766,
+                    24.795344495613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區香山里元培街１１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.93015600394,
+                    24.785397055709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區牛埔里牛埔路４０１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.94197600129,
+                    24.796772492391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區牛埔里牛埔東路２６１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.94357544615,
+                    24.795842162311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區牛埔里牛埔東路２９７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.94250129658,
+                    24.795480969551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區頂埔里牛埔東路１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95096950699,
+                    24.799232397917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區香山里大庄路７７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9276127644,
+                    24.789979143792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區內湖里中華路六段２０５巷３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.90754336224,
+                    24.74613071997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區內湖里內湖路９３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.90606406615,
+                    24.743047136716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區頂埔里牛埔東路４５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95056226117,
+                    24.799081395632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區香山里香北路２５５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92489005076,
+                    24.789752176841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區頂埔里中華路四段１７６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9498934715,
+                    24.795807754718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區香山里大庄路５６―５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92724381165,
+                    24.790066723219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區頂埔里中山路５２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95651923064,
+                    24.798493314707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區頂埔里牛埔東路６５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.94888452115,
+                    24.798006967411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區頂埔里牛埔路７９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95419968944,
+                    24.798895660579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區茄苳里明德路１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95162871967,
+                    24.756141667179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區茄苳里柯湳一街８１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95190680682,
+                    24.753180621402
                 ]
             }
         }

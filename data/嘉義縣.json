@@ -1902,6 +1902,19 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "嘉義縣新港鄉宮前村中山路９８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.34722455077,
+                    23.553552323353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "嘉義縣新港鄉宮前村０２３鄰中山路１２３號"
             },
             "geometry": {
@@ -2871,6 +2884,19 @@
                 "coordinates": [
                     120.426796,
                     23.553989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義縣民雄鄉東榮村東榮路３３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43185364114,
+                    23.557634310399
                 ]
             }
         },

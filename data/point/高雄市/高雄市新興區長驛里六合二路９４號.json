@@ -1,0 +1,16 @@
+{
+    "name": "餐食攤販",
+    "address": "高雄市新興區長驛里六合二路９４號攤販",
+    "x": 120.29879627956,
+    "y": 22.632115925595,
+    "shops": [
+        {
+            "shop": "莊其章",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "莊其益",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

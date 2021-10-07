@@ -1,0 +1,32 @@
+{
+    "name": "餐食攤販",
+    "address": "臺北市大同區星明里寧夏路３５號前２３",
+    "x": 121.51556812031,
+    "y": 25.056533633491,
+    "shops": [
+        {
+            "shop": "攤販─林秉鴻",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "攤販─陳桂英",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "攤販─張嘉壁",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "攤販─吳秀娥",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "攤販─李進國",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "攤販─潘素圓",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

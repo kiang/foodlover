@@ -1,0 +1,28 @@
+{
+    "name": "麵店、小吃店",
+    "address": "花蓮縣壽豐鄉志學村大學路二段１號集賢館",
+    "x": 121.54342282424,
+    "y": 23.894246005124,
+    "shops": [
+        {
+            "shop": "平安小吃",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "寧記商行",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "歐哈尼複合式餐飲",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "專師速食店",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "大城小廚",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

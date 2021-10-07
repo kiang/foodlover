@@ -407,6 +407,19 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "花蓮縣玉里鎮啓模里１７鄰博愛街８２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60870306708,
+                    23.97409150247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "花蓮縣玉里鎮國武里０２１鄰中山路二段８２號"
             },
             "geometry": {
@@ -1389,6 +1402,4777 @@
                 "coordinates": [
                     121.458127,
                     23.780543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣光復鄉大華村中山路二段３０９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.42455711698,
+                    23.667943331759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣光復鄉南富村富田二街１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44910798531,
+                    23.656288798968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣光復鄉大全村農場路３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.41453891566,
+                    23.615344624331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣光復鄉大進村糖廠街１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.42128656371,
+                    23.658878233281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣光復鄉北富村００８鄰建國路二段１５５巷１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45478903828,
+                    23.661837796774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣光復鄉南富村００６鄰富愛街１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44966710175,
+                    23.655981013983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣光復鄉大安村中山路２段２８０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.42399356497,
+                    23.666384218443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉南華村１０鄰吉安路５段２９６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54980452745,
+                    23.952688766894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉北昌村自強路５６４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59253325157,
+                    23.987261596693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉勝安村１０鄰慈惠三街１４５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58594353832,
+                    23.977285158087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉仁安村海岸路２５１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59296899212,
+                    23.95551069582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉宜昌村中華路２段２２４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58258977287,
+                    23.973761886137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉太昌村建國路２段４０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56526481113,
+                    23.995784864307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉南昌村００３鄰中山路二段１８１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58090524705,
+                    23.97210697173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉永安村００４鄰建國路二段１９９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.57706077983,
+                    23.992063512891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉稻香村香源路１００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.57642717297,
+                    23.963185257496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉勝安村６鄰自強路２１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58771421168,
+                    23.980532115289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉勝安村１６鄰自強路２０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45830165008,
+                    23.781126145782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉慶豐村中山路三段５４０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56510881314,
+                    23.981095741076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉永安村建國路二段１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58390624965,
+                    23.98917161287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉北昌村０２８鄰北昌五街８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58959411115,
+                    23.987013384723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉北昌村１４鄰自強路５５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59232847682,
+                    23.986997541084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉福興村１９鄰福興七街８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56303679756,
+                    23.959839258834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉仁里村１３鄰中正路１段１０４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44242844003,
+                    23.730242351539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉宜昌村３２鄰中華路２段２８６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58050686999,
+                    23.973557518924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉永安村建國路二段１１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58159730825,
+                    23.990645638267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉慶豐村０２７鄰吉安路二段２９５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56640136992,
+                    23.978667094003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉干城村吉豐路五段１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54842716165,
+                    23.943830255907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉東昌村００４鄰東海一街１００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59665153255,
+                    23.966460683572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉仁安村０１５鄰南海四街１６３巷１３－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.592444185,
+                    23.951376946815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉宜昌村中華路２段１１―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58742401818,
+                    23.973767989618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉北昌村４鄰中央路三段４５８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58781001122,
+                    23.9865027913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉永安村００９鄰建國路二段２７７―２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.57423196845,
+                    23.992982458069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉福興村０１１鄰福興八街３２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55143510314,
+                    23.962776094357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉北昌村自立路５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5957689941,
+                    23.986050401262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉仁里村０４４鄰南埔八街１０６巷１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58930335162,
+                    23.96776308692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉宜昌村１９鄰中華路２段２２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58026482802,
+                    23.973240196759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉北昌村建國路１段５３―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59492616682,
+                    23.984965970706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉仁里村１９鄰仁里五街３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59226031715,
+                    23.968526598937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉宜昌村３１鄰吉祥七街１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58079848874,
+                    23.97386407974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉北昌村莊敬路５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59691623674,
+                    23.987523815004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉慶豐村３９鄰中山路３段３２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56963071052,
+                    23.97824318595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉勝安村中央路３段３９８－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58633002771,
+                    23.983956989474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉仁里村０３８鄰中山路一段１５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59248560545,
+                    23.998989418315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉慶豐村０１１鄰中山路三段２２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.57182301165,
+                    23.977094838257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉仁里村００１鄰中正路一段３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5942611152,
+                    23.968512102212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉永安村０１３鄰明仁二街１７６巷１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.57539166726,
+                    23.989665656339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉吉安村吉興三街１２５巷１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56539150084,
+                    23.974053428341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉勝安村００１鄰中華路５７４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58845131086,
+                    23.974266244674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉南華村０１２鄰吉安路五段２１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55116918047,
+                    23.955007569144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉宜昌村中華路二段２３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5802173196,
+                    23.973236358355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉仁里村００４鄰中正路一段２０５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59101060275,
+                    23.96488182106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉北昌村建國路一段５３－２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59480833747,
+                    23.984987420675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉勝安村０１７鄰和平路一段１６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58837587976,
+                    23.983330632994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉勝安村００１鄰慈惠一街１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58841985119,
+                    23.97433654996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉北昌村建國路一段３０２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58548763437,
+                    23.988560307242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉北昌村自強路５８９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59341088276,
+                    23.988937638409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉北昌村建國路一段２２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58881110051,
+                    23.986895409158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉仁和村南海二街２６２巷６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5910623975,
+                    23.957037679112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉北昌村０２７鄰自強路６５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59390192956,
+                    23.989012549808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉仁里村中正路一段６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59234607787,
+                    23.966864427016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉北昌村建國路一段９６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59331929397,
+                    23.985545679079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉南昌村中山路２段６１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58383729165,
+                    23.970503032205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉永興村１５鄰全民街８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5718854228,
+                    23.938027318379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉仁里村００５鄰中正路一段４５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43553570436,
+                    23.724842983655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉南昌村中山路２段１８３之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58075485765,
+                    23.972184398308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉仁和村海岸路２１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59262574902,
+                    23.955552923747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉宜昌村中華路２段７５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58557162054,
+                    23.973690275253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉勝安村自強路６３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.42763236113,
+                    23.666251802715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉北昌村建國路一段２３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58820303295,
+                    23.987126399368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉北昌村建國路一段２７―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59577852771,
+                    23.984762592209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉南昌村００８鄰南昌路１４９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5784624432,
+                    23.970207549035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉宜昌村００１鄰宜昌一街１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58773195867,
+                    23.973765429047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉仁里村０１９鄰仁里五街３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59226031715,
+                    23.968526598937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉慶豐村０２７鄰吉安路二段２８５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56627526993,
+                    23.97847342937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉宜昌村０３２鄰中華路二段３００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58019441901,
+                    23.973535892555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉北昌村０１８鄰自強路５８２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59280007701,
+                    23.987604833647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉干城村００１鄰吉安路六段１巷１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54917601204,
+                    23.951012269257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉仁里村００３鄰中正路一段２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59375311029,
+                    23.968381969812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉宜昌村０２２鄰中華路二段２５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58180031433,
+                    23.97368562209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉南昌村０２２鄰南昌路７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58203118369,
+                    23.968228531344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉北昌村莊敬路２８９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59245379021,
+                    23.991585729855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉勝安村和平路一段７９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59112490652,
+                    23.981772618861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉北昌村自強路５８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59287732427,
+                    23.987704200142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉北昌村０２３鄰自強路６２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59343118075,
+                    23.988396011643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉北昌村自強路４７６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59087828497,
+                    23.985207898406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉福興村福興六街３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56272595595,
+                    23.96233755909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉勝安村勝安一街２―９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58868834992,
+                    23.975080246693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉北昌村００５鄰建國路一段１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59651865369,
+                    23.984961456862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉北昌村建國路一段４１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59546446058,
+                    23.984829662089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉宜昌村０１９鄰中華路二段２２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58039941383,
+                    23.973251778029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉慶豐村０３０鄰中山路三段４６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56685615171,
+                    23.980111845877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉仁里村０３９鄰中山路一段１０１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3165738467,
+                    23.328681381935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉福興村０１０鄰福興路１７９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56030343571,
+                    23.968095907899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉宜昌村０１９鄰中華路二段２１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58057432318,
+                    23.973264606172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉南昌村０１４鄰南昌路１１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5788673207,
+                    23.970262058316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉永安村００６鄰建國路二段２４１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5759947644,
+                    23.99244239779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉勝安村００６鄰自立路一段１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59099627845,
+                    23.978067796691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉仁和村００８鄰海岸路２４２－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5930544783,
+                    23.955695032986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉太昌村０２０鄰太昌路２５４巷２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.57190297216,
+                    23.989223456538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉慶豐村０１７鄰中山路三段３８６―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56885310423,
+                    23.979096134611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉干城村００５鄰干城二街１４０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54286856139,
+                    23.94731834505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉宜昌村１２鄰中華路二段１７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52461476513,
+                    23.887891479294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣吉安鄉北昌村自立路二段１００－２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59448595115,
+                    23.983672780819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉志學村７鄰中正路２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59491784315,
+                    23.96925321008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉共和村魚池４５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5211308765,
+                    23.864351893163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉豐山村２１鄰中山路１５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60933961108,
+                    23.977213814344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉豐山村１３鄰中興街４５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.49468574574,
+                    23.84925315743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉鹽寮村大橋２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60620164185,
+                    23.919608218136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉志學村中正路９６巷１０－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5317962196,
+                    23.906049330897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉志學村大學路二段１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54342282424,
+                    23.894246005124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉壽豐村壽文路３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51325911314,
+                    23.874671196702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉志學村中正路７９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53177881193,
+                    23.906444428458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉鹽寮村００６鄰福德８０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60263209965,
+                    23.884915154214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉壽豐村０１９鄰壽文路４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51324628226,
+                    23.875603271407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉共和村理想路１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52666340492,
+                    23.866108915953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉豐坪村３鄰豐坪路３段６巷２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52357641904,
+                    23.842270147875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉鹽寮村山嶺１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59698664693,
+                    23.908064910603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉鹽寮村福德１８９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60333137995,
+                    23.901270373396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉志學村０１４鄰橋下１０５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5448339403,
+                    23.924647809757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉志學村９鄰中正路１６１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59821353468,
+                    23.971400574074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉壽豐村８鄰壽豐路１段６３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51009062141,
+                    23.86926663713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉池南村環潭南路２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5062800616,
+                    23.923172478159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉池南村１鄰池南路１段９０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50538522671,
+                    23.926331985154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉豐山村中山路２１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4958020542,
+                    23.849453916176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉志學村００３鄰中山路二段３０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52988933705,
+                    23.90720692131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉志學村００６鄰中正路１７６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59821357587,
+                    23.971071059363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉志學村００７鄰中山路三段４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5302641121,
+                    23.907355238018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉壽豐村壽豐路二段８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51229953542,
+                    23.872083870677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉志學村００５鄰中正路９８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59663159901,
+                    23.970015211483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉志學村中山路二段２０６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5298173465,
+                    23.905828962749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉志學村中山路２段１８６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52955682239,
+                    23.904907657433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉志學村大學路２段１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54342282424,
+                    23.894246005124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉志學村中正路１４８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53346095575,
+                    23.905411821463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉志學村中正路１４１―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53356971724,
+                    23.905505052197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉志學村中正路２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5303756162,
+                    23.907155565031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉壽豐村０２０鄰山邊路三段６２巷１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50528339254,
+                    23.871141489715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉鹽寮村大坑５－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60303351303,
+                    23.903919742868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉志學村志光街１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53196671367,
+                    23.906489485532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉鹽寮村００８鄰大坑５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60339939522,
+                    23.910311800111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉志學村中正路１５９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53408146253,
+                    23.905300104759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉志學村中正路１９９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53539724227,
+                    23.904690287402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉志學村００４鄰中正路４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59548960803,
+                    23.969253647328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉豐山村中興街１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.49524116254,
+                    23.848922598906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉志學村中山路二段２０４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52980708382,
+                    23.905788167032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣壽豐鄉池南村１鄰池南路１段７６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5053804324,
+                    23.927359071148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣富里鄉竹田村２５鄰雲閩１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.31058248364,
+                    23.220087959283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣富里鄉新興村０１６鄰東興１１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52978068571,
+                    23.630794408505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣新城鄉北埔村２鄰北埔路１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60685967679,
+                    24.026538686657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣新城鄉大漢村七星街９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63351093744,
+                    24.024415657907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣新城鄉新城村新興一路８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.64149127965,
+                    24.126671928434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣新城鄉大漢村七星街１５２－２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62903498737,
+                    24.02718498459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣新城鄉大漢村３鄰七星街７９巷５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63041654116,
+                    24.026378155692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣新城鄉新城村０２３鄰新興路６３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61501627798,
+                    23.987232259269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣新城鄉大漢村光復路４６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60527904134,
+                    24.036464628741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣新城鄉新城村新興路１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.64649920352,
+                    24.129805350919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣新城鄉北埔村北埔路２２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6038416663,
+                    24.033576489275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣新城鄉大漢村００５鄰明潭街１０巷２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63070393917,
+                    24.027656443476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣新城鄉大漢村０１８鄰民有路１６５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.36917459883,
+                    23.573882804487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣新城鄉北埔村北埔路２７８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6030422723,
+                    24.034824359227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣新城鄉新城村新城村新興一路８６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.64145072021,
+                    24.126629102457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣新城鄉新城村新興路２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6462269386,
+                    24.130486787286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣新城鄉大漢村大德街３４５巷２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60804916363,
+                    24.041426617981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣新城鄉嘉里村０３３鄰嘉里路１５９―７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60860698418,
+                    24.021077075748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣新城鄉北埔村２０鄰民族路５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60331722445,
+                    24.032332841962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣新城鄉北埔村０２４鄰北埔路２０１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60405006453,
+                    24.0330172566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣新城鄉嘉新村嘉新路１７６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60973446849,
+                    24.008411744573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣新城鄉新城村０２５鄰仁愛路５巷４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.64872594325,
+                    24.128755780633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣新城鄉北埔村００３鄰光復路１２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45042365654,
+                    23.748749097113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣新城鄉北埔村復興路２５９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60287670014,
+                    24.032636007378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣新城鄉北埔村北埔路３０３－３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60295374599,
+                    24.035848700321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣新城鄉新城村博愛路２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.65143224384,
+                    24.126581138004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣玉里鎮大禹里酸柑９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.32533377151,
+                    23.352286434156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣玉里鎮國武里中山路２段８９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.31462372546,
+                    23.334003819104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣玉里鎮中城里光復路１４１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.31289817587,
+                    23.331320871568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣玉里鎮泰昌里１７鄰新生街１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.31383893394,
+                    23.33844317821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣玉里鎮泰昌里０１３鄰新興街６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3131875015,
+                    23.338481271444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣玉里鎮國武里２１鄰中山路２段６６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.31510580898,
+                    23.333235115438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣玉里鎮樂合里溫泉４１－８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3434865343,
+                    23.283233078424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣玉里鎮中城里０３４鄰樂園街７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.31302853529,
+                    23.333335452439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣玉里鎮觀音里０１４鄰高寮２８０―５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.39698507528,
+                    23.400627368551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣玉里鎮國武里１８鄰中正路１２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59708277713,
+                    23.970311423193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣玉里鎮中城里光復路７５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.31615938887,
+                    23.331859480897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣玉里鎮國武里０１２鄰興國路一段２３９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.31958718323,
+                    23.332938043955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣玉里鎮中城里０１４鄰中山路一段９９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3165307297,
+                    23.32863476452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣玉里鎮中城里２６鄰光復路１０１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45008765651,
+                    23.747827350618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣玉里鎮泰昌里中山路二段９７―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.31444485122,
+                    23.334483323859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣玉里鎮國武里０２３鄰中山路二段４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.31500973629,
+                    23.332947360733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣玉里鎮中城里０３４鄰樂園街３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.31302853529,
+                    23.333335452439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣玉里鎮大禹里０１０鄰大禹４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3234738617,
+                    23.377185708975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣玉里鎮中城里０２７鄰光復路１２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45042365654,
+                    23.748749097113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣玉里鎮中城里光復路１５６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.31311645081,
+                    23.33145066089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣瑞穗鄉瑞穗村６鄰中山路１段２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59406791187,
+                    23.996915642193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣瑞穗鄉瑞穗村１３鄰成功北路５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.37713421095,
+                    23.499995118839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣瑞穗鄉瑞穗村１４鄰中正北路一段７８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.37720889,
+                    23.499768600397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣瑞穗鄉瑞良村９鄰中山路３段２３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.39849780322,
+                    23.483301542318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣瑞穗鄉瑞祥村祥北路２段１０１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.360883373,
+                    23.500656202956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣瑞穗鄉富源村廣東路１６１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.35548337726,
+                    23.589169438073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣瑞穗鄉瑞穗村００５鄰中正北路一段２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.37762972565,
+                    23.498084961484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣瑞穗鄉瑞穗村１６鄰國光北路２６９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.38258031358,
+                    23.503112829206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣瑞穗鄉舞鶴村中正南路２段７６―５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.35552074457,
+                    23.464579425414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣瑞穗鄉瑞穗村０１１鄰中山路１段６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59438916262,
+                    23.996503737777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣瑞穗鄉瑞穗村中正南路一段５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.37744749817,
+                    23.49716158577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣瑞穗鄉瑞美村００８鄰中興路２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63265902873,
+                    23.992307369352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣瑞穗鄉瑞穗村００６鄰中正北路５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52841680264,
+                    23.9066740872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣瑞穗鄉舞鶴村０１４鄰中正南路２段７６－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.35550241449,
+                    23.46323585382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣秀林鄉富世村富世２４２―２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62403445996,
+                    24.153307470508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣秀林鄉富世村富世２３１－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.57152545794,
+                    24.170309117673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣秀林鄉和平村和平３８―８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74860984559,
+                    24.310658723075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣秀林鄉銅門村銅門９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50011289405,
+                    23.956889367289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣秀林鄉富世村富世２７５―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62251094692,
+                    24.154845596095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣秀林鄉佳民村７鄰佳民１１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59187976022,
+                    24.050149152942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣秀林鄉富世村民樂３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6252871837,
+                    24.15308252155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣秀林鄉景美村加灣１５６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.607284169,
+                    24.084370485009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣秀林鄉崇德村崇德路９６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5266956189,
+                    23.905188122147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣秀林鄉富世村民樂５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62499471253,
+                    24.152203857964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣秀林鄉崇德村００２鄰崇德２８－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.65536359736,
+                    24.163705129332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣秀林鄉富世村民樂２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62547927609,
+                    24.152571900683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣秀林鄉富世村富世２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63375257969,
+                    24.143319393596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣秀林鄉銅門村００２鄰榕樹２３－３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50481608345,
+                    23.960560513433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣秀林鄉崇德村００７鄰崇德９１－３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.65055654152,
+                    24.158861702576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民運里中美一街４２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62987090859,
+                    23.993690392778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國興里３９鄰建國路２段８５８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56580350915,
+                    23.995957043579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國華里１１鄰林森路３５１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60487925521,
+                    23.981191589089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主農里中正路４８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59553579658,
+                    23.969280555967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國風里和平路６０６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59893429538,
+                    23.979669715859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民德里民德四街２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62225928188,
+                    23.985053141555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國威里大同街１０４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60851052975,
+                    23.981997555377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國治里００８鄰新港街３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60743246513,
+                    23.978367261766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國裕里６鄰富強路５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59655672522,
+                    23.996020273701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主信里南京街２１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60675686882,
+                    23.974978109846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國威里民國路９９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60505023554,
+                    23.978606053749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國慶里中山路１段３０６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.589518428,
+                    24.002774469447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國治里１９鄰博愛街２２３―３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60538504192,
+                    23.978506485684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國安里８鄰復興街１０２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60598411382,
+                    23.982438458655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國光里明禮路１８―３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60877091789,
+                    23.982108358715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國裕里５１鄰中山路７２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59529082846,
+                    23.995372748118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民勤里２１鄰中美三街５６―３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62283853352,
+                    23.988835204592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民立里民權路４２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62593746531,
+                    23.986721162811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主商里一心街４８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60782854843,
+                    23.9770654524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民政里２６鄰中興路２３３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62279877906,
+                    23.997416336893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國風里林森路１１５巷５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59783152861,
+                    23.977938626837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民生里大禹街４０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60851319547,
+                    23.976923345009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國裕里０４９鄰中山路７１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59548421533,
+                    23.995143972486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民勤里４２鄰中美路７１―１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62264830377,
+                    23.987852801856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主商里福建街４４５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60907594347,
+                    23.974545260392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主義里南京街２３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60626650226,
+                    23.974419086739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民勤里０１０鄰民權九街４７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62444256186,
+                    23.990548859242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國風里０１４鄰和平路５９９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59880672378,
+                    23.979366044792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主工里０１６鄰民國路３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60193241269,
+                    23.976553440605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國富里０１５鄰富國路６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59595562895,
+                    23.990788874404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民生里中山路１９９－２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60911976945,
+                    23.977145207059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民生里中山路２０１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60902759926,
+                    23.977259007532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國興里介仁街６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.57336885858,
+                    23.999651732343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國興里０３７鄰建國路二段５３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.57266219049,
+                    23.993831608424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主和里重慶路１９５巷６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60367959081,
+                    23.969193715384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民勤里１鄰中美路１－２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61802726988,
+                    23.982435002112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國富里莊敬路３２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59245564071,
+                    23.992148995188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主權里中原路６０６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59544070042,
+                    23.973572633436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國治里中正路６２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61002901942,
+                    23.979239046533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民運里８鄰民生路５１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63322261362,
+                    23.99553749295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國安里中山路３９８－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6045957017,
+                    23.983426274853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民勤里１５鄰中美路９９－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62535966222,
+                    23.991014389633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主睦里中正路３９６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60369654466,
+                    23.974699383473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民立里永興路２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6268042572,
+                    23.991719796888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主和里０２５鄰中福路１２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60235987746,
+                    23.971805047699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民享里２４鄰林園１之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62796949933,
+                    24.000170910555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國風里林森路１２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59973473208,
+                    23.977469731628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國治里１６鄰新港街６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60656490377,
+                    23.979181160479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國裕里１３鄰富安路９０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59956136804,
+                    23.994971699738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民生里８鄰三民街１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61116244243,
+                    23.977562732809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民政里２鄰中美路１５１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6281761084,
+                    23.994362562926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國魂里中山路５４９―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60127470708,
+                    23.986844098755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國治里０１２鄰節約街１６―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60689826794,
+                    23.978102524862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國治里４鄰節約街４０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60825935072,
+                    23.979107915741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民意里府前路４４８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62081309991,
+                    23.999245501906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民生里８鄰中正路５８２－３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60974121437,
+                    23.978634544034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國光里明禮路２６巷１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.609095807,
+                    23.982828353144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民德里中美路３４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61866563576,
+                    23.982671026904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主工里２鄰中正路４７７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60547505777,
+                    23.976108002861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國裕里０１３鄰富裕二街８１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59991040124,
+                    23.994386187351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國富里莊敬路３０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59255654572,
+                    23.991187575796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國聯里００２鄰中山路４３４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60098029813,
+                    23.988072617628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國威里自由街１４０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60412653555,
+                    23.979040588077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民族里５鄰復興街２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61102939557,
+                    23.97636838472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國風里０１５鄰建林街２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59813084518,
+                    23.978273304103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主力里０２４鄰林森路６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59773267203,
+                    23.976128525175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國富里富國路４１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59674295372,
+                    23.991288444879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民德里１鄰民權路５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62030325031,
+                    23.981736199037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民樂里０１１鄰海岸路４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63542852491,
+                    23.992476251205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民主里中山路４８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61176335106,
+                    23.974161020556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國華里００７鄰建國路７３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60354622579,
+                    23.9833123407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主商里南京街３３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60805504959,
+                    23.975781099411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民孝里０１０鄰中美路３０１－３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63194138229,
+                    23.998799578585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民意里００１鄰府前路４００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62113405759,
+                    23.998191376708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國聯里２３鄰國聯一路９３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6027850775,
+                    23.99113313443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國盛里０１１鄰國盛二街２０３－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60625456187,
+                    23.99306028701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主力里和平路５１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60109611196,
+                    23.976779741989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民生里花崗街５６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61302597918,
+                    23.978884161386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民族里９鄰福建街５１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6109051059,
+                    23.975526016202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國安里１５鄰明智街７３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60459716868,
+                    23.985536027347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民主里海濱街８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61376498488,
+                    23.971648699082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民德里中美路１０６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6208821011,
+                    23.985146783945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主睦里０１３鄰和平路３６２―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60367436229,
+                    23.974257767867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國魂里中山路５４９－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60127470708,
+                    23.986844098755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市建國路２８０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59910567409,
+                    23.98444915853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主學里中福路１４７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60176723871,
+                    23.972261256298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國風里００５鄰和平路５４５巷２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60008961371,
+                    23.977352724301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主勤里自由街７６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60688438911,
+                    23.97540210747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主力里１３鄰和平路５２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60080668184,
+                    23.977130506953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主工里中正路４８９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60571723556,
+                    23.97626359648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國治里新港街４５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60700897926,
+                    23.978610605922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國盛里國盛四街１０２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60764192083,
+                    23.99467453431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民政里中美路１１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6271862398,
+                    23.993215966606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國聯里２０鄰國聯五路４９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60550805985,
+                    23.990055051781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國聯里中山路４２２―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60159994334,
+                    23.987338322128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主工里民國路７９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6036331355,
+                    23.977669178692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民族里００６鄰中山路７４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61123506908,
+                    23.974837873407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民生里中正路５９０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61020697932,
+                    23.978933484047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國聯里國聯五路１０５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60509286055,
+                    23.991859425165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民意里４９鄰府前路５０８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62028822938,
+                    24.000771876102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國威里民國路１５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60738419588,
+                    23.9801758783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國魂里００３鄰中山路４７５―９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60326187229,
+                    23.984554106516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國聯里００４鄰國聯五路１５１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6046203521,
+                    23.993749837104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民生里００６鄰中山路１５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60933961108,
+                    23.977213814344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國聯里國聯五路６９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60526978832,
+                    23.990860372006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民政里中興路２５０－２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62339588631,
+                    23.997635234844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國威里０２７鄰復興街９６―２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60701483896,
+                    23.981442095495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國裕里５０鄰富裕三街２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59781943406,
+                    23.992997833989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民德里民德一街２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61989339421,
+                    23.983376789555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主權里德安二街２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5935794083,
+                    23.974176715952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國聯里２６鄰國聯二路１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60465172628,
+                    23.99113092441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民勤里１０鄰中美路９１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62434545688,
+                    23.989891159244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民運里００２鄰中興路１３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62872298406,
+                    23.9939875957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主勤里博愛街１９９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60622766014,
+                    23.97739523201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民勤里００３鄰中美路７－２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61986064814,
+                    23.984616492171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主權里中華路４５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59376145008,
+                    23.974714030443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主計里廣東街２１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60805025791,
+                    23.972936367038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民族里００７鄰中山路１０４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61063948877,
+                    23.97566475162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國裕里中山路６９６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59593215563,
+                    23.994581551813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主睦里０１２鄰信義街５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60414688901,
+                    23.974251411683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民生里０１９鄰三民街３―２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61103914244,
+                    23.977411911565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國風里和平路５６０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59980509373,
+                    23.97898975997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國裕里４９鄰中山路６８２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5961239235,
+                    23.994336772809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國聯里４鄰國興五街２１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60084665427,
+                    23.98733583004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主權里中華路３５５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59594837682,
+                    23.974656280063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國裕里５鄰富裕十七街２―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59610563865,
+                    23.995690879964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市主信里中正路４２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60403557579,
+                    23.97519385552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市民族里復興街２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61096952003,
+                    23.976415936461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣花蓮市國慶里中山路一段３８６―６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58830086654,
+                    24.004764462325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣萬榮鄉馬遠村馬遠９２－２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.36156181908,
+                    23.564488403809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣萬榮鄉西林村０１０鄰西林１７１―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44329198953,
+                    23.806533831171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣萬榮鄉紅葉村１０鄰紅葉１８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.32529359141,
+                    23.490716964159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣豐濱鄉豐濱村２鄰三民路２４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52246630797,
+                    23.600537595709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣豐濱鄉港口村石梯坪５３－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50867153311,
+                    23.480561118624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣豐濱鄉豐濱村０２７鄰豐富１２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50830582346,
+                    23.60612611674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣豐濱鄉港口村石梯灣１１８－２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50993458065,
+                    23.488826515824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣豐濱鄉港口村００１鄰石梯灣８２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50589694051,
+                    23.493212689141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣豐濱鄉豐濱村６鄰民族街２７巷１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52050583534,
+                    23.597930343336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣豐濱鄉豐濱村００３鄰三民路８６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5219805327,
+                    23.598469565223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣豐濱鄉港口村１鄰石梯灣３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50259549707,
+                    23.522520894092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣鳳林鎮大榮里中和路７１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45411037925,
+                    23.746487778197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣鳳林鎮大榮里０１１鄰復興路５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4673362758,
+                    23.751087618324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣鳳林鎮長橋里長橋路８０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.42141626793,
+                    23.712740905405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣鳳林鎮鳳仁里信義路２５５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45345433639,
+                    23.747634135218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣鳳林鎮鳳義里鳳鳴二路１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44480856517,
+                    23.753470818428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "花蓮縣鳳林鎮鳳智里中正路二段８２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44882618033,
+                    23.746244033511
                 ]
             }
         }

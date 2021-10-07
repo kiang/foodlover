@@ -641,6 +641,19 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "臺東縣關山鎮里壠里和平路４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.34249341898,
+                    23.056390399647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "臺東縣關山鎮里壠里６鄰和平路４３號"
             },
             "geometry": {
@@ -674,6 +687,3620 @@
                 "coordinates": [
                     121.13633,
                     22.909886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣卑南鄉太平村８鄰和平路１０８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.164501108,
+                    23.04851267963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣卑南鄉富山村漁場１９１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.19039100476,
+                    22.824828356159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣卑南鄉太平村太平路１３５―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.0896023239,
+                    22.777311956365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣卑南鄉溫泉村龍泉路３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01987564275,
+                    22.692402325037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣卑南鄉明峰村文泰路１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.0928649968,
+                    22.857148832317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣卑南鄉溫泉村龍泉路１１３巷２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00688424318,
+                    22.692095423904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣卑南鄉溫泉村龍泉路１４７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99638111082,
+                    22.690868134111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣卑南鄉溫泉村龍泉路１３９巷１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99905431511,
+                    22.690401030186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣卑南鄉利嘉村利嘉路６８９巷１９－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.05835231671,
+                    22.776500052132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣卑南鄉明峰村龍過脈１１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.09599002145,
+                    22.87425131286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣卑南鄉利嘉村利嘉路６８９巷１６－６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.05889626249,
+                    22.776171584966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣卑南鄉太平村太平路３３５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.08470217705,
+                    22.783703399769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣卑南鄉溫泉村龍泉路５３巷１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01472131598,
+                    22.692267280337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣卑南鄉溫泉村龍泉路４５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01591929546,
+                    22.692118857185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣卑南鄉富山村杉原３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.18654083892,
+                    22.837765585214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣卑南鄉利嘉村和平路１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.33854425109,
+                    23.058147032775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣卑南鄉太平村太平路３５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.08455073241,
+                    22.784089409792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣大武鄉大武村４鄰民族街８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.90650051444,
+                    22.363554978678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣大武鄉尚武村環港路５－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.89301277653,
+                    22.33805971037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣大武鄉大武村民族街２８之６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.90547360613,
+                    22.363581919249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣大武鄉大武村００２鄰復興路７６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.16285121959,
+                    23.052888014114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣大武鄉尚武村００４鄰環港路１－９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.89334375532,
+                    22.339060290415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣大武鄉大武村復興路４９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9071116125,
+                    22.362852810357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣大武鄉尚武村政通路５２－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.89008879404,
+                    22.34079858771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣太麻里鄉多良村大溪８４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9399463841,
+                    22.461865880072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣太麻里鄉多良村大溪２４７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.94120897992,
+                    22.4629252788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣太麻里鄉泰和村１８鄰太麻里街６６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99396682199,
+                    22.596247292649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣太麻里鄉泰和村太麻里街１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01029413125,
+                    22.618392887416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣太麻里鄉泰和村４鄰太麻里街２００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00639027757,
+                    22.612903040868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣太麻里鄉泰和村６鄰太麻里街２５７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.0054611818,
+                    22.610402089508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣太麻里鄉泰和村太麻里街２３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00621464705,
+                    22.612423474288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣太麻里鄉泰和村太麻里街２４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00560885216,
+                    22.610671339951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣太麻里鄉泰和村００６鄰太麻里街２６１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00541465169,
+                    22.610281037174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣太麻里鄉泰和村０１０鄰太麻里街４７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00433059572,
+                    22.608876152798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣太麻里鄉泰和村太麻里街１４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00718513855,
+                    22.613934683478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣太麻里鄉泰和村４鄰太麻里街１９０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00662362057,
+                    22.612941359715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣延平鄉桃源村昇平路１９１―３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.09078470001,
+                    22.90663563218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣延平鄉永康村泰平路６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.11501170233,
+                    22.928424708803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣成功鎮忠仁里港邊路２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.38157590576,
+                    23.098257359877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣成功鎮忠智里民生路１０６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.37899479154,
+                    23.10152452158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣成功鎮忠孝里美山路１－３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.39610474967,
+                    23.144509918196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣成功鎮信義里都歷路１８７―２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.33305221841,
+                    23.028812616413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣成功鎮忠仁里太平路５２－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.38124525192,
+                    23.105679922878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣成功鎮忠智里１９鄰中華路１９３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.38156817927,
+                    23.101822405591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣成功鎮忠智里中山路４２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.37935875825,
+                    23.101613735417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣成功鎮三民里中山路１６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.38142413625,
+                    23.106989334148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣成功鎮忠孝里８鄰成廣路３１－２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.40144958113,
+                    23.15967424747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣成功鎮忠智里中華路１８７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.38127369901,
+                    23.101723420623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣成功鎮忠仁里大智街３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.38109150064,
+                    23.10105269711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣成功鎮忠仁里中山東路１０５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.38131222155,
+                    23.100859291066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣成功鎮忠仁里中華路１１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.37921751827,
+                    23.100966264022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣成功鎮三民里大同路４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.37508368877,
+                    23.102812480637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣成功鎮忠智里新生路９４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1489730052,
+                    22.752031764347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣成功鎮忠仁里０１７鄰港邊路１９－８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.38024882648,
+                    23.099223798558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣成功鎮三仙里芝田路８４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.38613204551,
+                    23.109795293639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣成功鎮三民里１６鄰大同路６５－１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.37571874045,
+                    23.102960451947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣成功鎮忠智里五權路９２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.38086537492,
+                    23.103317943043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣東河鄉都蘭村新社３５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.22035478635,
+                    22.883829531564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣池上鄉福原村中山路２２４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.21774812585,
+                    23.123844539849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣池上鄉大埔村埔中二街２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.21270739857,
+                    23.118737793594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣池上鄉新興村新興路１０７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.12929756116,
+                    22.793156130128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣池上鄉福原村福吉二街５７巷１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.20889146104,
+                    23.127231767127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣池上鄉福原村中山路２６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.21866947241,
+                    23.124449639607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣池上鄉福原村中山路２００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.21705597905,
+                    23.123340676974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣池上鄉福原村００１鄰中山路６１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15660095298,
+                    22.761166159382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣池上鄉福原村中山路２４５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.21955697572,
+                    23.125348716296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣池上鄉福原村０１２鄰中山路２５５－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.21976915815,
+                    23.125494264145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣池上鄉福文村中華路５５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.21662868473,
+                    23.125571232208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣池上鄉福原村忠孝路１３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.21786000934,
+                    23.121685487599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣池上鄉福原村０１１鄰中山路２８４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.21893291117,
+                    23.124654385039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣池上鄉福原村０１１鄰靜修路１０２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2188069442,
+                    23.124032165356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣綠島鄉南寮村南寮１１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47016037507,
+                    22.666364807145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市馬蘭里１鄰更生路７４５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.13597552818,
+                    22.768179598434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市知本里知本路３段１６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.05266791674,
+                    22.706610997976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市南王里更生北路６１３巷７６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.11363667405,
+                    22.78385007829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市興國里光明路２５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14943632409,
+                    22.753055139469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市新生里仁七街１３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14218734555,
+                    22.769845261166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市南王里６鄰更生北路５８５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.11581500431,
+                    22.785256385856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市豐榮里正氣北路３４７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.13471015433,
+                    22.753425404916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市豐谷里中華路２段４２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.13328776688,
+                    22.742090870549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市新生里傳廣路４７９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14374071529,
+                    22.767794515054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市卑南里更生北路２１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.12273379421,
+                    22.780684261824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市永樂里山西路１段５０６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.11120007453,
+                    22.753025773505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市豐年里１３鄰中興路３段３５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.11073324595,
+                    22.771282606396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市豐谷里中華路２段２７８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.13619644176,
+                    22.743486011869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市南榮里更生路８６４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.13478323104,
+                    22.76972638843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市強國里寶桑路１０８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15683924524,
+                    22.754511469178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市新生里更生路５５４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.13997956238,
+                    22.764369334593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市卑南里南平街６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1230643828,
+                    22.780890021734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市中山里正氣路１７４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15148624045,
+                    22.752811737739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市中正里中正路３０８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15245273245,
+                    22.756716957343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民族里更生路２３３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14553405726,
+                    22.76022259554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市中正里２０鄰光明路１０７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15244610193,
+                    22.755655867376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市新興里３鄰新生路３４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15089825786,
+                    22.750464027448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市鐵花里中華路１段６２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14862065914,
+                    22.749650302249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市興國里中華路一段４９６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15079027504,
+                    22.752000527807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民生里２鄰傳廣路２２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14374259043,
+                    22.762171461711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市自強里正氣路４６２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14365363972,
+                    22.757344306246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市豐榮里中華路２段８０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.13986221328,
+                    22.745291746996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市豐年里中興路３段６３９巷３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.10471775391,
+                    22.772116712849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市中正里中正路２３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15374473837,
+                    22.75532464819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市中正里中正路２４９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.153382162,
+                    22.755592585081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市中正里中正路２４５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15346990521,
+                    22.755548059283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市文化里鐵花路３４２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14677985403,
+                    22.752806215865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民權里中山路１５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15367623949,
+                    22.758662026084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市中正里大同路２０８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15182073103,
+                    22.75447364688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民族里新生路１９１－２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14454497474,
+                    22.754970545279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市中山里正氣路１６４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15176382906,
+                    22.752554885599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市中正里０２０鄰中正路２８１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15255612732,
+                    22.756297567777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市豐谷里中華路二段３１１巷２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.13623310351,
+                    22.743116124624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市四維里強國街２５６巷２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1563377627,
+                    22.762059753158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市鐵花里光明路２７１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1487647259,
+                    22.751860532075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市興國里復興路１４５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1513102554,
+                    22.751579507749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民族里博愛路４３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14661410876,
+                    22.755299582019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市新興里福建路３０７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15016246861,
+                    22.750031359313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市建興里富貴街６９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.03891983995,
+                    22.705869003113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民族里博愛路４１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14756978557,
+                    22.756192878558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市興國里復興路２３３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14932367533,
+                    22.75322707757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市南榮里更生路９９３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.13171470843,
+                    22.772254562634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市新生里中興路一段３９６巷１１弄１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.13726487739,
+                    22.769514303576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市岩灣里００１鄰新站路２６０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.12449569103,
+                    22.792293926565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民生里鄭州街７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14448352984,
+                    22.761736203849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民族里博愛路４３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14686195233,
+                    22.755824578828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民族里博愛路４００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14787309155,
+                    22.75651150945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市豐田里祥和路８３巷８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.0878853451,
+                    22.773190772366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市自強里傳廣路１１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1437975872,
+                    22.75896900557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市知本里知本路２段８９８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.05900975368,
+                    22.707041408672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市中正里２０鄰中正路２７７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15265377741,
+                    22.756212032266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市鐵花里中華路１段５８５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14932005197,
+                    22.750331914918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民族里博愛路４７８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14534248364,
+                    22.754063579253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市富岡里松江路１段１７８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.18929315468,
+                    22.79371676698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市復興里００５鄰福建路２４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15153693123,
+                    22.751380141331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市文化里中山路３６２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14883157469,
+                    22.753670082719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市建國里臨海路一段３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.16105921076,
+                    22.755564798487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市興國里中山路３９３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1488736067,
+                    22.753360831305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市豐樂里大孝路７８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1324653114,
+                    22.755513108914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市中心里洛陽街２７９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14038918349,
+                    22.76247198015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民族里２９鄰新生路２３１－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14386756308,
+                    22.756180434122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市文化里中山路３００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14994806628,
+                    22.754776455083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市中心里新生路５９９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1371846474,
+                    22.762111575214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民生里４鄰更生路２８６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14572140082,
+                    22.760358557812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市知本里知本路三段１４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.05308554442,
+                    22.706710662263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市卑南里更生北路１８６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.12357277961,
+                    22.780162689848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市中正里寶桑路２４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1543207125,
+                    22.756299484887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民族里博愛路４５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14646578989,
+                    22.755045576901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市中心里長安街２０５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.13901377484,
+                    22.761855563249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市豐榮里中華路２段２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14093578965,
+                    22.745836881449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市中心里開封街７４８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.137318398,
+                    22.758956023166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市中山里大同路２２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15173535225,
+                    22.754331300217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市自強里洛陽街１９３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14230022682,
+                    22.760798490107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民族里正氣路３５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1472942005,
+                    22.756252791692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市新生里四維路３段６０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14343475314,
+                    22.766020148176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市永樂里山西路１段４９８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.11144401074,
+                    22.753046835388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市康樂里民航路１１００－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.10790265477,
+                    22.756865317587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市馬蘭里新社三街２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.13584667049,
+                    22.76448876293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市富岡里松江路１段４４８巷６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.19609314861,
+                    22.79530672931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市新生里開封街２９０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14764858067,
+                    22.763710787343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民族里正氣路４６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14480032814,
+                    22.757094701664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市興國里福建路２５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1512876493,
+                    22.751397084965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民族里正氣路４８３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14445550254,
+                    22.757169953107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市成功里大同路８０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15533871599,
+                    22.751575911924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民族里１８鄰南京路３９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14621218887,
+                    22.756711151504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市光明里中興路２段４０８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.12492392753,
+                    22.769043068411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民族里正氣路４８５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14441436797,
+                    22.757148532671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市新興里鐵花路２１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14989408863,
+                    22.749917902062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市中山里正氣路１５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15201946256,
+                    22.752327485884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市仁愛里中華路１段２６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15492130836,
+                    22.756200908156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市復興里５鄰福建路２４９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1513235548,
+                    22.751259770771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市光明里中興路２段１１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.13023702487,
+                    22.767101938228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市豐榮里中華路２段３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1408733713,
+                    22.745793388987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市中心里開封街７０４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.13798786724,
+                    22.759336129502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市興國里信義路１８６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14894431516,
+                    22.753123746911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民族里南京路１０５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14740269009,
+                    22.757880907128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市豐田里中興路４段８１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.08487361212,
+                    22.77465086138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民族里南京路１２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14778123048,
+                    22.758297220091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市復國里廣東路２５５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15330534717,
+                    22.751992082992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民權里３２鄰博愛路２０７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15010691059,
+                    22.758553120592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市文化里正氣路２９２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14903183852,
+                    22.754806663361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市南榮里更生路８８６巷２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.13543627392,
+                    22.77042790412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民族里０１８鄰正氣路４０９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14570726073,
+                    22.757034723805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市大同里福建路１４１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15410649944,
+                    22.754001259172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市大同里１７鄰廣東路１６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15493246951,
+                    22.753836800458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市新生里中興路１段２１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14187970382,
+                    22.76813643102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民權里中正路３２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15157349607,
+                    22.757092282299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市馬蘭里新生路６４９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1364396296,
+                    22.762907392072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民生里更生路１４８巷１―２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14796906591,
+                    22.759034814795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市自強里漢中街１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.13837794448,
+                    22.75613008737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市寶桑里勝利街１５８巷１０弄９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15406304219,
+                    22.764645466271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市馬蘭里新生路７００―２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.13566175594,
+                    22.764007956895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市新興里中華路１段８８９巷５１－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14349612135,
+                    22.745826158403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市光明里中興路２段１９１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.12895108963,
+                    22.766972628819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市新生里中興路一段１４７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14445569129,
+                    22.767764491937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市永樂里民航路６８９巷９０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.12047586415,
+                    22.755300954933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市卑南里更生北路１７３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.12318025872,
+                    22.780117712025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民族里正氣路４０１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14598311546,
+                    22.757070659078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市南王里更生北路５９６巷５６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1171921252,
+                    22.786970342771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民生里更生路１２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14868179195,
+                    22.75857955088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市中正里中華路１段３４０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15362333211,
+                    22.754941643241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市新興里福建路２７３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1508434902,
+                    22.750804294924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民權里００３鄰中正路３１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15169129105,
+                    22.75698611954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市復國里正氣路１２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15255692657,
+                    22.751887308475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市自強里長安街６１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14210944184,
+                    22.759056022151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市興國里信義路１８０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14904106458,
+                    22.753024758231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市仁愛里仁德街六十號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15475670184,
+                    22.757839849148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市中正里中正路２２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15407702145,
+                    22.755387761668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市新生里傳廣路４１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14373678356,
+                    22.765368986523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市新生里四維路３段１１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14184251689,
+                    22.765990883405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民族里更生路２７９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14452442013,
+                    22.760820876251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市豐榮里漢陽北路４６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.13146454793,
+                    22.752902152797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市自強里０１６鄰長安街８４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14159026912,
+                    22.75931401104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市豐田里中興路４段４９４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.09238650716,
+                    22.774581666465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市大同里寶桑路１１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1566629314,
+                    22.754452534373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市鐵花里新生路４９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.150337467,
+                    22.750595550833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市自強里長安街２－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14356715242,
+                    22.759274758393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市文化里１５鄰新生路１０５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14729623311,
+                    22.753053469774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市中正里中華路１段３２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15383870719,
+                    22.754848615402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民生里杭州街１２８巷１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14712593394,
+                    22.76074167394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市鐵花里中華路一段５７１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14962622095,
+                    22.75059646246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市中正里中華路一段２８９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15443899603,
+                    22.755487041959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市岩灣里文昌路５７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.12343432617,
+                    22.789470806443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市鐵花里中華路一段５３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15006748522,
+                    22.751307916922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民生里開封街３５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14623613409,
+                    22.763388344464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市文化里中山路３１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14973650369,
+                    22.754554915577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市豐榮里０３３鄰豐榮路１３０巷２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.13787722934,
+                    22.749402597717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民族里更生路２３７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14546301927,
+                    22.760267815207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市新生里中興路１段１３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14407709805,
+                    22.768157772002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市光明里中興路二段４０２－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1250211802,
+                    22.769091091299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市自強里新生路４４７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.13948941671,
+                    22.759701609657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市中華里強國街１０４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15893902677,
+                    22.758696584262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市卑南里更生北路１５９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.12347001248,
+                    22.779914896309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市鐵花里００７鄰安慶街１４７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1491878303,
+                    22.750985024788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市興國里正氣路２２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15042816285,
+                    22.753419051627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市興國里安慶街９５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15022020608,
+                    22.752085784717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市復國里福建路１８９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15265295703,
+                    22.752546632929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市中正里中華路１段３３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15371342638,
+                    22.754718680702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市復興里１鄰正氣路１５７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15221524914,
+                    22.751940827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市中正里中華路一段３５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15348103453,
+                    22.754771798709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市豐田里中興路四段４２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.09436651683,
+                    22.774694722966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市永樂里正氣北路９１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.12179459556,
+                    22.759011306657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市文化里正氣路３１２巷１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14895064881,
+                    22.755337273834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市建農里大學路二段３６９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.06410149817,
+                    22.740271496655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民族里博愛路４８６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1451121593,
+                    22.753799108252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市馬蘭里０２６鄰新生路７０１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1356520062,
+                    22.763660958529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市光明里蘭州街４１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.12475511622,
+                    22.769905081364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市中山里正氣路１９０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15121642561,
+                    22.753019552763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市豐年里００９鄰中興路三段１７８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.11395371814,
+                    22.770543583159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市民權里寶桑路４０４巷５９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15210930728,
+                    22.759925182316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市鐵花里新生路１２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14834833342,
+                    22.752554346352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市南榮里更生路１２６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.12712450104,
+                    22.776405688423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市馬蘭里更生路６２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.13812631495,
+                    22.765945618211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣臺東市文化里文化街５７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14966487862,
+                    22.754745527644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣蘭嶼鄉椰油村椰油２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51299368311,
+                    22.049999489409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣蘭嶼鄉朗島村朗島２７７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52606842708,
+                    22.07764731164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣蘭嶼鄉椰油村椰油２９６－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5096191059,
+                    22.059901875496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣蘭嶼鄉椰油村１鄰椰油９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51739731379,
+                    22.045964826696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣蘭嶼鄉紅頭村１鄰紅頭１－８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55842637196,
+                    22.023176410489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣蘭嶼鄉紅頭村００２鄰紅頭３８－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55402715972,
+                    22.025145683659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣蘭嶼鄉東清村東清１４０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56750323754,
+                    22.060289870243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣達仁鄉臺坂村３鄰臺坂路４１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.90822760796,
+                    22.477513084637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣達仁鄉安朔村１２鄰復興路９０―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.16235674783,
+                    23.053036119587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣達仁鄉安朔村０１２鄰復興路７６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.16285121959,
+                    23.052888014114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣達仁鄉安朔村復興路１１５－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.88437737722,
+                    22.294535507603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣達仁鄉南田村南田路１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.88992213828,
+                    22.278300404177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣達仁鄉安朔村復興路９４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15227234429,
+                    22.750988435943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣金峰鄉賓茂村賓茂２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96153409031,
+                    22.532783718886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣金峰鄉嘉蘭村００７鄰嘉蘭４０７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95547414622,
+                    22.595998213019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣關山鎮里壠里和平路２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.34067289894,
+                    23.056877603561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣關山鎮里壠里博愛路１－６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15526085201,
+                    22.763839175964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣關山鎮里壠里民權路１―２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.37864682588,
+                    23.100101601424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣關山鎮里壠里和平路８―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00423352875,
+                    22.61014960581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣關山鎮里壠里００７鄰民權路２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.37851620258,
+                    23.100886185196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣關山鎮中福里三民路９５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.16254474811,
+                    23.049612333636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣鹿野鄉鹿野村中華路一段２６０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.11809637801,
+                    22.894966926347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣鹿野鄉龍田村０１１鄰光榮路５７６巷３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.11330940132,
+                    22.904690040253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣鹿野鄉永安村７鄰永安路５８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.11822553945,
+                    22.93366724844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣鹿野鄉永安村高台路１０９巷３２弄９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.12570399801,
+                    22.92736187818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣鹿野鄉鹿野村９鄰中華路２段３３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14140054249,
+                    22.745767880312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺東縣鹿野鄉鹿野村中華路１段１００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.09651344478,
+                    22.896335833889
                 ]
             }
         }

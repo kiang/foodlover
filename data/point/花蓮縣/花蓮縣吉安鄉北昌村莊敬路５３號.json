@@ -1,0 +1,16 @@
+{
+    "name": "麵店、小吃店",
+    "address": "花蓮縣吉安鄉北昌村莊敬路５３號１樓",
+    "x": 121.59691623674,
+    "y": 23.987523815004,
+    "shops": [
+        {
+            "shop": "鮮味坊",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "獅子王餐酒館",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

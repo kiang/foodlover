@@ -1,0 +1,24 @@
+{
+    "name": "冰果店、冷（熱）飲店",
+    "address": "高雄市大寮區永芳里進學路１５１號Ｂ餐廳",
+    "x": 120.39125585285,
+    "y": 22.603885172007,
+    "shops": [
+        {
+            "shop": "好了啦輔英店",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "陳記牛肉拉麵",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "京宸書店（輔英分部）",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "高潮餐飲輔英店",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

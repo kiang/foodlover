@@ -1,0 +1,16 @@
+{
+    "name": "餐館、餐廳",
+    "address": "高雄市新興區振成里新田路１３８號",
+    "x": 120.30310544214,
+    "y": 22.6222097129,
+    "shops": [
+        {
+            "shop": "炭火燒肉本舖",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "禾杰炭火燒肉本舖",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

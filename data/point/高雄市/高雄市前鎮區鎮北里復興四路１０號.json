@@ -1,0 +1,20 @@
+{
+    "name": "咖啡館",
+    "address": "高雄市前鎮區鎮北里復興四路１０號Ｃ２－２",
+    "x": 120.29905002917,
+    "y": 22.604259884632,
+    "shops": [
+        {
+            "shop": "傲爾崴商行",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "鑫品揚有限公司",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "台客堡餐飲事業有限公司軟科店",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

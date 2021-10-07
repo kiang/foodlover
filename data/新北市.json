@@ -7167,6 +7167,19 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市三重區幸福里自強路１段１９３之１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4918413022,
+                    25.068257815871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市三重區長安里中央北路１３４之２號"
             },
             "geometry": {
@@ -9475,6 +9488,19 @@
                 "coordinates": [
                     121.496432,
                     25.003684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市中和區景平里中興街１０１－２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51797166375,
+                    25.012103376294
                 ]
             }
         },
@@ -14259,6 +14285,19 @@
                 "coordinates": [
                     121.451078,
                     24.983961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市土城區永豐里明德路一段１０７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46568070853,
+                    24.9824226944
                 ]
             }
         },
@@ -30944,6 +30983,19 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市汐止區保新里汐平路一段１７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.69002045782,
+                    25.066398496827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市汐止區大同里大同路二段２２８號"
             },
             "geometry": {
@@ -33564,6 +33616,6675 @@
                 "coordinates": [
                     121.474254,
                     25.185205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中正路２４１―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4558382797,
+                    25.018134188744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區淡金路１段１６６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45425002278,
+                    25.17985697829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區００５鄰中山北路２段２０１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44400320091,
+                    25.185672812587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中山北路３段７７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44427330093,
+                    25.19203933582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區北新路１００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4473270432,
+                    25.17828413913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中正路３３４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43583445482,
+                    25.17319713422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中正東路２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44574383474,
+                    25.168679011472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中正路１１巷１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43903910011,
+                    25.170089225543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中正路２５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43892196814,
+                    25.171174847417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區水源街２段９２巷５弄８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4524273199,
+                    25.174061249942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區沙崙路１段１２６巷１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43204091323,
+                    25.188601425114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中正路１段６巷３１之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.42911391048,
+                    25.178257774234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區民權路１１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46027550446,
+                    25.137371954861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區新市一路３段１４３之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44747718335,
+                    25.183145878597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區民權路１４５巷３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46098351762,
+                    25.13632502133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中正路１段２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5027922316,
+                    25.259194672759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區大忠街１１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44722746828,
+                    25.177104969316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區新市一路１段１７８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43172986153,
+                    25.186929121628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區新民街３３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43885142956,
+                    25.175790161877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中正路１段８７巷８弄３１之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.41874411382,
+                    25.181221066716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中正東路２段２７―２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45954004874,
+                    25.157114276307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區新市一路３段１０１巷１３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44559455842,
+                    25.185925091468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區北新路８２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44668899718,
+                    25.178288567061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區北新路９６巷６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44713108245,
+                    25.17805022026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區新民街１８０巷１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43734198404,
+                    25.179046288974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區淡金路５９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45599796102,
+                    25.161418999236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區北新路１１７之２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4486062168,
+                    25.178572412867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區北新路１８２巷５弄４２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44925833525,
+                    25.177323913318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區清水街１之１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44525487843,
+                    25.170108667625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區樹林口１之３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.48106379908,
+                    25.165453046724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區英專路１０２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44589891699,
+                    25.171880721801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中正路５９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4416885069,
+                    25.169483004015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中正路６１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44164530722,
+                    25.169483945426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中山路８７巷９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44248309497,
+                    25.170200045522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區民權里民權路１２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46025706041,
+                    25.136663691085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區公明街４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44329294734,
+                    25.168891595533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區埤島５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4468498878,
+                    25.193167899265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區民生里民生路２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46125156989,
+                    25.137779189244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區民族路３１―１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46150619894,
+                    25.136378284706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區北新里北新路１８２巷４１弄１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44837801766,
+                    25.176992962631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區正德里北新路１１７－３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44877792009,
+                    25.178645389135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中正東路２段５巷２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45986208316,
+                    25.158575777102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中正路２１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43949054009,
+                    25.170408226631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中正路２６４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43843397358,
+                    25.171478217159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區沙崙路２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.42122651425,
+                    25.18154148528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區北新路１８２巷３３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44862555472,
+                    25.177418378724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中正路２５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43335838637,
+                    25.174351972112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中山北路２段６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44480883235,
+                    25.183271747947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中正路１９２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.456184987,
+                    25.017920259065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區淡金路４段５３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45202017101,
+                    25.226805849181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區沙崙路１７０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.42408786035,
+                    25.183449036742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區民族路２９巷２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4610595343,
+                    25.136831573194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區學府路５１巷１弄２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44732543018,
+                    25.168610223192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區北新路１８２巷１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44908428376,
+                    25.177725139802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區水源街２段７４巷１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45187389099,
+                    25.173745669888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區民權里民權路１８７巷７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45991121102,
+                    25.133631779845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區大忠街１１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44689721932,
+                    25.177311642582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區水源街一段１１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44650745639,
+                    25.172124295444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區英專路２１巷２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44457295435,
+                    25.169887978355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中正路１１巷１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4378339238,
+                    25.170970398472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中正路２７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43824931293,
+                    25.171600199679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區三民街５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43879342564,
+                    25.171611949181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區水源街２段３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45007846589,
+                    25.173672407161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區學府路１３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45052150973,
+                    25.172610703501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區英專路２１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44950240317,
+                    25.173028773567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區民權里民權路１５５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46006509229,
+                    25.136123273561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區北新路１８２巷３７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44850565229,
+                    25.177367544408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區三民街１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.48563190352,
+                    25.06063295881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區福德里自強路１５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4652390814,
+                    25.133745251285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區水源街２段４２之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45027299538,
+                    25.173725080666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區北新路１８４巷２４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45180620803,
+                    25.177027956747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區學府路４５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4478775439,
+                    25.169178193532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區民生里民生路５２巷８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4621154347,
+                    25.137562695759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區坪頂路４０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4574967241,
+                    25.162253907782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區新民街１８０巷２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43722910152,
+                    25.178965632367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區竹圍里０１８鄰民權路３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.520063062,
+                    24.998841239445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區英專路２巷５之２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44593752669,
+                    25.168817748249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區大忠街５５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44499514034,
+                    25.176729326573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區竹圍里民族路３１―２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46178681833,
+                    25.136190963574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區賢孝里淡金路４段５６０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4519090415,
+                    25.227504201197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區清水街１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44525850467,
+                    25.170454284682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中正路２２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43934245001,
+                    25.17050563603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區水源街２段７４巷３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45139040196,
+                    25.173889796439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區新春街１９４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44385123725,
+                    25.180799546532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區北新路１８２巷１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4492245881,
+                    25.177893374867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區民生里民生路１５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46463048754,
+                    25.138504488159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中山北路２段１８８巷８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44496826262,
+                    25.185108183427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中正路５巷２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44245205588,
+                    25.169263212127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區北新路１８２巷５９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44792859365,
+                    25.17730635793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區新民街７５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43825885454,
+                    25.176602352148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中正路１２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43931986244,
+                    25.170229148195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區淡金路３８巷１０６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45793403136,
+                    25.161240535102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區協元里文化路２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43977533953,
+                    25.172654848003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區新市一路３段１０１巷１０８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44567759503,
+                    25.185298416829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區北新路１５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44979429927,
+                    25.179165701054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區新民街１４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43746734854,
+                    25.178082261085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區北投里新市一路３段１０８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44669619275,
+                    25.18279899975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區學府路８５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44855314254,
+                    25.170220967242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區仁愛街１８巷１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44719730895,
+                    25.170228138962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區大忠街８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44306895478,
+                    25.176194545299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區新春里新春街１０３之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4401485432,
+                    25.182248836926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區淡金路３８巷３７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45785623391,
+                    25.161472352945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區民生里民生路１６巷２４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46159970489,
+                    25.137444672962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區民生里民生路１０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4640608596,
+                    25.138413095134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區新春街１４８之２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44258589647,
+                    25.181229683088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區民權里民權路１４５巷１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4605786757,
+                    25.136260547201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中正路１１巷２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43837590017,
+                    25.170615772328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區濱海路３段１３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.42779597445,
+                    25.19123648152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區新民街８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43845053916,
+                    25.176702907017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區水源街１段９１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44557878307,
+                    25.172323290338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中正路２３３之２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43562094263,
+                    25.173121737928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區商工路１４１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44720809946,
+                    25.188344055044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區新民街１７８巷３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43799789278,
+                    25.179324966363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區學府路１０６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45007945588,
+                    25.172004771263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區北新里北新路１８４巷２０６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45103174448,
+                    25.176956460997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區博愛街１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44622232048,
+                    25.16979417115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區北新路４２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44558785652,
+                    25.17790283429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區新民街６５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43842005143,
+                    25.176347709496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區新春街１６５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44293812867,
+                    25.181272685795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區民生里民生路４７―６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46225623902,
+                    25.138132249993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區新春街１２５巷７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44136192334,
+                    25.182380010716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區淡金路４段５５６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45192225869,
+                    25.227425527547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區英專路２１巷１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44487252632,
+                    25.169731237004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區竹圍里民族路３１巷１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46232779795,
+                    25.136257537536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區中山北路１段３７８之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44477490991,
+                    25.1826975256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區坪頂路５１之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45828450093,
+                    25.162710689765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區萬福里北深路３段２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60970598751,
+                    25.001146993255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區萬福里北深路２段１２５－３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61571175361,
+                    25.002679105837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區深坑里文化街１０２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61680547966,
+                    25.001967687948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區深坑里深坑街１６３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61281548796,
+                    25.001064329605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區埔新里埔新街９４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61889457336,
+                    25.002267634225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區深坑街１２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61350913732,
+                    25.001325567841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區深坑里深坑街８２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61421706554,
+                    25.001533108216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區深坑街１４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61318998477,
+                    25.001229552421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區深坑里深坑街１１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61362514274,
+                    25.001369236496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區深坑里深坑街５６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61473814585,
+                    25.001728507369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區深坑里深坑街１３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61326631494,
+                    25.001249460579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區深坑里深坑街１２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61365501147,
+                    25.001279546037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區埔新里埔新街６６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61998512524,
+                    25.002497487763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區萬福里北深路３段１９０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60178499988,
+                    25.003680986354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區萬順里北深路３段２５７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5990828755,
+                    25.004340794759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區萬順里北深路３段２２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6000998639,
+                    25.004014185875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區深坑里深坑街１４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61325156202,
+                    25.001173225379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區深坑里深坑街１５８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61286744408,
+                    25.001225284251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區深坑里深坑街１２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61350913732,
+                    25.001325567841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區賴仲里北深路１段２０７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63002296813,
+                    25.008724975058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區埔新里北深路２段５５巷１２弄８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61881583807,
+                    25.003433057239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區萬順里北深路３段１７１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60174828498,
+                    25.003475538968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區賴仲里深南路５８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62016901774,
+                    25.009484996656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區深坑里深坑街１１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61377361415,
+                    25.00130362203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區萬順里北深路３段２９５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59826477637,
+                    25.004600692079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區萬福里北深路３段２５８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59967206999,
+                    25.004398556385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區萬順里北深路３段９３巷５９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60403277685,
+                    25.000585065839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市深坑區萬福里北深路３段１７０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60237899055,
+                    25.003515968674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市烏來區烏來里烏來街５８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55139320783,
+                    24.863053178151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市烏來區福山里卡拉模基２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50305648784,
+                    24.780158639526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市烏來區烏來里烏來街８３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55176119622,
+                    24.864236978947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市烏來區烏來街６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55177204703,
+                    24.864623836531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市烏來區忠治里新烏路５段６０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54693768766,
+                    24.874554264924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市烏來區烏來里溫泉街８５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55166795026,
+                    24.860035698601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市烏來區忠治里新烏路５段６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54731155907,
+                    24.873053155226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市烏來區烏來里溫泉街４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55142345198,
+                    24.861590250846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市烏來區烏來里西羅岸路３５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54766312456,
+                    24.865809051968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市烏來區烏來里烏來街６６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55130684234,
+                    24.862995977814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市烏來區烏來里西羅岸路４５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54651789299,
+                    24.863755413473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市烏來區烏來里烏來街８５巷１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55212339306,
+                    24.863932443899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市烏來區忠治里新烏路５段５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54282350224,
+                    24.880430728214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市烏來區烏來里環山路１１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5490856286,
+                    24.860569269042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市烏來區烏來里瀑布３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55091772114,
+                    24.848359339389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市烏來區烏來里瀑布８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55138846087,
+                    24.848250067049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市烏來區烏來里環山路１１８―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54818185466,
+                    24.86116327297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市烏來區忠治里新烏路４段１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55139948216,
+                    24.889778114838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市烏來區忠治里新烏路５段１２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54700054514,
+                    24.870845591841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市烏來區烏來里瀑布９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5513703737,
+                    24.848200929587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市烏來區烏來里瀑布１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55131849242,
+                    24.848094939248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區民生街３５巷２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80614874793,
+                    25.107041267127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區瑞芳街２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80690437085,
+                    25.109503852096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區洞頂路１５５―３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.86152061824,
+                    25.121512029856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區頌德里坑尾巷３７－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8443101808,
+                    25.111469009308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區龍興里明燈路三段４１－３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80650787421,
+                    25.107955713767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區深澳路１６之７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.81877204715,
+                    25.129509090681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區明燈路三段２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80893883612,
+                    25.107796206071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區明燈路２段８５巷５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.81024893232,
+                    25.107939111459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區明燈路３段５４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80698672601,
+                    25.108022269645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區一坑路１５４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80220403112,
+                    25.108956856024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區龍興里明燈路三段２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80893883612,
+                    25.107796206071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區基山街４１之３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.84547199921,
+                    25.108890258869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區光復里柴寮路２１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.82581550987,
+                    25.086417610494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區龍川里明燈路三段１１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80489737126,
+                    25.108496067964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區輕便路３０８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.84310577371,
+                    25.108669717554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區福住里基山街１６６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.84313612124,
+                    25.107871422039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區福住里８鄰基山街１４２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.84349442023,
+                    25.108195949553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區基山街１６６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.84313612124,
+                    25.107871422039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區瑞濱里瑞濱路８３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.82106786038,
+                    25.120779910505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區００３鄰基山街１４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.84349442023,
+                    25.108195949553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區竪崎路２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.84351091442,
+                    25.108394752266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區明燈路３段８０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80631425556,
+                    25.108199096574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區明燈路３段３５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80717091833,
+                    25.10780069399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區明燈路３段５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80619514611,
+                    25.108018992067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區中正路８７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80515010178,
+                    25.107601046188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區明燈路３段４５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80640131839,
+                    25.107981390198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區民生街３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8063883488,
+                    25.108448326939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區基山街１１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.84394776595,
+                    25.108474336725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區瑞芳街３３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80620811772,
+                    25.109673396366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區龍潭里瑞芳街７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8068554524,
+                    25.109875823676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區龍興里明燈路三段５８之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80682455952,
+                    25.10807244317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區龍興里００１鄰民生街３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4918738242,
+                    25.067436350961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區三爪子坑路１３９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.81049884851,
+                    25.106522522977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區永慶里崙頂路２－２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.84649527231,
+                    25.107349852529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區福住里基山街１５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.843829304,
+                    25.108098974398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區福住里基山街１７７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.84325252226,
+                    25.107839705143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市石碇區石碇里石碇東街７７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.66021515143,
+                    24.990914765355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市石碇區石碇里石碇東街１０９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.65952725809,
+                    24.990224121954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市石碇區石碇里石碇西街３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.65925452877,
+                    24.990852479091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市石碇區豐田里華梵路１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.69210454133,
+                    24.980018757212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市石碇區潭邊里碇坪路１段５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.65951600429,
+                    24.991560542487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市石碇區中民里７鄰十八重溪５２―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.67469227019,
+                    25.013576967536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市石門區德茂里白沙灣別墅５之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50886335474,
+                    25.27823634825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市石門區尖鹿里中央路３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56808083114,
+                    25.292239625355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市石門區楓林２５之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54335088899,
+                    25.290721452035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市石門區下員坑１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50834817224,
+                    25.279622855336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市萬里區港東８７之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6880865757,
+                    25.203938238842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市萬里區港東１７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.68943947164,
+                    25.204324679366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市萬里區萬里加投２１３之３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.64321146039,
+                    25.216029677935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市萬里區龜吼里漁澳６３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.68732841888,
+                    25.195511135533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市萬里區萬里加投４５－９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.64086841423,
+                    25.211089815583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市萬里區港東１６２之１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.69046975492,
+                    25.203976340834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市萬里區頂社６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.65573030871,
+                    25.209563643659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市萬里區龜吼里漁澳６２之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.68726733198,
+                    25.195476482068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區仁愛里民義街２２巷１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47190342407,
+                    25.088160184815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區集賢路３５８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.48079471762,
+                    25.083804981943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區中原里中正路１８５巷３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46761429867,
+                    25.085080995166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區成功里長安街３６１巷３９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45560602592,
+                    25.087479403595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區忠義里長安街１０８巷１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46162437394,
+                    25.082253499099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里光榮路５５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46069515326,
+                    25.088424107347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里光榮路４７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46043799468,
+                    25.088396241385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區九芎里長安街４６巷７弄１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46343052288,
+                    25.080626117491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區復興路１５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47724604213,
+                    25.087790361303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區成功路１６０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47155014659,
+                    25.083487289742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區忠義里中原路５巷６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46146418715,
+                    25.083200592864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區忠孝里民義街１１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47403624135,
+                    25.090901866318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區中正路３０４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.49385384133,
+                    24.994234659949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區三民路２８５之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46738886719,
+                    25.089975386577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區永平街１８巷８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45895421416,
+                    25.091100443914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區中山一路８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47850972074,
+                    25.081599070669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區恆德里集賢路４１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47997363173,
+                    25.081016275468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區恆德里中山一路１２４―２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47672280337,
+                    25.081744549042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區恆德里集賢路４０２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.48004782405,
+                    25.082038673123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區得勝里中山二路１７９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47104450803,
+                    25.080931292977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里長興路１５８巷１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46179005217,
+                    25.085626862727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區南港里永平街３２巷２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45963232691,
+                    25.092166087194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區中原里中正路２０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46835021445,
+                    25.085963291178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區中原里中正路１９５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46849883789,
+                    25.08572870575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里長榮路５３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45984957889,
+                    25.09041668309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區光明里光華路１２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46664783134,
+                    25.082557843162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區得勝里得勝街７８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47233964679,
+                    25.083487171408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區南港里長榮路６５７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45993368631,
+                    25.091384052505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區九芎里長安街２２巷６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46440588628,
+                    25.079377760416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區鷺江里復興路１２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47651793725,
+                    25.087369898541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區福安里民權路５４―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52001158379,
+                    24.998442510869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區長安里中原路５５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45903187332,
+                    25.082149935236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區鷺江里民族路３３巷８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.478063352,
+                    25.085494608355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區水湳里民權路１８８之６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47155766102,
+                    25.090974324419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區水湳里民族路４７０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47163557737,
+                    25.091753425284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里長榮路２０９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46080636606,
+                    25.084910887409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區玉清里集賢路３０８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.48129884132,
+                    25.08507710981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區恆德里重陽一街１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.48154884928,
+                    25.08140052666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區仁義里集賢路３４８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.48092173606,
+                    25.084091211763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里長榮路２１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46073962135,
+                    25.085131434246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區中華里光華路１１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46688716169,
+                    25.082422869811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區忠義里長安街１０８巷２７之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46195696551,
+                    25.082673760154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區玉清里民族路１２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47892850873,
+                    25.085487864323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里中原路６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46152653713,
+                    25.083741208786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里長樂路１０８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46198236659,
+                    25.089221230391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區玉清里民族路１７４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47986327796,
+                    25.08660993205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區恆德里集賢路４０９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.48016533966,
+                    25.081414561037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區保和里三民路１２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47225050875,
+                    25.086154133796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區信義路１１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47985872166,
+                    25.082296178665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區永安里中山二路２７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46892672914,
+                    25.078399255217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區仁德里民族路１１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47859778489,
+                    25.085304632212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區福安里民族路２２７巷２２弄５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47647681461,
+                    25.08928479482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區光明里長榮路３８之１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46308398203,
+                    25.083003618984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區南港里長榮路６９７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46061221565,
+                    25.092764833122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區恆德里集賢路４０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.48022881638,
+                    25.081575290189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區永樂里永樂街３８巷６５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45838782028,
+                    25.090446494024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里長樂路１６６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46174925835,
+                    25.088332454835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里長樂路１０６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46199175564,
+                    25.088991680148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里長興路２７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46046201625,
+                    25.088685146881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區南港里永平街３２巷６９弄７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4596231016,
+                    25.093321710358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區九芎里長安街８２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46214744499,
+                    25.080491573298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區延平里長安街１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4645629358,
+                    25.078680895823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區南港里長榮路６８５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46031801883,
+                    25.0924243222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區玉清里中興街３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.48128161984,
+                    25.087104590915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區中原里中正路１８５巷４４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46737877195,
+                    25.084986554057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區成功里長安街２７０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4574063529,
+                    25.086886858349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區南港里三民路５８９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46119411677,
+                    25.093257114188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區忠義里長榮路４７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4628150935,
+                    25.082890478134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區保和里得勝街２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47411881438,
+                    25.083967307983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區永德里長安街１６０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45947808716,
+                    25.082938007146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區水湳里水湳街８９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47024770053,
+                    25.089971093163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區仁復里得勝街１２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47241343141,
+                    25.083344969931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里中正路３１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46603095806,
+                    25.088747008802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區保和里復興路３４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4723442787,
+                    25.085301087983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區保和里８鄰三民路１００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53409541572,
+                    24.97375079706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區恆德里永安北路２段２４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.48147799402,
+                    25.081054403351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區保新里民族路４０１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46918719966,
+                    25.089913411655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區忠義里中原路２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46025695626,
+                    25.082675069894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里長樂路３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46356574915,
+                    25.085545779144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區中山一路２６１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47284046838,
+                    25.080129376894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里光榮路９５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46253355793,
+                    25.088646735362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里長榮路１６５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46148227793,
+                    25.084162687471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區成功里長安街３５９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45719025775,
+                    25.087319870587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區中路里光華路１７３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46493761364,
+                    25.081811161949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區鷺江里９鄰復興路１３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.37189137625,
+                    24.938199523505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區仁德里三民路７８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47512986435,
+                    25.084124385954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里光榮路３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46078019789,
+                    25.088263748205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區成功里永樂街４３－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45141365885,
+                    25.045005579873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區忠孝里民義街１１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47411527801,
+                    25.090989998609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區鷺江里復興路１１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47622607687,
+                    25.087213187277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區仁愛里三民路１１０巷６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47199376108,
+                    25.087150359675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區忠義里中原路１－３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46149541769,
+                    25.083505564022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區九芎里長安街２２巷２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46432691905,
+                    25.079301566605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區永德里長安街２２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45941240764,
+                    25.082557224878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區仁義里集賢路３４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.48094563826,
+                    25.084167565985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里長樂路５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46297417346,
+                    25.086042527753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區長安里中華街５６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46170919136,
+                    25.080271198271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區鷺江里信義路３２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47824828142,
+                    25.086508009777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里長榮路４１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45963918063,
+                    25.087979083474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區光華里中正路１０１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46982397812,
+                    25.08399031149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區仁義里信義路２２２巷２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.48004540169,
+                    25.085364813968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區仁義里信義路１８４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47920875453,
+                    25.084248072832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區中華里中山二路２０２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4701733922,
+                    25.080293738073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區水湳里水湳街３６之１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47090881949,
+                    25.08935747053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區復興里復興路１８１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47896066839,
+                    25.089397665466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里光明路１３５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46395583276,
+                    25.088460740179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區永安里九芎街９９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46603602067,
+                    25.07952016074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區鷺江里信義路３０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47845647104,
+                    25.086085736577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里光榮路４０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46100013568,
+                    25.08829046529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區光明里光華路１３２巷４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46591705133,
+                    25.083927109289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區永康里永康街６５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45624422653,
+                    25.085119837359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區保和里忠孝路５６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47153566653,
+                    25.084763807418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里光榮路８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45986556503,
+                    25.088203018922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區樓厝里中興街１８１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.48182987912,
+                    25.090017343223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區中原里中正路２８３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46688859059,
+                    25.087871667254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區九芎里九芎街１３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46495318567,
+                    25.079107488158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區得勝里中山二路１６５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47122469931,
+                    25.081130611838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區光明里光華路１１０巷３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46603193142,
+                    25.084069410411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里長榮路４７０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45966539773,
+                    25.089259636492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區水湳里民族路３４３之２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47276109311,
+                    25.091808958949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區永康里長安街２８７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45817781571,
+                    25.084490887224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區中華里正和街５６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46901675272,
+                    25.081504254692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區信義里民族路１０７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47968919685,
+                    25.086735046202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區長安里長安街２２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45976959337,
+                    25.082379267366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區水河里民族路２８１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4756960947,
+                    25.090857805335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區恆德里信義路１５４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47941637737,
+                    25.083399593571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區樓厝里中興街６５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.48173071349,
+                    25.08775423807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區永樂里永樂街３８巷３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45847373095,
+                    25.089756437607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區中路里正和街７９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46834911681,
+                    25.080777101129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區中華里正和街２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46988886194,
+                    25.082092285022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里長榮路３２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45966037059,
+                    25.087011513647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里中原路１２巷１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46083989597,
+                    25.083754573616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區復興里復興路１８７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47913138702,
+                    25.089456825939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里光榮路３４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46084725213,
+                    25.088271033271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區中華里光華路８９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46758801818,
+                    25.082508199588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區永樂里永樂街５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45758779964,
+                    25.088523019493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區水湳里民族路３５７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47192251848,
+                    25.091680848003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區永安里九芎街５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46751367529,
+                    25.078566110243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區信義里民族路５７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.478830093,
+                    25.085705912016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區忠義里長安街１０８巷１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46176921492,
+                    25.082379820983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區光華里中正路９５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46986036867,
+                    25.083904203765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區鷺江里復興路８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47540586778,
+                    25.086740489163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區中原里光復路６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46237453045,
+                    25.084100424003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區信義里信義路３００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4775473723,
+                    25.087709376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區保佑里民族路４２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46806627928,
+                    25.089116820398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區仁德里鷺江街９５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47682839808,
+                    25.083824694833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里長興路２６５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46025850977,
+                    25.088034185097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區永德里中原路２４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46020050847,
+                    25.08288680931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區溪墘里００９鄰中山一路３５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47901938456,
+                    25.080798161504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區水河里民族路３０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47493938859,
+                    25.091211358344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區永安里九芎街１１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46568616963,
+                    25.079598900476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區南港里永平街３２巷１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45896593071,
+                    25.091410910599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區長安里長安街１３３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46054308934,
+                    25.081258965129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區忠義里中原路５巷２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46198222552,
+                    25.082877364324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區中原里中正路１８５巷８６弄２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46559559685,
+                    25.084096844132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區復興里民族路２９６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47778204625,
+                    25.089848147313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區樓厝里復興路２５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47987126639,
+                    25.08955072827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區忠義里中原路３７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45991425736,
+                    25.082567461159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區水湳里民權路１３１巷１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47137147064,
+                    25.08996093677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區仁德里鷺江街９９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47675029808,
+                    25.083985329586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區永德里中原路８６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45772827108,
+                    25.081790878658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區仁德里民族路１０６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47836119755,
+                    25.085171635092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區保新里三民路２４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46808948592,
+                    25.089921654656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區保新里民族路５０６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46939462132,
+                    25.090309277804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里長興路３５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46078030757,
+                    25.091070110176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區仁愛里民義街２２巷１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47165155393,
+                    25.088144265638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區得勝里中正路５８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47061355491,
+                    25.083088964472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區中華里光華路７３巷２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46808617262,
+                    25.082456469129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區恆德里重陽一街３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.48110066783,
+                    25.08181999829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區恆德里中山一路１２２巷３４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47670160954,
+                    25.082369270074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區恆德里中山二路４２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47424188953,
+                    25.082174100084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區得勝里中正路２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47125260799,
+                    25.08208686843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區保和里得勝街８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47446037178,
+                    25.084116705427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區樹德里信義路２７巷１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47374759827,
+                    25.080037232404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區成功里長安街２６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45742969951,
+                    25.086817504805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區中原里長榮路６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46247779672,
+                    25.083569638662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區得勝里中山一路２３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47247733575,
+                    25.08016398243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里長榮路１３４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46152626961,
+                    25.084587204989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區得勝里中山二路２１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47055035357,
+                    25.08037552958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區玉清里民族路１７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47985256599,
+                    25.086552647453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區水河里民族路３２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47419173941,
+                    25.091531447628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區保佑里三民路３４１之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46506147142,
+                    25.090817454284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區水河里民族路３１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47459633607,
+                    25.091358169177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區延平里長安街６３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46290425073,
+                    25.079789645695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區中原里中正路１８５巷６８弄３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46652741628,
+                    25.084621807956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區仁愛里民權路９２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47428811317,
+                    25.08796406622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區仁義里集賢路３４４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.48095941688,
+                    25.084334730309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區保佑里中正路１９６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46680785534,
+                    25.088245936669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區九芎里長安街３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46368780192,
+                    25.079490067099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區得勝里中正路５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4708670821,
+                    25.082854071048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區仁德里信義路２４５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47902664944,
+                    25.08429762004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區中原里中正路１８５巷３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46778422426,
+                    25.085158787271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區永康里長安街１９４巷２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46001762928,
+                    25.084714779733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區正義里光榮路３３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4599761676,
+                    25.088387264381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區恆德里信義路１５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47946324981,
+                    25.083311066289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區保和里中正路１４８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46894538949,
+                    25.085412765821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區得勝里中山二路１２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47219428954,
+                    25.081588540274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區樹德里中山二路４７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47389938306,
+                    25.082036775611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市貢寮區延平街１５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.92496275577,
+                    25.058066714907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市貢寮區福隆里福隆街７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.94465342289,
+                    25.016127292952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市貢寮區福隆里興隆街５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.94523038736,
+                    25.016654311657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市貢寮區真理里仁愛路１０６巷３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.9290945244,
+                    25.05332383827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市貢寮區福隆街２巷１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.94613049465,
+                    25.0155950604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市貢寮區福隆里福隆街１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.94503438701,
+                    25.016479149893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區中山路１７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6383306098,
+                    25.221197061811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區中山路１５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63877710927,
+                    25.220342741359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區跳石４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63307671584,
+                    25.257574349931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區民生路６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.64959327243,
+                    25.22476079536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區環金路２５１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63182884972,
+                    25.220383258017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區葵扇湖１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5923152899,
+                    25.230887508795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區林口３３之３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59376640329,
+                    25.206781886425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區海興路１７４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63292067344,
+                    25.239976115395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區中山路１０６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63993043928,
+                    25.219345512262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區金包里街５９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63853675732,
+                    25.221624673717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區清水路５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62917916683,
+                    25.234638311164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區民生路５１巷１之２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.64204738866,
+                    25.220083812139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區中山路１９３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63805345279,
+                    25.221120881607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區金包里街６１之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63847411835,
+                    25.221606347137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區中山路１３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63898489757,
+                    25.22044233118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區香菓園１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63391994242,
+                    25.245835189808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區民生路２０４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.64123102654,
+                    25.22083628009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區中山路１８４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6381166197,
+                    25.22136790619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區環金路３３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63228731335,
+                    25.220758062188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區仁愛路１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63785876064,
+                    25.219404931664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區三界壇路１０５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61986572661,
+                    25.230850529977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區仁愛路３７之５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63606942765,
+                    25.219734427615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區福德街１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63918570796,
+                    25.221760814914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區金包里街１０５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63771737387,
+                    25.222289196298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區仁愛路３７之８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63588599004,
+                    25.219956144165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區中山路１５７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63873302232,
+                    25.220397197709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區中山路１１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63944969449,
+                    25.219488254182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市金山區海興路１６４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63268558951,
+                    25.239259074148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市雙溪區梅竹蹊６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.84693743277,
+                    25.031011801021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市雙溪區新基西街９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.86558680093,
+                    25.037226588479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市雙溪區外平林３５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8535010718,
+                    25.037273388468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區南鶯里南雅路６５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3477457581,
+                    24.954170991475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區同慶里重慶街９６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.34825797435,
+                    24.952378528799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區建國里永明街１３３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.34269153598,
+                    24.955812300514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區建國里光明街８５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.34518875376,
+                    24.955731229113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區南鶯里南雅路４１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.34867911952,
+                    24.95418696564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區南鶯里建國路１１５之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53981894386,
+                    24.977708661822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區南鶯里國慶街１１５巷１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.35130045416,
+                    24.954137190928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區南鶯里１４鄰建國路２４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5375071552,
+                    24.982250937018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區南鶯里南雅路２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.34936649611,
+                    24.954075823408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區同慶里尖山埔路１１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.34710949673,
+                    24.95104548531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區南鶯里建國路２４０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.34808631211,
+                    24.953567500843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區鳳祥里鶯桃路５３５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.33059618609,
+                    24.967552587636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區南鶯里建國路２０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.34925054553,
+                    24.953392858373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區鳳祥里鶯桃路５８９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.32940840889,
+                    24.96876170209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區南鶯里國慶街１０５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.35043615123,
+                    24.954423555866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區北鶯里中正一路３０４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.35607898432,
+                    24.95690088086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區建德里中正一路４５７之３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.36281551186,
+                    24.956734465329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區東鶯里文化路１３５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.35649676066,
+                    24.954729355337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區南鶯里南雅路４５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3484901711,
+                    24.954180817113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區南鶯里南雅路４９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.34831256874,
+                    24.954173639672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區國慶街６３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.34991081644,
+                    24.955339902154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區二橋里中正三路６２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.33869136422,
+                    24.941545355864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區鳳福里鶯桃路二段２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.32551595386,
+                    24.972360989405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區南靖里文化路３４１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.35199629624,
+                    24.951570627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區中鶯里仁愛路６４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.35393673097,
+                    24.954943400487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區同慶里重慶街６２之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.34953886611,
+                    24.951766567887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區二橋里中正三路８３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.33851654728,
+                    24.940996143153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區陶瓷街１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.34851115445,
+                    24.951770366045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區南鶯里建國路１９７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.34943878439,
+                    24.953379596699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區西鶯里光復街２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.35191455786,
+                    24.954915418743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區南鶯里建國路２８０之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.34589389852,
+                    24.953177762608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區中鶯里中正一路１０８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.35234907222,
+                    24.954955109329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區南鶯里國慶街１０４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3503374181,
+                    24.954287361032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區尖山里尖山路１３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.34702120475,
+                    24.948657280797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區同慶里尖山埔路１４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.34654177476,
+                    24.950973939307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區南靖里文化路２００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51060372847,
+                    25.01643765133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區永昌里鶯桃路１４０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.33787534275,
+                    24.9549276018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區二橋里中正三路１３９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3372468701,
+                    24.940353070374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區南鶯里國慶街２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.34946881787,
+                    24.955799533685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區二橋里高職西街１１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.33589673561,
+                    24.940989205914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區鳳鳴里鶯歌路１００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.33547590797,
+                    24.971288471519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區鳳鳴里鶯歌路１０２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.33547590797,
+                    24.971288471519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區南鶯里建國路１８５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.34972343695,
+                    24.95337260887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區中鶯里中正一路１３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.35227939422,
+                    24.95547038529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區鳳祥里鶯桃路３６５巷３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.33237311714,
+                    24.962635217968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區中鶯里中正一路８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3525743553,
+                    24.95294729012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區南鶯里建國路１５７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.35041665598,
+                    24.953480231626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區建國里南雅路４４７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.34657125162,
+                    24.954121364347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區尖山里國中街１０４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.34017627491,
+                    24.940461451454
                 ]
             }
         }

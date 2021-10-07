@@ -1,0 +1,20 @@
+{
+    "name": "餐館、餐廳",
+    "address": "新北市淡水區中正路１１巷１號２樓",
+    "x": 121.43903910011,
+    "y": 25.170089225543,
+    "shops": [
+        {
+            "shop": "佬港冰室茶餐廳有限公司",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "威騰商店",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "序原企業社",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

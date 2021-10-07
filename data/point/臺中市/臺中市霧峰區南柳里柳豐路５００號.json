@@ -1,0 +1,44 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市霧峰區南柳里柳豐路５００號（學生餐廳）",
+    "x": 120.68467269795,
+    "y": 24.047015130065,
+    "shops": [
+        {
+            "shop": "劉韶芸",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "鮮美食品行",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "佳佳香麵食館",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "凡妮莎",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "哈拉哈拉贊",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "惠宇早餐店",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "八丼食堂",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "亞蒂菲企業社",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "巧巧早餐店",
+            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money"
+        }
+    ]
+}

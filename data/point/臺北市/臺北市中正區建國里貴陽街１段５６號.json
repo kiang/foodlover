@@ -1,0 +1,24 @@
+{
+    "name": "咖啡館",
+    "address": "臺北市中正區建國里貴陽街１段５６號",
+    "x": 121.50990813259,
+    "y": 25.038900768015,
+    "shops": [
+        {
+            "shop": "海音咖啡館",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "荳禾之家",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "ＱＱ麵",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "祐澄商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

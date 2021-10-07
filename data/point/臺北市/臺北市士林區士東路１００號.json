@@ -1,0 +1,20 @@
+{
+    "name": "餐食攤販",
+    "address": "臺北市士林區士東路１００號２樓１３２攤",
+    "x": 121.52927686835,
+    "y": 25.111925472027,
+    "shops": [
+        {
+            "shop": "曾裕宏",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "孟繁荔",
+            "pay_list": "歐付寶"
+        },
+        {
+            "shop": "施碩彥",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

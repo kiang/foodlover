@@ -1,0 +1,24 @@
+{
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市仁德區仁德里文華一街８９號",
+    "x": 120.24336124082,
+    "y": 22.960977958739,
+    "shops": [
+        {
+            "shop": "璦崨商號",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "御鮮屋",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "中華鍋燒",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "葉佳勲",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

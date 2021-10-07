@@ -1,0 +1,20 @@
+{
+    "name": "冰果店、冷（熱）飲店",
+    "address": "高雄市仁武區大灣里大春街９７巷９號４樓",
+    "x": 120.33472671609,
+    "y": 22.675905680799,
+    "shops": [
+        {
+            "shop": "笙棚有限公司",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "芝芝有限公司",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "麻太茶坊有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

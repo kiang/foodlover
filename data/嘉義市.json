@@ -13,6 +13,5336 @@
                     23.47923
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區過溝里成仁街１０９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4523599999,
+                    23.477470007666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里中山路１６２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45269651321,
+                    23.481386446892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區北門里吳鳳北路３３０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45238000201,
+                    23.484310002169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中山里中山路２８之１３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46174461839,
+                    23.482615090794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區華南里民國路１４３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4602585747,
+                    23.479252849073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區後湖里保康路２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45564291823,
+                    23.507609365454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里成仁街１７９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45203000153,
+                    23.480190000422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區民族里光華路２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45552999725,
+                    23.476870002065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區北門里林森西路２３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45159999564,
+                    23.485230006897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區仁義里嘉南街１１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4555099954,
+                    23.492550001101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里中正路３６５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45006999991,
+                    23.478820008256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區林森里民權路２２０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45410000438,
+                    23.483160000541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區過溝里延平街２１９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45120999778,
+                    23.47682000079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區太平里維新路１９０巷２弄１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45748000168,
+                    23.49000000317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區北門里民權路３００－３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45152000458,
+                    23.482680007728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區後庄里東義路５６６巷５２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.47673999696,
+                    23.500260003638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區華南里延平街９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46019000092,
+                    23.477720000846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區圳頭里林森東路３６４巷１５弄８２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46797999774,
+                    23.489340004278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區文雅里文雅街２９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.48625533738,
+                    23.483654635881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區太平里民權路１１８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45780999662,
+                    23.483590003981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區興仁里吳鳳南路６２１巷２７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46004999819,
+                    23.455960006478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區圳頭里圓福街１１８巷２弄１２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46725000434,
+                    23.488480003568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區王田里圓福街７―１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4640909215,
+                    23.484835367147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區圳頭里林森東路７８４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.47866000007,
+                    23.49246000214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區培元里成功街５９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44349547722,
+                    23.472094625359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區文化里民族路４９５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44863999725,
+                    23.475780007744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區竹圍里友愛路２４６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43398831408,
+                    23.482875193601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區福民里新民路６４３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43999999567,
+                    23.466819999946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區西榮里民生北路１５１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44622999876,
+                    23.477520007588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區湖內里湖子內路２６３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44149330216,
+                    23.450096650893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區書院里蘭井街４６５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4417299968,
+                    23.476640006097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區垂楊里０２７鄰興業西路２７０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43974999875,
+                    23.468120004141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區國華里中山路２９４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44930000105,
+                    23.480010004553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區書院里仁愛路５７８之１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44206999939,
+                    23.478530006073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區下埤里北港路１２９６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4018100032,
+                    23.491040000463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區永和里新民路８０１－１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43919000346,
+                    23.473270000243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區永和里垂楊路７７０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44019000365,
+                    23.473180007701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區北榮里五顯街１７８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44477999666,
+                    23.486959999781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區垂楊里興業西路２６８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43985999486,
+                    23.468150008294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區新富里民族路５９３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44592000309,
+                    23.475549999897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區福民里興業西路３０９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43893999572,
+                    23.467740003548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區新富里民生北路４３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44659000415,
+                    23.47503000862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區竹圍里北興街４５９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43370000372,
+                    23.487990004724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區新厝里友愛路７３５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43930999949,
+                    23.491730000828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區新富里新榮路９２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44466000098,
+                    23.475040005416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區番社里忠義街１６９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44710999728,
+                    23.481240008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區美源里美源街１５９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44538107313,
+                    23.463598284586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區頭港里大貴路５５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.41220837885,
+                    23.466202870762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區光路里民生南路４６５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44361999966,
+                    23.458390005397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里吳鳳北路２１９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45312999636,
+                    23.479070001225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區東川里大雅路２段６０４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46692000102,
+                    23.476990007606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中庄里忠孝路５３９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45004999604,
+                    23.499400003165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區安寮里興業東路１０６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45649000266,
+                    23.46943000241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區頂庄里台林街１２６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4560399958,
+                    23.496720003645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里中正路３９０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45040000113,
+                    23.478960006676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區頂庄里新生路７５９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45400283971,
+                    23.495954810524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區興南里興業東路２３１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45463999537,
+                    23.46949000411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區新店里義教西路５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46690539534,
+                    23.4906380202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區仁義里台林街７６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45406000286,
+                    23.494140003639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里公明路３６８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45169999771,
+                    23.479860007239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中山里民權路８１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46209999534,
+                    23.483960003935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區芳草里芳安路２７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46474999916,
+                    23.468730000162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區北門里吳鳳北路３１４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45242000194,
+                    23.483950003297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區短竹里彌陀路１８８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46380999872,
+                    23.472530003788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區東川里大雅路２段６４８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46696999975,
+                    23.477330001533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區蘭潭里大雅路２段６０５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46692000102,
+                    23.476990007606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區後庄里林森東路５９９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.47679999602,
+                    23.49245000299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區林森里林森東路５７巷６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45561999534,
+                    23.48681000037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中庄里忠孝路４１７－３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45199354966,
+                    23.492599475382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區林森里忠孝路３６８－２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45310721188,
+                    23.489710861129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區圳頭里林森東路４７４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.47011010269,
+                    23.491730001039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區後湖里保義路６０巷１０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45311000076,
+                    23.501350004312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中山里安樂街１８８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45525999656,
+                    23.482460006128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區過溝里延平街２２５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45099999899,
+                    23.476810005837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區過溝里文化路９２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45006000212,
+                    23.476660002327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區安業里吳鳳南路１１０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4545900034,
+                    23.465810002062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區鹿寮里學府路３１２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.477749995,
+                    23.464050006384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區北門里長榮街２２４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44934159774,
+                    23.483273186023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里成仁街１６６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45213999524,
+                    23.480200003852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區過溝里興中街６２－１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45163000207,
+                    23.476360005267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區北門里文化路２８０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44888999731,
+                    23.483350005669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里中正路４１８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44982000211,
+                    23.47892000827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區過溝里文化路１０４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45001000345,
+                    23.476850004756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區安業里吳鳳南路２０２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45459999833,
+                    23.46827999983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區王田里圓福街３１－１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46410385124,
+                    23.48572027937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區安寮里吳鳳南路３０１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45483999681,
+                    23.465840006588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區過溝里文化路１１０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44999000096,
+                    23.477160003004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區太平里新生路３７２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46016000121,
+                    23.487760006599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里公明路３０７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45338999744,
+                    23.479970002474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里興中街１２７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45117000407,
+                    23.479490002292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區興仁里軍輝路１５３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4602200017,
+                    23.455640004848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區芳草里立仁路８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46662268378,
+                    23.465905424362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區過溝里延平街１５６－２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45283164406,
+                    23.477075783526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中山里民權路１５７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46032280622,
+                    23.483739310549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區仁義里新生路７１９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45502000374,
+                    23.495440001769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區過溝里民族路４２０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45085000389,
+                    23.47621000031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區東川里大雅路２段５３６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46957999993,
+                    23.47793000147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里公明路３９２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45078999947,
+                    23.479900003129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里公明路２６１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45488999822,
+                    23.48016000642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中山里維新路１００號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45868000328,
+                    23.483990000312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區後湖里保成路５６０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45502000003,
+                    23.50633000183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區長竹里大雅路２段３５０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.47505000019,
+                    23.477480006383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區義教里新生路８３０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45402474797,
+                    23.496217097099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區豐年里興業東路１１５巷１２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45133727528,
+                    23.469872846122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區北門里吳鳳北路２８４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45247999623,
+                    23.48325000866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區頂寮里南興路６９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46040000339,
+                    23.466570005589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區長竹里大雅路２段２７５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.47664000089,
+                    23.477370003474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區華南里民國路８９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46063000146,
+                    23.477750004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區芳安里南興路１２２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45905516127,
+                    23.466679656808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區東興里中正路２５４巷１０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45382000306,
+                    23.479590005167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區東興里中山路４７－３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45975000094,
+                    23.482110001803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區長竹里潭頂路８２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.47652590085,
+                    23.476282028553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區長竹里大雅路２段４１３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.47374212894,
+                    23.477291269414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區朝陽里垂楊路４０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46006999545,
+                    23.474970003547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區北門里吳鳳北路４０１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4521100038,
+                    23.484640008122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區仁義里嘉北街１１１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4539499956,
+                    23.493850002603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里文化路１７２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44978000292,
+                    23.479170004379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區興仁里吳鳳南路６１９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45921000187,
+                    23.455750004605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區義教里忠孝路６００號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45252749272,
+                    23.496522986235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區仁義里忠孝路５１６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4529180641,
+                    23.493708135529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里中山路２０３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45262000446,
+                    23.481100002648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區荖藤里忠孝北街１９１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44391989964,
+                    23.516213969038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區東川里大雅路２段８０８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46231146299,
+                    23.477100113717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中山里安樂街１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46307999544,
+                    23.483270003013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里文化路１６４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44979999805,
+                    23.478980004573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區過溝里吳鳳北路７７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45351000475,
+                    23.475760003955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區短竹里彌陀路２４６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46310000191,
+                    23.473710001874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區安寮里吳鳳南路２４２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45608000032,
+                    23.462610006725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區華南里公明路６７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45837999648,
+                    23.480350005517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區仁義里忠孝路５６２－７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45263999812,
+                    23.494700004039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區東興里中山路７５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45859000325,
+                    23.482000002362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區義教里台林街２１７－２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45506000175,
+                    23.497280008018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區蘭潭里大雅路２段５７９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46758999856,
+                    23.477160000635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區興仁里興仁街２巷１１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46391000255,
+                    23.456420001456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區新開里垂楊路２９之１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46051999745,
+                    23.474570000781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區朝陽里垂楊路１２０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45811000138,
+                    23.47478000528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區東川里大雅路２段６５６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46685000336,
+                    23.477310005347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區東興里民國路２０４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46001000315,
+                    23.482070006212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區興仁里吳鳳南路６０１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45907999548,
+                    23.456090000597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區芳草里７鄰芳安路５５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46419999554,
+                    23.468670003954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區義教里義教街９２７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45216999669,
+                    23.500290007275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區後庄里林森東路７２７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.47953000201,
+                    23.492860000777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區新店里林森東路２４９－１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46564000195,
+                    23.489770003324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里中山路２０６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45169000206,
+                    23.480940002402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中山里中山路４６－２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4608600033,
+                    23.482490003613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中庄里忠孝路６１１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45180000057,
+                    23.497940007059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區仁義里新生路６６５之１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45667914276,
+                    23.4939034455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區義教里仁義新村３３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45271999703,
+                    23.497600006472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區宣信里興業二村２２之１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45938000442,
+                    23.469530003733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區太平里民權路１００號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45825000111,
+                    23.48365000244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中山里中山路４６－１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4608600033,
+                    23.482490003613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區華南里民族路１１６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45884000284,
+                    23.476930007494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區北門里長榮街１９４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45038999833,
+                    23.483460003296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區安寮里興業東路７２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45580000284,
+                    23.469360007212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中庄里忠孝路４７７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45169000385,
+                    23.494550000713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區華南里民族路４６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46048000158,
+                    23.47708000723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區仁義里台林街７５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45371999836,
+                    23.493880006454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區華南里民族路１６０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45779999847,
+                    23.476829999968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里吳鳳北路２８７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45288999816,
+                    23.480750003317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區安寮里興業東路６４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45565000304,
+                    23.469340006177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里中正路３３５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45089999596,
+                    23.478890007864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區頂庄里台林街１２２―１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4553699942,
+                    23.495940000314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區新開里垂楊路１０１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45835000145,
+                    23.47438000128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區新開里體育路４９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46163000446,
+                    23.472700002732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區興仁里吳鳳南路６５３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45948000389,
+                    23.455020002912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區太平里維新路１９５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45788566171,
+                    23.486253158164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區東興里公明路１１４－４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45932497332,
+                    23.480764218807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里民權路３６９之３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45035613735,
+                    23.482330397349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里中山路２０２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4517600013,
+                    23.480970002111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區新開里宣信街２６２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45904999596,
+                    23.470310001671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區東川里大雅路２段６１６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46765205513,
+                    23.477493795863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區朝陽里共和路５２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45608999976,
+                    23.475580002264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區興仁里吳鳳南路５７３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4587999989,
+                    23.456860005495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區東興里公明路３１２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45330999701,
+                    23.479970001882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區朝陽里民族路１３９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45792999936,
+                    23.476610004771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區王田里林森東路３３２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46471000218,
+                    23.48919000868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區過溝里興中街４０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45170999789,
+                    23.475740004307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區文雅里文雅街１３０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.48585999548,
+                    23.483770008164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區後庄里林森東路５７７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.47628000372,
+                    23.492390004339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里興中街１１７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45128999644,
+                    23.478550005522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里文化路１９２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44958999883,
+                    23.480340005963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區長竹里大雅路２段４１１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.47381723254,
+                    23.477293915828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區太平里博東路２９７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45719426571,
+                    23.490517820859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里中山路２７４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44993000163,
+                    23.480170008157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區新開里市宅街４５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45972999685,
+                    23.473590002788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區華南里維新路２８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45921999682,
+                    23.480030003049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區華南里維新路３５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45882982101,
+                    23.480234431697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里中正路３２７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45117658491,
+                    23.478914504676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中山里民權路２７５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45589010008,
+                    23.483220005184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區新開里體育路８５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46138999769,
+                    23.474530007968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里中山路１７８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45237999856,
+                    23.481250004227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區林森里共和路２３９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45454999876,
+                    23.487350003767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區林森里共和路４１８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45503999845,
+                    23.487380008468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里文化路２２０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4494900025,
+                    23.480780004905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區後庄里林森東路５４７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.47571000314,
+                    23.492300000893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區民族里光華路３２之２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45447000004,
+                    23.477400000465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區太平里新生路５７２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45811999542,
+                    23.492170000561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里中山路２３３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45176999762,
+                    23.480740000553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中山里中山路７６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4597900001,
+                    23.482370003086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中庄里台斗街２１７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45098000236,
+                    23.495170002865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區後湖里保建街９２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45180999953,
+                    23.500640003232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區北門里成仁街２４０－２８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45096999915,
+                    23.483800000117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區仁義里新生路７２１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4549800047,
+                    23.495460007545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區短竹里彌陀路２７０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46284999767,
+                    23.474150008624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區興村里吳鳳南路２９０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45476999764,
+                    23.466610005073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區仁義里忠孝路４６２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45292000143,
+                    23.492890007452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區東興里新生路１６７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46116999979,
+                    23.481200006163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區興仁里吳鳳南路５７７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45887999785,
+                    23.456660008046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區後湖里保仁三街７５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45429000359,
+                    23.504440003548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區過溝里興中街６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45187000352,
+                    23.474560005869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里興中街１７２－９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4503285624,
+                    23.482173830059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區林森里忠孝路３３６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45354000477,
+                    23.488760005513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區民族里光華路２０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4550900039,
+                    23.477080008592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區朝陽里民族路６５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45991000018,
+                    23.476800002724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區東川里大雅路２段６４６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46701999992,
+                    23.477370003443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區北門里興中街１９２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45000999934,
+                    23.483150003116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區荖藤里忠孝北街１８７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44391989964,
+                    23.516213969038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區朝陽里民族路２７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46092999821,
+                    23.476890003149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區興村里軍輝路２３０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45848297959,
+                    23.454730919766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區東興里公明路１６７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45488000278,
+                    23.480010002816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區過溝里蘭井街１０３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45321999554,
+                    23.477720003004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區仁義里台林街９６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45463999753,
+                    23.494990004241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區東興里公明路２８２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45407000273,
+                    23.480060002387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中庄里忠孝路５６５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44873000392,
+                    23.501680004826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區頂庄里１０鄰台林街１１４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45520000085,
+                    23.495770005365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區太平里林森東路１１２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45780999516,
+                    23.486830004916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區東興里公明路１９７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45405000125,
+                    23.479920004955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區北門里興中街１９８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44993000452,
+                    23.483540001972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區過溝里民族路４１８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45091000469,
+                    23.476200007833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區仁義里嘉北街６８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45433000434,
+                    23.493820000053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區福全里友愛路１１２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43446000122,
+                    23.478640003555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區重興里北興街３１０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43851999658,
+                    23.485690006131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區永和里民族路７８１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44076000018,
+                    23.475080001811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區北榮里國華街４６９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44660999766,
+                    23.487610004841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區後驛里博愛路２段７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44159999875,
+                    23.483750001432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區保安里北安路１１６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43157999435,
+                    23.489130001895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區導明里國華街７３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44913000052,
+                    23.472500001222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區北新里文化路９０３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43933999759,
+                    23.502330000852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區書院里中山路６１９之１４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44140999952,
+                    23.478180000934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區文化里文化路１３３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44958000064,
+                    23.479390007202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區保生里友愛路６０９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43654000416,
+                    23.491140093575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區新富里仁愛路４１８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44239000304,
+                    23.474560001533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區福民里福州二街６４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43452000295,
+                    23.463350001805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區後驛里中興路１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44002226156,
+                    23.479793477017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區光路里南京東街３８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44434454109,
+                    23.455710349314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區福民里重慶路１４６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43703000314,
+                    23.465670005015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區車店里上海路１９４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43304000122,
+                    23.466640000617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區自強里１７鄰仁愛路２０１巷３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44236672148,
+                    23.470531038719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區車店里興業西路４８１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43393999531,
+                    23.468450007541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區導明里民生南路１４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44680000263,
+                    23.473100007047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區文化里文化路１３５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44958000343,
+                    23.479420004539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區自強里興業西路１６５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44239944969,
+                    23.468076882061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區西榮里新榮路１６６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44436000126,
+                    23.47784000188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區垂楊里建成街３６巷１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44099999682,
+                    23.47207000564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區國華里北榮街６４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44885999607,
+                    23.480880006346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區福全里博愛路二段３７６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43578000177,
+                    23.477220005541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區文化里中正路３８３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44953000383,
+                    23.478770000273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區車店里車店街４６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43427999635,
+                    23.466560001499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區西榮里中正路５４３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44594000449,
+                    23.478770006379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區新富里民族路６１７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.445320095,
+                    23.475490003302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區竹圍里德安路４１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43223000003,
+                    23.483850003711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區書院里中山路６１２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44039000115,
+                    23.477560007825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區文化里文化路７９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44979000213,
+                    23.477380006216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區書院里仁愛路５８０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44206999939,
+                    23.478530006073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區垂楊里仁愛路２５３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44249999494,
+                    23.471580004229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區國華里文化路２５７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44870999439,
+                    23.483380007603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區保福里八德路２２９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4301823342,
+                    23.488455089524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區港坪里金山路１０１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.42413997177,
+                    23.471769977087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區垂楊里新民路８１８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43990000062,
+                    23.471040000179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區福民里興業西路２６９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43986999736,
+                    23.467770002704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區竹圍里興達路３５８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43576999703,
+                    23.485700004579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區垂楊里仁愛路２３９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44253000213,
+                    23.471360007655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區導明里民生南路２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44672999876,
+                    23.473340008302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區後驛里友忠路５８０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4367900015,
+                    23.480030001774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區福全里友愛路１６４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43427999897,
+                    23.480080005229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區保生里自由路４６８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43241150155,
+                    23.492568463887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區紅瓦里２鄰南京路１９７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43920999605,
+                    23.45713000158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區文化里民族路４６３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44952000405,
+                    23.47586000677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區番社里民生北路２７４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44616103837,
+                    23.481077713358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區自強里新民路６８６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.440300002,
+                    23.467840002175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區國華里國華街２３８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44823999658,
+                    23.481650004762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區國華里國華街３２２之１３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44732563594,
+                    23.485435203053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區新富里民族路５３５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44754000014,
+                    23.475690004913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區培元里成功街７５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44308000458,
+                    23.472050006242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區美源里新民路６１８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44049999828,
+                    23.46600000083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區書院里仁愛路５５０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44203999532,
+                    23.477820004605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區福民里興業西路３６９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43695999824,
+                    23.467550003489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區保生里自由路１２１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43830999594,
+                    23.486870005656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區導明里民生南路９６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44699352137,
+                    23.471240054378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區竹圍里遠東街５０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43689000095,
+                    23.485550005131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區竹圍里興達路３９５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43527359939,
+                    23.485393475591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區永和里垂楊路８６６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43754999478,
+                    23.473050003538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區書院里永和街１００號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44011910786,
+                    23.475771974294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區竹圍里中興路１９２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43543999819,
+                    23.48228000694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區書院里蘭井街３７２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44143999888,
+                    23.476770000252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區福安里四維路２３２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4275500005,
+                    23.484160003106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區垂楊里新民路７５５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43969967823,
+                    23.469874387375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區北榮里向榮街２０５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44605000073,
+                    23.488399999751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區福全里中興路２２１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43484000362,
+                    23.482200004284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區獅子里民生南路６１０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4435300042,
+                    23.457520003976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區福民里福州七街９５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43223999901,
+                    23.462480005089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區磚??里中興路５９０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.42826999944,
+                    23.474620006849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區新富里民族路７１７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44241999766,
+                    23.475240005893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區獅子里民生南路５７８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44336000391,
+                    23.458170003109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區後驛里博愛路２段２８１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43729999865,
+                    23.478500004344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區垂楊里仁愛路２７９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44244000097,
+                    23.472050003768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區福全里博愛路２段４２２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43474000224,
+                    23.476080007751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區書院里中正路６９８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44295000017,
+                    23.478610006237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區永和里仁愛路３４５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44211000438,
+                    23.474760005482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區後驛里博愛路２段２１０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43885000128,
+                    23.480990002164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區福安里中興路４０８巷１０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.42867893847,
+                    23.479469115757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區港坪里０１３鄰大華路２５０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.42188586116,
+                    23.473727350795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區國華里文化路２９９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44804458957,
+                    23.485205321214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區書院里光彩街６７８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44240000126,
+                    23.477580004764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區書院里廣寧街１０１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44089695684,
+                    23.477510627135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區福民里興業西路３３９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4376800022,
+                    23.467610004226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區自強里新民路６８２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44027000366,
+                    23.467600006101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區福全里友愛路２１２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4341199992,
+                    23.481390003543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區車店里蘭州四街６８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43033000333,
+                    23.466180003586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區文化里忠義街４０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44772000298,
+                    23.476490005616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區致遠里興業西路４０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44490999607,
+                    23.468610005957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區文化里文化路３１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44996000012,
+                    23.475870002543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區文化里文化路１９之１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44994802377,
+                    23.475670291048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區文化里光彩街３６７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44928999871,
+                    23.478090004817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區保福里興達路５６７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.42876999704,
+                    23.484800001115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區竹圍里興雅路４２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43484000192,
+                    23.483140005807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區新西里老吸街９巷３７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43715000102,
+                    23.471050000644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區翠岱里志昇街６９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4425130896,
+                    23.469364790182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區文化里文化路１９－２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44988791653,
+                    23.47567294147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區福民里南京路４７６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4361081058,
+                    23.465936443022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區國華里北榮街１０１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44909000073,
+                    23.480810006871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區番社里民生北路２８５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44581000087,
+                    23.48220000127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區西榮里民族路５８８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44603999701,
+                    23.475560006988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區福民里興業西路３５１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4374400008,
+                    23.467590004348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區北湖里北社尾路７６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.42782999938,
+                    23.49284000584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區文化里文化路２３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44994000123,
+                    23.475740000698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區竹圍里興通路４８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43418999515,
+                    23.484910005214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區新厝里興達路１０８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4426437349,
+                    23.489195118148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區西榮里民生北路１９４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44641999716,
+                    23.47860000797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區獅子里民生南路５５８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44333000222,
+                    23.458669999969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區書院里新榮路３２１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44408999929,
+                    23.478980002765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區培元里仁愛路３３６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4426799965,
+                    23.47195000673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區新厝里友愛路６９５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43850323981,
+                    23.491618782756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區書院里仁愛路５４６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44205999764,
+                    23.477710001782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區西榮里民族路５９４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4463600018,
+                    23.475810007651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區書院里仁愛路５７０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44200999784,
+                    23.478200001583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區車店里興業西路３８４－１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43691999832,
+                    23.467860000019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區劉厝里自強街８７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.42208000158,
+                    23.464850007826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區書院里西門街２１６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44324062926,
+                    23.477525569781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區書院里光彩街５５９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44270999818,
+                    23.4774900015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區重興里北興街３１８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43836841468,
+                    23.485732460311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區永和里民族路７７７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44081000344,
+                    23.47508000055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區竹圍里友愛路３０５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43315999648,
+                    23.486960008689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區劉厝里博愛路２段８６４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.42444000299,
+                    23.464660004519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區北榮里文化路３８９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44714875372,
+                    23.487331755504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區導明里成功街２８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44592999974,
+                    23.472460002901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區文化里國華街２００號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44854999596,
+                    23.479630002976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區竹圍里德安路１７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43290999674,
+                    23.483920004473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區翠岱里仁愛路２１０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44257995428,
+                    23.470779942777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區美源里興業西路４３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44536999528,
+                    23.468360006107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區書院里仁愛路４８８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44223999752,
+                    23.476380000533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區福全里中興路３０３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4324999991,
+                    23.482030003732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區竹圍里德惠街３６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43249000338,
+                    23.483810000042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區番社里民生北路２２４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44632000196,
+                    23.479910008257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區垂楊里新民路８２６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43986999768,
+                    23.471200001555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區書院里民族路７７６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44111000149,
+                    23.475350004509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區文化里光彩街５２０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4476099999,
+                    23.478030008539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區翠岱里仁愛路２０６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44259000474,
+                    23.47072000209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區車店里上海路２２８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43361999709,
+                    23.467270001827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區番社里中山路４０２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44548999659,
+                    23.47964000812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區文化里文化路１０９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44966000163,
+                    23.478630008144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區竹圍里興達路３７０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43524999632,
+                    23.485660006241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區西平里高鐵大道９７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43018161722,
+                    23.477318234746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區國華里文化路２８９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44883999462,
+                    23.483620003317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區文化里國華街６２之９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44902481299,
+                    23.475447704088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區國華里文化路２９１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44883000178,
+                    23.483650001411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區保生里遠東街２２之５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43827999733,
+                    23.486570006217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區福全里友忠路６１９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43698436463,
+                    23.481268195402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區書院里仁愛路４９４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44221999557,
+                    23.476490003405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區北新里文化路９５１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43858000051,
+                    23.503530005203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區新西里上海路３４９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43594999986,
+                    23.470230003387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區車店里興業西路４６５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43430000206,
+                    23.468090000567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區福民里世賢路３段１６９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43117951502,
+                    23.463017763918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區文化里中山路３２９號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44910999815,
+                    23.4797500036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區美源里民生南路２８５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44502000032,
+                    23.46383000818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區西榮里中正路６１５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44432000124,
+                    23.478630002276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區西榮里蘭井街３６７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44485999454,
+                    23.476970000609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區車店里興業西路３９６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43666000164,
+                    23.467830002884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區保福里八德路９７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43057000241,
+                    23.484920002445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區福全里中興路３３３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43148999912,
+                    23.481940006995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區車店里興業西路３３０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43820999534,
+                    23.467960007895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區書院里仁愛路４５４號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44227999509,
+                    23.475570008427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區翠岱里志昇街５１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44430999704,
+                    23.468930002115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區培元里仁愛路２４６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44288999858,
+                    23.47088000039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區湖邊里文化路５８１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44440000134,
+                    23.493280005595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區國華里民權路４３２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44659999827,
+                    23.481990000279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區國華里國華街３２２之１２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44734396615,
+                    23.485382714083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區獅子里民生南路５４２－１號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44336271531,
+                    23.4589194327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區福全里高鐵大道９０號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4304149389,
+                    23.477753198868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區文化里中山路３１３號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44945999868,
+                    23.479690008235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區國華里國華街２８６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44796999676,
+                    23.483120000664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區書院里新榮路１１５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44457999859,
+                    23.475890002842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區西榮里民族路５６８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44721000055,
+                    23.47590000857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區下埤里北港路５５６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.41802999581,
+                    23.486210006869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區文化里中正路４３２號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44933000299,
+                    23.478860008353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區書院里中正路７０７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44177999823,
+                    23.47839000697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區湖內里新民路２９８號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43811999725,
+                    23.457660000466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區車店里興業西路４８７號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43382999466,
+                    23.468520005309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區自強里興業西路１４５號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44283999738,
+                    23.468110007032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區保福里竹圍路１５６號號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.42890000267,
+                    23.486790001779
+                ]
+            }
         }
     ]
 }

@@ -6140,6 +6140,19 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "彰化縣員林市南平里南平路１３５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32550967569,
+                    23.851265529981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "彰化縣員林市新生里０１０鄰新生路９５號"
             },
             "geometry": {
