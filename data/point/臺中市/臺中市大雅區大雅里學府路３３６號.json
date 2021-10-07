@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大雅區大雅里學府路３３６號",
+    "x": 120.648853,
+    "y": 24.225615,
+    "shops": [
+        {
+            "shop": "邱記企業社",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

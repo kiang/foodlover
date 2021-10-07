@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市南區福順里忠明南路８２１―１號",
+    "x": 120.660441,
+    "y": 24.124426,
+    "shops": [
+        {
+            "shop": "榮炘小吃舖",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

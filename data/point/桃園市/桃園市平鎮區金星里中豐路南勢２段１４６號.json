@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "桃園市平鎮區金星里中豐路南勢２段１４６號",
+    "x": 121.21042,
+    "y": 24.915628,
+    "shops": [
+        {
+            "shop": "祥聖食品有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "嘉義市東區中山里中山路４６－２號１樓",
+    "x": 120.4608600033,
+    "y": 23.482490003613,
+    "shops": [
+        {
+            "shop": "阿典師簡速餐",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

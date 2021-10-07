@@ -1,0 +1,13 @@
+{
+    "name": "調理飲料攤販",
+    "address": "臺中市南區南和里永和街８８號",
+    "x": 120.667311,
+    "y": 24.118115,
+    "shops": [
+        {
+            "shop": "詹惠珍",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

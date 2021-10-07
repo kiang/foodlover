@@ -1,0 +1,17 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市南屯區三和里公益路２段５３６號右轉停車場",
+    "x": 120.634448,
+    "y": 24.151318,
+    "shops": [
+        {
+            "shop": "明強商行",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "凱恩斯國際岩燒餐廳有限公司",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/台灣 PAY\/街口支付"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "新北市淡水區新市五路３段３０８號",
+    "x": 121.437417,
+    "y": 25.197068,
+    "shops": [
+        {
+            "shop": "唯品有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

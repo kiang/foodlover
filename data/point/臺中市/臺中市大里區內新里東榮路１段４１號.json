@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市大里區內新里東榮路１段４１號１樓",
+    "x": 120.692623,
+    "y": 24.109276,
+    "shops": [
+        {
+            "shop": "巧佳早午餐",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大里區仁化里仁化路７４２號１樓",
+    "x": 120.692036,
+    "y": 24.092828,
+    "shops": [
+        {
+            "shop": "真湘薑母鴨",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

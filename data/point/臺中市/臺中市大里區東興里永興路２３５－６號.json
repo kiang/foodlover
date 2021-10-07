@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市大里區東興里永興路２３５－６號１樓",
+    "x": 120.681233,
+    "y": 24.112822,
+    "shops": [
+        {
+            "shop": "阿寶晨食館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

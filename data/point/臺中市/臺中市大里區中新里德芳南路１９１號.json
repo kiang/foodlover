@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大里區中新里德芳南路１９１號１樓",
+    "x": 120.688533,
+    "y": 24.101486,
+    "shops": [
+        {
+            "shop": "依九依燒烤店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

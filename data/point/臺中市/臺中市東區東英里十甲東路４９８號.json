@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市東區東英里十甲東路４９８號１樓",
+    "x": 120.70769,
+    "y": 24.139028,
+    "shops": [
+        {
+            "shop": "植幸福晨食館",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "便當、自助餐店",
+    "address": "臺中市中區公園里成功路１７０號",
+    "x": 120.682507,
+    "y": 24.141349,
+    "shops": [
+        {
+            "shop": "金之園小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

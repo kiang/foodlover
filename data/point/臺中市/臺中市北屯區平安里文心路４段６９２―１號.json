@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市北屯區平安里文心路４段６９２―１號１樓",
+    "x": 120.685686,
+    "y": 24.171866,
+    "shops": [
+        {
+            "shop": "景幸有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

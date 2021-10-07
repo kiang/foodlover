@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "新竹市北區北門里中正路２２９號",
+    "x": 120.96460419558,
+    "y": 24.811646439323,
+    "shops": [
+        {
+            "shop": "中正小豬壽司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

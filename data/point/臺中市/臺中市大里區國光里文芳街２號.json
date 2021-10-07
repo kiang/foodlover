@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市大里區國光里文芳街２號",
+    "x": 120.68451,
+    "y": 24.10723,
+    "shops": [
+        {
+            "shop": "一鮮堅持屋文芳店",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

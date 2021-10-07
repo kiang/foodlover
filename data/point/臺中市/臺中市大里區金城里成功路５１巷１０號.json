@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市大里區金城里成功路５１巷１０號１樓",
+    "x": 120.699067,
+    "y": 24.085504,
+    "shops": [
+        {
+            "shop": "五十一巷咖啡館",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+}

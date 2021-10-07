@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "新竹市北區中雅里延平路一段１６１巷４８號",
+    "x": 120.955949,
+    "y": 24.803311,
+    "shops": [
+        {
+            "shop": "果樂早餐店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

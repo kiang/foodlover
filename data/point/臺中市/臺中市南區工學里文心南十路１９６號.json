@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市南區工學里文心南十路１９６號１樓",
+    "x": 120.656516,
+    "y": 24.116664,
+    "shops": [
+        {
+            "shop": "文南漢堡",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

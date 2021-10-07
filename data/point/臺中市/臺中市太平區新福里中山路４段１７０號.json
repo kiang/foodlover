@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市太平區新福里中山路４段１７０號",
+    "x": 120.70332,
+    "y": 24.14827,
+    "shops": [
+        {
+            "shop": "漢家園飲食店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

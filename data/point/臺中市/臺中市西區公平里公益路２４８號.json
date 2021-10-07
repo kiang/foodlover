@@ -1,0 +1,17 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市西區公平里公益路２４８號２樓",
+    "x": 120.65498290477,
+    "y": 24.151104026081,
+    "shops": [
+        {
+            "shop": "鑫鼎王餐飲股份有限公司塩選台中公益第一分公司",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "鑫鼎王餐飲股份有限公司塩選台中公益分公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

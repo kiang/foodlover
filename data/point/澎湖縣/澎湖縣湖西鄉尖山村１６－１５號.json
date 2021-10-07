@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "澎湖縣湖西鄉尖山村１６－１５號",
+    "x": 119.668477,
+    "y": 23.564738,
+    "shops": [
+        {
+            "shop": "龍門東方美早餐店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

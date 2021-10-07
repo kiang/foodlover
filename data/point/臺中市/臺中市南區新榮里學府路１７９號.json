@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市南區新榮里學府路１７９號１樓",
+    "x": 120.673429,
+    "y": 24.129892,
+    "shops": [
+        {
+            "shop": "晨宸餐飲店",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
+}

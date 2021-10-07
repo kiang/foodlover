@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大里區立仁里新仁路１段２１１號",
+    "x": 120.701272,
+    "y": 24.11059,
+    "shops": [
+        {
+            "shop": "源豐擔仔麵",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

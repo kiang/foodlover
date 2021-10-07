@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市太平區新坪里樹孝路４５８號１樓",
+    "x": 120.720234,
+    "y": 24.157083,
+    "shops": [
+        {
+            "shop": "龍興美食",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

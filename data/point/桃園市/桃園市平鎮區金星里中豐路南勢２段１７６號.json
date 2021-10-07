@@ -1,0 +1,13 @@
+{
+    "name": "咖啡館",
+    "address": "桃園市平鎮區金星里中豐路南勢２段１７６號２樓",
+    "x": 121.210269,
+    "y": 24.914242,
+    "shops": [
+        {
+            "shop": "雨日子",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

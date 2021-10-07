@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市東區東信里樂業路４３０號",
+    "x": 120.705934,
+    "y": 24.136883,
+    "shops": [
+        {
+            "shop": "來一客牛排館",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
+}

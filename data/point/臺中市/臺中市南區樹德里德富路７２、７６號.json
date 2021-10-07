@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市南區樹德里德富路７２、７６號１樓",
+    "x": 120.655225,
+    "y": 24.118739,
+    "shops": [
+        {
+            "shop": "德富小吃部",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺南市東區崇德路７５９號右邊",
+    "x": 120.22770241562,
+    "y": 22.967327622498,
+    "shops": [
+        {
+            "shop": "福記豆漿營業處",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

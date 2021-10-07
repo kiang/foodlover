@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "桃園市平鎮區平南里中豐路南勢２段２７０號",
+    "x": 121.210727,
+    "y": 24.911937,
+    "shops": [
+        {
+            "shop": "食全食美早餐店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "飲料零售\/菸酒零售\/飲酒店",
+    "address": "臺南市東區新東里裕農路１３號",
+    "x": 120.22437309575,
+    "y": 22.985030761293,
+    "shops": [
+        {
+            "shop": "潮玩啤商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

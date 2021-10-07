@@ -1,0 +1,13 @@
+{
+    "name": "便當、自助餐店",
+    "address": "嘉義市西區導明里國華街７３號１樓",
+    "x": 120.44913000052,
+    "y": 23.472500001222,
+    "shops": [
+        {
+            "shop": "美珍簡餐",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

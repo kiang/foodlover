@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市西區吉龍里美村路一段５９２號旁",
+    "x": 120.66152109358,
+    "y": 24.137829060167,
+    "shops": [
+        {
+            "shop": "金多寶商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "嘉義市東區中央里公明路３０７號",
+    "x": 120.45338999744,
+    "y": 23.479970002474,
+    "shops": [
+        {
+            "shop": "奕叡商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

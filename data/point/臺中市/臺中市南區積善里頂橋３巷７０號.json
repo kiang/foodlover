@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市南區積善里頂橋３巷７０號",
+    "x": 120.673671,
+    "y": 24.12477,
+    "shops": [
+        {
+            "shop": "胖吐司丼飯",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

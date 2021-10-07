@@ -1,0 +1,13 @@
+{
+    "name": "調理飲料攤販",
+    "address": "臺中市北區建興里永興街１４３號１樓騎樓",
+    "x": 120.682227,
+    "y": 24.162236,
+    "shops": [
+        {
+            "shop": "熊一木瓜牛奶",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

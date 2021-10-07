@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市南區福順里美村路２段１７６號１樓",
+    "x": 120.662978,
+    "y": 24.125702,
+    "shops": [
+        {
+            "shop": "老周牛肉麵",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

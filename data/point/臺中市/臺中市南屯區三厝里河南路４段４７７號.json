@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市南屯區三厝里河南路４段４７７號",
+    "x": 120.638339,
+    "y": 24.147874,
+    "shops": [
+        {
+            "shop": "上頂鮮商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

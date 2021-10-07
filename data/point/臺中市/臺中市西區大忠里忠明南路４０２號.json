@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市西區大忠里忠明南路４０２號",
+    "x": 120.65709379877,
+    "y": 24.13555026902,
+    "shops": [
+        {
+            "shop": "佳園排骨飯",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

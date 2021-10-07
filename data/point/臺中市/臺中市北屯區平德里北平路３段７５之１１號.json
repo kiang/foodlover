@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市北屯區平德里北平路３段７５之１１號１樓",
+    "x": 120.681942,
+    "y": 24.171281,
+    "shops": [
+        {
+            "shop": "緣起麵食館",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大里區大明里大明路１６８號",
+    "x": 120.685402,
+    "y": 24.115382,
+    "shops": [
+        {
+            "shop": "鼎昇鍋燒麵大明店",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "五餅弍魚飲品",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "小豆冷飲店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

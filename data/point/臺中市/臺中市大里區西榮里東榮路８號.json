@@ -1,0 +1,17 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市大里區西榮里東榮路８號",
+    "x": 120.689339,
+    "y": 24.110199,
+    "shops": [
+        {
+            "shop": "鼎豐升餐飲有限公司",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "迷你科企業社",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/台灣 PAY"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市太平區長億里１８鄰長億路１３―１號",
+    "x": 120.720938,
+    "y": 24.119168,
+    "shops": [
+        {
+            "shop": "翁記小吃",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

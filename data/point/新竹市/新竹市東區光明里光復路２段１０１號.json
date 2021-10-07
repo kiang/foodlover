@@ -1,0 +1,17 @@
+{
+    "name": "早餐店",
+    "address": "新竹市東區光明里光復路２段１０１號（清華大學風雲樓３樓）",
+    "x": 120.99686397501,
+    "y": 24.796397643703,
+    "shops": [
+        {
+            "shop": "墨尼小鋪",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        },
+        {
+            "shop": "鑫鴻鮮果茶",
+            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money\/台灣 PAY"
+}

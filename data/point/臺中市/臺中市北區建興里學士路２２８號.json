@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市北區建興里學士路２２８號（一樓之一）",
+    "x": 120.681082,
+    "y": 24.160461,
+    "shops": [
+        {
+            "shop": "張育菖",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

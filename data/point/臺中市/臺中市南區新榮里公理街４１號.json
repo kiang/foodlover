@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市南區新榮里公理街４１號１樓",
+    "x": 120.674976,
+    "y": 24.130139,
+    "shops": [
+        {
+            "shop": "來富麵攤",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

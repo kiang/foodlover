@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市大肚區頂街里４３鄰大明二街１９０號",
+    "x": 120.541055,
+    "y": 24.154429,
+    "shops": [
+        {
+            "shop": "王淑貞",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

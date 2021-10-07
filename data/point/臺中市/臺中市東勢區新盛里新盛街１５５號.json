@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市東勢區新盛里新盛街１５５號１樓",
+    "x": 120.831165,
+    "y": 24.245909,
+    "shops": [
+        {
+            "shop": "興盛早午餐",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

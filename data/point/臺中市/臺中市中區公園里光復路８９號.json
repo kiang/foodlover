@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市中區公園里光復路８９號前",
+    "x": 120.68334234389,
+    "y": 24.141571082373,
+    "shops": [
+        {
+            "shop": "樂咖麵攤",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

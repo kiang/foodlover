@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市南屯區南屯里黎明路１段１０２８號１樓",
+    "x": 120.637902,
+    "y": 24.138732,
+    "shops": [
+        {
+            "shop": "全發早餐店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

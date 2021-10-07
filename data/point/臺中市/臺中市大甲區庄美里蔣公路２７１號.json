@@ -1,0 +1,13 @@
+{
+    "name": "便當、自助餐店",
+    "address": "臺中市大甲區庄美里蔣公路２７１號１樓及２樓",
+    "x": 120.618432,
+    "y": 24.347435,
+    "shops": [
+        {
+            "shop": "品粵燒臘快餐店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

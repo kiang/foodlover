@@ -4,7 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣湖西鄉青螺村５９之１號"
+                "k": "澎湖縣湖西鄉青螺村５９之１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -17,7 +18,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣湖西鄉隘門村４５－３號"
+                "k": "澎湖縣湖西鄉隘門村４５－３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +32,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市陽明里北辰街２０號"
+                "k": "澎湖縣馬公市陽明里北辰街２０號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -43,7 +46,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市案山里文安路６０號"
+                "k": "澎湖縣馬公市案山里文安路６０號",
+                "pay_list": "一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -56,7 +60,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市長安里仁愛路３６號"
+                "k": "澎湖縣馬公市長安里仁愛路３６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -69,7 +74,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市前寮里３鄰１６―１２號"
+                "k": "澎湖縣馬公市前寮里３鄰１６―１２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -82,7 +88,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市中央里中央街６號"
+                "k": "澎湖縣馬公市中央里中央街６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -95,7 +102,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市西文里中華路２９６號"
+                "k": "澎湖縣馬公市西文里中華路２９６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -108,7 +116,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光榮里文光路１０８－１號"
+                "k": "澎湖縣馬公市光榮里文光路１０８－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +130,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市西文里西文澳９７―３２號"
+                "k": "澎湖縣馬公市西文里西文澳９７―３２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -134,7 +144,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市朝陽里朝陽路４１巷２之５號"
+                "k": "澎湖縣馬公市朝陽里朝陽路４１巷２之５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -147,7 +158,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市鎖港里９９９號"
+                "k": "澎湖縣馬公市鎖港里９９９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +172,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市重慶里民權路８４號"
+                "k": "澎湖縣馬公市重慶里民權路８４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -173,7 +186,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光榮里民族路１４４號"
+                "k": "澎湖縣馬公市光榮里民族路１４４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -186,7 +200,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市重慶里民生路５－２號"
+                "k": "澎湖縣馬公市重慶里民生路５－２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +214,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市長安里仁愛路４２號"
+                "k": "澎湖縣馬公市長安里仁愛路４２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +228,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣七美鄉南港村１１鄰南滬４１號"
+                "k": "澎湖縣七美鄉南港村１１鄰南滬４１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -225,7 +242,50 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣湖西鄉青螺村青螺２４之３號"
+                "k": "澎湖縣望安鄉東安村２４－１號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.502405,
+                    23.356172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉尖山村１６－１５號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.668477,
+                    23.564738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉龍門村１１９之４１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.677125,
+                    23.558945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉青螺村青螺２４之３號",
+                "pay_list": "歐付寶"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +298,50 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣白沙鄉吉貝村吉貝１８９之１２號"
+                "k": "澎湖縣湖西鄉湖西村１５７－３號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.660459,
+                    23.584962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉龍門村５８之２號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.673216,
+                    23.564354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉吉貝村１８８－３號",
+                "pay_list": "歐付寶"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.606506,
+                    23.73778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉吉貝村吉貝１８９之１２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -251,7 +354,50 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣西嶼鄉合界村后螺３－１號"
+                "k": "澎湖縣白沙鄉瓦硐村１４－１號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.588888,
+                    23.655282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉赤崁村９之１號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.600126,
+                    23.664912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣西嶼鄉竹灣村１５－１２號",
+                "pay_list": "街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.520719,
+                    23.637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣西嶼鄉合界村后螺３－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -264,7 +410,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣西嶼鄉池東村小池角４０之４號"
+                "k": "澎湖縣西嶼鄉二崁村３６號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.518365,
+                    23.604792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣西嶼鄉池東村小池角４０之４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -277,7 +438,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市朝陽里三多路３６－３號"
+                "k": "澎湖縣馬公市朝陽里三多路３６－３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -290,7 +452,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光復里漁隆路５０號"
+                "k": "澎湖縣馬公市光復里漁隆路５０號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -303,7 +466,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光復里三民路４號"
+                "k": "澎湖縣馬公市光復里三民路４號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -316,7 +480,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市朝陽里三多路７５－２號"
+                "k": "澎湖縣馬公市朝陽里三多路７５－２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -329,7 +494,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市中央里中山路３２號"
+                "k": "澎湖縣馬公市中央里中山路３２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -342,7 +508,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市啓明里中正路２０之６號"
+                "k": "澎湖縣馬公市啓明里中正路２０之６號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -355,7 +522,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市中央里民族路６號"
+                "k": "澎湖縣馬公市中央里民族路６號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -368,7 +536,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市東文里新店路５３９號"
+                "k": "澎湖縣馬公市東文里新店路５３９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -381,7 +550,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市陽明里陽明路２１號"
+                "k": "澎湖縣馬公市啓明里中正路１２及１６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.56538,
+                    23.56486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市陽明里陽明路２１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -394,7 +578,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市中央里仁愛路７５號"
+                "k": "澎湖縣馬公市中央里仁愛路７５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -407,7 +592,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市中興里民生路２０號"
+                "k": "澎湖縣馬公市中興里民生路２０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -420,7 +606,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市中央里仁愛路７７號"
+                "k": "澎湖縣馬公市中央里仁愛路７７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -433,7 +620,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市西文里西文澳１１－８號"
+                "k": "澎湖縣馬公市西文里西文澳１１－８號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -446,7 +634,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市中興里治平路１５之６號"
+                "k": "澎湖縣馬公市中興里治平路１５之６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -459,7 +648,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市長安里中正路４２號"
+                "k": "澎湖縣馬公市長安里中正路４２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -472,7 +662,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市東文里新店路４７７號"
+                "k": "澎湖縣馬公市東文里新店路４７７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -485,7 +676,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光榮里文光路２１６號"
+                "k": "澎湖縣馬公市光榮里文光路２１６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -498,7 +690,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光榮里三多路３９０巷１８號"
+                "k": "澎湖縣馬公市光榮里三多路３９０巷１８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -511,7 +704,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市西文里文德路１９號"
+                "k": "澎湖縣馬公市西文里文德路１９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -524,7 +718,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市朝陽里三多路１３６號"
+                "k": "澎湖縣馬公市朝陽里三多路１３６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -537,7 +732,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市啓明里臨海路１１―１號"
+                "k": "澎湖縣馬公市啓明里臨海路１１―１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -550,7 +746,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市山水里珠江１１０之６號"
+                "k": "澎湖縣馬公市山水里珠江１１０之６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -563,7 +760,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市重慶里三民路４３號"
+                "k": "澎湖縣馬公市重慶里三民路４３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -576,7 +774,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市啓明里中正路８號"
+                "k": "澎湖縣馬公市啓明里中正路８號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -589,7 +788,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市重慶里中興路２１號"
+                "k": "澎湖縣馬公市重慶里中興路２１號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -602,7 +802,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市東文里新店路４２０號"
+                "k": "澎湖縣馬公市東文里新店路４２０號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -615,7 +816,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光復里新生路６４巷３３號"
+                "k": "澎湖縣馬公市光復里新生路６４巷３３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -628,7 +830,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市陽明里新店路１９７號"
+                "k": "澎湖縣馬公市陽明里新店路１９７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -641,7 +844,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光明里忠孝路６５巷８號"
+                "k": "澎湖縣馬公市光明里忠孝路６５巷８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -654,7 +858,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市復興里新復路２巷１６號"
+                "k": "澎湖縣馬公市復興里新復路２巷１６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -667,7 +872,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市陽明里永泰街４７號"
+                "k": "澎湖縣馬公市陽明里永泰街４７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -680,7 +886,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市中興里民生路５２號"
+                "k": "澎湖縣馬公市中興里民生路５２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -693,7 +900,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市東文里文前街６７號"
+                "k": "澎湖縣馬公市東文里文前街６７號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -706,7 +914,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光復里水源路２之１２號"
+                "k": "澎湖縣馬公市光復里水源路２之１２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -719,7 +928,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市朝陽里三多路３０號"
+                "k": "澎湖縣馬公市光復里新村路４１及４３號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.569501,
+                    23.570022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市朝陽里三多路３０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -732,7 +956,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市山水里珠江８－６號"
+                "k": "澎湖縣馬公市山水里珠江８－６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -745,7 +970,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市朝陽里三多路３６－２號"
+                "k": "澎湖縣馬公市朝陽里三多路３６－２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -758,7 +984,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市復興里臨海路３２號"
+                "k": "澎湖縣馬公市復興里臨海路３２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -771,7 +998,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市朝陽里三多路１２２號"
+                "k": "澎湖縣馬公市朝陽里三多路１２２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -784,7 +1012,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市重慶里仁愛路２號"
+                "k": "澎湖縣馬公市重慶里仁愛路２號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -797,7 +1026,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市中央里中央街２號"
+                "k": "澎湖縣馬公市中央里中央街２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -810,7 +1040,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市陽明里中華路１２８號"
+                "k": "澎湖縣馬公市陽明里中華路１２８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -823,7 +1054,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光榮里三多路３６１號"
+                "k": "澎湖縣馬公市光榮里三多路３６１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -836,7 +1068,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光榮里光復路１８１號"
+                "k": "澎湖縣馬公市光榮里光復路１８１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -849,7 +1082,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市西衛里光復路５２９號"
+                "k": "澎湖縣馬公市西衛里光復路５２９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -862,7 +1096,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市朝陽里陽明路７２號"
+                "k": "澎湖縣馬公市朝陽里陽明路７２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -875,7 +1110,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市重慶里重慶街２８號"
+                "k": "澎湖縣馬公市重慶里重慶街２８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -888,7 +1124,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市長安里民族路４１號"
+                "k": "澎湖縣馬公市長安里民族路４１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -901,7 +1138,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市長安里光明路２０－１號"
+                "k": "澎湖縣馬公市長安里光明路２０－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -914,7 +1152,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市重慶里海埔路２１號"
+                "k": "澎湖縣馬公市重慶里海埔路２１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -927,7 +1166,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光明里光復路１３７號"
+                "k": "澎湖縣馬公市光明里光復路１３７號",
+                "pay_list": "一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -940,7 +1180,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市中央里中央街１６號"
+                "k": "澎湖縣馬公市中央里中央街１６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -953,7 +1194,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光榮里光復路２７７號"
+                "k": "澎湖縣馬公市光榮里光復路２７７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -966,7 +1208,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市中央里中正路３７號"
+                "k": "澎湖縣馬公市中央里中正路３７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -979,7 +1222,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市陽明里大智街４３號"
+                "k": "澎湖縣馬公市陽明里大智街４３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -992,7 +1236,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市長安里中興路７１號"
+                "k": "澎湖縣馬公市長安里中興路７１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1005,7 +1250,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光復里海埔路５２號"
+                "k": "澎湖縣馬公市光復里海埔路５２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1018,7 +1264,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光榮里三多路２５３號"
+                "k": "澎湖縣馬公市光榮里三多路２５３號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1031,7 +1278,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光復里中華路３１號"
+                "k": "澎湖縣馬公市重光里１３１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.572897,
+                    23.578187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市光復里中華路３１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1044,7 +1306,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市西衛里光復路４７３號"
+                "k": "澎湖縣馬公市西衛里光復路４７３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1057,7 +1320,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市重慶里民權路８９－１號"
+                "k": "澎湖縣馬公市重慶里民權路８９－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1070,7 +1334,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市重慶里重慶街３３號"
+                "k": "澎湖縣馬公市重慶里重慶街３３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1083,7 +1348,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市重慶里民生路１７號"
+                "k": "澎湖縣馬公市重慶里民生路１７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1096,7 +1362,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市朝陽里０１３鄰三多路１６２號"
+                "k": "澎湖縣馬公市朝陽里０１３鄰三多路１６２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1109,7 +1376,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市長安里建國路１１號"
+                "k": "澎湖縣馬公市長安里建國路１１號",
+                "pay_list": "LINE Pay Money\/台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1122,7 +1390,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光復里０１５鄰樹德路１號"
+                "k": "澎湖縣馬公市光復里０１５鄰樹德路１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1135,7 +1404,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市重慶里重慶街６４號"
+                "k": "澎湖縣馬公市山水里１１９―６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.592257,
+                    23.514032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市重慶里重慶街６４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1148,7 +1432,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市重慶里建國路３４號"
+                "k": "澎湖縣馬公市重慶里建國路３４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1161,7 +1446,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市朝陽里三多路３６－１號"
+                "k": "澎湖縣馬公市朝陽里三多路３６－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1174,7 +1460,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市朝陽里三多路１０號"
+                "k": "澎湖縣馬公市朝陽里三多路１０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1187,7 +1474,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市啓明里臨海路２９號"
+                "k": "澎湖縣馬公市啓明里臨海路２９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1200,7 +1488,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市中興里光復路９號"
+                "k": "澎湖縣馬公市中興里光復路９號",
+                "pay_list": "LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1213,7 +1502,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市西衛里五福路１１２巷４號"
+                "k": "澎湖縣馬公市西衛里五福路１１２巷４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1226,7 +1516,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市長安里中正路９１號"
+                "k": "澎湖縣馬公市長安里中正路９１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1239,7 +1530,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光榮里三多路３５３號"
+                "k": "澎湖縣馬公市光榮里三多路３５３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1252,7 +1544,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市西文里新明路９１號"
+                "k": "澎湖縣馬公市西文里新明路９１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1265,7 +1558,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市朝陽里朝陽路１７１號"
+                "k": "澎湖縣馬公市朝陽里朝陽路１７１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1278,7 +1572,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光明里自立路１０３號"
+                "k": "澎湖縣馬公市光明里自立路１０３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1291,7 +1586,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光明里光復路１２９―２號"
+                "k": "澎湖縣馬公市光明里光復路１２９―２號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1304,7 +1600,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光榮里文光路１４８號"
+                "k": "澎湖縣馬公市光榮里文光路１４８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1317,7 +1614,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光明里光復路１１１號"
+                "k": "澎湖縣馬公市光明里光復路１１１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1330,7 +1628,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市長安里中正路９５號"
+                "k": "澎湖縣馬公市長安里中正路９５號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1343,7 +1642,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市重慶里３０鄰海埔路１７號"
+                "k": "澎湖縣馬公市重慶里３０鄰海埔路１７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1356,7 +1656,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光明里信義路９巷３６號"
+                "k": "澎湖縣馬公市光明里信義路９巷３６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1369,7 +1670,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市重慶里３３鄰海埔路１４號"
+                "k": "澎湖縣馬公市重慶里３３鄰海埔路１４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1382,7 +1684,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市重慶里海埔路２５號"
+                "k": "澎湖縣馬公市重慶里海埔路２５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1395,7 +1698,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光復里１鄰新生路２號"
+                "k": "澎湖縣馬公市光復里１鄰新生路２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1408,7 +1712,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光復里三民路１２號"
+                "k": "澎湖縣馬公市西文里９７－５９號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.588386,
+                    23.570895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市光復里三民路１２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1421,7 +1740,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光榮里民族路１６９－１號"
+                "k": "澎湖縣馬公市光榮里民族路１６９－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1434,7 +1754,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市長安里中正路５２號"
+                "k": "澎湖縣馬公市長安里中正路５２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1447,7 +1768,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市啓明里中正路３２之５號"
+                "k": "澎湖縣馬公市啓明里中正路３２之５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1460,7 +1782,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市西文里文德路１２號"
+                "k": "澎湖縣馬公市西文里文德路１２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1473,7 +1796,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光榮里成功街７２號"
+                "k": "澎湖縣馬公市光榮里成功街７２號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1486,7 +1810,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市長安里中興路６１號"
+                "k": "澎湖縣馬公市長安里中興路６１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1499,7 +1824,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市長安里永興街１１號"
+                "k": "澎湖縣馬公市長安里永興街１１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1512,7 +1838,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光復里海埔路３１號"
+                "k": "澎湖縣馬公市光復里海埔路３１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1525,7 +1852,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市朝陽里林森路４７號"
+                "k": "澎湖縣馬公市朝陽里林森路４７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1538,7 +1866,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市啓明里臨海路２－５號"
+                "k": "澎湖縣馬公市啓明里臨海路２－５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1551,7 +1880,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市長安里中正路５３號"
+                "k": "澎湖縣馬公市長安里中正路５３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1564,7 +1894,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市中央里惠民一路２號"
+                "k": "澎湖縣馬公市中央里惠民一路２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1577,7 +1908,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市朝陽里光復路１３４號"
+                "k": "澎湖縣馬公市朝陽里光復路１３４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1590,7 +1922,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光復里三民路２２號"
+                "k": "澎湖縣馬公市光復里三民路２２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1603,7 +1936,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市重慶里仁愛路１６之２號"
+                "k": "澎湖縣馬公市重慶里仁愛路１６之２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1616,7 +1950,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市重慶里重慶街１６號"
+                "k": "澎湖縣馬公市重慶里重慶街１６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1629,7 +1964,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光復里新生路６８號"
+                "k": "澎湖縣馬公市嵵裡里３６０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.55421,
+                    23.529156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市光復里新生路６８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1642,7 +1992,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光榮里三多路４４１號"
+                "k": "澎湖縣馬公市光榮里三多路４４１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1655,7 +2006,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光復里三民路４４號"
+                "k": "澎湖縣馬公市光復里三民路４４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1668,7 +2020,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市重慶里民權路９５之２號"
+                "k": "澎湖縣馬公市重慶里民權路９５之２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1681,7 +2034,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市陽明里中華路１９８號"
+                "k": "澎湖縣馬公市陽明里中華路１９８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1694,7 +2048,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市啓明里臨海路１之３號"
+                "k": "澎湖縣馬公市啓明里臨海路１之３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1707,7 +2062,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光榮里光復路１８１之１號"
+                "k": "澎湖縣馬公市光榮里光復路１８１之１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1720,7 +2076,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市重慶里民權路８０之１號"
+                "k": "澎湖縣馬公市重慶里民權路８０之１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1733,7 +2090,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市重光里後窟潭１１２號"
+                "k": "澎湖縣馬公市重光里後窟潭１１２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1746,7 +2104,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市陽明里大勇街３１之１號"
+                "k": "澎湖縣馬公市陽明里大勇街３１之１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1759,7 +2118,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光明里自立路１０２號"
+                "k": "澎湖縣馬公市光明里自立路１０２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1772,7 +2132,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光榮里三多路３２０號"
+                "k": "澎湖縣馬公市光榮里三多路３２０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1785,7 +2146,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市長安里２９鄰永興街９號"
+                "k": "澎湖縣馬公市重慶里海埔路１３，１５號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.568982,
+                    23.566253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市長安里２９鄰永興街９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1798,7 +2174,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市長安里中興路６９號"
+                "k": "澎湖縣馬公市長安里中興路６９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1811,7 +2188,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市長安里永興街１４號"
+                "k": "澎湖縣馬公市長安里永興街１４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1824,7 +2202,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "澎湖縣馬公市光明里信義路４３號"
+                "k": "澎湖縣馬公市光明里信義路４３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",

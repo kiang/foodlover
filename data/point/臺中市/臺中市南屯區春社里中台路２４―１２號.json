@@ -1,0 +1,13 @@
+{
+    "name": "咖啡館",
+    "address": "臺中市南屯區春社里中台路２４―１２號",
+    "x": 120.602322,
+    "y": 24.136264,
+    "shops": [
+        {
+            "shop": "脈博咖啡館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

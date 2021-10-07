@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市南屯區黎明里干城街２９９號１樓",
+    "x": 120.634272,
+    "y": 24.152629,
+    "shops": [
+        {
+            "shop": "日常餐飲商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

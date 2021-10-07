@@ -1,0 +1,17 @@
+{
+    "name": "餐館、餐廳",
+    "address": "新竹市東區關東里關新東路１９９號",
+    "x": 121.01947176908,
+    "y": 24.784793890657,
+    "shops": [
+        {
+            "shop": "允鼎企業有限公司",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "允欣餐飲有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

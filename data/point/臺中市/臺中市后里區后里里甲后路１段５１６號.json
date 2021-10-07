@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市后里區后里里甲后路１段５１６號",
+    "x": 120.723383,
+    "y": 24.308999,
+    "shops": [
+        {
+            "shop": "廟口意麵",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "新竹市北區海濱里榮濱路１９號１樓",
+    "x": 120.92980661484,
+    "y": 24.840510203715,
+    "shops": [
+        {
+            "shop": "巧客小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

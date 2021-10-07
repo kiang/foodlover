@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市大里區仁化里工業四路３０號",
+    "x": 120.714691,
+    "y": 24.095056,
+    "shops": [
+        {
+            "shop": "陽光蕃茄精緻早點",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

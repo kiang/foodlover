@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市大里區國光里德芳南路４１８號",
+    "x": 120.683841,
+    "y": 24.104119,
+    "shops": [
+        {
+            "shop": "昌鴻燒鍋店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

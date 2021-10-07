@@ -1,0 +1,13 @@
+{
+    "name": "咖啡館",
+    "address": "臺中市北屯區水湳里中清西二街２５號１樓",
+    "x": 120.668407,
+    "y": 24.174357,
+    "shops": [
+        {
+            "shop": "薾麓有限公司",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
+}

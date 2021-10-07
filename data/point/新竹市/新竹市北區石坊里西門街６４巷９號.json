@@ -1,0 +1,13 @@
+{
+    "name": "咖啡館",
+    "address": "新竹市北區石坊里西門街６４巷９號",
+    "x": 120.96437653814,
+    "y": 24.802462568327,
+    "shops": [
+        {
+            "shop": "傳尼克京石股份有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

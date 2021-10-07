@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市太平區永成里長億路５２號１樓",
+    "x": 120.719524,
+    "y": 24.118213,
+    "shops": [
+        {
+            "shop": "初食手作工作室",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

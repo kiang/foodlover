@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市大里區仁化里鳳凰路４５號１樓",
+    "x": 120.716697,
+    "y": 24.095389,
+    "shops": [
+        {
+            "shop": "蔡昇翰",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

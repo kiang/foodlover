@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "桃園市平鎮區湧光里中豐路山頂段１９０號１樓",
+    "x": 121.210672,
+    "y": 24.899616,
+    "shops": [
+        {
+            "shop": "榮芯語小吃店",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
+}

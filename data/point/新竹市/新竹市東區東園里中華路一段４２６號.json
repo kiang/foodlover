@@ -1,0 +1,13 @@
+{
+    "name": "咖啡館",
+    "address": "新竹市東區東園里中華路一段４２６號",
+    "x": 120.98508904065,
+    "y": 24.810703414506,
+    "shops": [
+        {
+            "shop": "辰甯商行",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
+}

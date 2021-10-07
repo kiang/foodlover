@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市南區德義里國光路２１６―１２號１．２樓",
+    "x": 120.677831,
+    "y": 24.12895,
+    "shops": [
+        {
+            "shop": "士心商行",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
+}

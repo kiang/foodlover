@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大里區新里里樹王路４２－１號",
+    "x": 120.675511,
+    "y": 24.102671,
+    "shops": [
+        {
+            "shop": "庚辰米糕排骨酥麵",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

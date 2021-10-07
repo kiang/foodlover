@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市太平區光明里中山路２段４４０號１樓",
+    "x": 120.725634,
+    "y": 24.149881,
+    "shops": [
+        {
+            "shop": "夯一鍋",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -26,7 +26,7 @@
         },
         {
             "shop": "泰山公有零售市場 細將咖啡",
-            "pay_list": "玉山銀行 \/ 悠遊pay、悠遊卡 \/ LINE Pay Money"
+            "pay_list": "玉山銀行 \/ LINE Pay Money \/ 悠遊付 \/ 悠遊卡"
         },
         {
             "shop": "泰山公有零售市場 晶淳30年老店",
@@ -46,7 +46,7 @@
         },
         {
             "shop": "泰山公有零售市場 順泰肉舖",
-            "pay_list": "台灣 PAY \/ 歐付寶、悠遊付 \/ LINE Pay Money"
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 歐付寶 \/ 悠遊付"
         },
         {
             "shop": "泰山公有零售市場 三界油飯",
@@ -334,7 +334,7 @@
         },
         {
             "shop": "泰山公有零售市場 勝美內衣",
-            "pay_list": "UMEPOS(UMEPay)"
+            "pay_list": "UMEPOS UMEPay"
         },
         {
             "shop": "泰山公有零售市場 理髮100",
@@ -360,5 +360,6 @@
             "shop": "泰山公有零售市場 阿美菜攤",
             "pay_list": "台灣 PAY"
         }
-    ]
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/歐付寶\/玉山銀行\/悠遊付\/悠遊卡\/街口支付\/swipy\/UMEPOS UMEPay\/彰化銀行"
 }

@@ -1,0 +1,13 @@
+{
+    "name": "便當、自助餐店",
+    "address": "臺中市大甲區順天里２鄰蔣公路１５７號１樓",
+    "x": 120.621526,
+    "y": 24.346357,
+    "shops": [
+        {
+            "shop": "錢來快餐店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

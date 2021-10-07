@@ -1,0 +1,13 @@
+{
+    "name": "便當、自助餐店",
+    "address": "臺中市大甲區中山里水源路１３６號１樓",
+    "x": 120.624851,
+    "y": 24.340322,
+    "shops": [
+        {
+            "shop": "帝原小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "便當、自助餐店",
+    "address": "臺中市大甲區順天里０１５鄰孔雀路７５號１樓",
+    "x": 120.621101,
+    "y": 24.347163,
+    "shops": [
+        {
+            "shop": "香味燒烤飯包",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

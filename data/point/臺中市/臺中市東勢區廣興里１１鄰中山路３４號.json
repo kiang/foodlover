@@ -1,0 +1,13 @@
+{
+    "name": "咖啡館",
+    "address": "臺中市東勢區廣興里１１鄰中山路３４號１樓",
+    "x": 120.830427,
+    "y": 24.257507,
+    "shops": [
+        {
+            "shop": "弟弟多摩咖啡店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+}

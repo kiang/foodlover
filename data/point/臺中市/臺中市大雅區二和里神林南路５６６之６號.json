@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大雅區二和里神林南路５６６之６號１樓",
+    "x": 120.652698,
+    "y": 24.219175,
+    "shops": [
+        {
+            "shop": "餓霸餐飲廚房",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "飲料零售\/餐館、餐廳",
+    "address": "臺中市南區永興里高工路２７９號",
+    "x": 120.664727,
+    "y": 24.113873,
+    "shops": [
+        {
+            "shop": "麻里多火鍋店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

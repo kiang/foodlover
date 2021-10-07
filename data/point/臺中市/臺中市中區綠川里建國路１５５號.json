@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市中區綠川里建國路１５５號１樓",
+    "x": 120.685168,
+    "y": 24.138048,
+    "shops": [
+        {
+            "shop": "翔宇早餐店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+}

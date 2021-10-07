@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市北區賴村里梅亭街２９９號",
+    "x": 120.680237,
+    "y": 24.160238,
+    "shops": [
+        {
+            "shop": "蘋果屋",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

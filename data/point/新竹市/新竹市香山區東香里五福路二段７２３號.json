@@ -1,0 +1,13 @@
+{
+    "name": "飲料零售\/麵店、小吃店",
+    "address": "新竹市香山區東香里五福路二段７２３號１樓",
+    "x": 120.952699,
+    "y": 24.756499,
+    "shops": [
+        {
+            "shop": "旭昇小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

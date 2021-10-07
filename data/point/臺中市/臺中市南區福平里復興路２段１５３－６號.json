@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市南區福平里復興路２段１５３－６號１樓",
+    "x": 120.665118,
+    "y": 24.126691,
+    "shops": [
+        {
+            "shop": "辰華店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

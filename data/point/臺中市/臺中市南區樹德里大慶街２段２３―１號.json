@@ -1,0 +1,17 @@
+{
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺中市南區樹德里大慶街２段２３―１號",
+    "x": 120.651883,
+    "y": 24.114685,
+    "shops": [
+        {
+            "shop": "古早茗飲",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "林恭任",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市太平區新光里新高路１３６巷１６號",
+    "x": 120.709947,
+    "y": 24.151942,
+    "shops": [
+        {
+            "shop": "時尚手搖飲料店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

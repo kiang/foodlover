@@ -4,7 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市光華二路13號"
+                "k": "南投縣南投市光華二路13號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -17,7 +18,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市光榮西路13號"
+                "k": "南投縣南投市光榮西路13號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +32,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮和興街55號"
+                "k": "南投縣草屯鎮和興街55號",
+                "pay_list": "LINE Pay Money\/線上刷卡\/台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -43,7 +46,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村壽亭巷２０－１號"
+                "k": "南投縣仁愛鄉大同村壽亭巷２０－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -56,7 +60,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村仁和路１８６－１附２號"
+                "k": "南投縣仁愛鄉大同村仁和路１８６－１附２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -69,7 +74,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市三和里１３鄰大同南街１０９號"
+                "k": "南投縣南投市三和里１３鄰大同南街１０９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -82,7 +88,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市內興里光明一路４５５號"
+                "k": "南投縣南投市內興里光明一路４５５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -95,7 +102,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市營南里１５鄰南營路６３６號"
+                "k": "南投縣南投市營南里１５鄰南營路６３６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -108,7 +116,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市福山里１鄰八卦路７０３巷３２―２號"
+                "k": "南投縣南投市福山里１鄰八卦路７０３巷３２―２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +130,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市營北里向上路２４９號"
+                "k": "南投縣南投市營北里向上路２４９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -134,7 +144,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市彰仁里００７鄰民族路３１９號"
+                "k": "南投縣南投市彰仁里００７鄰民族路３１９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -147,7 +158,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市福興里彰南路三段９９９號"
+                "k": "南投縣南投市福興里彰南路三段９９９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +172,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市振興里芳美路２４３號"
+                "k": "南投縣南投市振興里芳美路２４３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -173,7 +186,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市平山里自強三路３號"
+                "k": "南投縣南投市平山里自強三路３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -186,7 +200,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市福興里１６鄰永興路１３號"
+                "k": "南投縣南投市福興里１６鄰永興路１３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +214,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市永興里八卦路１－１號"
+                "k": "南投縣南投市永興里八卦路１－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +228,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市嘉和里８鄰大庄路２３９號"
+                "k": "南投縣南投市嘉和里８鄰大庄路２３９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -225,7 +242,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市永興里八卦路５８巷２９弄３１號"
+                "k": "南投縣南投市永興里八卦路５８巷２９弄３１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +256,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市營北里仁德路１３３號"
+                "k": "南投縣南投市營北里仁德路１３３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -251,7 +270,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市營北里中學西路４２―１號"
+                "k": "南投縣南投市營北里中學西路４２―１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -264,7 +284,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市崇文里００３鄰中山街６號"
+                "k": "南投縣南投市崇文里００３鄰中山街６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -277,7 +298,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市營北里２０鄰仁政街６２號"
+                "k": "南投縣南投市營北里２０鄰仁政街６２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -290,7 +312,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市營北里０２５鄰仁德路２３９號"
+                "k": "南投縣南投市營北里０２５鄰仁德路２３９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -303,7 +326,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市鳳山里八卦路１０７７號"
+                "k": "南投縣南投市鳳山里八卦路１０７７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -316,7 +340,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市三民里民生街６０―５號"
+                "k": "南投縣南投市三民里民生街６０―５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -329,7 +354,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市軍功里０２０鄰中興路４０５號"
+                "k": "南投縣南投市軍功里０２０鄰中興路４０５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -342,7 +368,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市嘉和里０１８鄰忠孝路２３號"
+                "k": "南投縣南投市嘉和里０１８鄰忠孝路２３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -355,7 +382,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣名間鄉南雅村４鄰彰南路２３―３號"
+                "k": "南投縣名間鄉南雅村４鄰彰南路２３―３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -368,7 +396,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣名間鄉田仔村田仔巷１６－８號"
+                "k": "南投縣名間鄉田仔村田仔巷１６－８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -381,7 +410,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣國姓鄉國姓村中興路２４０號"
+                "k": "南投縣國姓鄉國姓村中興路２４０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -394,7 +424,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北安里東榮路３８５號"
+                "k": "南投縣埔里鎮北安里東榮路３８５號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -407,7 +438,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮西門里信義路６７３號"
+                "k": "南投縣埔里鎮西門里信義路６７３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -420,7 +452,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮西門里中正路８８７―１號"
+                "k": "南投縣埔里鎮西門里中正路８８７―１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -433,7 +466,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮大城里中山路３段２２４號"
+                "k": "南投縣埔里鎮大城里中山路３段２２４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -446,7 +480,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮桃米里００４鄰桃米路３２號"
+                "k": "南投縣埔里鎮桃米里００４鄰桃米路３２號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -459,7 +494,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮杷城里中正路２７５―２號"
+                "k": "南投縣埔里鎮杷城里中正路２７５―２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -472,7 +508,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮東門里東榮路１５５號"
+                "k": "南投縣埔里鎮東門里東榮路１５５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -485,7 +522,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮枇杷里００５鄰慈恩街３７３巷２４號"
+                "k": "南投縣埔里鎮枇杷里００５鄰慈恩街３７３巷２４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -498,7 +536,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北門里自強路９０號"
+                "k": "南投縣埔里鎮北門里自強路９０號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -511,7 +550,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北門里中山路２段２８６號"
+                "k": "南投縣埔里鎮北門里中山路２段２８６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -524,7 +564,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮枇杷里慈恩街１５號"
+                "k": "南投縣埔里鎮枇杷里慈恩街１５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -537,7 +578,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮南門里南盛街１１５號"
+                "k": "南投縣埔里鎮南門里南盛街１１５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -550,7 +592,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮薰化里中山路３段２１５號"
+                "k": "南投縣埔里鎮薰化里中山路３段２１５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -563,7 +606,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮大城里大城五巷１號"
+                "k": "南投縣埔里鎮大城里大城五巷１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -576,7 +620,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮大湳里虎山路９－５號"
+                "k": "南投縣埔里鎮大湳里虎山路９－５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -589,7 +634,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮泰安里和平東路３１７號"
+                "k": "南投縣埔里鎮泰安里和平東路３１７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -602,7 +648,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣水里鄉永興村林朋巷１５０－８號"
+                "k": "南投縣水里鄉永興村林朋巷１５０－８號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -615,7 +662,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣水里鄉車埕村００５鄰民權巷１１０－１號"
+                "k": "南投縣水里鄉車埕村００５鄰民權巷１１０－１號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -628,7 +676,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣水里鄉頂崁村０１３鄰水信路一段６９２號"
+                "k": "南投縣水里鄉頂崁村０１３鄰水信路一段６９２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -641,7 +690,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮延祥里集山路３段２０７巷４６號"
+                "k": "南投縣竹山鎮延祥里集山路３段２０７巷４６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -654,7 +704,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮延平里０２８鄰延平路１４號"
+                "k": "南投縣竹山鎮延平里０２８鄰延平路１４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -667,7 +718,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮山崇里集山路２段８３號"
+                "k": "南投縣竹山鎮山崇里集山路２段８３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -680,7 +732,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮竹山里雲林路１－９號"
+                "k": "南投縣竹山鎮竹山里雲林路１－９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -693,7 +746,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮中山里０２１鄰埔頭街１巷１０號"
+                "k": "南投縣竹山鎮中山里０２１鄰埔頭街１巷１０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -706,7 +760,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮硘??里硘磘新村９－１０號"
+                "k": "南投縣竹山鎮硘??里硘磘新村９－１０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -719,7 +774,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮延祥里００７鄰鹿山路３２３號"
+                "k": "南投縣竹山鎮延祥里００７鄰鹿山路３２３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -732,7 +788,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮新庄里史館路３９７巷５１號"
+                "k": "南投縣草屯鎮新庄里史館路３９７巷５１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -745,7 +802,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮明正里中山街３６９―１號"
+                "k": "南投縣草屯鎮明正里中山街３６９―１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -758,7 +816,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮石川里石川路４６－６號"
+                "k": "南投縣草屯鎮石川里石川路４６－６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -771,7 +830,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮炎峰里０１０鄰碧山路７８號"
+                "k": "南投縣草屯鎮炎峰里０１０鄰碧山路７８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -784,7 +844,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮明正里００１鄰中正路７００號"
+                "k": "南投縣草屯鎮明正里００１鄰中正路７００號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -797,7 +858,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮中山里００２鄰太平路二段２５７，２５９號"
+                "k": "南投縣草屯鎮中山里００２鄰太平路二段２５７，２５９號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -810,7 +872,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮和平里碧山路１５９－１號"
+                "k": "南投縣草屯鎮和平里碧山路１５９－１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -823,7 +886,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮和平里中正路６５３號"
+                "k": "南投縣草屯鎮和平里中正路６５３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -836,7 +900,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮和平里虎山路８８３號"
+                "k": "南投縣草屯鎮和平里虎山路８８３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -849,7 +914,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮御史里０１７鄰玉成路２巷１７號"
+                "k": "南投縣草屯鎮御史里０１７鄰玉成路２巷１７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -862,7 +928,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮新厝里虎山路６５２號"
+                "k": "南投縣草屯鎮新厝里虎山路６５２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -875,7 +942,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮炎峰里中正路６８０號"
+                "k": "南投縣草屯鎮炎峰里中正路６８０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -888,7 +956,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮中正里中正路６９７號"
+                "k": "南投縣草屯鎮中正里中正路６９７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -901,7 +970,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮敦和里０１８鄰信義街２５號"
+                "k": "南投縣草屯鎮敦和里０１８鄰信義街２５號",
+                "pay_list": "台灣 PAY\/一卡通\/愛金卡\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -914,7 +984,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮炎峰里青雲街３６號"
+                "k": "南投縣草屯鎮炎峰里青雲街３６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -927,7 +998,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮富寮里中正路５５７－５５號"
+                "k": "南投縣草屯鎮富寮里中正路５５７－５５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -940,7 +1012,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮復興里復興路６９６號"
+                "k": "南投縣草屯鎮復興里復興路６９６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -953,7 +1026,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣集集鎮永昌里民生東路７０號"
+                "k": "南投縣集集鎮永昌里民生東路７０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -966,7 +1040,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣集集鎮吳厝里民生路１８０號"
+                "k": "南投縣集集鎮吳厝里民生路１８０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -979,7 +1054,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉大雁村大雁巷４２－２號"
+                "k": "南投縣魚池鄉大雁村大雁巷４２－２號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -992,7 +1068,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉水社村名勝街３２號"
+                "k": "南投縣魚池鄉水社村名勝街３２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1005,7 +1082,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉新城村修正巷４―２號"
+                "k": "南投縣魚池鄉新城村修正巷４―２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1018,7 +1096,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉日月村文化街９８號"
+                "k": "南投縣魚池鄉日月村文化街９８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1031,7 +1110,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉新城村通文巷２號"
+                "k": "南投縣魚池鄉新城村通文巷２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1044,7 +1124,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉內湖村興產路２－３號"
+                "k": "南投縣鹿谷鄉內湖村興產路２－３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1057,7 +1138,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉內湖村興產路２―２號"
+                "k": "南投縣鹿谷鄉內湖村興產路２―２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1070,7 +1152,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣中寮鄉永福村永平路３７９號"
+                "k": "南投縣中寮鄉永福村永平路３７９號",
+                "pay_list": "一卡通\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1083,7 +1166,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉法治村武安路１３附２號"
+                "k": "南投縣仁愛鄉法治村武安路１３附２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1096,7 +1180,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村信義巷５０附１號"
+                "k": "南投縣仁愛鄉大同村信義巷５０附１號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1109,7 +1194,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉精英村榮華巷３８－３號"
+                "k": "南投縣仁愛鄉精英村榮華巷３８－３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1122,7 +1208,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村榮光巷３４－１號"
+                "k": "南投縣仁愛鄉大同村榮光巷３４－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1135,7 +1222,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村榮光巷４３―１號"
+                "k": "南投縣仁愛鄉大同村榮光巷４３―１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1148,7 +1236,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村榮光巷８－４號"
+                "k": "南投縣仁愛鄉大同村榮光巷８－４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1161,7 +1250,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村仁和路１７９－７號"
+                "k": "南投縣仁愛鄉大同村仁和路１７９－７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1174,7 +1264,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村壽亭巷２０―３號"
+                "k": "南投縣仁愛鄉大同村壽亭巷２０―３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1187,7 +1278,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村榮光巷８號"
+                "k": "南投縣仁愛鄉大同村榮光巷８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1200,7 +1292,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村壽亭巷３０號"
+                "k": "南投縣仁愛鄉大同村壽亭巷３０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1213,7 +1306,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村榮光巷８－３號"
+                "k": "南投縣仁愛鄉大同村榮光巷８－３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1226,7 +1320,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村壽亭巷３５號"
+                "k": "南投縣仁愛鄉大同村壽亭巷３５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1239,7 +1334,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉法治村界山巷６－１號"
+                "k": "南投縣仁愛鄉法治村界山巷６－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1252,7 +1348,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村仁和路２２８號"
+                "k": "南投縣仁愛鄉大同村仁和路２２８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1265,7 +1362,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉互助村清風路４５號"
+                "k": "南投縣仁愛鄉互助村清風路４５號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1278,7 +1376,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉精英村榮華巷２５－２號"
+                "k": "南投縣仁愛鄉精英村榮華巷２５－２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1291,7 +1390,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉精英村榮華巷４３附１號"
+                "k": "南投縣仁愛鄉精英村榮華巷４３附１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1304,7 +1404,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村仁和路２０６號"
+                "k": "南投縣仁愛鄉大同村仁和路２０６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1317,7 +1418,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村仁和路１８２－３號"
+                "k": "南投縣仁愛鄉大同村仁和路１８２－３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1330,7 +1432,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村１６鄰壽亭巷２０―２號"
+                "k": "南投縣仁愛鄉大同村１６鄰壽亭巷２０―２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1343,7 +1446,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村信義巷４２附１號"
+                "k": "南投縣仁愛鄉大同村信義巷４２附１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1356,7 +1460,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村仁和路２２３－１號"
+                "k": "南投縣仁愛鄉大同村仁和路２２３－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1369,7 +1474,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉親愛村大安路１５０號"
+                "k": "南投縣仁愛鄉親愛村大安路１５０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1382,7 +1488,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村仁和路１９６號"
+                "k": "南投縣仁愛鄉大同村仁和路１９６號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1395,7 +1502,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉新生村山林巷１３－１號"
+                "k": "南投縣仁愛鄉新生村山林巷１３－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1408,7 +1516,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村仁和路２０６―１１號"
+                "k": "南投縣仁愛鄉大同村仁和路２０６―１１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1421,7 +1530,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村榮光巷３６－１號"
+                "k": "南投縣仁愛鄉大同村榮光巷３６－１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1434,7 +1544,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村定遠新村１８―７號"
+                "k": "南投縣仁愛鄉大同村定遠新村１８―７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1447,7 +1558,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村信義巷７９號"
+                "k": "南投縣仁愛鄉大同村信義巷７９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1460,7 +1572,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村榮光巷９之１之２號"
+                "k": "南投縣仁愛鄉大同村榮光巷９之１之２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1473,7 +1586,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村仁和路２１７號"
+                "k": "南投縣仁愛鄉大同村仁和路２１７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1486,7 +1600,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村仁和路２１０－１號"
+                "k": "南投縣仁愛鄉大同村仁和路２１０－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1499,7 +1614,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村榮光巷５１號"
+                "k": "南投縣仁愛鄉大同村榮光巷５１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1512,7 +1628,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村定遠新村３２―１號"
+                "k": "南投縣仁愛鄉大同村定遠新村３２―１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1525,7 +1642,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村榮光巷３９號"
+                "k": "南投縣仁愛鄉大同村榮光巷３９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1538,7 +1656,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村仁和路２２１－２號"
+                "k": "南投縣仁愛鄉大同村仁和路２２１－２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1551,7 +1670,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村信義巷３９－１號"
+                "k": "南投縣仁愛鄉大同村信義巷３９－１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1564,7 +1684,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣仁愛鄉大同村定遠新村３２號"
+                "k": "南投縣仁愛鄉大同村定遠新村３２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1577,7 +1698,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣信義鄉東埔村５鄰開高巷６０－３號"
+                "k": "南投縣信義鄉東埔村５鄰開高巷６０－３號",
+                "pay_list": "歐付寶"
             },
             "geometry": {
                 "type": "Point",
@@ -1590,7 +1712,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣信義鄉雙龍村５鄰光復巷７６－１號"
+                "k": "南投縣信義鄉雙龍村５鄰光復巷７６－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1603,7 +1726,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣信義鄉明德村新開巷１１號"
+                "k": "南投縣信義鄉明德村新開巷１１號",
+                "pay_list": "一卡通\/愛金卡\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1616,7 +1740,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣信義鄉東埔村開高巷７４號"
+                "k": "南投縣信義鄉東埔村開高巷７４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1629,7 +1754,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣信義鄉望美村００２鄰望和巷３１―１號"
+                "k": "南投縣信義鄉望美村００２鄰望和巷３１―１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1642,7 +1768,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣信義鄉同富村太平巷１１８號"
+                "k": "南投縣信義鄉同富村太平巷１１８號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1655,7 +1782,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣信義鄉東埔村開高巷６０號"
+                "k": "南投縣信義鄉東埔村開高巷６０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1668,7 +1796,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市龍泉里龍井街７號"
+                "k": "南投縣南投市龍泉里龍井街７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1681,7 +1810,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市東山里９鄰東山路２－６號"
+                "k": "南投縣南投市東山里９鄰東山路２－６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1694,7 +1824,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市光華里光華路９６號"
+                "k": "南投縣南投市光華里光華路９６號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1707,7 +1838,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市三興里３９鄰文化南路３１１號"
+                "k": "南投縣南投市三興里３９鄰文化南路３１１號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1720,7 +1852,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市三和里復興路９８―３號"
+                "k": "南投縣南投市三和里復興路９８―３號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1733,7 +1866,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市彰仁里２鄰民族路２５７號"
+                "k": "南投縣南投市彰仁里２鄰民族路２５７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1746,7 +1880,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市漳興里２１鄰復興路５８７號"
+                "k": "南投縣南投市漳興里２１鄰復興路５８７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1759,7 +1894,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市鳳山里０１０鄰八卦路１０７３號"
+                "k": "南投縣南投市鳳山里０１０鄰八卦路１０７３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1772,7 +1908,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市三興里文化路４３―６號"
+                "k": "南投縣南投市三興里文化路４３―６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1785,7 +1922,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市營北里中正路３２４―２號"
+                "k": "南投縣南投市營北里中正路３２４―２號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1798,7 +1936,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市平和里南陽路１３８號"
+                "k": "南投縣南投市平和里南陽路１３８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1811,7 +1950,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市康壽里南陽路４２６號"
+                "k": "南投縣南投市康壽里南陽路４２６號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1824,7 +1964,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市康壽里０１１鄰復興路３３０號"
+                "k": "南投縣南投市康壽里０１１鄰復興路３３０號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1837,7 +1978,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市平和里００６鄰南陽路８９號"
+                "k": "南投縣南投市平和里００６鄰南陽路８９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1850,7 +1992,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市軍功里中興路４０３號"
+                "k": "南投縣南投市軍功里中興路４０３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1863,7 +2006,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市平山里彰南路二段５６２號"
+                "k": "南投縣南投市平山里彰南路二段５６２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1876,7 +2020,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市龍泉里文昌街２－８號"
+                "k": "南投縣南投市龍泉里文昌街２－８號",
+                "pay_list": "LINE Pay Money\/台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1889,7 +2034,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市平山里００５鄰彰南路二段６６７號"
+                "k": "南投縣南投市平山里００５鄰彰南路二段６６７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1902,7 +2048,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市三民里彰南路二段２４７號"
+                "k": "南投縣南投市三民里彰南路二段２４７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1915,7 +2062,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市永豐里彰南路３段８１７號"
+                "k": "南投縣南投市永豐里彰南路３段８１７號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1928,7 +2076,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市光輝里１０鄰虎山路８號"
+                "k": "南投縣南投市光輝里１０鄰虎山路８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1941,7 +2090,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市平和里００５鄰民族路１９０號"
+                "k": "南投縣南投市平和里００５鄰民族路１９０號",
+                "pay_list": "一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -1954,7 +2104,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市三和里三和三路６７號"
+                "k": "南投縣南投市三和里三和三路６７號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1967,7 +2118,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市南投里彰南路２段２號"
+                "k": "南投縣南投市南投里彰南路２段２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1980,7 +2132,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市南投里００９鄰民族路３５８號"
+                "k": "南投縣南投市南投里００９鄰民族路３５８號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1993,7 +2146,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市振興里２０鄰菓稟路１０５號"
+                "k": "南投縣南投市振興里２０鄰菓稟路１０５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2006,7 +2160,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市光輝里２７鄰省府路７８號"
+                "k": "南投縣南投市光輝里２７鄰省府路７８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2019,7 +2174,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市營北里仁德路１３５號"
+                "k": "南投縣南投市營北里仁德路１３５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2032,7 +2188,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市三興里３８鄰集賢路４０號"
+                "k": "南投縣南投市三興里３８鄰集賢路４０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2045,7 +2202,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市光輝里省府路１７１－６號"
+                "k": "南投縣南投市光輝里省府路１７１－６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2058,7 +2216,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市鳳山里０１４鄰八卦路１２２１號"
+                "k": "南投縣南投市鳳山里０１４鄰八卦路１２２１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2071,7 +2230,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市三和里三和三路１２號"
+                "k": "南投縣南投市三和里三和三路１２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2084,7 +2244,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市營北里中學西路３６號"
+                "k": "南投縣南投市營北里中學西路３６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2097,7 +2258,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市軍功里中興路２３５號"
+                "k": "南投縣南投市軍功里中興路２３５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2110,7 +2272,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市龍泉里大同街１３６號"
+                "k": "南投縣南投市龍泉里大同街１３６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2123,7 +2286,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市嘉和里７鄰南崗一路１３號"
+                "k": "南投縣南投市嘉和里７鄰南崗一路１３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2136,7 +2300,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市營北里１１鄰仁德路２６號"
+                "k": "南投縣南投市營北里１１鄰仁德路２６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2149,7 +2314,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市康壽里南陽路３７３號"
+                "k": "南投縣南投市康壽里南陽路３７３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2162,7 +2328,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市漳興里３鄰祖祠路１４２巷１７號"
+                "k": "南投縣南投市漳興里３鄰祖祠路１４２巷１７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2175,7 +2342,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市營北里２１鄰中學西路８７號"
+                "k": "南投縣南投市營北里２１鄰中學西路８７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2188,7 +2356,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市龍泉里文昌街１５號"
+                "k": "南投縣南投市龍泉里文昌街１５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2201,7 +2370,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市南投里００５鄰復興路２７１號"
+                "k": "南投縣南投市南投里００５鄰復興路２７１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2214,7 +2384,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市嘉和里南崗一路１號"
+                "k": "南投縣南投市嘉和里南崗一路１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2227,7 +2398,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市康壽里南陽路４０１號"
+                "k": "南投縣南投市康壽里南陽路４０１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2240,7 +2412,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市光明里００２鄰光明一路４５號"
+                "k": "南投縣南投市光明里００２鄰光明一路４５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2253,7 +2426,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市龍泉里０１１鄰玉井街１８號"
+                "k": "南投縣南投市龍泉里０１１鄰玉井街１８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2266,7 +2440,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市新興里成功街２８號"
+                "k": "南投縣南投市新興里成功街２８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2279,7 +2454,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市三和里２鄰彰南路１段９９６號"
+                "k": "南投縣南投市三和里２鄰彰南路１段９９６號",
+                "pay_list": "台灣 PAY\/一卡通\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2292,7 +2468,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市康壽里中山街２２８號"
+                "k": "南投縣南投市康壽里中山街２２８號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2305,7 +2482,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市三興里集賢路４１號"
+                "k": "南投縣南投市三興里集賢路４１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2318,7 +2496,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市三和里三和二路１３號"
+                "k": "南投縣南投市三和里三和二路１３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2331,7 +2510,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市營北里００１鄰仁德路２００號"
+                "k": "南投縣南投市營北里００１鄰仁德路２００號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2344,7 +2524,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市三興里０３８鄰集賢路２８號"
+                "k": "南投縣南投市三興里０３８鄰集賢路２８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2357,7 +2538,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市平和里南陽路１９６巷１２號"
+                "k": "南投縣南投市平和里南陽路１９６巷１２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2370,7 +2552,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市漳興里復興路５７６號"
+                "k": "南投縣南投市漳興里復興路５７６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2383,7 +2566,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市營北里０１８鄰仁德路１０９號"
+                "k": "南投縣南投市營北里０１８鄰仁德路１０９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2396,7 +2580,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市平和里民族路２００號"
+                "k": "南投縣南投市平和里民族路２００號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2409,7 +2594,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市崇文里復興路１５５號"
+                "k": "南投縣南投市崇文里復興路１５５號",
+                "pay_list": "愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2422,7 +2608,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市三和里三和三路４７號"
+                "k": "南投縣南投市三和里三和三路４７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2435,7 +2622,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市營北里中正路２３４號"
+                "k": "南投縣南投市營北里中正路２３４號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2448,7 +2636,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市永豐里００２鄰彰南路３段６１０巷２號"
+                "k": "南投縣南投市永豐里００２鄰彰南路３段６１０巷２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2461,7 +2650,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市彰仁里民族路２５３號"
+                "k": "南投縣南投市彰仁里民族路２５３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2474,7 +2664,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市三和里三和三路１８號"
+                "k": "南投縣南投市三和里三和三路１８號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2487,7 +2678,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市三和里０１３鄰大同南街１０７號"
+                "k": "南投縣南投市三和里０１３鄰大同南街１０７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2500,7 +2692,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市崇文里００７鄰彰南路一段１１１２號"
+                "k": "南投縣南投市崇文里００７鄰彰南路一段１１１２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2513,7 +2706,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市光榮里光榮西路１之４號"
+                "k": "南投縣南投市光榮里光榮西路１之４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2526,7 +2720,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市漳和里彰南路２段３７０號"
+                "k": "南投縣南投市漳和里彰南路２段３７０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2539,7 +2734,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市內興里０２９鄰中興路２２９―２７號"
+                "k": "南投縣南投市內興里０２９鄰中興路２２９―２７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2552,7 +2748,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市南投里民族路３４０號"
+                "k": "南投縣南投市南投里民族路３４０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2565,7 +2762,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市平山里南崗二路５７３號"
+                "k": "南投縣南投市平山里南崗二路５７３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2578,7 +2776,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市平和里琯溪街１６號"
+                "k": "南投縣南投市平和里琯溪街１６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2591,7 +2790,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市平和里育樂一街２５號"
+                "k": "南投縣南投市平和里育樂一街２５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2604,7 +2804,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市三和里０１３鄰中興路５６８號"
+                "k": "南投縣南投市三和里０１３鄰中興路５６８號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2617,7 +2818,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市三和里００４鄰彰南路一段９６０號"
+                "k": "南投縣南投市三和里００４鄰彰南路一段９６０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2630,7 +2832,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市新興里０１３鄰彰南路三段３９８巷９―１號"
+                "k": "南投縣南投市新興里０１３鄰彰南路三段３９８巷９―１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2643,7 +2846,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市彰仁里民族路３１１號"
+                "k": "南投縣南投市彰仁里民族路３１１號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2656,7 +2860,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市南投里彰南路二段７號"
+                "k": "南投縣南投市南投里彰南路二段７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2669,7 +2874,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市平和里０２２鄰育樂路９７號"
+                "k": "南投縣南投市平和里０２２鄰育樂路９７號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2682,7 +2888,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市內興里０１７鄰中興路７８號"
+                "k": "南投縣南投市內興里０１７鄰中興路７８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2695,7 +2902,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市平和里０２９鄰信義街１６２號"
+                "k": "南投縣南投市平和里０２９鄰信義街１６２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2708,7 +2916,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市平和里０２２鄰育樂路９５號"
+                "k": "南投縣南投市平和里０２２鄰育樂路９５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2721,7 +2930,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市三和里０１３鄰三和二路５０號"
+                "k": "南投縣南投市三和里０１３鄰三和二路５０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2734,7 +2944,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市平和里民族路１４６號"
+                "k": "南投縣南投市平和里民族路１４６號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2747,7 +2958,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市光明里光明二路６４號"
+                "k": "南投縣南投市光明里光明二路６４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2760,7 +2972,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市光明里光明一路３８號"
+                "k": "南投縣南投市光明里光明一路３８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2773,7 +2986,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市南投里００８鄰民族路３３６號"
+                "k": "南投縣南投市南投里００８鄰民族路３３６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2786,7 +3000,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市漳和里祖祠路２２７之１號"
+                "k": "南投縣南投市漳和里祖祠路２２７之１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2799,7 +3014,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市康壽里０１０鄰民生街５６號"
+                "k": "南投縣南投市康壽里０１０鄰民生街５６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2812,7 +3028,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市三和里００４鄰彰南路一段９５２號"
+                "k": "南投縣南投市三和里００４鄰彰南路一段９５２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2825,7 +3042,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市平和里００２鄰南陽路６７號"
+                "k": "南投縣南投市平和里００２鄰南陽路６７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2838,7 +3056,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市營北里中學西路４２之１號"
+                "k": "南投縣南投市營北里中學西路４２之１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2851,7 +3070,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市嘉和里００６鄰彰南路一段７２６號"
+                "k": "南投縣南投市嘉和里００６鄰彰南路一段７２６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2864,7 +3084,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市南投里００７鄰中山街１５８號"
+                "k": "南投縣南投市南投里００７鄰中山街１５８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2877,7 +3098,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市南投里００５鄰復興路２７３號"
+                "k": "南投縣南投市南投里００５鄰復興路２７３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2890,7 +3112,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市崇文里００１鄰復興路１８７號"
+                "k": "南投縣南投市崇文里００１鄰復興路１８７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2903,7 +3126,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市三民里彰南路二段２１７號"
+                "k": "南投縣南投市三民里彰南路二段２１７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2916,7 +3140,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市龍泉里１鄰大同街１２４號"
+                "k": "南投縣南投市龍泉里１鄰大同街１２４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2929,7 +3154,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣南投市三興里彰南路一段９１１號"
+                "k": "南投縣南投市三興里彰南路一段９１１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2942,7 +3168,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣名間鄉南雅村南雅街１１２號"
+                "k": "南投縣名間鄉南雅村南雅街１１２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2955,7 +3182,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣名間鄉中正村南雅街１２７號"
+                "k": "南投縣名間鄉中正村南雅街１２７號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2968,7 +3196,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣名間鄉南雅村７鄰南雅街４５―５號"
+                "k": "南投縣名間鄉南雅村７鄰南雅街４５―５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2981,7 +3210,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣名間鄉中正村南雅街１５０號"
+                "k": "南投縣名間鄉中正村南雅街１５０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2994,7 +3224,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣名間鄉松山村１３鄰松山街３６巷１號"
+                "k": "南投縣名間鄉松山村１３鄰松山街３６巷１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3007,7 +3238,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣名間鄉南雅村６鄰南雅街８４號"
+                "k": "南投縣名間鄉南雅村６鄰南雅街８４號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3020,7 +3252,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣名間鄉埔中村名松路１段５０３巷１３之１號"
+                "k": "南投縣名間鄉埔中村名松路１段５０３巷１３之１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3033,7 +3266,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣名間鄉南雅村南雅街４５―３號"
+                "k": "南投縣名間鄉南雅村南雅街４５―３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3046,7 +3280,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣名間鄉新街村客庄巷１７－６號"
+                "k": "南投縣名間鄉新街村客庄巷１７－６號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3059,7 +3294,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣國姓鄉北港村２鄰北原路３０―１０號"
+                "k": "南投縣國姓鄉北港村２鄰北原路３０―１０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3072,7 +3308,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣國姓鄉長豐村東二巷７１號"
+                "k": "南投縣國姓鄉長豐村東二巷７１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3085,7 +3322,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮杷城里中正路２０４－１號"
+                "k": "南投縣埔里鎮杷城里中正路２０４－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3098,7 +3336,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北門里北平街１２３－５號"
+                "k": "南投縣埔里鎮北門里北平街１２３－５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3111,7 +3350,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮西門里中正路５１８－２號"
+                "k": "南投縣埔里鎮西門里中正路５１８－２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3124,7 +3364,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮西門里１３鄰西安路１段１５５號"
+                "k": "南投縣埔里鎮西門里１３鄰西安路１段１５５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3137,7 +3378,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北門里中山路二段２７２巷２號"
+                "k": "南投縣埔里鎮北門里中山路二段２７２巷２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3150,7 +3392,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮枇杷里慈恩街１８號"
+                "k": "南投縣埔里鎮枇杷里慈恩街１８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3163,7 +3406,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北梅里八德路７３號"
+                "k": "南投縣埔里鎮北梅里八德路７３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3176,7 +3420,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮合成里西安路３段２３６號"
+                "k": "南投縣埔里鎮合成里西安路３段２３６號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3189,7 +3434,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮西門里南昌街２６２號"
+                "k": "南投縣埔里鎮西門里南昌街２６２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3202,7 +3448,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮清新里育德街４號"
+                "k": "南投縣埔里鎮清新里育德街４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3215,7 +3462,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮愛蘭里鐵山路１―８號"
+                "k": "南投縣埔里鎮愛蘭里鐵山路１―８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3228,7 +3476,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北門里中山路二段２８９號"
+                "k": "南投縣埔里鎮北門里中山路二段２８９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3241,7 +3490,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮鐵山里鐵山路１６０號"
+                "k": "南投縣埔里鎮鐵山里鐵山路１６０號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3254,7 +3504,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮西門里西康路１２８號"
+                "k": "南投縣埔里鎮西門里西康路１２８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3267,7 +3518,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮南門里中山路二段３６５號"
+                "k": "南投縣埔里鎮南門里中山路二段３６５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3280,7 +3532,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮東門里北澤街６２號"
+                "k": "南投縣埔里鎮東門里北澤街６２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3293,7 +3546,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮東門里０１１鄰忠孝路１８８號"
+                "k": "南投縣埔里鎮東門里０１１鄰忠孝路１８８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3306,7 +3560,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮大城里南安路７８３號"
+                "k": "南投縣埔里鎮大城里南安路７８３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3319,7 +3574,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮大城里水裡巷１９９號"
+                "k": "南投縣埔里鎮大城里水裡巷１９９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3332,7 +3588,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北安里自強路１１６號"
+                "k": "南投縣埔里鎮北安里自強路１１６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3345,7 +3602,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北安里０１７鄰明德路５６號"
+                "k": "南投縣埔里鎮北安里０１７鄰明德路５６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3358,7 +3616,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮桃米里大學路５０１號"
+                "k": "南投縣埔里鎮桃米里大學路５０１號",
+                "pay_list": "LINE Pay Money\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -3371,7 +3630,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮牛眠里中正路１０７６號"
+                "k": "南投縣埔里鎮牛眠里中正路１０７６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3384,7 +3644,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮廣成里永豐路１２號"
+                "k": "南投縣埔里鎮廣成里永豐路１２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3397,7 +3658,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮薰化里南昌街２９９號"
+                "k": "南投縣埔里鎮薰化里南昌街２９９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3410,7 +3672,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮西門里中正路４３６號"
+                "k": "南投縣埔里鎮西門里中正路４３６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3423,7 +3686,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北安里６鄰中山路２段１６３號"
+                "k": "南投縣埔里鎮北安里６鄰中山路２段１６３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3436,7 +3700,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮桃米里桃米路２－１號"
+                "k": "南投縣埔里鎮桃米里桃米路２－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3449,7 +3714,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北門里中山路二段２８３號"
+                "k": "南投縣埔里鎮北門里中山路二段２８３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3462,7 +3728,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮桃米里桃米路２－２號"
+                "k": "南投縣埔里鎮桃米里桃米路２－２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3475,7 +3742,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮西門里中正路４１４號"
+                "k": "南投縣埔里鎮西門里中正路４１４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3488,7 +3756,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮水頭里東潤路５８號"
+                "k": "南投縣埔里鎮水頭里東潤路５８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3501,7 +3770,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北門里中山路二段２９１號"
+                "k": "南投縣埔里鎮北門里中山路二段２９１號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3514,7 +3784,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮南村里中山路４段１－６號"
+                "k": "南投縣埔里鎮南村里中山路４段１－６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3527,7 +3798,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮水頭里中正路１８０號"
+                "k": "南投縣埔里鎮水頭里中正路１８０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3540,7 +3812,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮同聲里南興街７９號"
+                "k": "南投縣埔里鎮同聲里南興街７９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3553,7 +3826,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮大城里中山路３段３８４號"
+                "k": "南投縣埔里鎮大城里中山路３段３８４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3566,7 +3840,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮蜈蚣里鯉魚一巷２７―１號"
+                "k": "南投縣埔里鎮蜈蚣里鯉魚一巷２７―１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3579,7 +3854,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北梅里信義路２３６號"
+                "k": "南投縣埔里鎮北梅里信義路２３６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3592,7 +3868,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮枇杷里０３２鄰樹人三街１３５號"
+                "k": "南投縣埔里鎮枇杷里０３２鄰樹人三街１３５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3605,7 +3882,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北安里中山路二段３７號"
+                "k": "南投縣埔里鎮北安里中山路二段３７號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3618,7 +3896,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮蜈蚣里鯉魚路２８－１０號"
+                "k": "南投縣埔里鎮蜈蚣里鯉魚路２８－１０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3631,7 +3910,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮南村里００２鄰中山路４段１―２號"
+                "k": "南投縣埔里鎮南村里００２鄰中山路４段１―２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3644,7 +3924,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮枇杷里樹人路１３１號"
+                "k": "南投縣埔里鎮枇杷里樹人路１３１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3657,7 +3938,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北梅里西安路１段５１４巷３６號"
+                "k": "南投縣埔里鎮北梅里西安路１段５１４巷３６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3670,7 +3952,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮西門里西安路一段１３３號"
+                "k": "南投縣埔里鎮西門里西安路一段１３３號",
+                "pay_list": "一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3683,7 +3966,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮大城里中山路三段２１９號"
+                "k": "南投縣埔里鎮大城里中山路三段２１９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3696,7 +3980,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮東門里中正路３８８號"
+                "k": "南投縣埔里鎮東門里中正路３８８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3709,7 +3994,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北安里東榮路３３８號"
+                "k": "南投縣埔里鎮北安里東榮路３３８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3722,7 +4008,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮籃城里１鄰中正路１００４號"
+                "k": "南投縣埔里鎮籃城里１鄰中正路１００４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3735,7 +4022,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮南門里中山路２段３９９號"
+                "k": "南投縣埔里鎮南門里中山路２段３９９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3748,7 +4036,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北梅里信義路３１７及３１９號"
+                "k": "南投縣埔里鎮北梅里信義路３１７及３１９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3761,7 +4050,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮枇杷里忠孝路２９９號"
+                "k": "南投縣埔里鎮枇杷里忠孝路２９９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3774,7 +4064,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮枇杷里和平東路１６號"
+                "k": "南投縣埔里鎮枇杷里和平東路１６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3787,7 +4078,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮蜈蚣里中山路一段２１―１號"
+                "k": "南投縣埔里鎮蜈蚣里中山路一段２１―１號",
+                "pay_list": "台灣 PAY\/一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3800,7 +4092,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮薰化里１４鄰南昌街３１７號"
+                "k": "南投縣埔里鎮薰化里１４鄰南昌街３１７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3813,7 +4106,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮大城里３３鄰南環路９５０號"
+                "k": "南投縣埔里鎮大城里３３鄰南環路９５０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3826,7 +4120,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北門里北澤街１３０號"
+                "k": "南投縣埔里鎮北門里北澤街１３０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3839,7 +4134,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮蜈蚣里中山路１段１７６號"
+                "k": "南投縣埔里鎮蜈蚣里中山路１段１７６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3852,7 +4148,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮南村里１鄰桃南路３１號"
+                "k": "南投縣埔里鎮南村里１鄰桃南路３１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3865,7 +4162,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮東門里中正路３８４號"
+                "k": "南投縣埔里鎮東門里中正路３８４號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3878,7 +4176,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮枇杷里中山路一段４３３巷１００－１號"
+                "k": "南投縣埔里鎮枇杷里中山路一段４３３巷１００－１號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3891,7 +4190,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北門里北環路１１０﹒１１２號"
+                "k": "南投縣埔里鎮北門里北環路１１０﹒１１２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3904,7 +4204,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮水頭里８鄰中正路１４４－３號"
+                "k": "南投縣埔里鎮水頭里８鄰中正路１４４－３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3917,7 +4218,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮東門里北平街５７號"
+                "k": "南投縣埔里鎮東門里北平街５７號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3930,7 +4232,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮大城里信義路９６７號"
+                "k": "南投縣埔里鎮大城里信義路９６７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3943,7 +4246,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮大城里信義路９７２―１號"
+                "k": "南投縣埔里鎮大城里信義路９７２―１號",
+                "pay_list": "愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3956,7 +4260,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北安里０１７鄰中山路二段７２號"
+                "k": "南投縣埔里鎮北安里０１７鄰中山路二段７２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3969,7 +4274,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮枇杷里樹人三街９３號"
+                "k": "南投縣埔里鎮枇杷里樹人三街９３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3982,7 +4288,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮蜈蚣里中山路１段２３７―８號"
+                "k": "南投縣埔里鎮蜈蚣里中山路１段２３７―８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3995,7 +4302,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮東門里忠孝路１９０號"
+                "k": "南投縣埔里鎮東門里忠孝路１９０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4008,7 +4316,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北安里中華路１７１號"
+                "k": "南投縣埔里鎮北安里中華路１７１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4021,7 +4330,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮薰化里中山路３段１７３號"
+                "k": "南投縣埔里鎮薰化里中山路３段１７３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4034,7 +4344,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮枇杷里中華路１－２號"
+                "k": "南投縣埔里鎮枇杷里中華路１－２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4047,7 +4358,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮蜈蚣里中山路１段６６號"
+                "k": "南投縣埔里鎮蜈蚣里中山路１段６６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4060,7 +4372,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮西門里漢中街２０６號"
+                "k": "南投縣埔里鎮西門里漢中街２０６號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4073,7 +4386,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮東門里中正路３４２號"
+                "k": "南投縣埔里鎮東門里中正路３４２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4086,7 +4400,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮東門里中正路３１５號"
+                "k": "南投縣埔里鎮東門里中正路３１５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4099,7 +4414,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮清新里民生路７號"
+                "k": "南投縣埔里鎮清新里民生路７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4112,7 +4428,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮泰安里民族四街１８號"
+                "k": "南投縣埔里鎮泰安里民族四街１８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4125,7 +4442,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北門里北辰街８５號"
+                "k": "南投縣埔里鎮北門里北辰街８５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4138,7 +4456,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北安里東榮路３１１―１號"
+                "k": "南投縣埔里鎮北安里東榮路３１１―１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4151,7 +4470,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮東門里中正路３８９號"
+                "k": "南投縣埔里鎮東門里中正路３８９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4164,7 +4484,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮東門里中正路３８６號"
+                "k": "南投縣埔里鎮東門里中正路３８６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4177,7 +4498,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮蜈蚣里鯉魚路２１－７號"
+                "k": "南投縣埔里鎮蜈蚣里鯉魚路２１－７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4190,7 +4512,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北梅里仁愛路２２６號"
+                "k": "南投縣埔里鎮北梅里仁愛路２２６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4203,7 +4526,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮南村里桃南路４２號"
+                "k": "南投縣埔里鎮南村里桃南路４２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4216,7 +4540,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北安里建國路１３１號"
+                "k": "南投縣埔里鎮北安里建國路１３１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4229,7 +4554,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮西門里仁愛路２３９號"
+                "k": "南投縣埔里鎮西門里仁愛路２３９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4242,7 +4568,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮杷城里民治一街１號"
+                "k": "南投縣埔里鎮杷城里民治一街１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4255,7 +4582,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北梅里１鄰八德路２－５號"
+                "k": "南投縣埔里鎮北梅里１鄰八德路２－５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4268,7 +4596,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北安里中山路二段１５３號"
+                "k": "南投縣埔里鎮北安里中山路二段１５３號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4281,7 +4610,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮薰化里南昌街３１３號"
+                "k": "南投縣埔里鎮薰化里南昌街３１３號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4294,7 +4624,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮西門里南昌街２５２號"
+                "k": "南投縣埔里鎮西門里南昌街２５２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4307,7 +4638,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北安里中山路二段１４２號"
+                "k": "南投縣埔里鎮北安里中山路二段１４２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4320,7 +4652,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北門里中山路二段２４３號"
+                "k": "南投縣埔里鎮北門里中山路二段２４３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4333,7 +4666,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮清新里民生路９１號"
+                "k": "南投縣埔里鎮清新里民生路９１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4346,7 +4680,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮西門里西寧路７２號"
+                "k": "南投縣埔里鎮西門里西寧路７２號",
+                "pay_list": "一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4359,7 +4694,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮清新里００８鄰南興街２７７號"
+                "k": "南投縣埔里鎮清新里００８鄰南興街２７７號",
+                "pay_list": "LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4372,7 +4708,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮大城里大同街６號"
+                "k": "南投縣埔里鎮大城里大同街６號",
+                "pay_list": "愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4385,7 +4722,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮東門里中正路３９９號"
+                "k": "南投縣埔里鎮東門里中正路３９９號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4398,7 +4736,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北梅里西安路一段２５９號"
+                "k": "南投縣埔里鎮北梅里西安路一段２５９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4411,7 +4750,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮東門里中正路３１９號"
+                "k": "南投縣埔里鎮東門里中正路３１９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4424,7 +4764,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮蜈蚣里蜈蚣路２５－２號"
+                "k": "南投縣埔里鎮蜈蚣里蜈蚣路２５－２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4437,7 +4778,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮大城里中山路三段３３３－１號"
+                "k": "南投縣埔里鎮大城里中山路三段３３３－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4450,7 +4792,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮大城里中山路三段２６７號"
+                "k": "南投縣埔里鎮大城里中山路三段２６７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -4463,7 +4806,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮東門里北平街３５―１０號"
+                "k": "南投縣埔里鎮東門里北平街３５―１０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4476,7 +4820,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北門里中山路二段２５１號"
+                "k": "南投縣埔里鎮北門里中山路二段２５１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4489,7 +4834,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮大城里大城路３１―９號"
+                "k": "南投縣埔里鎮大城里大城路３１―９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4502,7 +4848,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北門里北環路６３號"
+                "k": "南投縣埔里鎮北門里北環路６３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4515,7 +4862,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮向善里向善路２６－８號"
+                "k": "南投縣埔里鎮向善里向善路２６－８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4528,7 +4876,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮大城里中山路３段１８６號"
+                "k": "南投縣埔里鎮大城里中山路３段１８６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4541,7 +4890,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣埔里鎮北安里信義路１４５號"
+                "k": "南投縣埔里鎮北安里信義路１４５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4554,7 +4904,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣水里鄉頂崁村水信路１段５１２巷２１號"
+                "k": "南投縣水里鄉頂崁村水信路１段５１２巷２１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4567,7 +4918,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣水里鄉車埕村民權巷５號"
+                "k": "南投縣水里鄉車埕村民權巷５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4580,7 +4932,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣水里鄉車埕村５鄰民權巷１１８號"
+                "k": "南投縣水里鄉車埕村５鄰民權巷１１８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4593,7 +4946,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣水里鄉北埔村中山路１段５６６號"
+                "k": "南投縣水里鄉北埔村中山路１段５６６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4606,7 +4960,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣水里鄉鉅工村８鄰民生路２７６號"
+                "k": "南投縣水里鄉鉅工村８鄰民生路２７６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4619,7 +4974,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣水里鄉上安村福田路２１號"
+                "k": "南投縣水里鄉上安村福田路２１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4632,7 +4988,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣水里鄉中央村中正路１０５號"
+                "k": "南投縣水里鄉中央村中正路１０５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4645,7 +5002,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣水里鄉城中村１鄰中山路２段６５號"
+                "k": "南投縣水里鄉城中村１鄰中山路２段６５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4658,7 +5016,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣水里鄉鉅工村民族路４２６號"
+                "k": "南投縣水里鄉鉅工村民族路４２６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4671,7 +5030,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣水里鄉中央村民生路３９５號"
+                "k": "南投縣水里鄉中央村民生路３９５號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4684,7 +5044,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣水里鄉鉅工村民生路２２０號"
+                "k": "南投縣水里鄉鉅工村民生路２２０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4697,7 +5058,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣水里鄉車埕村民權巷１０１－３號"
+                "k": "南投縣水里鄉車埕村民權巷１０１－３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4710,7 +5072,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣水里鄉鉅工村民生路２５１號"
+                "k": "南投縣水里鄉鉅工村民生路２５１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -4723,7 +5086,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮竹山里集山路３段９３２號"
+                "k": "南投縣竹山鎮竹山里集山路３段９３２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4736,7 +5100,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮竹山里６鄰雲林路３０號"
+                "k": "南投縣竹山鎮竹山里６鄰雲林路３０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4749,7 +5114,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮竹山里大明路３１６號"
+                "k": "南投縣竹山鎮竹山里大明路３１６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4762,7 +5128,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮竹山里竹山路１８號"
+                "k": "南投縣竹山鎮竹山里竹山路１８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4775,7 +5142,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮延平里東鄉路１－６７號"
+                "k": "南投縣竹山鎮延平里東鄉路１－６７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4788,7 +5156,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮山崇里集山路一段１８３７號"
+                "k": "南投縣竹山鎮山崇里集山路一段１８３７號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4801,7 +5170,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮延和里集山路三段３９５―３號"
+                "k": "南投縣竹山鎮延和里集山路三段３９５―３號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4814,7 +5184,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮中山里林圮街３８―２號"
+                "k": "南投縣竹山鎮中山里林圮街３８―２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4827,7 +5198,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮社寮里發財街９號"
+                "k": "南投縣竹山鎮社寮里發財街９號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4840,7 +5212,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮中山里竹山路２０７號"
+                "k": "南投縣竹山鎮中山里竹山路２０７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4853,7 +5226,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮雲林里０１０鄰集山路三段１０７７號"
+                "k": "南投縣竹山鎮雲林里０１０鄰集山路三段１０７７號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4866,7 +5240,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮中正里菜園路３０之２號"
+                "k": "南投縣竹山鎮中正里菜園路３０之２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4879,7 +5254,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮延正里集山路２段５８１號"
+                "k": "南投縣竹山鎮延正里集山路２段５８１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4892,7 +5268,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮桂林里大智路３０９號"
+                "k": "南投縣竹山鎮桂林里大智路３０９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4905,7 +5282,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮延和里１８鄰集山路３段６５５號"
+                "k": "南投縣竹山鎮延和里１８鄰集山路３段６５５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4918,7 +5296,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮竹山里集山路三段８５２號"
+                "k": "南投縣竹山鎮竹山里集山路三段８５２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4931,7 +5310,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮山崇里２２鄰集山路２段４００號"
+                "k": "南投縣竹山鎮山崇里２２鄰集山路２段４００號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4944,7 +5324,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮山崇里集山路二段３０７號"
+                "k": "南投縣竹山鎮山崇里集山路二段３０７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4957,7 +5338,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮大鞍里溪山路６號"
+                "k": "南投縣竹山鎮大鞍里溪山路６號",
+                "pay_list": "台灣 PAY\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -4970,7 +5352,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮雲林里集山路３段１００６號"
+                "k": "南投縣竹山鎮雲林里集山路３段１００６號",
+                "pay_list": "台灣 PAY\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -4983,7 +5366,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮延正里延正路９８―８號"
+                "k": "南投縣竹山鎮延正里延正路９８―８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4996,7 +5380,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮山崇里集山路二段１６號"
+                "k": "南投縣竹山鎮山崇里集山路二段１６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5009,7 +5394,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮竹山里集山路三段８３５號"
+                "k": "南投縣竹山鎮竹山里集山路三段８３５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5022,7 +5408,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮延和里集山路三段５１５號"
+                "k": "南投縣竹山鎮延和里集山路三段５１５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5035,7 +5422,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮延和里０１０鄰集山路三段５８６號"
+                "k": "南投縣竹山鎮延和里０１０鄰集山路三段５８６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5048,7 +5436,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮竹山里集山路３段８３２號"
+                "k": "南投縣竹山鎮竹山里集山路３段８３２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5061,7 +5450,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮竹山里祖師街１３－１７－１號"
+                "k": "南投縣竹山鎮竹山里祖師街１３－１７－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5074,7 +5464,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮桂林里竹山路１－２號"
+                "k": "南投縣竹山鎮桂林里竹山路１－２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5087,7 +5478,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮中正里００１鄰下橫街４７―２號"
+                "k": "南投縣竹山鎮中正里００１鄰下橫街４７―２號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5100,7 +5492,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮延和里集山路三段４８３號"
+                "k": "南投縣竹山鎮延和里集山路三段４８３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5113,7 +5506,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮雲林里００２鄰雲林路５６―２號"
+                "k": "南投縣竹山鎮雲林里００２鄰雲林路５６―２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5126,7 +5520,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮中正里００４鄰竹山路６６號"
+                "k": "南投縣竹山鎮中正里００４鄰竹山路６６號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5139,7 +5534,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮竹山里００４鄰集山路三段９２４號"
+                "k": "南投縣竹山鎮竹山里００４鄰集山路三段９２４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5152,7 +5548,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮竹山里００５鄰集山路三段８８３號"
+                "k": "南投縣竹山鎮竹山里００５鄰集山路三段８８３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5165,7 +5562,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣竹山鎮延和里大智路９０號"
+                "k": "南投縣竹山鎮延和里大智路９０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5178,7 +5576,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮上林里太平路１段５６１號"
+                "k": "南投縣草屯鎮上林里太平路１段５６１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5191,7 +5590,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮中正里中山街３１３－１號"
+                "k": "南投縣草屯鎮中正里中山街３１３－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5204,7 +5604,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮玉峰里１０鄰東美街１０２號"
+                "k": "南投縣草屯鎮玉峰里１０鄰東美街１０２號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5217,7 +5618,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮和平里和興街４５號"
+                "k": "南投縣草屯鎮和平里和興街４５號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5230,7 +5632,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮富寮里中正路５５７―３９號"
+                "k": "南投縣草屯鎮富寮里中正路５５７―３９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5243,7 +5646,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮炎峰里青雲街４２號"
+                "k": "南投縣草屯鎮炎峰里青雲街４２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5256,7 +5660,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮富寮里中正路５５７―２０號"
+                "k": "南投縣草屯鎮富寮里中正路５５７―２０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5269,7 +5674,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮玉峰里玉峰街４６號"
+                "k": "南投縣草屯鎮玉峰里玉峰街４６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5282,7 +5688,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮富寮里００３鄰中正路５５７－２８號"
+                "k": "南投縣草屯鎮富寮里００３鄰中正路５５７－２８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5295,7 +5702,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮和平里碧山路８３號"
+                "k": "南投縣草屯鎮和平里碧山路８３號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5308,7 +5716,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮玉峰里中正路８１４號"
+                "k": "南投縣草屯鎮玉峰里中正路８１４號",
+                "pay_list": "LINE Pay Money\/台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5321,7 +5730,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮明正里敦和路１０號"
+                "k": "南投縣草屯鎮明正里敦和路１０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5334,7 +5744,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮炎峰里虎山路８９９號"
+                "k": "南投縣草屯鎮炎峰里虎山路８９９號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5347,7 +5758,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮敦和里碧山南路６４號"
+                "k": "南投縣草屯鎮敦和里碧山南路６４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5360,7 +5772,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮和平里明賢段６５３地號"
+                "k": "南投縣草屯鎮和平里明賢段６５３地號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5373,7 +5786,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮中山里明賢街１２５號"
+                "k": "南投縣草屯鎮中山里明賢街１２５號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5386,7 +5800,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮和平里育英街１７８號"
+                "k": "南投縣草屯鎮和平里育英街１７８號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5399,7 +5814,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮碧洲里碧興路一段２８１號"
+                "k": "南投縣草屯鎮碧洲里碧興路一段２８１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5412,7 +5828,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮明正里０１２鄰芬草路一段５號"
+                "k": "南投縣草屯鎮明正里０１２鄰芬草路一段５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5425,7 +5842,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮和平里和興一街２１號"
+                "k": "南投縣草屯鎮和平里和興一街２１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5438,7 +5856,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮中山里明賢街５９號"
+                "k": "南投縣草屯鎮中山里明賢街５９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5451,7 +5870,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮明正里中正路７０７號"
+                "k": "南投縣草屯鎮明正里中正路７０７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5464,7 +5884,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮中山里９鄰碧山南路８號"
+                "k": "南投縣草屯鎮中山里９鄰碧山南路８號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5477,7 +5898,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮明正里１２鄰中正路７４８號"
+                "k": "南投縣草屯鎮明正里１２鄰中正路７４８號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5490,7 +5912,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮和平里太平路二段２６９號"
+                "k": "南投縣草屯鎮和平里太平路二段２６９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5503,7 +5926,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮明正里中正路８９３之１號"
+                "k": "南投縣草屯鎮明正里中正路８９３之１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5516,7 +5940,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮中正里中正路７０３號"
+                "k": "南投縣草屯鎮中正里中正路７０３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5529,7 +5954,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮山腳里虎山路４３２號"
+                "k": "南投縣草屯鎮山腳里虎山路４３２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5542,7 +5968,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮碧峰里００１鄰碧山路１１４６號"
+                "k": "南投縣草屯鎮碧峰里００１鄰碧山路１１４６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5555,7 +5982,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮御史里中正路１７５８號"
+                "k": "南投縣草屯鎮御史里中正路１７５８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5568,7 +5996,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮和平里中山街２２４號"
+                "k": "南投縣草屯鎮和平里中山街２２４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5581,7 +6010,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮新豐里１鄰墩煌路４段３７７巷１１號"
+                "k": "南投縣草屯鎮新豐里１鄰墩煌路４段３７７巷１１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5594,7 +6024,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮敦和里２３鄰草溪路８５１巷１２號"
+                "k": "南投縣草屯鎮敦和里２３鄰草溪路８５１巷１２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5607,7 +6038,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮御史里中正路１７５１號"
+                "k": "南投縣草屯鎮御史里中正路１７５１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5620,7 +6052,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮新豐里中正路１０３７，１０３９號"
+                "k": "南投縣草屯鎮新豐里中正路１０３７，１０３９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5633,7 +6066,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮中山里００１鄰中山街６５號"
+                "k": "南投縣草屯鎮中山里００１鄰中山街６５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5646,7 +6080,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮中山里００３鄰明賢街１０９―１號"
+                "k": "南投縣草屯鎮中山里００３鄰明賢街１０９―１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5659,7 +6094,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮山腳里民權東街９７號"
+                "k": "南投縣草屯鎮山腳里民權東街９７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5672,7 +6108,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮明正里００３鄰中正路７６９號"
+                "k": "南投縣草屯鎮明正里００３鄰中正路７６９號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5685,7 +6122,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮南埔里１０鄰青宅巷３５－２１號"
+                "k": "南投縣草屯鎮南埔里１０鄰青宅巷３５－２１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5698,7 +6136,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮明正里００２鄰中正路７３１號"
+                "k": "南投縣草屯鎮明正里００２鄰中正路７３１號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5711,7 +6150,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮富寮里中正路５７４號"
+                "k": "南投縣草屯鎮富寮里中正路５７４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5724,7 +6164,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮北勢里玉屏路１００－９號"
+                "k": "南投縣草屯鎮北勢里玉屏路１００－９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5737,7 +6178,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮碧峰里碧山路１１２３－２號"
+                "k": "南投縣草屯鎮碧峰里碧山路１１２３－２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5750,7 +6192,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮碧峰里碧山路１１０７巷７０弄２７號"
+                "k": "南投縣草屯鎮碧峰里碧山路１１０７巷７０弄２７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5763,7 +6206,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮新厝里８鄰中興路２９０號"
+                "k": "南投縣草屯鎮新厝里８鄰中興路２９０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5776,7 +6220,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮上林里太平路１２３巷１２７號"
+                "k": "南投縣草屯鎮上林里太平路１２３巷１２７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5789,7 +6234,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮炎峰里碧山路６２號"
+                "k": "南投縣草屯鎮炎峰里碧山路６２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5802,7 +6248,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮上林里太平路１段６１號"
+                "k": "南投縣草屯鎮上林里太平路１段６１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5815,7 +6262,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮玉峰里９鄰儒林街２８７號"
+                "k": "南投縣草屯鎮玉峰里９鄰儒林街２８７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5828,7 +6276,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮山腳里１５鄰新富路７５號"
+                "k": "南投縣草屯鎮山腳里１５鄰新富路７５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5841,7 +6290,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮敦和里２鄰仁愛街３３號"
+                "k": "南投縣草屯鎮敦和里２鄰仁愛街３３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5854,7 +6304,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮炎峰里明賢街１段３９號"
+                "k": "南投縣草屯鎮炎峰里明賢街１段３９號",
+                "pay_list": "一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -5867,7 +6318,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮炎峰里中正路６１９號"
+                "k": "南投縣草屯鎮炎峰里中正路６１９號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5880,7 +6332,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮和平里００３鄰育英街２２８號"
+                "k": "南投縣草屯鎮和平里００３鄰育英街２２８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5893,7 +6346,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮玉峰里博愛路３５７―２號"
+                "k": "南投縣草屯鎮玉峰里博愛路３５７―２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5906,7 +6360,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮新厝里太平路二段１４８號"
+                "k": "南投縣草屯鎮新厝里太平路二段１４８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5919,7 +6374,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮山腳里０３４鄰虎山路５１０號"
+                "k": "南投縣草屯鎮山腳里０３４鄰虎山路５１０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5932,7 +6388,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮明正里００５鄰文化街６８巷１１號"
+                "k": "南投縣草屯鎮明正里００５鄰文化街６８巷１１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5945,7 +6402,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮明正里中正路７４６號"
+                "k": "南投縣草屯鎮明正里中正路７４６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5958,7 +6416,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮山腳里虎山路４４６－１號"
+                "k": "南投縣草屯鎮山腳里虎山路４４６－１號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5971,7 +6430,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮新豐里成功路一段７５８之１號"
+                "k": "南投縣草屯鎮新豐里成功路一段７５８之１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5984,7 +6444,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮中山里草溪路１０８２、１０８４號"
+                "k": "南投縣草屯鎮中山里草溪路１０８２、１０８４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5997,7 +6458,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮中山里００２鄰明賢街７３號"
+                "k": "南投縣草屯鎮中山里００２鄰明賢街７３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6010,7 +6472,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮炎峰里１２鄰中正路６１８號"
+                "k": "南投縣草屯鎮炎峰里１２鄰中正路６１８號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6023,7 +6486,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮中山里碧山南路９號"
+                "k": "南投縣草屯鎮中山里碧山南路９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6036,7 +6500,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮山腳里虎山路５０８號"
+                "k": "南投縣草屯鎮山腳里虎山路５０８號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6049,7 +6514,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮和平里中山街１７４號"
+                "k": "南投縣草屯鎮和平里中山街１７４號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6062,7 +6528,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮炎峰里１２鄰中正路６１４號"
+                "k": "南投縣草屯鎮炎峰里１２鄰中正路６１４號",
+                "pay_list": "台灣 PAY\/一卡通\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6075,7 +6542,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮山腳里１５鄰太平路１段５５６號"
+                "k": "南投縣草屯鎮山腳里１５鄰太平路１段５５６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6088,7 +6556,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮山腳里０３３鄰虎山路４９８－１號"
+                "k": "南投縣草屯鎮山腳里０３３鄰虎山路４９８－１號",
+                "pay_list": "台灣 PAY\/一卡通\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6101,7 +6570,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮和平里０１１鄰太平路二段３１６號"
+                "k": "南投縣草屯鎮和平里０１１鄰太平路二段３１６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6114,7 +6584,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮炎峰里０２０鄰大成街６０號"
+                "k": "南投縣草屯鎮炎峰里０２０鄰大成街６０號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6127,7 +6598,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮碧洲里００１鄰碧峰路５４０號"
+                "k": "南投縣草屯鎮碧洲里００１鄰碧峰路５４０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6140,7 +6612,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮山腳里虎山路２００號"
+                "k": "南投縣草屯鎮山腳里虎山路２００號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6153,7 +6626,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮敦和里０１０鄰碧山路６５２號"
+                "k": "南投縣草屯鎮敦和里０１０鄰碧山路６５２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6166,7 +6640,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮新厝里虎山路６５６號"
+                "k": "南投縣草屯鎮新厝里虎山路６５６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6179,7 +6654,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮和平里和興街８１號"
+                "k": "南投縣草屯鎮和平里和興街８１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6192,7 +6668,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮炎峰里虎山路８６２號"
+                "k": "南投縣草屯鎮炎峰里虎山路８６２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6205,7 +6682,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮中正里中正路６７５號"
+                "k": "南投縣草屯鎮中正里中正路６７５號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6218,7 +6696,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮玉峰里００７鄰中正路７５８號"
+                "k": "南投縣草屯鎮玉峰里００７鄰中正路７５８號",
+                "pay_list": "愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -6231,7 +6710,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮新厝里００１鄰大成街１８號"
+                "k": "南投縣草屯鎮新厝里００１鄰大成街１８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6244,7 +6724,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮中山里中山街２５號"
+                "k": "南投縣草屯鎮中山里中山街２５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6257,7 +6738,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮中山里碧山路１６４號"
+                "k": "南投縣草屯鎮中山里碧山路１６４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6270,7 +6752,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮和平里０１０鄰中正路６４７號"
+                "k": "南投縣草屯鎮和平里０１０鄰中正路６４７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6283,7 +6766,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮北投里北投路５３巷１６弄７６號"
+                "k": "南投縣草屯鎮北投里北投路５３巷１６弄７６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6296,7 +6780,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮新厝里００５鄰虎山路６９８號"
+                "k": "南投縣草屯鎮新厝里００５鄰虎山路６９８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6309,7 +6794,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮新庄里墩煌路三段１６８號"
+                "k": "南投縣草屯鎮新庄里墩煌路三段１６８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6322,7 +6808,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮上林里太平路一段２０９號"
+                "k": "南投縣草屯鎮上林里太平路一段２０９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6335,7 +6822,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮平林里健行路１０５號"
+                "k": "南投縣草屯鎮平林里健行路１０５號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6348,7 +6836,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮敦和里碧山路２７６巷２６號"
+                "k": "南投縣草屯鎮敦和里碧山路２７６巷２６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6361,7 +6850,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮敦和里０２７鄰仁愛街１號"
+                "k": "南投縣草屯鎮敦和里０２７鄰仁愛街１號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6374,7 +6864,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮中山里碧山南路５號"
+                "k": "南投縣草屯鎮中山里碧山南路５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6387,7 +6878,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮敦和里信義街２０７號"
+                "k": "南投縣草屯鎮敦和里信義街２０７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6400,7 +6892,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮新厝里太平路二段１８０號"
+                "k": "南投縣草屯鎮新厝里太平路二段１８０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6413,7 +6906,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮和平里明賢街６２號"
+                "k": "南投縣草屯鎮和平里明賢街６２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6426,7 +6920,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮和平里中山街２２０號"
+                "k": "南投縣草屯鎮和平里中山街２２０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6439,7 +6934,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮中山里草溪路１０７４號"
+                "k": "南投縣草屯鎮中山里草溪路１０７４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6452,7 +6948,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮和平里碧山路１１８號"
+                "k": "南投縣草屯鎮和平里碧山路１１８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6465,7 +6962,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮中正里００３鄰和平街２２號"
+                "k": "南投縣草屯鎮中正里００３鄰和平街２２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6478,7 +6976,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮新厝里太平路二段５６號"
+                "k": "南投縣草屯鎮新厝里太平路二段５６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6491,7 +6990,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮中正里００１鄰中正路６７３號"
+                "k": "南投縣草屯鎮中正里００１鄰中正路６７３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6504,7 +7004,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮炎峰里中正路６３０號"
+                "k": "南投縣草屯鎮炎峰里中正路６３０號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -6517,7 +7018,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮中山里０１３鄰中山街１９９號"
+                "k": "南投縣草屯鎮中山里０１３鄰中山街１９９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6530,7 +7032,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮敦和里信義街２７１號"
+                "k": "南投縣草屯鎮敦和里信義街２７１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6543,7 +7046,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮和平里碧山路１５８號"
+                "k": "南投縣草屯鎮和平里碧山路１５８號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6556,7 +7060,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮炎峰里建國街２７號"
+                "k": "南投縣草屯鎮炎峰里建國街２７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6569,7 +7074,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮新厝里中興路１７２之１號"
+                "k": "南投縣草屯鎮新厝里中興路１７２之１號",
+                "pay_list": "愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -6582,7 +7088,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮新厝里中興路２７０號"
+                "k": "南投縣草屯鎮新厝里中興路２７０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6595,7 +7102,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮中山里碧山路１７９號"
+                "k": "南投縣草屯鎮中山里碧山路１７９號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6608,7 +7116,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮山腳里虎山路４４３號"
+                "k": "南投縣草屯鎮山腳里虎山路４４３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6621,7 +7130,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮新厝里明賢街一段１５號"
+                "k": "南投縣草屯鎮新厝里明賢街一段１５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6634,7 +7144,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮和平里０１２鄰太平路二段２９２號"
+                "k": "南投縣草屯鎮和平里０１２鄰太平路二段２９２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6647,7 +7158,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮炎峰里碧山路６８號"
+                "k": "南投縣草屯鎮炎峰里碧山路６８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6660,7 +7172,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮敦和里敦和路８１號"
+                "k": "南投縣草屯鎮敦和里敦和路８１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6673,7 +7186,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮山腳里虎山路５１號"
+                "k": "南投縣草屯鎮山腳里虎山路５１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6686,7 +7200,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮富寮里中正路５５７之１９之１６號"
+                "k": "南投縣草屯鎮富寮里中正路５５７之１９之１６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6699,7 +7214,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮中正里中正路６６５號"
+                "k": "南投縣草屯鎮中正里中正路６６５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6712,7 +7228,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮炎峰里虎山路８３０號"
+                "k": "南投縣草屯鎮炎峰里虎山路８３０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6725,7 +7242,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮炎峰里０１３鄰中正路６４０號"
+                "k": "南投縣草屯鎮炎峰里０１３鄰中正路６４０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6738,7 +7256,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮新厝里新富二街２號"
+                "k": "南投縣草屯鎮新厝里新富二街２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6751,7 +7270,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮和平里中正路６４９號"
+                "k": "南投縣草屯鎮和平里中正路６４９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6764,7 +7284,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮富寮里中正路５７５之１號"
+                "k": "南投縣草屯鎮富寮里中正路５７５之１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6777,7 +7298,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮炎峰里中正路６６４號"
+                "k": "南投縣草屯鎮炎峰里中正路６６４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6790,7 +7312,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮玉峰里中正路７９４號"
+                "k": "南投縣草屯鎮玉峰里中正路７９４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6803,7 +7326,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮新厝里太平路二段１５２號"
+                "k": "南投縣草屯鎮新厝里太平路二段１５２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6816,7 +7340,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮和平里中山街１７２號"
+                "k": "南投縣草屯鎮和平里中山街１７２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6829,7 +7354,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮和平里明賢街６４號"
+                "k": "南投縣草屯鎮和平里明賢街６４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6842,7 +7368,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮敦和里碧山南路８５－３號"
+                "k": "南投縣草屯鎮敦和里碧山南路８５－３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6855,7 +7382,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮和平里碧山路８５號"
+                "k": "南投縣草屯鎮和平里碧山路８５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6868,7 +7396,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮和平里育英街１５９之１號"
+                "k": "南投縣草屯鎮和平里育英街１５９之１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6881,7 +7410,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮新厝里中興路２８３號"
+                "k": "南投縣草屯鎮新厝里中興路２８３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6894,7 +7424,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮明正里芬草路一段３號"
+                "k": "南投縣草屯鎮明正里芬草路一段３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6907,7 +7438,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮和平里中山街１８２號"
+                "k": "南投縣草屯鎮和平里中山街１８２號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6920,7 +7452,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮新厝里太平路二段１８號"
+                "k": "南投縣草屯鎮新厝里太平路二段１８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6933,7 +7466,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣草屯鎮炎峰里虎山路９０５號"
+                "k": "南投縣草屯鎮炎峰里虎山路９０５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6946,7 +7480,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣集集鎮八張里民生路５巷１９號"
+                "k": "南投縣集集鎮八張里民生路５巷１９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6959,7 +7494,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣集集鎮吳厝里民生路１６２號"
+                "k": "南投縣集集鎮吳厝里民生路１６２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6972,7 +7508,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣集集鎮和平里成功路２０５號"
+                "k": "南投縣集集鎮和平里成功路２０５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6985,7 +7522,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣集集鎮八張里民權路３２６號"
+                "k": "南投縣集集鎮八張里民權路３２６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6998,7 +7536,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣集集鎮和平里民生路１７５號"
+                "k": "南投縣集集鎮和平里民生路１７５號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -7011,7 +7550,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣集集鎮八張里八張街５３─３號"
+                "k": "南投縣集集鎮八張里八張街５３─３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7024,7 +7564,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣集集鎮吳厝里民生路１１１號"
+                "k": "南投縣集集鎮吳厝里民生路１１１號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -7037,7 +7578,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣集集鎮八張里八張街１８１號"
+                "k": "南投縣集集鎮八張里八張街１８１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7050,7 +7592,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣集集鎮吳厝里民生路２００之１號"
+                "k": "南投縣集集鎮吳厝里民生路２００之１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7063,7 +7606,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣集集鎮集集里集集街１１號"
+                "k": "南投縣集集鎮集集里集集街１１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7076,7 +7620,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣集集鎮吳厝里吳厝里民生路９１號"
+                "k": "南投縣集集鎮吳厝里吳厝里民生路９１號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -7089,7 +7634,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉大雁村山楂脚巷９―５號"
+                "k": "南投縣魚池鄉大雁村山楂脚巷９―５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7102,7 +7648,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉日月村文化街１１５－１號"
+                "k": "南投縣魚池鄉日月村文化街１１５－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7115,7 +7662,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉魚池村魚池街３２１號"
+                "k": "南投縣魚池鄉魚池村魚池街３２１號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7128,7 +7676,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉魚池村魚池街３９７號"
+                "k": "南投縣魚池鄉魚池村魚池街３９７號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -7141,7 +7690,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉日月村義勇街８７號"
+                "k": "南投縣魚池鄉日月村義勇街８７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7154,7 +7704,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉日月村義勇街１０９號"
+                "k": "南投縣魚池鄉日月村義勇街１０９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7167,7 +7718,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉水社村中正路２３號"
+                "k": "南投縣魚池鄉水社村中正路２３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7180,7 +7732,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉水社村中山路８號"
+                "k": "南投縣魚池鄉水社村中山路８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7193,7 +7746,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉水社村中山路６１號"
+                "k": "南投縣魚池鄉水社村中山路６１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7206,7 +7760,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉水社村名勝街１１號"
+                "k": "南投縣魚池鄉水社村名勝街１１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7219,7 +7774,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉日月村水沙連街２７號"
+                "k": "南投縣魚池鄉日月村水沙連街２７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7232,7 +7788,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉大雁村大雁巷４７－７號"
+                "k": "南投縣魚池鄉大雁村大雁巷４７－７號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7245,7 +7802,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉水社村名勝街２８號"
+                "k": "南投縣魚池鄉水社村名勝街２８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7258,7 +7816,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉水社村中山路１３７號"
+                "k": "南投縣魚池鄉水社村中山路１３７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7271,7 +7830,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉日月村中正路３２２號"
+                "k": "南投縣魚池鄉日月村中正路３２２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7284,7 +7844,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉魚池村魚池街４４３－３６號"
+                "k": "南投縣魚池鄉魚池村魚池街４４３－３６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7297,7 +7858,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉日月村中正路２５０號"
+                "k": "南投縣魚池鄉日月村中正路２５０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7310,7 +7872,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉共和村中興巷６－１８號"
+                "k": "南投縣魚池鄉共和村中興巷６－１８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7323,7 +7886,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉魚池村秀水巷２５―６、２５－７、２５－８號"
+                "k": "南投縣魚池鄉魚池村秀水巷２５―６、２５－７、２５－８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -7336,7 +7900,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉大林村金天巷４２－１號"
+                "k": "南投縣魚池鄉大林村金天巷４２－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7349,7 +7914,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉東池村秀水路６９號"
+                "k": "南投縣魚池鄉東池村秀水路６９號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -7362,7 +7928,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉水社村中興路１３６號"
+                "k": "南投縣魚池鄉水社村中興路１３６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -7375,7 +7942,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉水社村名勝街５號"
+                "k": "南投縣魚池鄉水社村名勝街５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7388,7 +7956,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉水社村中山路４１９號"
+                "k": "南投縣魚池鄉水社村中山路４１９號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7401,7 +7970,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉日月村水秀街３１號"
+                "k": "南投縣魚池鄉日月村水秀街３１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7414,7 +7984,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉水社村中興路１３９號"
+                "k": "南投縣魚池鄉水社村中興路１３９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7427,7 +7998,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉大林村金天巷４５－１號"
+                "k": "南投縣魚池鄉大林村金天巷４５－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7440,7 +8012,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉水社村中正路３號"
+                "k": "南投縣魚池鄉水社村中正路３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7453,7 +8026,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉東池村７鄰秀水路６９號"
+                "k": "南投縣魚池鄉東池村７鄰秀水路６９號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -7466,7 +8040,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉水社村中山路１５７號"
+                "k": "南投縣魚池鄉水社村中山路１５７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7479,7 +8054,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉日月村水秀街８號"
+                "k": "南投縣魚池鄉日月村水秀街８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7492,7 +8068,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉水社村１４鄰中山路１３２號"
+                "k": "南投縣魚池鄉水社村１４鄰中山路１３２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7505,7 +8082,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉水社村中興路３９－２號"
+                "k": "南投縣魚池鄉水社村中興路３９－２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7518,7 +8096,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉魚池村魚池街３０３號"
+                "k": "南投縣魚池鄉魚池村魚池街３０３號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7531,7 +8110,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉日月村豐年街４２號"
+                "k": "南投縣魚池鄉日月村豐年街４２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7544,7 +8124,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉日月村德化街４２號"
+                "k": "南投縣魚池鄉日月村德化街４２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7557,7 +8138,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉東光村慶隆巷７５號"
+                "k": "南投縣魚池鄉東光村慶隆巷７５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7570,7 +8152,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉魚池村０１９鄰魚池街８５３號"
+                "k": "南投縣魚池鄉魚池村０１９鄰魚池街８５３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7583,7 +8166,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉水社村中山路３１號"
+                "k": "南投縣魚池鄉水社村中山路３１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7596,7 +8180,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉日月村文化街９６號"
+                "k": "南投縣魚池鄉日月村文化街９６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7609,7 +8194,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉日月村文化街１０５號"
+                "k": "南投縣魚池鄉日月村文化街１０５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7622,7 +8208,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉日月村義勇街１１８號"
+                "k": "南投縣魚池鄉日月村義勇街１１８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7635,7 +8222,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉日月村中正路２４７號"
+                "k": "南投縣魚池鄉日月村中正路２４７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7648,7 +8236,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉水社村中山路１１３號"
+                "k": "南投縣魚池鄉水社村中山路１１３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7661,7 +8250,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉水社村中山路１００號"
+                "k": "南投縣魚池鄉水社村中山路１００號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7674,7 +8264,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉水社村中山路１３５號"
+                "k": "南投縣魚池鄉水社村中山路１３５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7687,7 +8278,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉大雁村山楂腳巷２－１６號"
+                "k": "南投縣魚池鄉大雁村山楂腳巷２－１６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7700,7 +8292,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉日月村義勇街５６號"
+                "k": "南投縣魚池鄉日月村義勇街５６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7713,7 +8306,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉魚池村魚池街３１８號"
+                "k": "南投縣魚池鄉魚池村魚池街３１８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -7726,7 +8320,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉大林村４鄰金天巷７０―３號"
+                "k": "南投縣魚池鄉大林村４鄰金天巷７０―３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7739,7 +8334,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉水社村中興路１２巷１８號"
+                "k": "南投縣魚池鄉水社村中興路１２巷１８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7752,7 +8348,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣魚池鄉共和村長興巷７－９號"
+                "k": "南投縣魚池鄉共和村長興巷７－９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7765,7 +8362,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉初鄉村００１鄰中正路三段６５５號"
+                "k": "南投縣鹿谷鄉初鄉村００１鄰中正路三段６５５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7778,7 +8376,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉內湖村興產路５７之２號"
+                "k": "南投縣鹿谷鄉內湖村興產路５７之２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7791,7 +8390,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉內湖村１０鄰興產路２號"
+                "k": "南投縣鹿谷鄉內湖村１０鄰興產路２號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -7804,7 +8404,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉內湖村３鄰興產路７４－２０號"
+                "k": "南投縣鹿谷鄉內湖村３鄰興產路７４－２０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7817,7 +8418,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉鹿谷村中正路二段３５０號"
+                "k": "南投縣鹿谷鄉鹿谷村中正路二段３５０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7830,7 +8432,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉內湖村興產路６―５號"
+                "k": "南投縣鹿谷鄉內湖村興產路６―５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7843,7 +8446,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉內湖村興產路３號"
+                "k": "南投縣鹿谷鄉內湖村興產路３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -7856,7 +8460,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉內湖村０１０鄰森林巷１２號"
+                "k": "南投縣鹿谷鄉內湖村０１０鄰森林巷１２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7869,7 +8474,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉內湖村興產路４之１７號"
+                "k": "南投縣鹿谷鄉內湖村興產路４之１７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7882,7 +8488,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉內湖村０１１鄰興產路２５―３號"
+                "k": "南投縣鹿谷鄉內湖村０１１鄰興產路２５―３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7895,7 +8502,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉內湖村８鄰興產路３２－６號"
+                "k": "南投縣鹿谷鄉內湖村８鄰興產路３２－６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7908,7 +8516,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉和雅村愛鄉路２－１６號"
+                "k": "南投縣鹿谷鄉和雅村愛鄉路２－１６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7921,7 +8530,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉彰雅村６鄰中正路１段２２５號"
+                "k": "南投縣鹿谷鄉彰雅村６鄰中正路１段２２５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7934,7 +8544,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉內湖村興產路４－２７號"
+                "k": "南投縣鹿谷鄉內湖村興產路４－２７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7947,7 +8558,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉內湖村興產路８―３號"
+                "k": "南投縣鹿谷鄉內湖村興產路８―３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7960,7 +8572,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉鹿谷村中正路２段３８６號"
+                "k": "南投縣鹿谷鄉鹿谷村中正路２段３８６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7973,7 +8586,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉竹豐村光復路９１－５號"
+                "k": "南投縣鹿谷鄉竹豐村光復路９１－５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7986,7 +8600,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉內湖村９鄰興產路３―２號"
+                "k": "南投縣鹿谷鄉內湖村９鄰興產路３―２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7999,7 +8614,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉竹林村００２鄰愛鄉路１２１―１號"
+                "k": "南投縣鹿谷鄉竹林村００２鄰愛鄉路１２１―１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -8012,7 +8628,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉和雅村愛鄉路１－１２號"
+                "k": "南投縣鹿谷鄉和雅村愛鄉路１－１２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -8025,7 +8642,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉廣興村０１７鄰興產路８４號"
+                "k": "南投縣鹿谷鄉廣興村０１７鄰興產路８４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -8038,7 +8656,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉內湖村坪峰巷１－３８號"
+                "k": "南投縣鹿谷鄉內湖村坪峰巷１－３８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -8051,7 +8670,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉內湖村興產路４之１９號"
+                "k": "南投縣鹿谷鄉內湖村興產路４之１９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -8064,7 +8684,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉和雅村愛鄉路１－２號"
+                "k": "南投縣鹿谷鄉和雅村愛鄉路１－２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -8077,7 +8698,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉廣興村中寮路３１―２９號"
+                "k": "南投縣鹿谷鄉廣興村中寮路３１―２９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -8090,7 +8712,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "南投縣鹿谷鄉竹林村田頭巷３５―６６號"
+                "k": "南投縣鹿谷鄉竹林村田頭巷３５―６６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",

@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市太平區勤益里中山路１段１５９巷４７號",
+    "x": 120.73071,
+    "y": 24.141943,
+    "shops": [
+        {
+            "shop": "三角飯飯糰店",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

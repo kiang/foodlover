@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市南區城隍里忠孝路１５９號１樓",
+    "x": 120.682167,
+    "y": 24.129853,
+    "shops": [
+        {
+            "shop": "錦一味串燒屋",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

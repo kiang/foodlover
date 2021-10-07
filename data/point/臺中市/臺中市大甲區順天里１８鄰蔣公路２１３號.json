@@ -1,0 +1,13 @@
+{
+    "name": "餐食攤販",
+    "address": "臺中市大甲區順天里１８鄰蔣公路２１３號１樓",
+    "x": 120.620152,
+    "y": 24.346834,
+    "shops": [
+        {
+            "shop": "特食排骨麵店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

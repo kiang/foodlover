@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市南區福興里福新街６５號１樓",
+    "x": 120.667693,
+    "y": 24.125306,
+    "shops": [
+        {
+            "shop": "品味小吃店",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

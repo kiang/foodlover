@@ -1,0 +1,13 @@
+{
+    "name": "餐食攤販",
+    "address": "桃園市龜山區新路里龜山後街８６號",
+    "x": 121.337149,
+    "y": 24.993818,
+    "shops": [
+        {
+            "shop": "育陞食品",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

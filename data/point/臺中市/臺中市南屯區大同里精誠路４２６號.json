@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市南屯區大同里精誠路４２６號１樓",
+    "x": 120.655001,
+    "y": 24.144798,
+    "shops": [
+        {
+            "shop": "楊家早餐店",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "餐食攤販",
+    "address": "嘉義市東區過溝里文化路１１０號前",
+    "x": 120.44999000096,
+    "y": 23.477160003004,
+    "shops": [
+        {
+            "shop": "郭記香港雞蛋仔",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

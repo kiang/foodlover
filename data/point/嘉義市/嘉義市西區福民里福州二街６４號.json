@@ -1,0 +1,13 @@
+{
+    "name": "便當、自助餐店",
+    "address": "嘉義市西區福民里福州二街６４號１樓",
+    "x": 120.43452000295,
+    "y": 23.463350001805,
+    "shops": [
+        {
+            "shop": "林記燒肉飯",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

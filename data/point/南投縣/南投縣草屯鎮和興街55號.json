@@ -22,11 +22,11 @@
         },
         {
             "shop": "草屯鎮公有零售市場 馨漾工作室",
-            "pay_list": "(線上刷卡)"
+            "pay_list": "線上刷卡"
         },
         {
             "shop": "草屯鎮公有零售市場 茂川肉舖",
-            "pay_list": "(線上刷卡) \/ LINE Pay Money \/ 台灣 PAY"
+            "pay_list": "線上刷卡 \/ LINE Pay Money \/ 台灣 PAY"
         },
         {
             "shop": "草屯鎮公有零售市場 鴻興鵝肉",
@@ -34,11 +34,11 @@
         },
         {
             "shop": "草屯鎮公有零售市場 馨漾工作室",
-            "pay_list": "(線上刷卡)"
+            "pay_list": "線上刷卡"
         },
         {
             "shop": "草屯鎮公有零售市場 茂川肉舖",
-            "pay_list": "(線上刷卡) \/ 台灣 PAY \/ LINE Pay Money"
+            "pay_list": "線上刷卡 \/ 台灣 PAY \/ LINE Pay Money"
         },
         {
             "shop": "草屯鎮公有零售市場 Mina wdding Studio",
@@ -56,5 +56,6 @@
             "shop": "草屯鎮公有零售市場 赤爓紋身",
             "pay_list": "台灣 PAY"
         }
-    ]
+    ],
+    "pay_list": "LINE Pay Money\/線上刷卡\/台灣 PAY"
 }

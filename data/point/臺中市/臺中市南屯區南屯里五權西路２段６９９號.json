@@ -1,0 +1,13 @@
+{
+    "name": "便當、自助餐店",
+    "address": "臺中市南屯區南屯里五權西路２段６９９號",
+    "x": 120.638181,
+    "y": 24.142029,
+    "shops": [
+        {
+            "shop": "崎禾屋食堂",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

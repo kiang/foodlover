@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市東區新庄里大勇街２８號１樓",
+    "x": 120.687105,
+    "y": 24.13529,
+    "shops": [
+        {
+            "shop": "小鍋甜點咖啡店",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
+}

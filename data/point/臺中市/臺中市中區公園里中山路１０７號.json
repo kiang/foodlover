@@ -1,0 +1,17 @@
+{
+    "name": "西點麵包零售",
+    "address": "臺中市中區公園里中山路１０７號１樓",
+    "x": 120.68103155344,
+    "y": 24.139544697485,
+    "shops": [
+        {
+            "shop": "唔嘜烘焙商行",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "玖良商行",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

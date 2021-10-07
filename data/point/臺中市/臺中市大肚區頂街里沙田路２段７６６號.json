@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大肚區頂街里沙田路２段７６６號前",
+    "x": 120.544742,
+    "y": 24.153818,
+    "shops": [
+        {
+            "shop": "一吉棒行動餐車",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money"
+}

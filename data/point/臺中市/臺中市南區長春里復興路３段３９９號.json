@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市南區長春里復興路３段３９９號１樓",
+    "x": 120.679834,
+    "y": 24.133327,
+    "shops": [
+        {
+            "shop": "山本屋拉麵館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

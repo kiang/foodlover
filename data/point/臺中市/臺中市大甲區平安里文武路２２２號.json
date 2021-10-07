@@ -1,0 +1,13 @@
+{
+    "name": "便當、自助餐店",
+    "address": "臺中市大甲區平安里文武路２２２號１樓",
+    "x": 120.619504,
+    "y": 24.348528,
+    "shops": [
+        {
+            "shop": "多美好食品店",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
+}

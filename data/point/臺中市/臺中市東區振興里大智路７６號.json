@@ -1,0 +1,13 @@
+{
+    "name": "便當、自助餐店",
+    "address": "臺中市東區振興里大智路７６號",
+    "x": 120.688579,
+    "y": 24.134502,
+    "shops": [
+        {
+            "shop": "四季村素蔬食自助餐館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

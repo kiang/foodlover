@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市北區長青里陜西路６號",
+    "x": 120.668031,
+    "y": 24.16797,
+    "shops": [
+        {
+            "shop": "馬美蘭",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

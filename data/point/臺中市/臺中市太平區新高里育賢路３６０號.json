@@ -1,0 +1,13 @@
+{
+    "name": "咖啡館",
+    "address": "臺中市太平區新高里育賢路３６０號１樓",
+    "x": 120.714648,
+    "y": 24.158785,
+    "shops": [
+        {
+            "shop": "日紅企業社",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
+}

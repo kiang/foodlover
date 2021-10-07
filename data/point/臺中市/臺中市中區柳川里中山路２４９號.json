@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市中區柳川里中山路２４９號",
+    "x": 120.67791979618,
+    "y": 24.142243437901,
+    "shops": [
+        {
+            "shop": "味無味有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

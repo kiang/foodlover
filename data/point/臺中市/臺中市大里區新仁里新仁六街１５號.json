@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大里區新仁里新仁六街１５號１樓",
+    "x": 120.70589,
+    "y": 24.110688,
+    "shops": [
+        {
+            "shop": "炘彤小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

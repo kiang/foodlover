@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市北區錦祥里育祥街１９號１樓",
+    "x": 120.692687,
+    "y": 24.15681,
+    "shops": [
+        {
+            "shop": "微笑種子商行",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
+}

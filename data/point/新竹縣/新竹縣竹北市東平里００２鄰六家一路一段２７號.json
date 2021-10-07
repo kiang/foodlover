@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "新竹縣竹北市東平里００２鄰六家一路一段２７號１樓",
+    "x": 121.025513,
+    "y": 24.81143,
+    "shops": [
+        {
+            "shop": "大福日式食堂",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "新竹市東區金山里２３鄰光復路１段１６７號",
+    "x": 121.02230527843,
+    "y": 24.781507971542,
+    "shops": [
+        {
+            "shop": "美味葱的餅",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

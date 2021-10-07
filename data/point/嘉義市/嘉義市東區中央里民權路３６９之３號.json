@@ -1,0 +1,13 @@
+{
+    "name": "咖啡館",
+    "address": "嘉義市東區中央里民權路３６９之３號１樓",
+    "x": 120.45035613735,
+    "y": 23.482330397349,
+    "shops": [
+        {
+            "shop": "貓頭鷹咖啡",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

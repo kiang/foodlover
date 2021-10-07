@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市北區建興里永興街７６號１樓",
+    "x": 120.682452,
+    "y": 24.16047,
+    "shops": [
+        {
+            "shop": "九龍",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

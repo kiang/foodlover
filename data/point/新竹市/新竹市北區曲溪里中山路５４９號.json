@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "新竹市北區曲溪里中山路５４９號",
+    "x": 120.95486801716,
+    "y": 24.795878496809,
+    "shops": [
+        {
+            "shop": "臻品早餐店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

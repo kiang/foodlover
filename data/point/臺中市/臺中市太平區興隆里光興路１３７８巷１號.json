@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市太平區興隆里光興路１３７８巷１號",
+    "x": 120.733225,
+    "y": 24.117318,
+    "shops": [
+        {
+            "shop": "金銀銅鐵小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

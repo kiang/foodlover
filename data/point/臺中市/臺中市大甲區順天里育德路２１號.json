@@ -1,0 +1,13 @@
+{
+    "name": "咖啡館",
+    "address": "臺中市大甲區順天里育德路２１號１樓",
+    "x": 120.622515,
+    "y": 24.345779,
+    "shops": [
+        {
+            "shop": "大銀商行",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
+}

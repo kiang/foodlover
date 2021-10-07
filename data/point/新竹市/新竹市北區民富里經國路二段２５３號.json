@@ -1,0 +1,13 @@
+{
+    "name": "連鎖速食店",
+    "address": "新竹市北區民富里經國路二段２５３號１樓",
+    "x": 120.96185770438,
+    "y": 24.810094648996,
+    "shops": [
+        {
+            "shop": "鎂德食品有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

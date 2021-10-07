@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大雅區四德里神林南路６６１號",
+    "x": 120.650402,
+    "y": 24.2189,
+    "shops": [
+        {
+            "shop": "佐固小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

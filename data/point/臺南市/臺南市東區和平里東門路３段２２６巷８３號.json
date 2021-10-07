@@ -1,0 +1,13 @@
+{
+    "name": "連鎖速食店",
+    "address": "臺南市東區和平里東門路３段２２６巷８３號",
+    "x": 120.23437477252,
+    "y": 22.976251029955,
+    "shops": [
+        {
+            "shop": "蜜多利有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

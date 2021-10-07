@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市太平區新城里樹孝路３６－１號",
+    "x": 120.717006,
+    "y": 24.150849,
+    "shops": [
+        {
+            "shop": "曾士庭",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

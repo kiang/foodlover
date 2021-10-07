@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市南區德義里忠孝路８１―１號１樓",
+    "x": 120.675331,
+    "y": 24.126996,
+    "shops": [
+        {
+            "shop": "西濱蛋炒飯小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市東區新庄里大勇街１４號１樓",
+    "x": 120.686943,
+    "y": 24.13557,
+    "shops": [
+        {
+            "shop": "阿蓮米粉湯",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
+}

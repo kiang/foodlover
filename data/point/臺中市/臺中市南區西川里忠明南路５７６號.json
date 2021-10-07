@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市南區西川里忠明南路５７６號１樓",
+    "x": 120.657083,
+    "y": 24.130875,
+    "shops": [
+        {
+            "shop": "上元手作坊",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "新竹市北區西雅里延平路一段１２１號１樓",
+    "x": 120.95766598012,
+    "y": 24.803999567813,
+    "shops": [
+        {
+            "shop": "明志小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

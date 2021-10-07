@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市東區新庄里復興路４段１１０號１樓",
+    "x": 120.685737,
+    "y": 24.135418,
+    "shops": [
+        {
+            "shop": "揪霸食堂",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺南市東區崇明路２號騎樓",
+    "x": 120.2159190939,
+    "y": 22.981872034693,
+    "shops": [
+        {
+            "shop": "二號吐司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市北區頂厝里永興街３２６－６號",
+    "x": 120.682659,
+    "y": 24.166401,
+    "shops": [
+        {
+            "shop": "弘爺漢堡",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

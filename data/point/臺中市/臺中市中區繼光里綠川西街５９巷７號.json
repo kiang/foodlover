@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市中區繼光里綠川西街５９巷７號１樓",
+    "x": 120.681293,
+    "y": 24.137308,
+    "shops": [
+        {
+            "shop": "種籽早午餐",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

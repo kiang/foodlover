@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "嘉義市東區興村里軍輝路２３０號１樓",
+    "x": 120.45848297959,
+    "y": 23.454730919766,
+    "shops": [
+        {
+            "shop": "楓味屋",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

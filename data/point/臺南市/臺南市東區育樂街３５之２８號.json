@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺南市東區育樂街３５之２８號",
+    "x": 120.2172584243,
+    "y": 22.995246714832,
+    "shops": [
+        {
+            "shop": "大夯牛排",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "咖啡零售\/咖啡館",
+    "address": "新竹市東區龍山里慈雲路５１號１樓",
+    "x": 121.0114204463,
+    "y": 24.790156108169,
+    "shops": [
+        {
+            "shop": "醇馥咖啡商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

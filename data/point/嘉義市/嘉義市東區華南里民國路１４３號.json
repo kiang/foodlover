@@ -1,0 +1,25 @@
+{
+    "name": "西點麵包零售\/未分類其他食品批發\/冰果店、冷（熱）飲店\/咖啡館",
+    "address": "嘉義市東區華南里民國路１４３號１樓",
+    "x": 120.4602585747,
+    "y": 23.479252849073,
+    "shops": [
+        {
+            "shop": "多利多食品有限公司",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "多那之麵包坊",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "多利多食品有限公司",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "多那之麵包坊",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

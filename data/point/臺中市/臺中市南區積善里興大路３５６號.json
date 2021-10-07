@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市南區積善里興大路３５６號１樓",
+    "x": 120.67162,
+    "y": 24.117956,
+    "shops": [
+        {
+            "shop": "興大臭豆腐",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

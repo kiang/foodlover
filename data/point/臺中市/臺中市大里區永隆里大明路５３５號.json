@@ -1,0 +1,17 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市大里區永隆里大明路５３５號１樓",
+    "x": 120.673596,
+    "y": 24.114746,
+    "shops": [
+        {
+            "shop": "富鼎堡餐飲商行",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "富鼎堡餐飲有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

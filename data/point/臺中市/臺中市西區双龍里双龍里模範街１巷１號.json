@@ -1,0 +1,13 @@
+{
+    "name": "西點麵包零售",
+    "address": "臺中市西區双龍里双龍里模範街１巷１號１樓",
+    "x": 120.66644440547,
+    "y": 24.147038177783,
+    "shops": [
+        {
+            "shop": "模範街小廚房",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

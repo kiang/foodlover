@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大甲區平安里６鄰民權路１５９號",
+    "x": 120.618582,
+    "y": 24.350059,
+    "shops": [
+        {
+            "shop": "福珍刀削麵",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money"
+}

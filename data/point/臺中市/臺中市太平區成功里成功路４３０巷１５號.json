@@ -1,0 +1,13 @@
+{
+    "name": "便當、自助餐店",
+    "address": "臺中市太平區成功里成功路４３０巷１５號１樓",
+    "x": 120.725675,
+    "y": 24.131136,
+    "shops": [
+        {
+            "shop": "愛夯工作室",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

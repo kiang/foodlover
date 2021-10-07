@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "新竹市北區光華里光華北街６９號一樓",
+    "x": 120.97178727084,
+    "y": 24.817278295831,
+    "shops": [
+        {
+            "shop": "寶泰餐飲店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

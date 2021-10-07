@@ -1,0 +1,13 @@
+{
+    "name": "便當、自助餐店",
+    "address": "臺中市后里區墩東里文明路１６０號１樓",
+    "x": 120.717545,
+    "y": 24.306944,
+    "shops": [
+        {
+            "shop": "九合餐飲店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

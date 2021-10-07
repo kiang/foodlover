@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市太平區宜昌里中山路三段１３７號１樓",
+    "x": 120.715521,
+    "y": 24.148814,
+    "shops": [
+        {
+            "shop": "鑫幸福商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

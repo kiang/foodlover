@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市南區永興里美村南路１０８巷１號１樓",
+    "x": 120.667291,
+    "y": 24.115368,
+    "shops": [
+        {
+            "shop": "夯阿內早餐店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

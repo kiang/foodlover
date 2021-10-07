@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市北屯區三光里東山路１段２－２號之１",
+    "x": 120.698035,
+    "y": 24.170131,
+    "shops": [
+        {
+            "shop": "客常來小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

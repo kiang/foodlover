@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市太平區宜昌里宜昌路３８２號",
+    "x": 120.713812,
+    "y": 24.144591,
+    "shops": [
+        {
+            "shop": "素品香蔬食園",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

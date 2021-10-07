@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市南區西川里忠明南路５８２―１號",
+    "x": 120.658655,
+    "y": 24.132369,
+    "shops": [
+        {
+            "shop": "忠明晨食館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

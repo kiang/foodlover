@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳\/咖啡館",
+    "address": "臺中市新社區協成里南華街３１號",
+    "x": 120.802857,
+    "y": 24.177136,
+    "shops": [
+        {
+            "shop": "橄欖樹農莊",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市南區永興里高工路３５０號",
+    "x": 120.666518,
+    "y": 24.1139,
+    "shops": [
+        {
+            "shop": "億國餐飲店",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
+}

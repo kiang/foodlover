@@ -1,0 +1,13 @@
+{
+    "name": "便當、自助餐店",
+    "address": "臺中市大里區國光里德芳南路４８７號",
+    "x": 120.681951,
+    "y": 24.104493,
+    "shops": [
+        {
+            "shop": "寶屋飲食店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

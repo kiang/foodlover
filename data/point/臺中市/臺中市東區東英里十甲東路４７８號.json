@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市東區東英里十甲東路４７８號１樓",
+    "x": 120.707078,
+    "y": 24.13801,
+    "shops": [
+        {
+            "shop": "麵珍湘牛肉麵",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

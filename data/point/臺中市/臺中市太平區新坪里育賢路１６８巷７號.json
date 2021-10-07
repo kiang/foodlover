@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市太平區新坪里育賢路１６８巷７號１樓",
+    "x": 120.721166,
+    "y": 24.157088,
+    "shops": [
+        {
+            "shop": "捷允餐飲",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "餐食攤販",
+    "address": "臺中市太平區新城里樹孝路１９６號１樓",
+    "x": 120.717805,
+    "y": 24.152701,
+    "shops": [
+        {
+            "shop": "興玖商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

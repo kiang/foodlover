@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市大雅區文雅里１１鄰中清路３段１０２１號１樓",
+    "x": 120.647554,
+    "y": 24.220358,
+    "shops": [
+        {
+            "shop": "旻家日式烤肉店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

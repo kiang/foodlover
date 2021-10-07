@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市北區頂厝里永興街１４９號",
+    "x": 120.68222,
+    "y": 24.162424,
+    "shops": [
+        {
+            "shop": "啡５咖啡茶行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

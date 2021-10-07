@@ -1,0 +1,13 @@
+{
+    "name": "餐食攤販",
+    "address": "臺中市南屯區春社里永春南路６７號",
+    "x": 120.611349,
+    "y": 24.138337,
+    "shops": [
+        {
+            "shop": "全民瘋小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

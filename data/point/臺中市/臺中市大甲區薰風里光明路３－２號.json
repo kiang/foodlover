@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大甲區薰風里光明路３－２號",
+    "x": 120.625452,
+    "y": 24.343547,
+    "shops": [
+        {
+            "shop": "天慈素食",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

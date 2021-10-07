@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市大甲區文武里０２４鄰新政路２８８號１樓",
+    "x": 120.618283,
+    "y": 24.351458,
+    "shops": [
+        {
+            "shop": "雅棋小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

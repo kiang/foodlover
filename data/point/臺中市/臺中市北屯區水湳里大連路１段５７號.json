@@ -1,0 +1,13 @@
+{
+    "name": "餐食攤販",
+    "address": "臺中市北屯區水湳里大連路１段５７號",
+    "x": 120.672642,
+    "y": 24.17601,
+    "shops": [
+        {
+            "shop": "林記小吃",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

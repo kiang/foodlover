@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市北區賴厝里梅川西路三段６６號",
+    "x": 120.676913,
+    "y": 24.165545,
+    "shops": [
+        {
+            "shop": "川原國際有限公司",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
+}

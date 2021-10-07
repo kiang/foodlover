@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市大里區大元里國中路２９６號１樓",
+    "x": 120.679436,
+    "y": 24.0955,
+    "shops": [
+        {
+            "shop": "吉芳商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

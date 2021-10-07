@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大里區金城里中興路一段３０８―１２號１樓",
+    "x": 120.697198,
+    "y": 24.084454,
+    "shops": [
+        {
+            "shop": "壯府小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

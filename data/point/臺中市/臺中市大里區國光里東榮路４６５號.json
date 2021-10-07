@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大里區國光里東榮路４６５號１樓",
+    "x": 120.681239,
+    "y": 24.109607,
+    "shops": [
+        {
+            "shop": "禾元寶小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

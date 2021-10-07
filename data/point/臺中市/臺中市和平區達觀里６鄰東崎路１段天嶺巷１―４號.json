@@ -1,0 +1,13 @@
+{
+    "name": "檳榔零售\/麵店、小吃店\/咖啡館",
+    "address": "臺中市和平區達觀里６鄰東崎路１段天嶺巷１―４號",
+    "x": 120.932053,
+    "y": 24.315754,
+    "shops": [
+        {
+            "shop": "比度咖啡屋",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

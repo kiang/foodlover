@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市北屯區松和里松竹路二段３５７號１樓",
+    "x": 120.691344,
+    "y": 24.182331,
+    "shops": [
+        {
+            "shop": "庄腳囝",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

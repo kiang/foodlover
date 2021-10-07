@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市后里區墩西里公安路７１號",
+    "x": 120.711173,
+    "y": 24.30448,
+    "shops": [
+        {
+            "shop": "喵阿姨早餐窩",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

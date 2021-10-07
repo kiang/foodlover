@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "嘉義縣民雄鄉東榮村東榮路３３號",
+    "x": 120.43185364114,
+    "y": 23.557634310399,
+    "shops": [
+        {
+            "shop": "鄭宇晏",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

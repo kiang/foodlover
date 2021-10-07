@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市太平區新福里中山路４段２１７號１樓",
+    "x": 120.701239,
+    "y": 24.147897,
+    "shops": [
+        {
+            "shop": "箱町日式料理店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

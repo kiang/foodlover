@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大甲區順天里蔣公路２３１巷１號１樓",
+    "x": 120.619527,
+    "y": 24.346943,
+    "shops": [
+        {
+            "shop": "柚一鍋餐館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

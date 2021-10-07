@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市太平區宜昌里中山路３段２１號",
+    "x": 120.721324,
+    "y": 24.149041,
+    "shops": [
+        {
+            "shop": "鼎升泰餐飲有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

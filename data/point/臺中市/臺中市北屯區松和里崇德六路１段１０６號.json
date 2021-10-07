@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市北屯區松和里崇德六路１段１０６號",
+    "x": 120.693301,
+    "y": 24.180164,
+    "shops": [
+        {
+            "shop": "蕃茄村飲食店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "餐食攤販",
+    "address": "新竹市東區南大里竹蓮市場２樓７號",
+    "x": 120.972444,
+    "y": 24.796734,
+    "shops": [
+        {
+            "shop": "鄒瑞玲",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

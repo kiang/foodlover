@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市大里區金城里塗城路９７２號１樓",
+    "x": 120.693123,
+    "y": 24.090779,
+    "shops": [
+        {
+            "shop": "豆漿舖",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

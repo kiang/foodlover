@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市大雅區大雅里學府路２５０巷１０２號１樓",
+    "x": 120.653028,
+    "y": 24.223969,
+    "shops": [
+        {
+            "shop": "享吃早餐店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+}

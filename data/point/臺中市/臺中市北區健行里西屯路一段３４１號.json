@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市北區健行里西屯路一段３４１號１樓",
+    "x": 120.66548,
+    "y": 24.15998,
+    "shops": [
+        {
+            "shop": "中華自助餐",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

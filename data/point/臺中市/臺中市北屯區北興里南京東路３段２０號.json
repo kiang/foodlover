@@ -1,0 +1,13 @@
+{
+    "name": "餐食攤販",
+    "address": "臺中市北屯區北興里南京東路３段２０號",
+    "x": 120.699027,
+    "y": 24.161702,
+    "shops": [
+        {
+            "shop": "南京小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

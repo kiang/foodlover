@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市東區東英里十甲路３６８號１樓",
+    "x": 120.70695,
+    "y": 24.144265,
+    "shops": [
+        {
+            "shop": "１０９牛排",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

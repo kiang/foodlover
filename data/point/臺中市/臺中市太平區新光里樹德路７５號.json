@@ -1,0 +1,17 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市太平區新光里樹德路７５號",
+    "x": 120.710915,
+    "y": 24.151567,
+    "shops": [
+        {
+            "shop": "黃雅玲",
+            "pay_list": "歐付寶"
+        },
+        {
+            "shop": "甘味茶飲行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "歐付寶\/LINE Pay Money"
+}

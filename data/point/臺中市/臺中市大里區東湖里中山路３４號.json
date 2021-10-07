@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市大里區東湖里中山路３４號",
+    "x": 120.695297,
+    "y": 24.082433,
+    "shops": [
+        {
+            "shop": "弘爺漢堡園區店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "新竹市北區育英里中山路３２５號",
+    "x": 120.95944358205,
+    "y": 24.800814221227,
+    "shops": [
+        {
+            "shop": "翔希早餐店",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money"
+}

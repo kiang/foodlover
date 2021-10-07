@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市南區福順里南陽街８１號１樓",
+    "x": 120.660668,
+    "y": 24.124879,
+    "shops": [
+        {
+            "shop": "弘爺漢堡以勒嗎哪店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

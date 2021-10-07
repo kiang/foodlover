@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市大肚區自強里５鄰遊園路２段２０３巷１弄９４號",
+    "x": 120.580488,
+    "y": 24.17478,
+    "shops": [
+        {
+            "shop": "巧芝美早點",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

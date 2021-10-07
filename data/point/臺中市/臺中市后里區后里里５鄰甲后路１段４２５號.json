@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市后里區后里里５鄰甲后路１段４２５號",
+    "x": 120.722969,
+    "y": 24.308796,
+    "shops": [
+        {
+            "shop": "尚品小吃部",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

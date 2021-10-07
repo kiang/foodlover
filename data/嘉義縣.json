@@ -4,7 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉和睦村０１０鄰中華路７９２、７９４號"
+                "k": "嘉義縣中埔鄉和睦村０１０鄰中華路７９２、７９４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -17,7 +18,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉??舘村下庄仔７號"
+                "k": "嘉義縣中埔鄉??舘村下庄仔７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +32,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣六腳鄉崙陽村崙子１８７號"
+                "k": "嘉義縣六腳鄉崙陽村崙子１８７號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -43,7 +46,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣大林鎮西林里中山路２３７號"
+                "k": "嘉義縣大林鎮西林里中山路２３７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -56,7 +60,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣大林鎮中坑里０２２鄰大埔美園區五路３號"
+                "k": "嘉義縣大林鎮中坑里０２２鄰大埔美園區五路３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -69,7 +74,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣大林鎮平林里００６鄰新興街１５１號"
+                "k": "嘉義縣大林鎮平林里００６鄰新興街１５１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -82,7 +88,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣大林鎮平林里００６鄰新興街１４７號"
+                "k": "嘉義縣大林鎮平林里００６鄰新興街１４７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -95,7 +102,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣大林鎮東林里００７鄰中興路６２號"
+                "k": "嘉義縣大林鎮東林里００７鄰中興路６２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -108,7 +116,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市安仁里０１０鄰祥和三路東段５號"
+                "k": "嘉義縣太保市安仁里０１０鄰祥和三路東段５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +130,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市南新里北港路二段１０２號"
+                "k": "嘉義縣太保市南新里北港路二段１０２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -134,7 +144,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市安仁里０１１鄰太保二路１３３號"
+                "k": "嘉義縣太保市安仁里０１１鄰太保二路１３３號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -147,7 +158,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市安仁里１１鄰祥和三路東段２９６號"
+                "k": "嘉義縣太保市安仁里１１鄰祥和三路東段２９６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +172,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市麻寮里中山路二段２１４號"
+                "k": "嘉義縣太保市麻寮里中山路二段２１４號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -173,7 +186,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市南新里中山路一段６４號"
+                "k": "嘉義縣太保市南新里中山路一段６４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -186,7 +200,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣布袋鎮岑海里中正路６５號"
+                "k": "嘉義縣布袋鎮岑海里中正路６５號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +214,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣新港鄉菜公村４鄰菜公厝２３－６號"
+                "k": "嘉義縣新港鄉菜公村４鄰菜公厝２３－６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +228,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣新港鄉宮前村中山路１２０號"
+                "k": "嘉義縣新港鄉宮前村中山路１２０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -225,7 +242,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣新港鄉宮前村中山路８號"
+                "k": "嘉義縣新港鄉宮前村中山路８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +256,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣新港鄉宮前村１９鄰中山路８５－２號"
+                "k": "嘉義縣新港鄉宮前村１９鄰中山路８５－２號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -251,7 +270,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣新港鄉宮前村新民路６４號"
+                "k": "嘉義縣新港鄉宮前村新民路６４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -264,7 +284,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣新港鄉宮後村新民路８５號"
+                "k": "嘉義縣新港鄉宮後村新民路８５號",
+                "pay_list": "街口支付\/一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -277,7 +298,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市竹圍里大同路１６９號"
+                "k": "嘉義縣朴子市竹圍里大同路１６９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -290,7 +312,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市大鄉里大槺榔９５６、９５８號"
+                "k": "嘉義縣朴子市大鄉里大槺榔９５６、９５８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -303,7 +326,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市文化里海通路７０―１號"
+                "k": "嘉義縣朴子市文化里海通路７０―１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -316,7 +340,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市安福里山通路１２號"
+                "k": "嘉義縣朴子市安福里山通路１２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -329,7 +354,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市永和里０１４鄰應菜埔１０５號"
+                "k": "嘉義縣朴子市永和里０１４鄰應菜埔１０５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -342,7 +368,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉東榮村１６鄰文化路２８號"
+                "k": "嘉義縣民雄鄉東榮村１６鄰文化路２８號",
+                "pay_list": "一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -355,7 +382,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉北斗村０２６鄰新生街１０號"
+                "k": "嘉義縣民雄鄉北斗村０２６鄰新生街１０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -368,7 +396,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉三興村１鄰陳厝寮１―３號"
+                "k": "嘉義縣民雄鄉三興村１鄰陳厝寮１―３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -381,7 +410,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉文隆村１４鄰鴨母坔９０－１１號"
+                "k": "嘉義縣民雄鄉文隆村１４鄰鴨母坔９０－１１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -394,7 +424,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉山中村１９鄰牛斗山２０９―２８號"
+                "k": "嘉義縣民雄鄉山中村１９鄰牛斗山２０９―２８號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -407,7 +438,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉大崎村００５鄰大丘園１８３號"
+                "k": "嘉義縣民雄鄉大崎村００５鄰大丘園１８３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -420,7 +452,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉三興村陳厝寮３８號"
+                "k": "嘉義縣民雄鄉三興村陳厝寮３８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -433,7 +466,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉興南村００１鄰建國路三段１４３號"
+                "k": "嘉義縣民雄鄉興南村００１鄰建國路三段１４３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -446,7 +480,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉大崎村１５鄰十四甲１３４號"
+                "k": "嘉義縣民雄鄉大崎村１５鄰十四甲１３４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -459,7 +494,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉柳林村柳子林５０－１６２號"
+                "k": "嘉義縣水上鄉柳林村柳子林５０－１６２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -472,7 +508,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉寬士村崎子頭２４―５１號"
+                "k": "嘉義縣水上鄉寬士村崎子頭２４―５１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -485,7 +522,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉柳林村００９鄰柳子林５０―１７２號"
+                "k": "嘉義縣水上鄉柳林村００９鄰柳子林５０―１７２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -498,7 +536,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉義興村番子寮１６號"
+                "k": "嘉義縣水上鄉義興村番子寮１６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -511,7 +550,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣溪口鄉溪東村１鄰民生街２３號"
+                "k": "嘉義縣溪口鄉溪東村１鄰民生街２３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -524,7 +564,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣番路鄉新福村大庄１－１６號"
+                "k": "嘉義縣番路鄉新福村大庄１－１６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -537,7 +578,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣竹崎鄉和平村０１０鄰田寮６４號"
+                "k": "嘉義縣竹崎鄉和平村０１０鄰田寮６４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -550,7 +592,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣竹崎鄉灣橋村０１６鄰灣橋１８５－７號"
+                "k": "嘉義縣竹崎鄉灣橋村０１６鄰灣橋１８５－７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -563,7 +606,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣竹崎鄉中和村奮起湖１４２之１號"
+                "k": "嘉義縣竹崎鄉中和村奮起湖１４２之１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -576,7 +620,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉和興村１鄰中山路５段８９７號"
+                "k": "嘉義縣中埔鄉和興村１鄰中山路５段８９７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -589,7 +634,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉和美村１鄰司公??７－２號"
+                "k": "嘉義縣中埔鄉和美村１鄰司公??７－２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -602,7 +648,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉和美村１８鄰中山路５段９６８號"
+                "k": "嘉義縣中埔鄉和美村１８鄰中山路５段９６８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -615,7 +662,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉同仁村３鄰同仁４２―４號"
+                "k": "嘉義縣中埔鄉同仁村３鄰同仁４２―４號",
+                "pay_list": "一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -628,7 +676,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉金蘭村０１２鄰頂山門２１附１１號"
+                "k": "嘉義縣中埔鄉金蘭村０１２鄰頂山門２１附１１號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -641,7 +690,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉和美村中山路５段９３６號"
+                "k": "嘉義縣中埔鄉和美村中山路５段９３６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -654,7 +704,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉和美村三和路１附１號"
+                "k": "嘉義縣中埔鄉和美村三和路１附１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -667,7 +718,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉義仁村０１３鄰樹頭埔３４－１２號"
+                "k": "嘉義縣中埔鄉義仁村０１３鄰樹頭埔３４－１２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -680,7 +732,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉富收村頂中下街８１－５號"
+                "k": "嘉義縣中埔鄉富收村頂中下街８１－５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -693,7 +746,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉和睦村司公廍４號"
+                "k": "嘉義縣中埔鄉和睦村司公廍４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -706,7 +760,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉和睦村司公廍４－１號"
+                "k": "嘉義縣中埔鄉和睦村司公廍４－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -719,7 +774,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉中埔村００３鄰中埔１１－１６號"
+                "k": "嘉義縣中埔鄉中埔村００３鄰中埔１１－１６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -732,7 +788,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉和睦村中山路５段５２５號"
+                "k": "嘉義縣中埔鄉和睦村中山路５段５２５號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -745,7 +802,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉石硦村石硦４７附３２號"
+                "k": "嘉義縣中埔鄉石硦村石硦４７附３２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -758,7 +816,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉和美村中山路五段７００號"
+                "k": "嘉義縣中埔鄉和美村中山路五段７００號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -771,7 +830,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉中埔村中正路５９號"
+                "k": "嘉義縣中埔鄉中埔村中正路５９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -784,7 +844,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉和睦村００１鄰司公廍４－１號"
+                "k": "嘉義縣中埔鄉和睦村００１鄰司公廍４－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -797,7 +858,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉和睦村司公廍３－１９號"
+                "k": "嘉義縣中埔鄉和睦村司公廍３－１９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -810,7 +872,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉和美村中山路５段９１８號"
+                "k": "嘉義縣中埔鄉和美村中山路５段９１８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -823,7 +886,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉和美村０１４鄰中山路五段８９４號"
+                "k": "嘉義縣中埔鄉和美村０１４鄰中山路五段８９４號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -836,7 +900,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉和美村０１８鄰中山路五段９５０號"
+                "k": "嘉義縣中埔鄉和美村０１８鄰中山路五段９５０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -849,7 +914,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉和美村０１４鄰中山路五段８８２號"
+                "k": "嘉義縣中埔鄉和美村０１４鄰中山路五段８８２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -862,7 +928,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉和興村００１鄰中山路五段９９１號"
+                "k": "嘉義縣中埔鄉和興村００１鄰中山路五段９９１號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -875,7 +942,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉義仁村１５鄰田寮仔２５號"
+                "k": "嘉義縣中埔鄉義仁村１５鄰田寮仔２５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -888,7 +956,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉和美村中山路５段５２６號"
+                "k": "嘉義縣中埔鄉和美村中山路５段５２６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -901,7 +970,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣中埔鄉和美村大義路４０３號"
+                "k": "嘉義縣中埔鄉和美村大義路４０３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -914,7 +984,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣六腳鄉蒜頭村蒜頭市場第９號"
+                "k": "嘉義縣六腳鄉蒜頭村蒜頭市場第９號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -927,7 +998,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣六腳鄉蒜頭村０１４鄰１８９號"
+                "k": "嘉義縣六腳鄉蒜頭村０１４鄰１８９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -940,7 +1012,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣六腳鄉崙陽村１０鄰崙子１７６號"
+                "k": "嘉義縣六腳鄉崙陽村１０鄰崙子１７６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -953,7 +1026,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣六腳鄉蒜南村蒜頭３４２號"
+                "k": "嘉義縣六腳鄉蒜南村蒜頭３４２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -966,7 +1040,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣大林鎮西林里８鄰中正路５５０號"
+                "k": "嘉義縣大林鎮西林里８鄰中正路５５０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -979,7 +1054,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣大林鎮平林里０１７鄰民權路３３號"
+                "k": "嘉義縣大林鎮平林里０１７鄰民權路３３號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -992,7 +1068,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣大林鎮平林里０１８鄰民權路１０號"
+                "k": "嘉義縣大林鎮平林里０１８鄰民權路１０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1005,7 +1082,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣大林鎮西林里０１９鄰中正路３３３號"
+                "k": "嘉義縣大林鎮西林里０１９鄰中正路３３３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1018,7 +1096,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣大林鎮大美里０１４鄰大埔美１７９號"
+                "k": "嘉義縣大林鎮大美里０１４鄰大埔美１７９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1031,7 +1110,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣大林鎮西林里００７鄰中山路１０９號"
+                "k": "嘉義縣大林鎮西林里００７鄰中山路１０９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1044,7 +1124,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣大林鎮西林里１３鄰中興路１１號"
+                "k": "嘉義縣大林鎮西林里１３鄰中興路１１號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1057,7 +1138,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣大林鎮西林里０１８鄰西榮路５９號"
+                "k": "嘉義縣大林鎮西林里０１８鄰西榮路５９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1070,7 +1152,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣大林鎮西林里０１１鄰中正路４４８號"
+                "k": "嘉義縣大林鎮西林里０１１鄰中正路４４８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1083,7 +1166,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣大林鎮西林里８鄰中正路５５６號"
+                "k": "嘉義縣大林鎮西林里８鄰中正路５５６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1096,7 +1180,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣大林鎮大美里１４鄰大埔美１８０號"
+                "k": "嘉義縣大林鎮大美里１４鄰大埔美１８０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1109,7 +1194,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣大林鎮吉林里０１０鄰中山路３４號"
+                "k": "嘉義縣大林鎮吉林里０１０鄰中山路３４號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1122,7 +1208,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣大林鎮明和里０１２鄰忠孝路５６９巷６－１號"
+                "k": "嘉義縣大林鎮明和里０１２鄰忠孝路５６９巷６－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1135,7 +1222,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣大林鎮中坑里南華路一段５５號"
+                "k": "嘉義縣大林鎮中坑里南華路一段５５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1148,7 +1236,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣大林鎮過溪里０１５鄰過溪５７２號"
+                "k": "嘉義縣大林鎮過溪里０１５鄰過溪５７２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1161,7 +1250,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣大林鎮西林里０１３鄰中興路１號"
+                "k": "嘉義縣大林鎮西林里０１３鄰中興路１號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1174,7 +1264,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣大林鎮平林里民權路５３號"
+                "k": "嘉義縣大林鎮平林里民權路５３號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1187,7 +1278,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣大林鎮西林里００８鄰中正路５４８號"
+                "k": "嘉義縣大林鎮西林里００８鄰中正路５４８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1200,7 +1292,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣大林鎮平林里００６鄰下潭底２３號"
+                "k": "嘉義縣大林鎮平林里００６鄰下潭底２３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1213,7 +1306,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市安仁里１０鄰太保二路６９巷８號"
+                "k": "嘉義縣太保市安仁里１０鄰太保二路６９巷８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1226,7 +1320,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市南新里１５鄰北港路２段１３０號"
+                "k": "嘉義縣太保市南新里１５鄰北港路２段１３０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1239,7 +1334,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市麻寮里中山路二段５號"
+                "k": "嘉義縣太保市麻寮里中山路二段５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1252,7 +1348,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市安仁里１０鄰祥和三路東段１９２號"
+                "k": "嘉義縣太保市安仁里１０鄰祥和三路東段１９２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1265,7 +1362,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市麻寮里中山路２段２３號"
+                "k": "嘉義縣太保市麻寮里中山路２段２３號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1278,7 +1376,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市麻寮里０１４鄰中山路二段１１８－３號"
+                "k": "嘉義縣太保市麻寮里０１４鄰中山路二段１１８－３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1291,7 +1390,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市麻寮里北港路２段６０１巷５３號"
+                "k": "嘉義縣太保市麻寮里北港路２段６０１巷５３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1304,7 +1404,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市安仁里１０鄰棒球一街８號"
+                "k": "嘉義縣太保市安仁里１０鄰棒球一街８號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1317,7 +1418,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市麻寮里中山路二段４６－２號"
+                "k": "嘉義縣太保市麻寮里中山路二段４６－２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1330,7 +1432,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市安仁里０１０鄰祥和一路東段１０號"
+                "k": "嘉義縣太保市安仁里０１０鄰祥和一路東段１０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1343,7 +1446,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市安仁里太保二路１２號"
+                "k": "嘉義縣太保市安仁里太保二路１２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1356,7 +1460,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市東勢里故宮大道８８８號"
+                "k": "嘉義縣太保市東勢里故宮大道８８８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1369,7 +1474,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市太保里高鐵西路１６８號"
+                "k": "嘉義縣太保市太保里高鐵西路１６８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1382,7 +1488,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市東勢里故宮大道７７７號"
+                "k": "嘉義縣太保市東勢里故宮大道７７７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1395,7 +1502,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市安仁里０１０鄰祥和三路東段１９號"
+                "k": "嘉義縣太保市安仁里０１０鄰祥和三路東段１９號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1408,7 +1516,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市安仁里１０鄰祥和一路東段１７號"
+                "k": "嘉義縣太保市安仁里１０鄰祥和一路東段１７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1421,7 +1530,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市安仁里１０鄰祥和三路東段１７０號"
+                "k": "嘉義縣太保市安仁里１０鄰祥和三路東段１７０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1434,7 +1544,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市安仁里１０鄰祥和三路東段２００號"
+                "k": "嘉義縣太保市安仁里１０鄰祥和三路東段２００號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1447,7 +1558,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市麻寮里１４鄰中山路２段１１８號"
+                "k": "嘉義縣太保市麻寮里１４鄰中山路２段１１８號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1460,7 +1572,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市安仁里祥和三路東段２１６號"
+                "k": "嘉義縣太保市安仁里祥和三路東段２１６號",
+                "pay_list": "一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1473,7 +1586,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市麻寮里中山路二段１７７―８號"
+                "k": "嘉義縣太保市麻寮里中山路二段１７７―８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1486,7 +1600,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市麻寮里１５鄰中山路２段１７７―７號"
+                "k": "嘉義縣太保市麻寮里１５鄰中山路２段１７７―７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1499,7 +1614,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市安仁里０１０鄰祥和二路東段６７號"
+                "k": "嘉義縣太保市安仁里０１０鄰祥和二路東段６７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1512,7 +1628,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市東勢里故宮大道７３７號"
+                "k": "嘉義縣太保市東勢里故宮大道７３７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1525,7 +1642,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市麻寮里中山路二段２９號"
+                "k": "嘉義縣太保市麻寮里中山路二段２９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1538,7 +1656,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市後潭里後潭３２０號"
+                "k": "嘉義縣太保市後潭里後潭３２０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1551,7 +1670,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市過溝里麻太路１３３號"
+                "k": "嘉義縣太保市過溝里麻太路１３３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1564,7 +1684,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市安仁里太保二路１５５號"
+                "k": "嘉義縣太保市安仁里太保二路１５５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1577,7 +1698,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市安仁里祥和一路東段６８號"
+                "k": "嘉義縣太保市安仁里祥和一路東段６８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1590,7 +1712,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市麻寮里中山路２段６２―１號"
+                "k": "嘉義縣太保市麻寮里中山路２段６２―１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1603,7 +1726,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市安仁里太保二路９１號"
+                "k": "嘉義縣太保市安仁里太保二路９１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1616,7 +1740,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市安仁里０１０鄰祥和三路東段１７６號"
+                "k": "嘉義縣太保市安仁里０１０鄰祥和三路東段１７６號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1629,7 +1754,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市安仁里０１０鄰祥和一路東段２７號"
+                "k": "嘉義縣太保市安仁里０１０鄰祥和一路東段２７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1642,7 +1768,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市麻寮里００３鄰中山路二段５―１號"
+                "k": "嘉義縣太保市麻寮里００３鄰中山路二段５―１號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1655,7 +1782,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市安仁里０１１鄰太保二路１３９號"
+                "k": "嘉義縣太保市安仁里０１１鄰太保二路１３９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1668,7 +1796,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市太保里００１鄰太保２－７號"
+                "k": "嘉義縣太保市太保里００１鄰太保２－７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1681,7 +1810,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市麻寮里００６鄰中山路二段１６８號"
+                "k": "嘉義縣太保市麻寮里００６鄰中山路二段１６８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1694,7 +1824,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市安仁里０１０鄰祥和三路東段１８８號"
+                "k": "嘉義縣太保市安仁里０１０鄰祥和三路東段１８８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1707,7 +1838,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市後潭里０１３鄰後潭３２６號"
+                "k": "嘉義縣太保市後潭里０１３鄰後潭３２６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1720,7 +1852,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市麻寮里０１４鄰中山路二段１３６―４號"
+                "k": "嘉義縣太保市麻寮里０１４鄰中山路二段１３６―４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1733,7 +1866,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市麻寮里中山路二段２５４號"
+                "k": "嘉義縣太保市麻寮里中山路二段２５４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1746,7 +1880,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣太保市南新里０１６鄰中正路２１９號"
+                "k": "嘉義縣太保市南新里０１６鄰中正路２１９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1759,7 +1894,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣布袋鎮岑海里中山路３號"
+                "k": "嘉義縣布袋鎮岑海里中山路３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1772,7 +1908,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣布袋鎮新民里４鄰新??２７７號"
+                "k": "嘉義縣布袋鎮新民里４鄰新??２７７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1785,7 +1922,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣布袋鎮東港里２０鄰埔仔厝７８號"
+                "k": "嘉義縣布袋鎮東港里２０鄰埔仔厝７８號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1798,7 +1936,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣布袋鎮岑海里０１６鄰海興街６號"
+                "k": "嘉義縣布袋鎮岑海里０１６鄰海興街６號",
+                "pay_list": "街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -1811,7 +1950,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣布袋鎮岑海里順安路６１號"
+                "k": "嘉義縣布袋鎮岑海里順安路６１號",
+                "pay_list": "街口支付\/一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1824,7 +1964,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣布袋鎮岑海里１５鄰中山路４３號"
+                "k": "嘉義縣布袋鎮岑海里１５鄰中山路４３號",
+                "pay_list": "一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1837,7 +1978,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣布袋鎮興中里上海路２８５號"
+                "k": "嘉義縣布袋鎮興中里上海路２８５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1850,7 +1992,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣布袋鎮興中里上海路２３７號"
+                "k": "嘉義縣布袋鎮興中里上海路２３７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1863,7 +2006,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣新港鄉宮前村０１９鄰中山路７９號"
+                "k": "嘉義縣新港鄉宮前村０１９鄰中山路７９號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1876,7 +2020,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣新港鄉宮前村００１鄰中山路３４號"
+                "k": "嘉義縣新港鄉宮前村００１鄰中山路３４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1889,7 +2034,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣新港鄉三間村１６２－１０號"
+                "k": "嘉義縣新港鄉三間村１６２－１０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1902,7 +2048,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣新港鄉宮前村中山路９８號號"
+                "k": "嘉義縣新港鄉宮前村中山路９８號",
+                "pay_list": "一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1915,7 +2062,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣新港鄉宮前村０２３鄰中山路１２３號"
+                "k": "嘉義縣新港鄉宮前村０２３鄰中山路１２３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1928,7 +2076,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣新港鄉宮前村０１６鄰中山路４３號"
+                "k": "嘉義縣新港鄉宮前村０１６鄰中山路４３號",
+                "pay_list": "愛金卡\/台灣 PAY\/一卡通\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1941,7 +2090,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣新港鄉宮前村０１９鄰中山路６３號"
+                "k": "嘉義縣新港鄉宮前村０１９鄰中山路６３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1954,7 +2104,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣新港鄉福德村福德路１０４號"
+                "k": "嘉義縣新港鄉福德村福德路１０４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1967,7 +2118,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣新港鄉大興村００６鄰中正路１００號"
+                "k": "嘉義縣新港鄉大興村００６鄰中正路１００號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1980,7 +2132,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣新港鄉宮前村００６鄰登雲路８９號"
+                "k": "嘉義縣新港鄉宮前村００６鄰登雲路８９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1993,7 +2146,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市文化里海通路１２８―４號"
+                "k": "嘉義縣朴子市文化里海通路１２８―４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2006,7 +2160,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市竹圍里光復新路６７號"
+                "k": "嘉義縣朴子市竹圍里光復新路６７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2019,7 +2174,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市文化里０１１鄰海通路１３８號"
+                "k": "嘉義縣朴子市文化里０１１鄰海通路１３８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2032,7 +2188,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市竹圍里０１４鄰文化南路２６９號"
+                "k": "嘉義縣朴子市竹圍里０１４鄰文化南路２６９號",
+                "pay_list": "一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2045,7 +2202,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市竹圍里１２鄰南通路３段７１１號"
+                "k": "嘉義縣朴子市竹圍里１２鄰南通路３段７１１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2058,7 +2216,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市文化里１鄰南通路３段８４９號"
+                "k": "嘉義縣朴子市文化里１鄰南通路３段８４９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2071,7 +2230,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市安福里山通路３號"
+                "k": "嘉義縣朴子市安福里山通路３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2084,7 +2244,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市文化里海通路１９―１號"
+                "k": "嘉義縣朴子市文化里海通路１９―１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2097,7 +2258,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市平和里海通路２０號"
+                "k": "嘉義縣朴子市平和里海通路２０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2110,7 +2272,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市大葛里朴子七路１９２號"
+                "k": "嘉義縣朴子市大葛里朴子七路１９２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2123,7 +2286,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市平和里００４鄰平和路１３―８號"
+                "k": "嘉義縣朴子市平和里００４鄰平和路１３―８號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2136,7 +2300,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市竹圍里南通路三段７１８號"
+                "k": "嘉義縣朴子市竹圍里南通路三段７１８號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2149,7 +2314,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市安福里２４鄰天星新村１１６號"
+                "k": "嘉義縣朴子市安福里２４鄰天星新村１１６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2162,7 +2328,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市安福里文明路２８號"
+                "k": "嘉義縣朴子市安福里文明路２８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2175,7 +2342,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市文化里山通路２０２號"
+                "k": "嘉義縣朴子市文化里山通路２０２號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2188,7 +2356,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市安福里６鄰北通路４１號"
+                "k": "嘉義縣朴子市安福里６鄰北通路４１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2201,7 +2370,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市大葛里祥和三路西段７１號"
+                "k": "嘉義縣朴子市大葛里祥和三路西段７１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2214,7 +2384,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市安福里１鄰山通路２４－１３號"
+                "k": "嘉義縣朴子市安福里１鄰山通路２４－１３號",
+                "pay_list": "愛金卡\/台灣 PAY\/一卡通\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2227,7 +2398,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市中正里６鄰山通路１２６號"
+                "k": "嘉義縣朴子市中正里６鄰山通路１２６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2240,7 +2412,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市文化里１０鄰海通路１１６―１號"
+                "k": "嘉義縣朴子市文化里１０鄰海通路１１６―１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2253,7 +2426,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市竹圍里５鄰文化南路７號"
+                "k": "嘉義縣朴子市竹圍里５鄰文化南路７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2266,7 +2440,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市大葛里朴子七路２２６號"
+                "k": "嘉義縣朴子市大葛里朴子七路２２６號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2279,7 +2454,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市文化里海通路５０號"
+                "k": "嘉義縣朴子市文化里海通路５０號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2292,7 +2468,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市文化里１２鄰海通路２５號"
+                "k": "嘉義縣朴子市文化里１２鄰海通路２５號",
+                "pay_list": "台灣 PAY\/一卡通\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2305,7 +2482,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市平和里三安路７３號"
+                "k": "嘉義縣朴子市平和里三安路７３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2318,7 +2496,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市竹圍里四維路一段６３５號"
+                "k": "嘉義縣朴子市竹圍里四維路一段６３５號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2331,7 +2510,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市竹圍里海通路４１號"
+                "k": "嘉義縣朴子市竹圍里海通路４１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2344,7 +2524,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市竹圍里海通路４３－１３號"
+                "k": "嘉義縣朴子市竹圍里海通路４３－１３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2357,7 +2538,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市大葛里０２４鄰祥和三路西段１２５號"
+                "k": "嘉義縣朴子市大葛里０２４鄰祥和三路西段１２５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2370,7 +2552,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市平和里市東路４０號"
+                "k": "嘉義縣朴子市平和里市東路４０號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2383,7 +2566,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市安福里１９鄰文明路１６－１號"
+                "k": "嘉義縣朴子市安福里１９鄰文明路１６－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2396,7 +2580,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市竹圍里００５鄰文化南路９號"
+                "k": "嘉義縣朴子市竹圍里００５鄰文化南路９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2409,7 +2594,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市永和里??菜埔３７―２４號"
+                "k": "嘉義縣朴子市永和里??菜埔３７―２４號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2422,7 +2608,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市大葛里祥和一路西段１００號"
+                "k": "嘉義縣朴子市大葛里祥和一路西段１００號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2435,7 +2622,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市文化里海通路７８號"
+                "k": "嘉義縣朴子市文化里海通路７８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2448,7 +2636,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市大葛里朴子七路１６號"
+                "k": "嘉義縣朴子市大葛里朴子七路１６號",
+                "pay_list": "街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -2461,7 +2650,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市文化里海通路３５―１號"
+                "k": "嘉義縣朴子市文化里海通路３５―１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2474,7 +2664,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市文化里海通路１１８號"
+                "k": "嘉義縣朴子市文化里海通路１１８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2487,7 +2678,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市中正里山通路１３６之１號"
+                "k": "嘉義縣朴子市中正里山通路１３６之１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2500,7 +2692,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市大鄉里大槺榔６２７號"
+                "k": "嘉義縣朴子市大鄉里大槺榔６２７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2513,7 +2706,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市文化里海通路１２２―１號"
+                "k": "嘉義縣朴子市文化里海通路１２２―１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2526,7 +2720,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市文化里開元路２９３號"
+                "k": "嘉義縣朴子市文化里開元路２９３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2539,7 +2734,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市大鄉里９６０號"
+                "k": "嘉義縣朴子市大鄉里９６０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2552,7 +2748,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣朴子市文化里山通路１８６號"
+                "k": "嘉義縣朴子市文化里山通路１８６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2565,7 +2762,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣東石鄉永屯村５鄰３９－７號"
+                "k": "嘉義縣東石鄉永屯村５鄰３９－７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2578,7 +2776,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣東石鄉??港村１０鄰塭港５２－４３號"
+                "k": "嘉義縣東石鄉??港村１０鄰塭港５２－４３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2591,7 +2790,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣梅山鄉瑞里村７鄰幼葉林４４號"
+                "k": "嘉義縣梅山鄉瑞里村７鄰幼葉林４４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2604,7 +2804,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣梅山鄉碧湖村４鄰碧湖３８―９號"
+                "k": "嘉義縣梅山鄉碧湖村４鄰碧湖３８―９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2617,7 +2818,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣梅山鄉太平村００９鄰下坑仔２號"
+                "k": "嘉義縣梅山鄉太平村００９鄰下坑仔２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2630,7 +2832,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣梅山鄉梅北村中山路２７６號"
+                "k": "嘉義縣梅山鄉梅北村中山路２７６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2643,7 +2846,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣梅山鄉瑞里村００６鄰幼葉林１０號"
+                "k": "嘉義縣梅山鄉瑞里村００６鄰幼葉林１０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2656,7 +2860,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣梅山鄉梅東村０１６鄰中山路９６號"
+                "k": "嘉義縣梅山鄉梅東村０１６鄰中山路９６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2669,7 +2874,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣梅山鄉梅北村００２鄰健康街１２１巷３弄７號"
+                "k": "嘉義縣梅山鄉梅北村００２鄰健康街１２１巷３弄７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -2682,7 +2888,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣梅山鄉梅北村０１２鄰中山路３６３號"
+                "k": "嘉義縣梅山鄉梅北村０１２鄰中山路３６３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2695,7 +2902,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣梅山鄉龍眼村００７鄰龍眼林２８號"
+                "k": "嘉義縣梅山鄉龍眼村００７鄰龍眼林２８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2708,7 +2916,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣梅山鄉梅北村０１２鄰中山路４４７號"
+                "k": "嘉義縣梅山鄉梅北村０１２鄰中山路４４７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2721,7 +2930,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣梅山鄉太興村００８鄰溪頭１９號"
+                "k": "嘉義縣梅山鄉太興村００８鄰溪頭１９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2734,7 +2944,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣梅山鄉梅北村００６鄰中山路２７７號"
+                "k": "嘉義縣梅山鄉梅北村００６鄰中山路２７７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2747,7 +2958,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉中樂村１１鄰復興路５３號"
+                "k": "嘉義縣民雄鄉中樂村１１鄰復興路５３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2760,7 +2972,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉西安村３鄰西安路２４－１號"
+                "k": "嘉義縣民雄鄉西安村３鄰西安路２４－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2773,7 +2986,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉東榮村２鄰中庄１６－２２號"
+                "k": "嘉義縣民雄鄉東榮村２鄰中庄１６－２２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2786,7 +3000,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉三興村大學路１６８號"
+                "k": "嘉義縣民雄鄉三興村大學路１６８號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2799,7 +3014,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉三興村神農一街５號"
+                "k": "嘉義縣民雄鄉三興村神農一街５號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2812,7 +3028,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉東榮村００６鄰建國路１段１３號"
+                "k": "嘉義縣民雄鄉東榮村００６鄰建國路１段１３號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2825,7 +3042,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉中樂村３鄰昇平路３７號"
+                "k": "嘉義縣民雄鄉中樂村３鄰昇平路３７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2838,7 +3056,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉興中村００６鄰江厝店５４―８號"
+                "k": "嘉義縣民雄鄉興中村００６鄰江厝店５４―８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2851,7 +3070,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉福樂村埤角９２號"
+                "k": "嘉義縣民雄鄉福樂村埤角９２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2864,7 +3084,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉三興村００７鄰裕農一街１７號"
+                "k": "嘉義縣民雄鄉三興村００７鄰裕農一街１７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2877,7 +3098,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉西安村０２６鄰保生街１５０－１號"
+                "k": "嘉義縣民雄鄉西安村０２６鄰保生街１５０－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2890,7 +3112,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉東榮村東榮路３３號號"
+                "k": "嘉義縣民雄鄉東榮村東榮路３３號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2903,7 +3126,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉東榮村０１２鄰民族路８號"
+                "k": "嘉義縣民雄鄉東榮村０１２鄰民族路８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2916,7 +3140,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉東榮村００２鄰中庄１６―１７號"
+                "k": "嘉義縣民雄鄉東榮村００２鄰中庄１６―１７號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2929,7 +3154,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉福樂村００６鄰埤角５３５號"
+                "k": "嘉義縣民雄鄉福樂村００６鄰埤角５３５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2942,7 +3168,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉雙福村０２０鄰建國路二段１４６號"
+                "k": "嘉義縣民雄鄉雙福村０２０鄰建國路二段１４６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2955,7 +3182,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉三興村神農路９３號"
+                "k": "嘉義縣民雄鄉三興村神農路９３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2968,7 +3196,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉東湖村０１９鄰建國路二段４８８―１號"
+                "k": "嘉義縣民雄鄉東湖村０１９鄰建國路二段４８８―１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2981,7 +3210,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉中樂村０２３鄰民權路３―１２號"
+                "k": "嘉義縣民雄鄉中樂村０２３鄰民權路３―１２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2994,7 +3224,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉中樂村００５鄰復興路７０號"
+                "k": "嘉義縣民雄鄉中樂村００５鄰復興路７０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3007,7 +3238,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉文隆村００２鄰鴨母坔２－５７號"
+                "k": "嘉義縣民雄鄉文隆村００２鄰鴨母坔２－５７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3020,7 +3252,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉西安村０２０鄰西安路２１號"
+                "k": "嘉義縣民雄鄉西安村０２０鄰西安路２１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3033,7 +3266,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉三興村裕農路１９５號"
+                "k": "嘉義縣民雄鄉三興村裕農路１９５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3046,7 +3280,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉福樂村０１８鄰建國路三段１６４號"
+                "k": "嘉義縣民雄鄉福樂村０１８鄰建國路三段１６４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3059,7 +3294,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉中樂村１６鄰中樂路８７號"
+                "k": "嘉義縣民雄鄉中樂村１６鄰中樂路８７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3072,7 +3308,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉北斗村００６鄰北勢子７８－１號"
+                "k": "嘉義縣民雄鄉北斗村００６鄰北勢子７８－１號",
+                "pay_list": "街口支付\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3085,7 +3322,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉文隆村０１３鄰建國路二段１３０號"
+                "k": "嘉義縣民雄鄉文隆村０１３鄰建國路二段１３０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3098,7 +3336,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉中樂村２１鄰文化路３３號"
+                "k": "嘉義縣民雄鄉中樂村２１鄰文化路３３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3111,7 +3350,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉東榮村１８鄰東榮路２０號"
+                "k": "嘉義縣民雄鄉東榮村１８鄰東榮路２０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3124,7 +3364,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉東榮村５鄰東榮路１５號"
+                "k": "嘉義縣民雄鄉東榮村５鄰東榮路１５號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3137,7 +3378,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉東榮村０１７鄰建國路一段２３１號"
+                "k": "嘉義縣民雄鄉東榮村０１７鄰建國路一段２３１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3150,7 +3392,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉西昌村０４鄰竹子腳６３―１號"
+                "k": "嘉義縣民雄鄉西昌村０４鄰竹子腳６３―１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3163,7 +3406,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉福樂村２鄰埤角９號"
+                "k": "嘉義縣民雄鄉福樂村２鄰埤角９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3176,7 +3420,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉北斗村１１鄰北勢子８２―２號"
+                "k": "嘉義縣民雄鄉北斗村１１鄰北勢子８２―２號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3189,7 +3434,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉三興村００７鄰神農路１２９號"
+                "k": "嘉義縣民雄鄉三興村００７鄰神農路１２９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3202,7 +3448,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉西安村０２６鄰保生街１３８號"
+                "k": "嘉義縣民雄鄉西安村０２６鄰保生街１３８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3215,7 +3462,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉福樂村０１０鄰埤角３６９號"
+                "k": "嘉義縣民雄鄉福樂村０１０鄰埤角３６９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3228,7 +3476,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉東榮村００１鄰中庄６―３號"
+                "k": "嘉義縣民雄鄉東榮村００１鄰中庄６―３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3241,7 +3490,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉東榮村０２４鄰文化路３０―２５號"
+                "k": "嘉義縣民雄鄉東榮村０２４鄰文化路３０―２５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3254,7 +3504,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉西安村３鄰西安路２０號"
+                "k": "嘉義縣民雄鄉西安村３鄰西安路２０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3267,7 +3518,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉三興村裕農路１８９號"
+                "k": "嘉義縣民雄鄉三興村裕農路１８９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3280,7 +3532,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉豐收村０１１鄰好收１９６―６號"
+                "k": "嘉義縣民雄鄉豐收村０１１鄰好收１９６―６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3293,7 +3546,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉北斗村０２２鄰北勢子９５－４６號"
+                "k": "嘉義縣民雄鄉北斗村０２２鄰北勢子９５－４６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3306,7 +3560,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉福樂村０１５鄰埤角２３０號"
+                "k": "嘉義縣民雄鄉福樂村０１５鄰埤角２３０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3319,7 +3574,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉東榮村００６鄰建國路二段４１５號"
+                "k": "嘉義縣民雄鄉東榮村００６鄰建國路二段４１５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3332,7 +3588,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉東榮村東榮路２９號"
+                "k": "嘉義縣民雄鄉東榮村東榮路２９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3345,7 +3602,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉雙福村０１９鄰建國路二段１４０號"
+                "k": "嘉義縣民雄鄉雙福村０１９鄰建國路二段１４０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3358,7 +3616,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉福樂村０１５鄰埤角２２１號"
+                "k": "嘉義縣民雄鄉福樂村０１５鄰埤角２２１號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3371,7 +3630,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉北斗村新忠路７３號"
+                "k": "嘉義縣民雄鄉北斗村新忠路７３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3384,7 +3644,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉三興村００７鄰大學路一段４３３號"
+                "k": "嘉義縣民雄鄉三興村００７鄰大學路一段４３３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3397,7 +3658,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉中樂村保生街７７號"
+                "k": "嘉義縣民雄鄉中樂村保生街７７號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3410,7 +3672,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉福樂村０１６鄰埤角１９３號"
+                "k": "嘉義縣民雄鄉福樂村０１６鄰埤角１９３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3423,7 +3686,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉福樂村００２鄰埤角１６－５２號"
+                "k": "嘉義縣民雄鄉福樂村００２鄰埤角１６－５２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3436,7 +3700,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉西安村００４鄰復興路９３號"
+                "k": "嘉義縣民雄鄉西安村００４鄰復興路９３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3449,7 +3714,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉西安村０２０鄰安和路１０號"
+                "k": "嘉義縣民雄鄉西安村０２０鄰安和路１０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3462,7 +3728,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉東榮村００５鄰建國路一段１３５號"
+                "k": "嘉義縣民雄鄉東榮村００５鄰建國路一段１３５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3475,7 +3742,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉興中村００５鄰江厝店１―７號"
+                "k": "嘉義縣民雄鄉興中村００５鄰江厝店１―７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3488,7 +3756,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉興中村００５鄰江厝店１－８號"
+                "k": "嘉義縣民雄鄉興中村００５鄰江厝店１－８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3501,7 +3770,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉北斗村１８鄰新庄子３５―５號"
+                "k": "嘉義縣民雄鄉北斗村１８鄰新庄子３５―５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3514,7 +3784,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉福樂村０１３鄰建國路３段２２０號"
+                "k": "嘉義縣民雄鄉福樂村０１３鄰建國路３段２２０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3527,7 +3798,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉三興村大學路１段１６８號"
+                "k": "嘉義縣民雄鄉三興村大學路１段１６８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3540,7 +3812,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉東榮村中樂路３９號"
+                "k": "嘉義縣民雄鄉東榮村中樂路３９號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3553,7 +3826,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉北斗村０３２鄰新正二街１３號"
+                "k": "嘉義縣民雄鄉北斗村０３２鄰新正二街１３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3566,7 +3840,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉西安村保生街１９７號"
+                "k": "嘉義縣民雄鄉西安村保生街１９７號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3579,7 +3854,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉西安村進興街８７號"
+                "k": "嘉義縣民雄鄉西安村進興街８７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3592,7 +3868,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉中樂村０２６鄰文化路１號"
+                "k": "嘉義縣民雄鄉中樂村０２６鄰文化路１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3605,7 +3882,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉東榮村００６鄰建國路一段４５號"
+                "k": "嘉義縣民雄鄉東榮村００６鄰建國路一段４５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3618,7 +3896,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉三興村富農路１１７號"
+                "k": "嘉義縣民雄鄉三興村富農路１１７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3631,7 +3910,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉金興村０２２鄰忠義街１２４號"
+                "k": "嘉義縣民雄鄉金興村０２２鄰忠義街１２４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3644,7 +3924,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉福樂村００５鄰埤角５１－２號"
+                "k": "嘉義縣民雄鄉福樂村００５鄰埤角５１－２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3657,7 +3938,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉東榮村東榮路２號"
+                "k": "嘉義縣民雄鄉東榮村東榮路２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3670,7 +3952,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉福樂村埤角３４５號"
+                "k": "嘉義縣民雄鄉福樂村埤角３４５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3683,7 +3966,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉三興村００７鄰神農路８９號"
+                "k": "嘉義縣民雄鄉三興村００７鄰神農路８９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3696,7 +3980,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉中樂村民生路３號"
+                "k": "嘉義縣民雄鄉中樂村民生路３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3709,7 +3994,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉福樂村０１８鄰建國路三段１５２號"
+                "k": "嘉義縣民雄鄉福樂村０１８鄰建國路三段１５２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3722,7 +4008,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉西安村０２６鄰保生街１５０―６號"
+                "k": "嘉義縣民雄鄉西安村０２６鄰保生街１５０―６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3735,7 +4022,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉中樂村１鄰民權路３－２４號"
+                "k": "嘉義縣民雄鄉中樂村１鄰民權路３－２４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3748,7 +4036,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣民雄鄉寮頂村０１２鄰民權路２―１０號"
+                "k": "嘉義縣民雄鄉寮頂村０１２鄰民權路２―１０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3761,7 +4050,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉民生村１２鄰忠孝街１３２號"
+                "k": "嘉義縣水上鄉民生村１２鄰忠孝街１３２號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3774,7 +4064,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉水頭村９鄰中興路３７３號"
+                "k": "嘉義縣水上鄉水頭村９鄰中興路３７３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3787,7 +4078,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉民生村０２３鄰忠孝街１１５號"
+                "k": "嘉義縣水上鄉民生村０２３鄰忠孝街１１５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3800,7 +4092,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉水頭村正義路５０號"
+                "k": "嘉義縣水上鄉水頭村正義路５０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3813,7 +4106,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉水頭村中興路１２３－１號"
+                "k": "嘉義縣水上鄉水頭村中興路１２３－１號",
+                "pay_list": "LINE Pay Money\/台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3826,7 +4120,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉水頭村９鄰中興路３７５號"
+                "k": "嘉義縣水上鄉水頭村９鄰中興路３７５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3839,7 +4134,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉中庄村００１鄰中庄７１―５０號"
+                "k": "嘉義縣水上鄉中庄村００１鄰中庄７１―５０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3852,7 +4148,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉三和村新厝仔２－９１號"
+                "k": "嘉義縣水上鄉三和村新厝仔２－９１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3865,7 +4162,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉下寮村中山路二段１０１５號"
+                "k": "嘉義縣水上鄉下寮村中山路二段１０１５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3878,7 +4176,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉水頭村１７鄰中興路３０６號"
+                "k": "嘉義縣水上鄉水頭村１７鄰中興路３０６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3891,7 +4190,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉粗溪村５鄰中山路二段４０２號"
+                "k": "嘉義縣水上鄉粗溪村５鄰中山路二段４０２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3904,7 +4204,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉水頭村中興路３１８號"
+                "k": "嘉義縣水上鄉水頭村中興路３１８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3917,7 +4218,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉水頭村新進街１８２號"
+                "k": "嘉義縣水上鄉水頭村新進街１８２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3930,7 +4232,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉水頭村中興路１０８號"
+                "k": "嘉義縣水上鄉水頭村中興路１０８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3943,7 +4246,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉水頭村中興路４０２號"
+                "k": "嘉義縣水上鄉水頭村中興路４０２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3956,7 +4260,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉回歸村建國四村１９１－３號"
+                "k": "嘉義縣水上鄉回歸村建國四村１９１－３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3969,7 +4274,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉民生村０１８鄰忠孝街２４３號"
+                "k": "嘉義縣水上鄉民生村０１８鄰忠孝街２４３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3982,7 +4288,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉民生村忠孝街２６６號"
+                "k": "嘉義縣水上鄉民生村忠孝街２６６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3995,7 +4302,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉水頭村正義路２１號"
+                "k": "嘉義縣水上鄉水頭村正義路２１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4008,7 +4316,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉水頭村正義路３５號"
+                "k": "嘉義縣水上鄉水頭村正義路３５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4021,7 +4330,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉水頭村中興路５０８號"
+                "k": "嘉義縣水上鄉水頭村中興路５０８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4034,7 +4344,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉水頭村１７鄰中興路２９８號"
+                "k": "嘉義縣水上鄉水頭村１７鄰中興路２９８號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4047,7 +4358,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉水頭村１８鄰中興路３１５號"
+                "k": "嘉義縣水上鄉水頭村１８鄰中興路３１５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4060,7 +4372,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣水上鄉水頭村１８鄰中興路３１１號"
+                "k": "嘉義縣水上鄉水頭村１８鄰中興路３１１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4073,7 +4386,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣溪口鄉溪北村和平街５３號"
+                "k": "嘉義縣溪口鄉溪北村和平街５３號",
+                "pay_list": "一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -4086,7 +4400,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣番路鄉觸口村０１８鄰梅花六路２巷１６號"
+                "k": "嘉義縣番路鄉觸口村０１８鄰梅花六路２巷１６號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4099,7 +4414,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣番路鄉下坑村下坑４１―２０號"
+                "k": "嘉義縣番路鄉下坑村下坑４１―２０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4112,7 +4428,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣番路鄉公田村龍頭１９－６號"
+                "k": "嘉義縣番路鄉公田村龍頭１９－６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4125,7 +4442,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣番路鄉下坑村下坑４５－１８號"
+                "k": "嘉義縣番路鄉下坑村下坑４５－１８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4138,7 +4456,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣番路鄉內甕村００１鄰後坑仔３５號"
+                "k": "嘉義縣番路鄉內甕村００１鄰後坑仔３５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4151,7 +4470,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣番路鄉內甕村００３鄰凸湖５－３號"
+                "k": "嘉義縣番路鄉內甕村００３鄰凸湖５－３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4164,7 +4484,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣番路鄉內甕村後坑仔２８號"
+                "k": "嘉義縣番路鄉內甕村後坑仔２８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4177,7 +4498,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣番路鄉公田村１鄰龍頭９號"
+                "k": "嘉義縣番路鄉公田村１鄰龍頭９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4190,7 +4512,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣番路鄉江西村平畑３９號"
+                "k": "嘉義縣番路鄉江西村平畑３９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4203,7 +4526,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣番路鄉觸口村梅花五路１巷２０號"
+                "k": "嘉義縣番路鄉觸口村梅花五路１巷２０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4216,7 +4540,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣番路鄉下坑村菜公店１３８號"
+                "k": "嘉義縣番路鄉下坑村菜公店１３８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4229,7 +4554,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣番路鄉新福村０１１鄰日安一街２５０號"
+                "k": "嘉義縣番路鄉新福村０１１鄰日安一街２５０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4242,7 +4568,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣番路鄉公興村００１鄰龍美（臨）９之１號"
+                "k": "嘉義縣番路鄉公興村００１鄰龍美（臨）９之１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4255,7 +4582,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣番路鄉下坑村菜公店５０號"
+                "k": "嘉義縣番路鄉下坑村菜公店５０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4268,7 +4596,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣番路鄉下坑村００３鄰菜公店７５號"
+                "k": "嘉義縣番路鄉下坑村００３鄰菜公店７５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4281,7 +4610,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣竹崎鄉中和村０１９鄰石棹１３－１號"
+                "k": "嘉義縣竹崎鄉中和村０１９鄰石棹１３－１號",
+                "pay_list": "一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -4294,7 +4624,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣竹崎鄉獅埜村００１鄰東義１４號"
+                "k": "嘉義縣竹崎鄉獅埜村００１鄰東義１４號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4307,7 +4638,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣竹崎鄉中和村奮起湖１７８之１號"
+                "k": "嘉義縣竹崎鄉中和村奮起湖１７８之１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4320,7 +4652,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣竹崎鄉竹崎村中華路１７６號"
+                "k": "嘉義縣竹崎鄉竹崎村中華路１７６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4333,7 +4666,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣竹崎鄉和平村７鄰坑仔坪１４７號"
+                "k": "嘉義縣竹崎鄉和平村７鄰坑仔坪１４７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4346,7 +4680,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣竹崎鄉灣橋村０２３鄰灣橋３０６號"
+                "k": "嘉義縣竹崎鄉灣橋村０２３鄰灣橋３０６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4359,7 +4694,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣竹崎鄉中和村奮起湖１１３號"
+                "k": "嘉義縣竹崎鄉中和村奮起湖１１３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4372,7 +4708,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣竹崎鄉中和村００９鄰奮起湖１１１號"
+                "k": "嘉義縣竹崎鄉中和村００９鄰奮起湖１１１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4385,7 +4722,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣竹崎鄉中和村奮起湖１９０號"
+                "k": "嘉義縣竹崎鄉中和村奮起湖１９０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4398,7 +4736,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣竹崎鄉和平村００７鄰坑仔坪１５２號"
+                "k": "嘉義縣竹崎鄉和平村００７鄰坑仔坪１５２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4411,7 +4750,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣竹崎鄉灣橋村０２５鄰五間厝１７２號"
+                "k": "嘉義縣竹崎鄉灣橋村０２５鄰五間厝１７２號",
+                "pay_list": "一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -4424,7 +4764,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣竹崎鄉竹崎村０１４鄰中華路７號"
+                "k": "嘉義縣竹崎鄉竹崎村０１４鄰中華路７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4437,7 +4778,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣竹崎鄉中和村石棹１號"
+                "k": "嘉義縣竹崎鄉中和村石棹１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4450,7 +4792,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣義竹鄉仁里村９鄰義竹３８６―４號"
+                "k": "嘉義縣義竹鄉仁里村９鄰義竹３８６―４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4463,7 +4806,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣義竹鄉六桂村２鄰１５６―３號"
+                "k": "嘉義縣義竹鄉六桂村２鄰１５６―３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4476,7 +4820,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣阿里山鄉香林村阿里山國家森林遊樂區香林服務區第１７號"
+                "k": "嘉義縣阿里山鄉香林村阿里山國家森林遊樂區香林服務區第１７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4489,7 +4834,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣阿里山鄉新美村４鄰新美６１號"
+                "k": "嘉義縣阿里山鄉新美村４鄰新美６１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4502,7 +4848,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣阿里山鄉里佳村００３鄰里佳６１號"
+                "k": "嘉義縣阿里山鄉里佳村００３鄰里佳６１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4515,7 +4862,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣阿里山鄉樂野村樂野２０９－８號"
+                "k": "嘉義縣阿里山鄉樂野村樂野２０９－８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4528,7 +4876,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣阿里山鄉樂野村樂野２２－１號"
+                "k": "嘉義縣阿里山鄉樂野村樂野２２－１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4541,7 +4890,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣阿里山鄉山美村００６鄰山美１０６號"
+                "k": "嘉義縣阿里山鄉山美村００６鄰山美１０６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4554,7 +4904,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣阿里山鄉來吉村００４鄰來吉９０號"
+                "k": "嘉義縣阿里山鄉來吉村００４鄰來吉９０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4567,7 +4918,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣阿里山鄉山美村００１鄰山美１―１號"
+                "k": "嘉義縣阿里山鄉山美村００１鄰山美１―１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4580,7 +4932,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣阿里山鄉來吉村來吉１０９號"
+                "k": "嘉義縣阿里山鄉來吉村來吉１０９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4593,7 +4946,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣阿里山鄉樂野村００８鄰樂野２０９－６號"
+                "k": "嘉義縣阿里山鄉樂野村００８鄰樂野２０９－６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4606,7 +4960,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣阿里山鄉山美村４鄰７２－１６號"
+                "k": "嘉義縣阿里山鄉山美村４鄰７２－１６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4619,7 +4974,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣阿里山鄉樂野村樂野２號"
+                "k": "嘉義縣阿里山鄉樂野村樂野２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4632,7 +4988,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣阿里山鄉中正村００３鄰東阿里山４１號"
+                "k": "嘉義縣阿里山鄉中正村００３鄰東阿里山４１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4645,7 +5002,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣阿里山鄉樂野村樂野８２號"
+                "k": "嘉義縣阿里山鄉樂野村樂野８２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4658,7 +5016,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣阿里山鄉來吉村１０號"
+                "k": "嘉義縣阿里山鄉來吉村１０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4671,7 +5030,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣鹿草鄉後堀村０２１鄰山子腳６５號"
+                "k": "嘉義縣鹿草鄉後堀村０２１鄰山子腳６５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -4684,7 +5044,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義縣鹿草鄉豐稠村馬稠後１―１０號"
+                "k": "嘉義縣鹿草鄉豐稠村馬稠後１―１０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",

@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市北區建興里梅亭街２５２號１樓",
+    "x": 120.681686,
+    "y": 24.16043,
+    "shops": [
+        {
+            "shop": "日台品味坊",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

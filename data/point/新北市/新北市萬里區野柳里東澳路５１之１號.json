@@ -1,0 +1,13 @@
+{
+    "name": "餐食攤販",
+    "address": "新北市萬里區野柳里東澳路５１之１號",
+    "x": 121.691742,
+    "y": 25.202888,
+    "shops": [
+        {
+            "shop": "楊李素卿",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

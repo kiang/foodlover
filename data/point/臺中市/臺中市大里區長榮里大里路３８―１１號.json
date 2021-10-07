@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大里區長榮里大里路３８―１１號",
+    "x": 120.68942,
+    "y": 24.107652,
+    "shops": [
+        {
+            "shop": "何冠餐飲坊",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

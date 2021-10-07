@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市大里區西榮里中興路２段４６９號１樓",
+    "x": 120.689631,
+    "y": 24.114079,
+    "shops": [
+        {
+            "shop": "雙醬大里店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

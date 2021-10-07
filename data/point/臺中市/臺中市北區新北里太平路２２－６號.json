@@ -1,0 +1,13 @@
+{
+    "name": "餐食攤販",
+    "address": "臺中市北區新北里太平路２２－６號",
+    "x": 120.685357,
+    "y": 24.147791,
+    "shops": [
+        {
+            "shop": "簡正昌",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

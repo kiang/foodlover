@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市北屯區平心里昌平路一段２７２號",
+    "x": 120.690935,
+    "y": 24.17238,
+    "shops": [
+        {
+            "shop": "老麵店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

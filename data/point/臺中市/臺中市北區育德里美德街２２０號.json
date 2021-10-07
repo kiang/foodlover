@@ -1,0 +1,13 @@
+{
+    "name": "餐食攤販",
+    "address": "臺中市北區育德里美德街２２０號騎樓",
+    "x": 120.678889,
+    "y": 24.158311,
+    "shops": [
+        {
+            "shop": "邱倩怡",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

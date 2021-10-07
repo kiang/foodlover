@@ -1,0 +1,13 @@
+{
+    "name": "便當、自助餐店",
+    "address": "臺中市南區和平里東興路１段３２號",
+    "x": 120.657304,
+    "y": 24.118903,
+    "shops": [
+        {
+            "shop": "伴飯餐飲商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "新北市鶯歌區北鶯里中正一路６２巷４０號",
+    "x": 121.354416,
+    "y": 24.955276,
+    "shops": [
+        {
+            "shop": "胖虎王商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

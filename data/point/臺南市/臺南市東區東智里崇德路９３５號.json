@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺南市東區東智里崇德路９３５號１樓",
+    "x": 120.22761515284,
+    "y": 22.962328799885,
+    "shops": [
+        {
+            "shop": "千祥早午餐",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

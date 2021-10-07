@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市太平區長億里長億六街５３―１２號１樓",
+    "x": 120.71893,
+    "y": 24.116202,
+    "shops": [
+        {
+            "shop": "鄭瑞楠",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

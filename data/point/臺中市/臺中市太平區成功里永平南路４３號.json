@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市太平區成功里永平南路４３號１樓",
+    "x": 120.721864,
+    "y": 24.129442,
+    "shops": [
+        {
+            "shop": "鼎峰小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市北區樂英里精武路２４８號",
+    "x": 120.689049,
+    "y": 24.14706,
+    "shops": [
+        {
+            "shop": "湖南味",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

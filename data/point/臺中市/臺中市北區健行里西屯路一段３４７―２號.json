@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市北區健行里西屯路一段３４７―２號１樓",
+    "x": 120.666317,
+    "y": 24.1594,
+    "shops": [
+        {
+            "shop": "三小滷味店",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

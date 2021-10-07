@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市北區新北里雙十路１段１１７―２號",
+    "x": 120.686361,
+    "y": 24.14747,
+    "shops": [
+        {
+            "shop": "豐頤鼎餐飲有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

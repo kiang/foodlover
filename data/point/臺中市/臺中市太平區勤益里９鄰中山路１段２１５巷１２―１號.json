@@ -1,0 +1,13 @@
+{
+    "name": "餐食攤販",
+    "address": "臺中市太平區勤益里９鄰中山路１段２１５巷１２―１號１樓",
+    "x": 120.73311,
+    "y": 24.142626,
+    "shops": [
+        {
+            "shop": "中興酵素飯團",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

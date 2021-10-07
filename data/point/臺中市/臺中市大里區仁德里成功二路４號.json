@@ -1,0 +1,13 @@
+{
+    "name": "調理飲料攤販",
+    "address": "臺中市大里區仁德里成功二路４號１樓",
+    "x": 120.703615,
+    "y": 24.092188,
+    "shops": [
+        {
+            "shop": "沏碗茶茶飲店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

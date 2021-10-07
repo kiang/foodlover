@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大肚區新興里２７鄰溪洲路１９―１號",
+    "x": 120.544324,
+    "y": 24.135092,
+    "shops": [
+        {
+            "shop": "福客來牛肉麵",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

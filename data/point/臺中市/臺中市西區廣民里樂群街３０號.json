@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市西區廣民里樂群街３０號",
+    "x": 120.67309895651,
+    "y": 24.139869867072,
+    "shops": [
+        {
+            "shop": "品香早餐店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

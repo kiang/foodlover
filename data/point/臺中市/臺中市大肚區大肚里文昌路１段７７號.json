@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大肚區大肚里文昌路１段７７號前",
+    "x": 120.543878,
+    "y": 24.150672,
+    "shops": [
+        {
+            "shop": "趙永吉",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

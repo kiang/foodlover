@@ -1,0 +1,13 @@
+{
+    "name": "便當、自助餐店",
+    "address": "臺中市東區新庄里復興路４段６５號１樓",
+    "x": 120.684507,
+    "y": 24.135272,
+    "shops": [
+        {
+            "shop": "好平食堂",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

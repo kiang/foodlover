@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市中區中華里中華路一段７６號１樓",
+    "x": 120.675634,
+    "y": 24.14393,
+    "shops": [
+        {
+            "shop": "禧萊食堂",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

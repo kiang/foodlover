@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大甲區岷山里中山路１段８８４號１樓",
+    "x": 120.627702,
+    "y": 24.348381,
+    "shops": [
+        {
+            "shop": "翔雲小吃部",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money"
+}

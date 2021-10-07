@@ -1,0 +1,13 @@
+{
+    "name": "咖啡館",
+    "address": "新竹市東區關帝里西大路３６０號",
+    "x": 120.9657291709,
+    "y": 24.802021926392,
+    "shops": [
+        {
+            "shop": "九一咖啡坊",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "嘉義市西區永和里民族路７７７號１樓",
+    "x": 120.44081000344,
+    "y": 23.47508000055,
+    "shops": [
+        {
+            "shop": "潘府小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

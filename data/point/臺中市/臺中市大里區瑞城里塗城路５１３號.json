@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市大里區瑞城里塗城路５１３號",
+    "x": 120.705944,
+    "y": 24.087441,
+    "shops": [
+        {
+            "shop": "土司森林塗城店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "桃園市大園區三石里００８鄰菓林路１９號",
+    "x": 121.259431,
+    "y": 25.073975,
+    "shops": [
+        {
+            "shop": "蒸煮流商行",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money"
+}

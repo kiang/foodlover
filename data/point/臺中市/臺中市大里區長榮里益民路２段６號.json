@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大里區長榮里益民路２段６號",
+    "x": 120.689098,
+    "y": 24.106456,
+    "shops": [
+        {
+            "shop": "縱橫益民小吃部",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市南區樹德里大慶街２段３０號１樓",
+    "x": 120.650721,
+    "y": 24.11569,
+    "shops": [
+        {
+            "shop": "品味美食館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

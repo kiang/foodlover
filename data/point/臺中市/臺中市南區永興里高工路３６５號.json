@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市南區永興里高工路３６５號、３６７號１樓",
+    "x": 120.667182,
+    "y": 24.114426,
+    "shops": [
+        {
+            "shop": "津德利企業社",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

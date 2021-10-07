@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市西區中興里美村路１段１６４巷１７號１樓",
+    "x": 120.66042899301,
+    "y": 24.150048526982,
+    "shops": [
+        {
+            "shop": "勃特商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

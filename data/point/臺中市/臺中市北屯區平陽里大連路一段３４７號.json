@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市北屯區平陽里大連路一段３４７號１樓",
+    "x": 120.679123,
+    "y": 24.176803,
+    "shops": [
+        {
+            "shop": "李建宏",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

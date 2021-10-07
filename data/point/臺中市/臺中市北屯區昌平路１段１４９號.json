@@ -1,0 +1,13 @@
+{
+    "name": "餐食攤販",
+    "address": "臺中市北屯區昌平路１段１４９號騎樓",
+    "x": 120.690172,
+    "y": 24.176189,
+    "shops": [
+        {
+            "shop": "槑豆花",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

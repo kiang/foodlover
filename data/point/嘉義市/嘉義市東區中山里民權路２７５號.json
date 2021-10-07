@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "嘉義市東區中山里民權路２７５號１樓",
+    "x": 120.45589010008,
+    "y": 23.483220005184,
+    "shops": [
+        {
+            "shop": "波里手作早午餐",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

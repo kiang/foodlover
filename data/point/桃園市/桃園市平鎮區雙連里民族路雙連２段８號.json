@@ -1,0 +1,13 @@
+{
+    "name": "飲料零售\/麵店、小吃店",
+    "address": "桃園市平鎮區雙連里民族路雙連２段８號１樓",
+    "x": 121.189865,
+    "y": 24.960474,
+    "shops": [
+        {
+            "shop": "火焰串燒炸烤工坊",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

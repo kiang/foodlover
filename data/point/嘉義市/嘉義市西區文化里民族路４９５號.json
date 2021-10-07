@@ -1,0 +1,17 @@
+{
+    "name": "飲料零售\/連鎖速食店\/西點麵包零售",
+    "address": "嘉義市西區文化里民族路４９５號１樓",
+    "x": 120.44863999725,
+    "y": 23.475780007744,
+    "shops": [
+        {
+            "shop": "可口味食品有限公司－民族分公司",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "可口味食品有限公司－民族分公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

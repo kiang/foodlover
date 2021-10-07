@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "桃園市龍潭區上林里中豐路上林段１１４－１號",
+    "x": 121.20822,
+    "y": 24.86324,
+    "shops": [
+        {
+            "shop": "壹碗燒臘",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

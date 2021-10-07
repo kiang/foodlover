@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市太平區太平里太平路３７３號",
+    "x": 120.7172,
+    "y": 24.123875,
+    "shops": [
+        {
+            "shop": "立可小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

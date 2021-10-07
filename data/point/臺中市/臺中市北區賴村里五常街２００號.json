@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店\/飲料零售",
+    "address": "臺中市北區賴村里五常街２００號",
+    "x": 120.680023,
+    "y": 24.159773,
+    "shops": [
+        {
+            "shop": "義大利小吃店",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money"
+}

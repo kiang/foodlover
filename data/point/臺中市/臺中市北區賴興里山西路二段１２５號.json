@@ -1,0 +1,21 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市北區賴興里山西路二段１２５號１樓（東義市場）",
+    "x": 120.675659,
+    "y": 24.171644,
+    "shops": [
+        {
+            "shop": "王淑惠",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "楊姗珮",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "劉勁余",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

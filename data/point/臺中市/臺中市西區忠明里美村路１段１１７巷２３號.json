@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市西區忠明里美村路１段１１７巷２３號",
+    "x": 120.66267485588,
+    "y": 24.152208980762,
+    "shops": [
+        {
+            "shop": "三里朋小廚",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

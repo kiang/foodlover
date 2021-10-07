@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市北屯區平和里文心路四段１３１號",
+    "x": 120.67546,
+    "y": 24.173842,
+    "shops": [
+        {
+            "shop": "森林小徑餐飲有限公司",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
+}

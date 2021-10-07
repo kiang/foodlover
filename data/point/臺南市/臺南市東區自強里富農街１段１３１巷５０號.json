@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺南市東區自強里富農街１段１３１巷５０號",
+    "x": 120.23308647411,
+    "y": 22.981932289564,
+    "shops": [
+        {
+            "shop": "小廚星美食小吃",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

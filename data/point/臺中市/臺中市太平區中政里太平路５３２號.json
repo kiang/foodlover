@@ -1,0 +1,13 @@
+{
+    "name": "便當、自助餐店",
+    "address": "臺中市太平區中政里太平路５３２號１樓",
+    "x": 120.713947,
+    "y": 24.125135,
+    "shops": [
+        {
+            "shop": "伍捌便當店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

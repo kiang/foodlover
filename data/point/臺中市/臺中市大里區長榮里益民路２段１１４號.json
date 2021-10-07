@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市大里區長榮里益民路２段１１４號１樓",
+    "x": 120.685005,
+    "y": 24.107205,
+    "shops": [
+        {
+            "shop": "劉美金",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

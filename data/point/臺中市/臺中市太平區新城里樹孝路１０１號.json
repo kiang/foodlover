@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市太平區新城里樹孝路１０１號１樓",
+    "x": 120.717129,
+    "y": 24.152059,
+    "shops": [
+        {
+            "shop": "阿正小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市東區東英里東英路５５６號１樓",
+    "x": 120.706233,
+    "y": 24.143424,
+    "shops": [
+        {
+            "shop": "嘜麵館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

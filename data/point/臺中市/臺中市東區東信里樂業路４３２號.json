@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市東區東信里樂業路４３２號１樓",
+    "x": 120.705973,
+    "y": 24.136852,
+    "shops": [
+        {
+            "shop": "小惡魔咖哩屋",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
+}

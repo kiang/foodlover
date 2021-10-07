@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市東區十甲里東英路５８５號１樓",
+    "x": 120.705915,
+    "y": 24.143943,
+    "shops": [
+        {
+            "shop": "吃飯小吃館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

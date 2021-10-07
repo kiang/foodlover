@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "新竹市北區北門里中正路１５９號１樓",
+    "x": 120.96632836604,
+    "y": 24.809370634232,
+    "shops": [
+        {
+            "shop": "肉魂燒肉店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

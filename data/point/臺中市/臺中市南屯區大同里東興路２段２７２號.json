@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市南屯區大同里東興路２段２７２號１樓",
+    "x": 120.653174,
+    "y": 24.143623,
+    "shops": [
+        {
+            "shop": "黃國立",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市大甲區幸福里中山路２段５５８號１樓",
+    "x": 120.654804,
+    "y": 24.389164,
+    "shops": [
+        {
+            "shop": "九騰商行",
+            "pay_list": "愛金卡 \/ 台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "愛金卡\/台灣 PAY\/LINE Pay Money\/街口支付"
+}

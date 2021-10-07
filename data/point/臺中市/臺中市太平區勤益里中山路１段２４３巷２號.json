@@ -1,0 +1,17 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市太平區勤益里中山路１段２４３巷２號",
+    "x": 120.733322,
+    "y": 24.143287,
+    "shops": [
+        {
+            "shop": "均均食坊",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "咖后餐飲本舖",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

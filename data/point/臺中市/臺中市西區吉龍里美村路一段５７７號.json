@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市西區吉龍里美村路一段５７７號右旁第一間",
+    "x": 120.66187967386,
+    "y": 24.138285536898,
+    "shops": [
+        {
+            "shop": "好伴食堂",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

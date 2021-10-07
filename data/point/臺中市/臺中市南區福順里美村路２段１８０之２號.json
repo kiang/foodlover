@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市南區福順里美村路２段１８０之２號１樓",
+    "x": 120.663038,
+    "y": 24.125558,
+    "shops": [
+        {
+            "shop": "滷老爹小吃店",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

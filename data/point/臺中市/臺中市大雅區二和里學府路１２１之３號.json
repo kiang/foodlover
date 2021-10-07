@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大雅區二和里學府路１２１之３號１樓",
+    "x": 120.650316,
+    "y": 24.21941,
+    "shops": [
+        {
+            "shop": "杰合商行",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
+}

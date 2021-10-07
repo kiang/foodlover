@@ -4,7 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區國華街245號"
+                "k": "嘉義市西區國華街245號",
+                "pay_list": "LINE Pay Money\/台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -17,7 +18,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區過溝里成仁街１０９號號"
+                "k": "嘉義市東區過溝里成仁街１０９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +32,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里中山路１６２號號"
+                "k": "嘉義市東區東興里中山路１０９、１１１、１１３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.453509,
+                    23.4813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中央里中山路１６２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -43,7 +60,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區北門里吳鳳北路３３０號號"
+                "k": "嘉義市東區北門里吳鳳北路３３０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -56,7 +74,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中山里中山路２８之１３號號"
+                "k": "嘉義市東區中山里中山路２８之１３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -69,7 +88,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區華南里民國路１４３號號"
+                "k": "嘉義市東區華南里民國路１４３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -82,7 +102,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區後湖里保康路２號號"
+                "k": "嘉義市東區後湖里保康路２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -95,7 +116,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里成仁街１７９號號"
+                "k": "嘉義市東區中央里成仁街１７９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -108,7 +130,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區民族里光華路２號號"
+                "k": "嘉義市東區民族里光華路２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +144,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區北門里林森西路２３號號"
+                "k": "嘉義市東區北門里林森西路２３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -134,7 +158,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區仁義里嘉南街１１號號"
+                "k": "嘉義市東區仁義里嘉南街１１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -147,7 +172,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里中正路３６５號號"
+                "k": "嘉義市東區中央里中正路３６５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +186,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區林森里民權路２２０號號"
+                "k": "嘉義市東區林森里民權路２２０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -173,7 +200,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區過溝里延平街２１９號號"
+                "k": "嘉義市東區過溝里延平街２１９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -186,7 +214,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區太平里維新路１９０巷２弄１號號"
+                "k": "嘉義市東區太平里維新路１９０巷２弄１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +228,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區北門里民權路３００－３號號"
+                "k": "嘉義市東區北門里民權路３００－３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +242,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區後庄里東義路５６６巷５２號號"
+                "k": "嘉義市東區後庄里東義路５６６巷５２號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -225,7 +256,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區華南里延平街９號號"
+                "k": "嘉義市東區華南里延平街９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +270,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區圳頭里林森東路３６４巷１５弄８２號號"
+                "k": "嘉義市東區圳頭里林森東路３６４巷１５弄８２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -251,7 +284,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區文雅里文雅街２９號號"
+                "k": "嘉義市東區文雅里文雅街２９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -264,7 +298,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區太平里民權路１１８號號"
+                "k": "嘉義市東區太平里民權路１１８號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -277,7 +312,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區興仁里吳鳳南路６２１巷２７號號"
+                "k": "嘉義市東區興仁里吳鳳南路６２１巷２７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -290,7 +326,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區圳頭里圓福街１１８巷２弄１２號號"
+                "k": "嘉義市東區圳頭里圓福街１１８巷２弄１２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -303,7 +340,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區王田里圓福街７―１號號"
+                "k": "嘉義市東區王田里圓福街７―１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -316,7 +354,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區圳頭里林森東路７８４號號"
+                "k": "嘉義市東區圳頭里林森東路７８４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -329,7 +368,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區培元里成功街５９號號"
+                "k": "嘉義市西區培元里成功街５９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -342,7 +382,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區文化里民族路４９５號號"
+                "k": "嘉義市西區文化里民族路４９５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -355,7 +396,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區竹圍里友愛路２４６號號"
+                "k": "嘉義市西區竹圍里友愛路２４６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -368,7 +410,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區福民里新民路６４３號號"
+                "k": "嘉義市西區福民里新民路６４３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -381,7 +424,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區西榮里民生北路１５１號號"
+                "k": "嘉義市西區西榮里民生北路１５１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -394,7 +438,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區湖內里湖子內路２６３號號"
+                "k": "嘉義市西區湖內里湖子內路２６３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -407,7 +452,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區書院里蘭井街４６５號號"
+                "k": "嘉義市西區書院里蘭井街４６５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -420,7 +466,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區垂楊里０２７鄰興業西路２７０號號"
+                "k": "嘉義市西區垂楊里０２７鄰興業西路２７０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -433,7 +480,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區國華里中山路２９４號號"
+                "k": "嘉義市西區國華里中山路２９４號",
+                "pay_list": "街口支付\/一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -446,7 +494,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區書院里仁愛路５７８之１號號"
+                "k": "嘉義市西區書院里仁愛路５７８之１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -459,7 +508,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區下埤里北港路１２９６號號"
+                "k": "嘉義市西區文化里垂楊路４０２、４０４、４０６號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44806,
+                    23.47389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區下埤里北港路１２９６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -472,7 +536,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區永和里新民路８０１－１號號"
+                "k": "嘉義市西區永和里新民路８０１－１號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -485,7 +550,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區永和里垂楊路７７０號號"
+                "k": "嘉義市西區永和里垂楊路７７０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -498,7 +564,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區北榮里五顯街１７８號號"
+                "k": "嘉義市西區北榮里五顯街１７８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -511,7 +578,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區垂楊里興業西路２６８號號"
+                "k": "嘉義市西區垂楊里興業西路２６８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -524,7 +592,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區新富里民族路５９３號號"
+                "k": "嘉義市西區新富里民族路５９３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -537,7 +606,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區福民里興業西路３０９號號"
+                "k": "嘉義市西區福民里興業西路３０９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -550,7 +620,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區新富里民生北路４３號號"
+                "k": "嘉義市西區新富里民生北路４３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -563,7 +634,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區竹圍里北興街４５９號號"
+                "k": "嘉義市西區竹圍里北興街４５９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -576,7 +648,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區新厝里友愛路７３５號號"
+                "k": "嘉義市西區新厝里友愛路７３５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -589,7 +662,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區新富里新榮路９２號號"
+                "k": "嘉義市西區新富里新榮路９２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -602,7 +676,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區番社里忠義街１６９號號"
+                "k": "嘉義市西區番社里忠義街１６９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -615,7 +690,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區美源里美源街１５９號號"
+                "k": "嘉義市西區美源里美源街１５９號",
+                "pay_list": "台灣 PAY\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -628,7 +704,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區頭港里大貴路５５號號"
+                "k": "嘉義市西區頭港里大貴路５５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -641,7 +718,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區光路里民生南路４６５號號"
+                "k": "嘉義市西區光路里民生南路４６５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -654,7 +732,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里吳鳳北路２１９號號"
+                "k": "嘉義市東區中央里吳鳳北路２１９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -667,7 +746,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區東川里大雅路２段６０４號號"
+                "k": "嘉義市東區東川里大雅路２段６０４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -680,7 +760,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中庄里忠孝路５３９號號"
+                "k": "嘉義市東區中庄里忠孝路５３９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -693,7 +774,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區安寮里興業東路１０６號號"
+                "k": "嘉義市東區安寮里興業東路１０６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -706,7 +788,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區頂庄里台林街１２６號號"
+                "k": "嘉義市東區頂庄里台林街１２６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -719,7 +802,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里中正路３９０號號"
+                "k": "嘉義市東區中央里中正路３９０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -732,7 +816,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區頂庄里新生路７５９號號"
+                "k": "嘉義市東區頂庄里新生路７５９號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -745,7 +830,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區興南里興業東路２３１號號"
+                "k": "嘉義市東區興南里興業東路２３１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -758,7 +844,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區新店里義教西路５號號"
+                "k": "嘉義市東區新店里義教西路５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -771,7 +858,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區仁義里台林街７６號號"
+                "k": "嘉義市東區仁義里台林街７６號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -784,7 +872,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里公明路３６８號號"
+                "k": "嘉義市東區中央里公明路３６８號",
+                "pay_list": "歐付寶"
             },
             "geometry": {
                 "type": "Point",
@@ -797,7 +886,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中山里民權路８１號號"
+                "k": "嘉義市東區中山里民權路８１號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -810,7 +900,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區芳草里芳安路２７號號"
+                "k": "嘉義市東區芳草里芳安路２７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -823,7 +914,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區北門里吳鳳北路３１４號號"
+                "k": "嘉義市東區北門里吳鳳北路３１４號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -836,7 +928,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區短竹里彌陀路１８８號號"
+                "k": "嘉義市東區短竹里彌陀路１８８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -849,7 +942,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區東川里大雅路２段６４８號號"
+                "k": "嘉義市東區東川里大雅路２段６４８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -862,7 +956,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區蘭潭里大雅路２段６０５號號"
+                "k": "嘉義市東區蘭潭里大雅路２段６０５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -875,7 +970,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區後庄里林森東路５９９號號"
+                "k": "嘉義市東區後庄里林森東路５９９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -888,7 +984,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區林森里林森東路５７巷６號號"
+                "k": "嘉義市東區林森里林森東路５７巷６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -901,7 +998,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中庄里忠孝路４１７－３號號"
+                "k": "嘉義市東區中庄里忠孝路４１７－３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -914,7 +1012,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區林森里忠孝路３６８－２號號"
+                "k": "嘉義市東區林森里忠孝路３６８－２號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -927,7 +1026,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區圳頭里林森東路４７４號號"
+                "k": "嘉義市東區圳頭里林森東路４７４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -940,7 +1040,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區後湖里保義路６０巷１０號號"
+                "k": "嘉義市東區後湖里保義路６０巷１０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -953,7 +1054,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中山里安樂街１８８號號"
+                "k": "嘉義市東區中山里安樂街１８８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -966,7 +1068,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區過溝里延平街２２５號號"
+                "k": "嘉義市東區過溝里延平街２２５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -979,7 +1082,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區過溝里文化路９２號號"
+                "k": "嘉義市東區過溝里文化路９２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -992,7 +1096,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區安業里吳鳳南路１１０號號"
+                "k": "嘉義市東區安業里吳鳳南路１１０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1005,7 +1110,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區鹿寮里學府路３１２號號"
+                "k": "嘉義市東區鹿寮里學府路３１２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1018,7 +1124,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區北門里長榮街２２４號號"
+                "k": "嘉義市東區北門里長榮街２２４號",
+                "pay_list": "一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -1031,7 +1138,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里成仁街１６６號號"
+                "k": "嘉義市東區中央里成仁街１６６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1044,7 +1152,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區過溝里興中街６２－１號號"
+                "k": "嘉義市東區過溝里興中街６２－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1057,7 +1166,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區北門里文化路２８０號號"
+                "k": "嘉義市東區北門里文化路２８０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1070,7 +1180,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里中正路４１８號號"
+                "k": "嘉義市東區中央里中正路４１８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1083,7 +1194,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區過溝里文化路１０４號號"
+                "k": "嘉義市東區過溝里文化路１０４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1096,7 +1208,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區安業里吳鳳南路２０２號號"
+                "k": "嘉義市東區安業里吳鳳南路２０２號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1109,7 +1222,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區王田里圓福街３１－１號號"
+                "k": "嘉義市東區王田里圓福街３１－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1122,7 +1236,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區安寮里吳鳳南路３０１號號"
+                "k": "嘉義市東區安寮里吳鳳南路３０１號",
+                "pay_list": "歐付寶"
             },
             "geometry": {
                 "type": "Point",
@@ -1135,7 +1250,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區過溝里文化路１１０號號"
+                "k": "嘉義市東區過溝里文化路１１０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1148,7 +1264,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區太平里新生路３７２號號"
+                "k": "嘉義市東區太平里新生路３７２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1161,7 +1278,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里公明路３０７號號"
+                "k": "嘉義市東區中央里公明路３０７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1174,7 +1292,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里興中街１２７號號"
+                "k": "嘉義市東區中央里興中街１２７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1187,7 +1306,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區興仁里軍輝路１５３號號"
+                "k": "嘉義市東區興仁里軍輝路１５３號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1200,7 +1320,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區芳草里立仁路８號號"
+                "k": "嘉義市東區芳草里立仁路８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1213,7 +1334,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區過溝里延平街１５６－２號號"
+                "k": "嘉義市東區過溝里延平街１５６－２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1226,7 +1348,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中山里民權路１５７號號"
+                "k": "嘉義市東區仁義里忠孝路５１２、５１６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.452457,
+                    23.495861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區中山里民權路１５７號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1239,7 +1376,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區仁義里新生路７１９號號"
+                "k": "嘉義市東區仁義里新生路７１９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1252,7 +1390,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區過溝里民族路４２０號號"
+                "k": "嘉義市東區過溝里民族路４２０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1265,7 +1404,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區東川里大雅路２段５３６號號"
+                "k": "嘉義市東區東川里大雅路２段５３６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1278,7 +1418,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里公明路３９２號號"
+                "k": "嘉義市東區中央里公明路３９２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1291,7 +1432,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里公明路２６１號號"
+                "k": "嘉義市東區中央里公明路２６１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1304,7 +1446,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中山里維新路１００號號"
+                "k": "嘉義市東區中山里維新路１００號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1317,7 +1460,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區後湖里保成路５６０號號"
+                "k": "嘉義市東區後湖里保成路５６０號",
+                "pay_list": "一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -1330,7 +1474,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區長竹里大雅路２段３５０號號"
+                "k": "嘉義市東區長竹里大雅路２段３５０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1343,7 +1488,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區義教里新生路８３０號號"
+                "k": "嘉義市東區義教里新生路８３０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1356,7 +1502,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區豐年里興業東路１１５巷１２號號"
+                "k": "嘉義市東區豐年里興業東路１１５巷１２號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1369,7 +1516,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區北門里吳鳳北路２８４號號"
+                "k": "嘉義市東區北門里吳鳳北路２８４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1382,7 +1530,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區頂寮里南興路６９號號"
+                "k": "嘉義市東區頂寮里南興路６９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1395,7 +1544,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區長竹里大雅路２段２７５號號"
+                "k": "嘉義市東區長竹里大雅路２段２７５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1408,7 +1558,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區華南里民國路８９號號"
+                "k": "嘉義市東區華南里民國路８９號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1421,7 +1572,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區芳安里南興路１２２號號"
+                "k": "嘉義市東區芳安里南興路１２２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1434,7 +1586,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區東興里中正路２５４巷１０號號"
+                "k": "嘉義市東區東興里中正路２５４巷１０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1447,7 +1600,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區東興里中山路４７－３號號"
+                "k": "嘉義市東區東興里中山路４７－３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1460,7 +1614,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區長竹里潭頂路８２號號"
+                "k": "嘉義市東區長竹里潭頂路８２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -1473,7 +1628,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區長竹里大雅路２段４１３號號"
+                "k": "嘉義市東區長竹里大雅路２段４１３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1486,7 +1642,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區朝陽里垂楊路４０號號"
+                "k": "嘉義市東區朝陽里垂楊路４０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1499,7 +1656,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區北門里吳鳳北路４０１號號"
+                "k": "嘉義市東區北門里吳鳳北路４０１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1512,7 +1670,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區仁義里嘉北街１１１號號"
+                "k": "嘉義市東區仁義里嘉北街１１１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1525,7 +1684,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里文化路１７２號號"
+                "k": "嘉義市東區中央里文化路１７２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1538,7 +1698,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區興仁里吳鳳南路６１９號號"
+                "k": "嘉義市東區興仁里吳鳳南路６１９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1551,7 +1712,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區義教里忠孝路６００號號"
+                "k": "嘉義市東區義教里忠孝路６００號",
+                "pay_list": "台灣 PAY\/歐付寶\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1564,7 +1726,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區仁義里忠孝路５１６號號"
+                "k": "嘉義市東區仁義里忠孝路５１６號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1577,7 +1740,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里中山路２０３號號"
+                "k": "嘉義市東區中央里中山路２０３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1590,7 +1754,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區荖藤里忠孝北街１９１號號"
+                "k": "嘉義市東區荖藤里忠孝北街１９１號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1603,7 +1768,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區東川里大雅路２段８０８號號"
+                "k": "嘉義市東區中央里中正路３６１、３６３號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44985,
+                    23.4788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區東川里大雅路２段８０８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1616,7 +1796,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中山里安樂街１號號"
+                "k": "嘉義市東區中山里安樂街１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1629,7 +1810,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里文化路１６４號號"
+                "k": "嘉義市東區中央里文化路１６４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1642,7 +1824,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區過溝里吳鳳北路７７號號"
+                "k": "嘉義市東區過溝里吳鳳北路７７號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1655,7 +1838,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區短竹里彌陀路２４６號號"
+                "k": "嘉義市東區短竹里彌陀路２４６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1668,7 +1852,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區安寮里吳鳳南路２４２號號"
+                "k": "嘉義市東區安寮里吳鳳南路２４２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1681,7 +1866,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區華南里公明路６７號號"
+                "k": "嘉義市東區華南里公明路６７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1694,7 +1880,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區仁義里忠孝路５６２－７號號"
+                "k": "嘉義市東區仁義里忠孝路５６２－７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1707,7 +1894,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區東興里中山路７５號號"
+                "k": "嘉義市東區東興里中山路７５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1720,7 +1908,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區義教里台林街２１７－２號號"
+                "k": "嘉義市東區義教里台林街２１７－２號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1733,7 +1922,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區蘭潭里大雅路２段５７９號號"
+                "k": "嘉義市東區蘭潭里大雅路２段５７９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1746,7 +1936,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區興仁里興仁街２巷１１號號"
+                "k": "嘉義市東區興仁里興仁街２巷１１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1759,7 +1950,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區新開里垂楊路２９之１號號"
+                "k": "嘉義市東區新開里垂楊路２９之１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1772,7 +1964,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區朝陽里垂楊路１２０號號"
+                "k": "嘉義市東區朝陽里民族路１１３及１１５號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45854,
+                    23.476669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區朝陽里垂楊路１２０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1785,7 +1992,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區東川里大雅路２段６５６號號"
+                "k": "嘉義市東區東川里大雅路２段６５６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1798,7 +2006,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區東興里民國路２０４號號"
+                "k": "嘉義市東區東興里民國路２０４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1811,7 +2020,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區興仁里吳鳳南路６０１號號"
+                "k": "嘉義市東區興仁里吳鳳南路６０１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1824,7 +2034,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區芳草里７鄰芳安路５５號號"
+                "k": "嘉義市東區芳草里７鄰芳安路５５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1837,7 +2048,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區義教里義教街９２７號號"
+                "k": "嘉義市東區義教里義教街９２７號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1850,7 +2062,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區後庄里林森東路７２７號號"
+                "k": "嘉義市東區後庄里林森東路７２７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1863,7 +2076,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區新店里林森東路２４９－１號號"
+                "k": "嘉義市東區新店里林森東路２４９－１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1876,7 +2090,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里中山路２０６號號"
+                "k": "嘉義市東區中央里中山路２０６號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1889,7 +2104,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中山里中山路４６－２號號"
+                "k": "嘉義市東區中山里中山路４６－２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1902,7 +2118,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中庄里忠孝路６１１號號"
+                "k": "嘉義市東區中庄里忠孝路６１１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1915,7 +2132,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區仁義里新生路６６５之１號號"
+                "k": "嘉義市東區仁義里新生路６６５之１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1928,7 +2146,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區義教里仁義新村３３號號"
+                "k": "嘉義市東區義教里仁義新村３３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1941,7 +2160,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區宣信里興業二村２２之１號號"
+                "k": "嘉義市東區宣信里興業二村２２之１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1954,7 +2174,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區太平里民權路１００號號"
+                "k": "嘉義市東區中山里啟明路２５５號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.463133,
+                    23.483474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區太平里民權路１００號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1967,7 +2202,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中山里中山路４６－１號號"
+                "k": "嘉義市東區中山里中山路４６－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1980,7 +2216,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區華南里民族路１１６號號"
+                "k": "嘉義市東區華南里民族路１１６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1993,7 +2230,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區北門里長榮街１９４號號"
+                "k": "嘉義市東區北門里長榮街１９４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2006,7 +2244,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區安寮里興業東路７２號號"
+                "k": "嘉義市東區安寮里興業東路７２號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2019,7 +2258,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中庄里忠孝路４７７號號"
+                "k": "嘉義市東區中庄里忠孝路４７７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2032,7 +2272,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區華南里民族路４６號號"
+                "k": "嘉義市東區華南里民族路４６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2045,7 +2286,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區仁義里台林街７５號號"
+                "k": "嘉義市東區仁義里台林街７５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2058,7 +2300,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區華南里民族路１６０號號"
+                "k": "嘉義市東區華南里民族路１６０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2071,7 +2314,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里吳鳳北路２８７號號"
+                "k": "嘉義市東區中央里吳鳳北路２８７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2084,7 +2328,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區安寮里興業東路６４號號"
+                "k": "嘉義市東區安寮里興業東路６４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2097,7 +2342,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里中正路３３５號號"
+                "k": "嘉義市東區中央里中正路３３５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -2110,7 +2356,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區頂庄里台林街１２２―１號號"
+                "k": "嘉義市東區頂庄里台林街１２２―１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2123,7 +2370,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區新開里垂楊路１０１號號"
+                "k": "嘉義市東區新開里垂楊路１０１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2136,7 +2384,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區新開里體育路４９號號"
+                "k": "嘉義市東區新開里體育路４９號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2149,7 +2398,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區興仁里吳鳳南路６５３號號"
+                "k": "嘉義市東區興仁里吳鳳南路６５３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2162,7 +2412,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區太平里維新路１９５號號"
+                "k": "嘉義市東區太平里維新路１９５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2175,7 +2426,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區東興里公明路１１４－４號號"
+                "k": "嘉義市東區東興里公明路１１４－４號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2188,7 +2440,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里民權路３６９之３號號"
+                "k": "嘉義市東區中央里民權路３６９之３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2201,7 +2454,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里中山路２０２號號"
+                "k": "嘉義市東區中央里中山路２０２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2214,7 +2468,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區新開里宣信街２６２號號"
+                "k": "嘉義市東區新開里宣信街２６２號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2227,7 +2482,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區東川里大雅路２段６１６號號"
+                "k": "嘉義市東區東川里大雅路２段６１６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2240,7 +2496,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區朝陽里共和路５２號號"
+                "k": "嘉義市東區朝陽里共和路５２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2253,7 +2510,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區興仁里吳鳳南路５７３號號"
+                "k": "嘉義市東區興仁里吳鳳南路５７３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2266,7 +2524,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區東興里公明路３１２號號"
+                "k": "嘉義市東區東興里公明路３１２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2279,7 +2538,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區朝陽里民族路１３９號號"
+                "k": "嘉義市東區朝陽里民族路１３９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2292,7 +2552,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區王田里林森東路３３２號號"
+                "k": "嘉義市東區王田里林森東路３３２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2305,7 +2566,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區過溝里興中街４０號號"
+                "k": "嘉義市東區過溝里興中街４０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2318,7 +2580,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區文雅里文雅街１３０號號"
+                "k": "嘉義市東區文雅里文雅街１３０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2331,7 +2594,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區後庄里林森東路５７７號號"
+                "k": "嘉義市東區後庄里林森東路５７７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2344,7 +2608,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里興中街１１７號號"
+                "k": "嘉義市東區中央里興中街１１７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2357,7 +2622,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里文化路１９２號號"
+                "k": "嘉義市東區中央里文化路１９２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2370,7 +2636,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區長竹里大雅路２段４１１號號"
+                "k": "嘉義市東區長竹里大雅路２段４１１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2383,7 +2650,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區太平里博東路２９７號號"
+                "k": "嘉義市東區太平里博東路２９７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2396,7 +2664,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里中山路２７４號號"
+                "k": "嘉義市東區中央里中山路２７４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2409,7 +2678,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區新開里市宅街４５號號"
+                "k": "嘉義市東區新開里市宅街４５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2422,7 +2692,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區華南里維新路２８號號"
+                "k": "嘉義市東區華南里維新路２８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2435,7 +2706,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區華南里維新路３５號號"
+                "k": "嘉義市東區華南里維新路３５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2448,7 +2720,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里中正路３２７號號"
+                "k": "嘉義市東區中央里中正路３２７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -2461,7 +2734,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中山里民權路２７５號號"
+                "k": "嘉義市東區中山里民權路２７５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2474,7 +2748,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區新開里體育路８５號號"
+                "k": "嘉義市東區新開里體育路８５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2487,7 +2762,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里中山路１７８號號"
+                "k": "嘉義市東區中央里中山路１７８號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2500,7 +2776,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區林森里共和路２３９號號"
+                "k": "嘉義市東區林森里共和路２３９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2513,7 +2790,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區林森里共和路４１８號號"
+                "k": "嘉義市東區林森里共和路４１８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -2526,7 +2804,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里文化路２２０號號"
+                "k": "嘉義市東區中央里文化路２２０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -2539,7 +2818,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區後庄里林森東路５４７號號"
+                "k": "嘉義市東區後庄里林森東路５４７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2552,7 +2832,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區民族里光華路３２之２號號"
+                "k": "嘉義市東區民族里光華路３２之２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2565,7 +2846,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區太平里新生路５７２號號"
+                "k": "嘉義市東區太平里新生路５７２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2578,7 +2860,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里中山路２３３號號"
+                "k": "嘉義市東區中央里中山路２３３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2591,7 +2874,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中山里中山路７６號號"
+                "k": "嘉義市東區中山里中山路７６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2604,7 +2888,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中庄里台斗街２１７號號"
+                "k": "嘉義市東區中庄里台斗街２１７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2617,7 +2902,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區後湖里保建街９２號號"
+                "k": "嘉義市東區後湖里保建街９２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2630,7 +2916,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區北門里成仁街２４０－２８號號"
+                "k": "嘉義市東區北門里成仁街２４０－２８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2643,7 +2930,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區仁義里新生路７２１號號"
+                "k": "嘉義市東區仁義里新生路７２１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2656,7 +2944,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區短竹里彌陀路２７０號號"
+                "k": "嘉義市東區短竹里彌陀路２７０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2669,7 +2958,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區興村里吳鳳南路２９０號號"
+                "k": "嘉義市東區興村里吳鳳南路２９０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2682,7 +2972,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區仁義里忠孝路４６２號號"
+                "k": "嘉義市東區仁義里忠孝路４６２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2695,7 +2986,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區東興里新生路１６７號號"
+                "k": "嘉義市東區東興里新生路１６７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2708,7 +3000,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區興仁里吳鳳南路５７７號號"
+                "k": "嘉義市東區興仁里吳鳳南路５７７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2721,7 +3014,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區後湖里保仁三街７５號號"
+                "k": "嘉義市東區後湖里保仁三街７５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2734,7 +3028,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區過溝里興中街６號號"
+                "k": "嘉義市東區過溝里興中街６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2747,7 +3042,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中央里興中街１７２－９號號"
+                "k": "嘉義市東區中央里興中街１７２－９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2760,7 +3056,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區林森里忠孝路３３６號號"
+                "k": "嘉義市東區林森里忠孝路３３６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2773,7 +3070,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區民族里光華路２０號號"
+                "k": "嘉義市東區民族里光華路２０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2786,7 +3084,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區朝陽里民族路６５號號"
+                "k": "嘉義市東區朝陽里民族路６５號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2799,7 +3098,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區東川里大雅路２段６４６號號"
+                "k": "嘉義市東區東川里大雅路２段６４６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2812,7 +3112,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區北門里興中街１９２號號"
+                "k": "嘉義市東區北門里興中街１９２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2825,7 +3126,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區荖藤里忠孝北街１８７號號"
+                "k": "嘉義市東區荖藤里忠孝北街１８７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2838,7 +3140,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區朝陽里民族路２７號號"
+                "k": "嘉義市東區朝陽里民族路２７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2851,7 +3154,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區興村里軍輝路２３０號號"
+                "k": "嘉義市東區興村里軍輝路２３０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2864,7 +3168,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區東興里公明路１６７號號"
+                "k": "嘉義市東區東興里公明路１６７號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2877,7 +3182,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區過溝里蘭井街１０３號號"
+                "k": "嘉義市東區後庄里林森東路７２１及７２３號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.47944,
+                    23.49283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區過溝里蘭井街１０３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2890,7 +3210,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區仁義里台林街９６號號"
+                "k": "嘉義市東區仁義里台林街９６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2903,7 +3224,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區東興里公明路２８２號號"
+                "k": "嘉義市東區東興里公明路２８２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2916,7 +3238,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區中庄里忠孝路５６５號號"
+                "k": "嘉義市東區中庄里忠孝路５６５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2929,7 +3252,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區頂庄里１０鄰台林街１１４號號"
+                "k": "嘉義市東區頂庄里１０鄰台林街１１４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2942,7 +3266,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區太平里林森東路１１２號號"
+                "k": "嘉義市東區太平里林森東路１１２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2955,7 +3280,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區東興里公明路１９７號號"
+                "k": "嘉義市東區王田里圓福街４丶６丶８號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.464432,
+                    23.484688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區東興里公明路１９７號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2968,7 +3308,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區北門里興中街１９８號號"
+                "k": "嘉義市東區荖藤里忠孝北街２０７．２０９號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.442331,
+                    23.516076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區北門里興中街１９８號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2981,7 +3336,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區過溝里民族路４１８號號"
+                "k": "嘉義市東區過溝里民族路４１８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -2994,7 +3350,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市東區仁義里嘉北街６８號號"
+                "k": "嘉義市東區仁義里嘉北街６８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3007,7 +3364,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區福全里友愛路１１２號號"
+                "k": "嘉義市西區福全里友愛路１１２號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3020,7 +3378,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區重興里北興街３１０號號"
+                "k": "嘉義市西區重興里北興街３１０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3033,7 +3392,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區永和里民族路７８１號號"
+                "k": "嘉義市西區永和里民族路７８１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3046,7 +3406,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區北榮里國華街４６９號號"
+                "k": "嘉義市西區北榮里國華街４６９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3059,7 +3420,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區後驛里博愛路２段７號號"
+                "k": "嘉義市西區後驛里博愛路２段７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3072,7 +3434,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區保安里北安路１１６號號"
+                "k": "嘉義市西區保安里北安路１１６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3085,7 +3448,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區導明里國華街７３號號"
+                "k": "嘉義市西區導明里國華街７３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3098,7 +3462,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區北新里文化路９０３號號"
+                "k": "嘉義市西區北新里文化路９０３號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3111,7 +3476,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區書院里中山路６１９之１４號號"
+                "k": "嘉義市西區書院里中山路６１９之１４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3124,7 +3490,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區文化里文化路１３３號號"
+                "k": "嘉義市西區文化里文化路１３３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3137,7 +3504,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區保生里友愛路６０９號號"
+                "k": "嘉義市西區保生里友愛路６０９號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3150,7 +3518,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區新富里仁愛路４１８號號"
+                "k": "嘉義市西區新富里仁愛路４１８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3163,7 +3532,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區福民里福州二街６４號號"
+                "k": "嘉義市西區福民里福州二街６４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3176,7 +3546,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區後驛里中興路１號號"
+                "k": "嘉義市西區後驛里中興路１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3189,7 +3560,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區光路里南京東街３８號號"
+                "k": "嘉義市西區光路里南京東街３８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3202,7 +3574,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區福民里重慶路１４６號號"
+                "k": "嘉義市西區福民里重慶路１４６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3215,7 +3588,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區車店里上海路１９４號號"
+                "k": "嘉義市西區番社里黑金段２０－１６９地號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44716,
+                    23.48075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區車店里上海路１９４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3228,7 +3616,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區自強里１７鄰仁愛路２０１巷３號號"
+                "k": "嘉義市西區自強里１７鄰仁愛路２０１巷３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3241,7 +3630,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區車店里興業西路４８１號號"
+                "k": "嘉義市西區文化里西公有零售市場第３區８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44883,
+                    23.47852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區車店里興業西路４８１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3254,7 +3658,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區導明里民生南路１４號號"
+                "k": "嘉義市西區導明里民生南路１４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3267,7 +3672,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區文化里文化路１３５號號"
+                "k": "嘉義市西區文化里文化路１３５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3280,7 +3686,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區自強里興業西路１６５號號"
+                "k": "嘉義市西區自強里興業西路１６５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3293,7 +3700,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區西榮里新榮路１６６號號"
+                "k": "嘉義市西區西榮里新榮路１６６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3306,7 +3714,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區垂楊里建成街３６巷１號號"
+                "k": "嘉義市西區垂楊里建成街３６巷１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3319,7 +3728,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區國華里北榮街６４號號"
+                "k": "嘉義市西區國華里北榮街６４號",
+                "pay_list": "歐付寶"
             },
             "geometry": {
                 "type": "Point",
@@ -3332,7 +3742,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區福全里博愛路二段３７６號號"
+                "k": "嘉義市西區福全里博愛路二段３７６號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3345,7 +3756,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區文化里中正路３８３號號"
+                "k": "嘉義市西區文化里中正路３８３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3358,7 +3770,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區車店里車店街４６號號"
+                "k": "嘉義市西區車店里車店街４６號",
+                "pay_list": "一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -3371,7 +3784,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區西榮里中正路５４３號號"
+                "k": "嘉義市西區西榮里中正路５４３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3384,7 +3798,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區新富里民族路６１７號號"
+                "k": "嘉義市西區新富里民族路６１７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3397,7 +3812,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區竹圍里德安路４１號號"
+                "k": "嘉義市西區竹圍里德安路４１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3410,7 +3826,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區書院里中山路６１２號號"
+                "k": "嘉義市西區書院里中山路６１２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3423,7 +3840,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區文化里文化路７９號號"
+                "k": "嘉義市西區文化里文化路７９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3436,7 +3854,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區書院里仁愛路５８０號號"
+                "k": "嘉義市西區書院里仁愛路５８０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3449,7 +3868,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區垂楊里仁愛路２５３號號"
+                "k": "嘉義市西區垂楊里仁愛路２５３號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3462,7 +3882,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區國華里文化路２５７號號"
+                "k": "嘉義市西區國華里文化路２５７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3475,7 +3896,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區保福里八德路２２９號號"
+                "k": "嘉義市西區保福里八德路２２９號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3488,7 +3910,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區港坪里金山路１０１號號"
+                "k": "嘉義市西區港坪里金山路１０１號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3501,7 +3924,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區垂楊里新民路８１８號號"
+                "k": "嘉義市西區垂楊里新民路８１８號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3514,7 +3938,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區福民里興業西路２６９號號"
+                "k": "嘉義市西區書院里仁愛路３９７﹒３９９﹒４０１號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44194,
+                    23.47699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區福民里興業西路２６９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3527,7 +3966,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區竹圍里興達路３５８號號"
+                "k": "嘉義市西區竹圍里興達路３５８號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3540,7 +3980,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區垂楊里仁愛路２３９號號"
+                "k": "嘉義市西區垂楊里仁愛路２３９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3553,7 +3994,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區導明里民生南路２號號"
+                "k": "嘉義市西區導明里民生南路２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3566,7 +4008,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區後驛里友忠路５８０號號"
+                "k": "嘉義市西區後驛里友忠路５８０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3579,7 +4022,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區福全里友愛路１６４號號"
+                "k": "嘉義市西區福全里友愛路１６４號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3592,7 +4036,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區保生里自由路４６８號號"
+                "k": "嘉義市西區保生里自由路４６８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3605,7 +4050,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區紅瓦里２鄰南京路１９７號號"
+                "k": "嘉義市西區紅瓦里２鄰南京路１９７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3618,7 +4064,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區文化里民族路４６３號號"
+                "k": "嘉義市西區文化里民族路４６３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3631,7 +4078,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區番社里民生北路２７４號號"
+                "k": "嘉義市西區番社里民生北路２７４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3644,7 +4092,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區自強里新民路６８６號號"
+                "k": "嘉義市西區自強里新民路６８６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3657,7 +4106,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區國華里國華街２３８號號"
+                "k": "嘉義市西區國華里國華街２３８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3670,7 +4120,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區國華里國華街３２２之１３號號"
+                "k": "嘉義市西區國華里國華街３２２之１３號",
+                "pay_list": "愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3683,7 +4134,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區新富里民族路５３５號號"
+                "k": "嘉義市西區新富里民族路５３５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3696,7 +4148,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區培元里成功街７５號號"
+                "k": "嘉義市西區培元里成功街７５號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3709,7 +4162,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區美源里新民路６１８號號"
+                "k": "嘉義市西區美源里新民路６１８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3722,7 +4176,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區書院里仁愛路５５０號號"
+                "k": "嘉義市西區書院里仁愛路５５０號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3735,7 +4190,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區福民里興業西路３６９號號"
+                "k": "嘉義市西區福民里興業西路３６９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3748,7 +4204,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區保生里自由路１２１號號"
+                "k": "嘉義市西區保生里自由路１２１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3761,7 +4218,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區導明里民生南路９６號號"
+                "k": "嘉義市西區竹圍里興達路３９４、３９６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43185,
+                    23.48535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區導明里民生南路９６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3774,7 +4246,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區竹圍里遠東街５０號號"
+                "k": "嘉義市西區竹圍里遠東街５０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3787,7 +4260,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區竹圍里興達路３９５號號"
+                "k": "嘉義市西區竹圍里友愛路３０３．３０５號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43366,
+                    23.48796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區竹圍里興達路３９５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3800,7 +4288,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區永和里垂楊路８６６號號"
+                "k": "嘉義市西區永和里垂楊路８６６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3813,7 +4302,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區書院里永和街１００號號"
+                "k": "嘉義市西區書院里永和街１００號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3826,7 +4316,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區竹圍里中興路１９２號號"
+                "k": "嘉義市西區竹圍里中興路１９２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3839,7 +4330,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區書院里蘭井街３７２號號"
+                "k": "嘉義市西區書院里蘭井街３７２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3852,7 +4344,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區福安里四維路２３２號號"
+                "k": "嘉義市西區福安里四維路２３２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3865,7 +4358,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區垂楊里新民路７５５號號"
+                "k": "嘉義市西區垂楊里新民路７５５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3878,7 +4372,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區北榮里向榮街２０５號號"
+                "k": "嘉義市西區北榮里向榮街２０５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3891,7 +4386,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區福全里中興路２２１號號"
+                "k": "嘉義市西區福全里中興路２２１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3904,7 +4400,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區獅子里民生南路６１０號號"
+                "k": "嘉義市西區獅子里民生南路６１０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3917,7 +4414,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區福民里福州七街９５號號"
+                "k": "嘉義市西區福民里福州七街９５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3930,7 +4428,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區磚??里中興路５９０號號"
+                "k": "嘉義市西區磚??里中興路５９０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3943,7 +4442,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區新富里民族路７１７號號"
+                "k": "嘉義市西區新富里民族路７１７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3956,7 +4456,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區獅子里民生南路５７８號號"
+                "k": "嘉義市西區獅子里民生南路５７８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3969,7 +4470,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區後驛里博愛路２段２８１號號"
+                "k": "嘉義市西區後驛里博愛路２段２８１號",
+                "pay_list": "一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -3982,7 +4484,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區垂楊里仁愛路２７９號號"
+                "k": "嘉義市西區垂楊里仁愛路２７９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3995,7 +4498,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區福全里博愛路２段４２２號號"
+                "k": "嘉義市西區福全里博愛路２段４２２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4008,7 +4512,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區書院里中正路６９８號號"
+                "k": "嘉義市西區書院里中正路６９８號",
+                "pay_list": "愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4021,7 +4526,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區永和里仁愛路３４５號號"
+                "k": "嘉義市西區永和里仁愛路３４５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4034,7 +4540,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區後驛里博愛路２段２１０號號"
+                "k": "嘉義市西區後驛里博愛路２段２１０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4047,7 +4554,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區福安里中興路４０８巷１０號號"
+                "k": "嘉義市西區福安里中興路４０８巷１０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4060,7 +4568,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區港坪里０１３鄰大華路２５０號號"
+                "k": "嘉義市西區港坪里０１３鄰大華路２５０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4073,7 +4582,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區國華里文化路２９９號號"
+                "k": "嘉義市西區國華里文化路２９９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4086,7 +4596,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區書院里光彩街６７８號號"
+                "k": "嘉義市西區書院里光彩街６７８號",
+                "pay_list": "一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -4099,7 +4610,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區書院里廣寧街１０１號號"
+                "k": "嘉義市西區書院里廣寧街１０１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4112,7 +4624,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區福民里興業西路３３９號號"
+                "k": "嘉義市西區福民里興業西路３３９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4125,7 +4638,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區自強里新民路６８２號號"
+                "k": "嘉義市西區自強里新民路６８２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4138,7 +4652,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區福全里友愛路２１２號號"
+                "k": "嘉義市西區福全里友愛路２１２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4151,7 +4666,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區車店里蘭州四街６８號號"
+                "k": "嘉義市西區車店里蘭州四街６８號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4164,7 +4680,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區文化里忠義街４０號號"
+                "k": "嘉義市西區文化里忠義街４０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4177,7 +4694,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區致遠里興業西路４０號號"
+                "k": "嘉義市西區致遠里興業西路４０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4190,7 +4708,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區文化里文化路３１號號"
+                "k": "嘉義市西區文化里文化路３１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4203,7 +4722,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區文化里文化路１９之１號號"
+                "k": "嘉義市西區文化里文化路１９之１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4216,7 +4736,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區文化里光彩街３６７號號"
+                "k": "嘉義市西區福全里博愛路２段３９６及３９８號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43528,
+                    23.476649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區文化里光彩街３６７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4229,7 +4764,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區保福里興達路５６７號號"
+                "k": "嘉義市西區保福里興達路５６７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4242,7 +4778,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區竹圍里興雅路４２號號"
+                "k": "嘉義市西區竹圍里興雅路４２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4255,7 +4792,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區新西里老吸街９巷３７號號"
+                "k": "嘉義市西區新西里老吸街９巷３７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4268,7 +4806,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區翠岱里志昇街６９號號"
+                "k": "嘉義市西區翠岱里志昇街６９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4281,7 +4820,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區文化里文化路１９－２號號"
+                "k": "嘉義市西區文化里文化路１９－２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4294,7 +4834,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區福民里南京路４７６號號"
+                "k": "嘉義市西區福民里南京路４７６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4307,7 +4848,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區國華里北榮街１０１號號"
+                "k": "嘉義市西區國華里北榮街１０１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4320,7 +4862,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區番社里民生北路２８５號號"
+                "k": "嘉義市西區番社里民生北路２８５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4333,7 +4876,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區西榮里民族路５８８號號"
+                "k": "嘉義市西區國華里民生北路３２４、３２６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44602,
+                    23.48301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區西榮里民族路５８８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4346,7 +4904,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區福民里興業西路３５１號號"
+                "k": "嘉義市西區福民里興業西路３５１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4359,7 +4918,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區北湖里北社尾路７６號號"
+                "k": "嘉義市西區北湖里北社尾路７６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4372,7 +4932,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區文化里文化路２３號號"
+                "k": "嘉義市西區文化里文化路２３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4385,7 +4946,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區竹圍里興通路４８號號"
+                "k": "嘉義市西區竹圍里興通路４８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4398,7 +4960,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區新厝里興達路１０８號號"
+                "k": "嘉義市西區番社里忠義街１４１及１４３號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44716,
+                    23.48046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區新厝里興達路１０８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4411,7 +4988,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區西榮里民生北路１９４號號"
+                "k": "嘉義市西區西榮里民生北路１９４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -4424,7 +5002,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區獅子里民生南路５５８號號"
+                "k": "嘉義市西區獅子里民生南路５５８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4437,7 +5016,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區書院里新榮路３２１號號"
+                "k": "嘉義市西區書院里新榮路３２１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4450,7 +5030,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區培元里仁愛路３３６號號"
+                "k": "嘉義市西區培元里仁愛路３３６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4463,7 +5044,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區新厝里友愛路６９５號號"
+                "k": "嘉義市西區新厝里友愛路６９５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4476,7 +5058,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區書院里仁愛路５４６號號"
+                "k": "嘉義市西區書院里仁愛路５４６號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4489,7 +5072,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區西榮里民族路５９４號號"
+                "k": "嘉義市西區西榮里民族路５９４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4502,7 +5086,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區書院里仁愛路５７０號號"
+                "k": "嘉義市西區書院里仁愛路５７０號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4515,7 +5100,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區車店里興業西路３８４－１號號"
+                "k": "嘉義市西區車店里興業西路３８４－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4528,7 +5114,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區劉厝里自強街８７號號"
+                "k": "嘉義市西區劉厝里自強街８７號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4541,7 +5128,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區書院里西門街２１６號號"
+                "k": "嘉義市西區書院里西門街２１６號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4554,7 +5142,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區書院里光彩街５５９號號"
+                "k": "嘉義市西區書院里光彩街５５９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4567,7 +5156,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區重興里北興街３１８號號"
+                "k": "嘉義市西區重興里北興街３１８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4580,7 +5170,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區永和里民族路７７７號號"
+                "k": "嘉義市西區永和里民族路７７７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4593,7 +5184,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區竹圍里友愛路３０５號號"
+                "k": "嘉義市西區竹圍里友愛路３０５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4606,7 +5198,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區劉厝里博愛路２段８６４號號"
+                "k": "嘉義市西區劉厝里博愛路２段８６４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4619,7 +5212,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區北榮里文化路３８９號號"
+                "k": "嘉義市西區北榮里文化路３８９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4632,7 +5226,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區導明里成功街２８號號"
+                "k": "嘉義市西區導明里成功街２８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4645,7 +5240,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區文化里國華街２００號號"
+                "k": "嘉義市西區文化里國華街２００號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4658,7 +5254,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區竹圍里德安路１７號號"
+                "k": "嘉義市西區竹圍里德安路１７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4671,7 +5268,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區翠岱里仁愛路２１０號號"
+                "k": "嘉義市西區翠岱里仁愛路２１０號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4684,7 +5282,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區美源里興業西路４３號號"
+                "k": "嘉義市西區美源里興業西路４３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4697,7 +5296,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區書院里仁愛路４８８號號"
+                "k": "嘉義市西區書院里仁愛路４８８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4710,7 +5310,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區福全里中興路３０３號號"
+                "k": "嘉義市西區福全里中興路３０３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4723,7 +5324,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區竹圍里德惠街３６號號"
+                "k": "嘉義市西區竹圍里德惠街３６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4736,7 +5338,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區番社里民生北路２２４號號"
+                "k": "嘉義市西區番社里民生北路２２４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4749,7 +5352,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區垂楊里新民路８２６號號"
+                "k": "嘉義市西區垂楊里新民路８２６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4762,7 +5366,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區書院里民族路７７６號號"
+                "k": "嘉義市西區書院里民族路７７６號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4775,7 +5380,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區文化里光彩街５２０號號"
+                "k": "嘉義市西區文化里光彩街５２０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4788,7 +5394,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區翠岱里仁愛路２０６號號"
+                "k": "嘉義市西區翠岱里仁愛路２０６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4801,7 +5408,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區車店里上海路２２８號號"
+                "k": "嘉義市西區車店里上海路２２８號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4814,7 +5422,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區番社里中山路４０２號號"
+                "k": "嘉義市西區番社里中山路４０２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4827,7 +5436,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區文化里文化路１０９號號"
+                "k": "嘉義市西區文化里文化路１０９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4840,7 +5450,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區竹圍里興達路３７０號號"
+                "k": "嘉義市西區竹圍里興達路３７０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4853,7 +5464,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區西平里高鐵大道９７號號"
+                "k": "嘉義市西區西平里高鐵大道９７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4866,7 +5478,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區國華里文化路２８９號號"
+                "k": "嘉義市西區國華里文化路２８９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4879,7 +5492,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區文化里國華街６２之９號號"
+                "k": "嘉義市西區文化里國華街６２之９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4892,7 +5506,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區國華里文化路２９１號號"
+                "k": "嘉義市西區國華里文化路２９１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4905,7 +5520,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區保生里遠東街２２之５號號"
+                "k": "嘉義市西區保生里遠東街２２之５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4918,7 +5534,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區福全里友忠路６１９號號"
+                "k": "嘉義市西區福全里友忠路６１９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4931,7 +5548,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區書院里仁愛路４９４號號"
+                "k": "嘉義市西區書院里仁愛路４９４號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4944,7 +5562,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區北新里文化路９５１號號"
+                "k": "嘉義市西區北新里文化路９５１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4957,7 +5576,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區新西里上海路３４９號號"
+                "k": "嘉義市西區新西里上海路３４９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4970,7 +5590,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區車店里興業西路４６５號號"
+                "k": "嘉義市西區車店里興業西路４６５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4983,7 +5604,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區福民里世賢路３段１６９號號"
+                "k": "嘉義市西區福民里世賢路３段１６９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4996,7 +5618,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區文化里中山路３２９號號"
+                "k": "嘉義市西區文化里中山路３２９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5009,7 +5632,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區美源里民生南路２８５號號"
+                "k": "嘉義市西區美源里民生南路２８５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5022,7 +5646,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區西榮里中正路６１５號號"
+                "k": "嘉義市西區西榮里中正路６１５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5035,7 +5660,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區西榮里蘭井街３６７號號"
+                "k": "嘉義市西區西榮里蘭井街３６７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5048,7 +5674,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區車店里興業西路３９６號號"
+                "k": "嘉義市西區車店里興業西路３９６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5061,7 +5688,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區保福里八德路９７號號"
+                "k": "嘉義市西區保福里八德路９７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5074,7 +5702,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區福全里中興路３３３號號"
+                "k": "嘉義市西區福全里中興路３３３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5087,7 +5716,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區車店里興業西路３３０號號"
+                "k": "嘉義市西區車店里興業西路３３０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5100,7 +5730,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區書院里仁愛路４５４號號"
+                "k": "嘉義市西區書院里仁愛路４５４號",
+                "pay_list": "街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -5113,7 +5744,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區翠岱里志昇街５１號號"
+                "k": "嘉義市西區翠岱里志昇街５１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5126,7 +5758,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區培元里仁愛路２４６號號"
+                "k": "嘉義市西區培元里仁愛路２４６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5139,7 +5772,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區湖邊里文化路５８１號號"
+                "k": "嘉義市西區湖邊里文化路５８１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5152,7 +5786,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區國華里民權路４３２號號"
+                "k": "嘉義市西區國華里民權路４３２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5165,7 +5800,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區國華里國華街３２２之１２號號"
+                "k": "嘉義市西區國華里國華街３２２之１２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5178,7 +5814,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區獅子里民生南路５４２－１號號"
+                "k": "嘉義市西區獅子里民生南路５４２－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5191,7 +5828,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區福全里高鐵大道９０號號"
+                "k": "嘉義市西區福全里高鐵大道９０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5204,7 +5842,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區文化里中山路３１３號號"
+                "k": "嘉義市西區文化里中山路３１３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5217,7 +5856,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區國華里國華街２８６號號"
+                "k": "嘉義市西區國華里國華街２８６號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5230,7 +5870,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區書院里新榮路１１５號號"
+                "k": "嘉義市西區書院里新榮路１１５號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5243,7 +5884,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區西榮里民族路５６８號號"
+                "k": "嘉義市西區西榮里民族路５６８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5256,7 +5898,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區下埤里北港路５５６號號"
+                "k": "嘉義市西區下埤里北港路５５６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5269,7 +5912,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區文化里中正路４３２號號"
+                "k": "嘉義市西區文化里中正路４３２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5282,7 +5926,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區書院里中正路７０７號號"
+                "k": "嘉義市西區書院里中正路７０７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5295,7 +5940,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區湖內里新民路２９８號號"
+                "k": "嘉義市西區湖內里新民路２９８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5308,7 +5954,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區車店里興業西路４８７號號"
+                "k": "嘉義市西區車店里興業西路４８７號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5321,7 +5968,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區自強里興業西路１４５號號"
+                "k": "嘉義市西區自強里興業西路１４５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5334,7 +5982,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "嘉義市西區保福里竹圍路１５６號號"
+                "k": "嘉義市西區保福里竹圍路１５６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",

@@ -1,0 +1,13 @@
+{
+    "name": "便當、自助餐店",
+    "address": "臺中市北屯區平德里天津路３段１９５號１樓",
+    "x": 120.684782,
+    "y": 24.169644,
+    "shops": [
+        {
+            "shop": "津平餐飲店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

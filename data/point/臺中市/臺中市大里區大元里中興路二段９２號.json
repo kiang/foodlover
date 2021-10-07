@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大里區大元里中興路二段９２號旁",
+    "x": 120.687157,
+    "y": 24.097729,
+    "shops": [
+        {
+            "shop": "王章麟",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

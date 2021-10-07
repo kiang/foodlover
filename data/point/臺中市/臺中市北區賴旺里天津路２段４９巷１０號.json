@@ -1,0 +1,13 @@
+{
+    "name": "餐食攤販",
+    "address": "臺中市北區賴旺里天津路２段４９巷１０號６樓",
+    "x": 120.673816,
+    "y": 24.170217,
+    "shops": [
+        {
+            "shop": "佳和小吃攤",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

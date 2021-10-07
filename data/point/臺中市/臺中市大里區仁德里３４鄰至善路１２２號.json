@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市大里區仁德里３４鄰至善路１２２號",
+    "x": 120.700128,
+    "y": 24.094009,
+    "shops": [
+        {
+            "shop": "臻香複合式早點",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

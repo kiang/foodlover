@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市中區中華里中華路一段１０４號１樓",
+    "x": 120.67636213613,
+    "y": 24.144536839467,
+    "shops": [
+        {
+            "shop": "羅仁豪",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

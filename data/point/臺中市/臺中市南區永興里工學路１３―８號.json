@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市南區永興里工學路１３―８號１樓",
+    "x": 120.668032,
+    "y": 24.116712,
+    "shops": [
+        {
+            "shop": "多鮮水餃",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

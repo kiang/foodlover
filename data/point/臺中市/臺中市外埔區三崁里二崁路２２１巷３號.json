@@ -1,0 +1,13 @@
+{
+    "name": "便當、自助餐店",
+    "address": "臺中市外埔區三崁里二崁路２２１巷３號",
+    "x": 120.646462,
+    "y": 24.325115,
+    "shops": [
+        {
+            "shop": "順祺小吃部",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

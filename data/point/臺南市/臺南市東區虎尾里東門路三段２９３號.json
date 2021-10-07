@@ -1,0 +1,17 @@
+{
+    "name": "飲料零售\/西點麵包零售\/咖啡館",
+    "address": "臺南市東區虎尾里東門路三段２９３號１樓",
+    "x": 120.23730118969,
+    "y": 22.976103587277,
+    "shops": [
+        {
+            "shop": "采富企業社",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "采富企業社",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

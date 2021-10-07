@@ -4,7 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區西定路230號"
+                "k": "基隆市中山區西定路230號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -17,7 +18,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區北寧路217號"
+                "k": "基隆市中正區北寧路217號",
+                "pay_list": "台灣 PAY\/歐付寶"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +32,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區愛三路21號"
+                "k": "基隆市仁愛區愛三路21號",
+                "pay_list": "台灣 PAY\/街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -43,7 +46,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區麥金路127巷8號"
+                "k": "基隆市安樂區麥金路127巷8號",
+                "pay_list": "台灣 PAY\/歐付寶"
             },
             "geometry": {
                 "type": "Point",
@@ -56,7 +60,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區永安里明德一路２１４號"
+                "k": "基隆市七堵區永安里明德一路２１４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -69,7 +74,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區百福里福二街２２０號"
+                "k": "基隆市七堵區百福里福二街２２０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -82,7 +88,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區百福里百六街１０７巷１８號"
+                "k": "基隆市七堵區百福里百六街１０７巷１８號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -95,7 +102,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區福一街１２９號"
+                "k": "基隆市七堵區福一街１２９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -108,7 +116,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區百三街６３號"
+                "k": "基隆市七堵區百三街６３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +130,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區百福里福五街９８號"
+                "k": "基隆市七堵區百福里福五街９８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -134,7 +144,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區西榮里西定路２１號"
+                "k": "基隆市中山區西榮里西定路２１號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -147,7 +158,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區和慶里中和路１６８巷５弄３２號"
+                "k": "基隆市中山區和慶里中和路１６８巷５弄３２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +172,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區德義里信一路１７３號"
+                "k": "基隆市中正區德義里信一路１７３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -173,7 +186,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區砂子里北寧路３２７－１號"
+                "k": "基隆市中正區砂子里北寧路３２７－１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -186,7 +200,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區正義里義二路１２１號"
+                "k": "基隆市中正區正義里義二路１２１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +214,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區中正里中正路３９３巷１７號"
+                "k": "基隆市中正區中正里中正路３９３巷１７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +228,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區港通里中正路３４號"
+                "k": "基隆市中正區港通里中正路３４號",
+                "pay_list": "LINE Pay Money\/台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -225,7 +242,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區新富里新豐街３６７號"
+                "k": "基隆市中正區新富里新豐街３６７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +256,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區港通里義一路３１號"
+                "k": "基隆市中正區港通里義一路３１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -251,7 +270,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區新富里新豐街３２５巷４３號"
+                "k": "基隆市中正區新富里新豐街３２５巷４３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -264,7 +284,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區德義里信一路１７２號"
+                "k": "基隆市中正區德義里信一路１７２號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -277,7 +298,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區兆連里獅球路３７巷７號"
+                "k": "基隆市仁愛區兆連里獅球路３７巷７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -290,7 +312,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區和明里仁一路２９９號"
+                "k": "基隆市仁愛區和明里仁一路２９９號",
+                "pay_list": "一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -303,7 +326,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區玉田里仁二路２０８號"
+                "k": "基隆市仁愛區玉田里仁二路２０８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -316,7 +340,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區新店里忠三路２號"
+                "k": "基隆市仁愛區新店里忠三路２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -329,7 +354,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區和明里２鄰仁一路２６１號"
+                "k": "基隆市仁愛區和明里２鄰仁一路２６１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -342,7 +368,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區博愛里愛二路４２號"
+                "k": "基隆市仁愛區博愛里愛二路４２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -355,7 +382,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁德里愛一路２８號"
+                "k": "基隆市仁愛區仁德里愛一路２８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -368,7 +396,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區明德里忠三路９９號"
+                "k": "基隆市仁愛區明德里忠三路９９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -381,7 +410,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁德里仁三路９２號"
+                "k": "基隆市仁愛區仁德里仁三路９２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -394,7 +424,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區博愛里愛二路１０號"
+                "k": "基隆市仁愛區博愛里愛二路１０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -407,7 +438,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區龍門里南榮路１３４巷５６號"
+                "k": "基隆市仁愛區龍門里南榮路１３４巷５６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -420,7 +452,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區和明里仁二路１５３號"
+                "k": "基隆市仁愛區和明里仁二路１５３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -433,7 +466,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區新店里孝二路１０９號"
+                "k": "基隆市仁愛區新店里孝二路１０９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -446,7 +480,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區信綠里東信路３１６號"
+                "k": "基隆市信義區信綠里東信路３１６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -459,7 +494,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區仁壽里信二路２１９號"
+                "k": "基隆市信義區仁壽里信二路２１９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -472,7 +508,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區孝忠里深溪路５５巷５６號"
+                "k": "基隆市信義區孝忠里深溪路５５巷５６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -485,7 +522,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區義昭里信一路６３之５號"
+                "k": "基隆市信義區義昭里信一路６３之５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -498,7 +536,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區孝忠里深溪路１００號"
+                "k": "基隆市信義區孝忠里深溪路１００號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -511,7 +550,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區義幸里信二路１５４號"
+                "k": "基隆市信義區義幸里信二路１５４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -524,7 +564,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區東安里東信路４６號"
+                "k": "基隆市信義區東安里東信路４６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -537,7 +578,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區義幸里信二路９１號"
+                "k": "基隆市信義區義幸里信二路９１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -550,7 +592,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區四維里安和二街６８號"
+                "k": "基隆市安樂區四維里安和二街６８號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -563,7 +606,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區興寮里基金一路２之６號"
+                "k": "基隆市安樂區興寮里基金一路２之６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -576,7 +620,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區興寮里基金一路５４號"
+                "k": "基隆市安樂區興寮里基金一路５４號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -589,7 +634,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區慈仁里安一路１８０號"
+                "k": "基隆市安樂區慈仁里安一路１８０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -602,7 +648,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區武崙里基金一路１７２―５號"
+                "k": "基隆市安樂區武崙里基金一路１７２―５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -615,7 +662,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區嘉仁里安樂路一段６９巷４２號"
+                "k": "基隆市安樂區嘉仁里安樂路一段６９巷４２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -628,7 +676,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區暖暖街２８１巷６８號"
+                "k": "基隆市暖暖區暖暖街２８１巷６８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -641,7 +690,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區暖暖里暖暖街２３３號"
+                "k": "基隆市暖暖區暖暖里暖暖街２３３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -654,7 +704,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區暖同里東勢街１―２０號"
+                "k": "基隆市暖暖區暖同里東勢街１―２０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -667,7 +718,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區暖暖街１８２號"
+                "k": "基隆市暖暖區暖暖街１８２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -680,7 +732,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區八堵里水源路１５號"
+                "k": "基隆市暖暖區八堵里水源路１５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -693,7 +746,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區實踐里福二街７３號"
+                "k": "基隆市七堵區實踐里福二街７３號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -706,7 +760,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區正明里開元路９２號"
+                "k": "基隆市七堵區正明里開元路９２號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -719,7 +774,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區永安里崇孝街２４號"
+                "k": "基隆市七堵區永安里崇孝街２４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -732,7 +788,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區崇智街８號"
+                "k": "基隆市七堵區崇智街８號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -745,7 +802,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區堵北里福一街１６８號"
+                "k": "基隆市七堵區堵北里福一街１６８號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -758,7 +816,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區百三街４５號"
+                "k": "基隆市七堵區百三街４５號",
+                "pay_list": "一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -771,7 +830,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區崇信街１３號"
+                "k": "基隆市七堵區崇信街１３號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -784,7 +844,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區自強里自強路１４７－１號"
+                "k": "基隆市七堵區自強里自強路１４７－１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -797,7 +858,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區正明里自治街１２號"
+                "k": "基隆市七堵區正明里自治街１２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -810,7 +872,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區崇智街２６號"
+                "k": "基隆市七堵區崇智街２６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -823,7 +886,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區正明里自治街２６號"
+                "k": "基隆市七堵區正明里自治街２６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -836,7 +900,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區開元路９６號"
+                "k": "基隆市七堵區開元路９６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -849,7 +914,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區百福里福五街３０號"
+                "k": "基隆市七堵區百福里福五街３０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -862,7 +928,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區正光里南興路１９號"
+                "k": "基隆市七堵區正光里南興路１９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -875,7 +942,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區光明路７４號"
+                "k": "基隆市七堵區光明路７４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -888,7 +956,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區正光里明德一路１２３號"
+                "k": "基隆市七堵區正光里明德一路１２３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -901,7 +970,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區六堵里工建路１２０號"
+                "k": "基隆市七堵區六堵里工建路１２０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -914,7 +984,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區堵北里福二街１３７、１３９號"
+                "k": "基隆市七堵區堵北里福二街１３７、１３９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -927,7 +998,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區百三街８５號"
+                "k": "基隆市七堵區百三街８５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -940,7 +1012,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區正光里自治街２５號"
+                "k": "基隆市七堵區正光里自治街２５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -953,7 +1026,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區百福里百六街１３６號"
+                "k": "基隆市七堵區百福里百六街１３６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -966,7 +1040,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區正光里崇禮街６號"
+                "k": "基隆市七堵區正光里崇禮街６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -979,7 +1054,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區堵北里實踐路２５２號"
+                "k": "基隆市七堵區堵北里實踐路２５２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -992,7 +1068,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區正光里開元路８４號"
+                "k": "基隆市七堵區正光里開元路８４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1005,7 +1082,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區堵北里福一街１３８號"
+                "k": "基隆市七堵區堵北里福一街１３８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1018,7 +1096,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區堵北里福二街１７５號"
+                "k": "基隆市七堵區堵北里福二街１７５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1031,7 +1110,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區富民里明德一路１１２號"
+                "k": "基隆市七堵區富民里明德一路１１２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1044,7 +1124,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區百福里百六街９５號"
+                "k": "基隆市七堵區百福里百六街９５號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1057,7 +1138,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區百福里福五街１８號"
+                "k": "基隆市七堵區百福里福五街１８號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1070,7 +1152,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區正光里南興路１―５號"
+                "k": "基隆市七堵區正光里南興路１―５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1083,7 +1166,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區永平里崇智街５４號"
+                "k": "基隆市七堵區永平里崇智街５４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1096,7 +1180,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區正光里南興路６號"
+                "k": "基隆市七堵區正光里南興路６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1109,7 +1194,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區百福里百五街４９號"
+                "k": "基隆市七堵區百福里百五街４９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1122,7 +1208,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區正明里開元路９４號"
+                "k": "基隆市七堵區正明里開元路９４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1135,7 +1222,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區正光里南興路８４號"
+                "k": "基隆市七堵區正光里南興路８４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1148,7 +1236,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區正明里自治街１６號"
+                "k": "基隆市七堵區正明里自治街１６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1161,7 +1250,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區百福里福五街１６號"
+                "k": "基隆市七堵區百福里福五街１６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -1174,7 +1264,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區永平里永富路７７號"
+                "k": "基隆市七堵區永平里永富路７７號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1187,7 +1278,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區正明里自治街４２號"
+                "k": "基隆市七堵區正明里自治街４２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1200,7 +1292,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區永平里永富路８１號"
+                "k": "基隆市七堵區永平里永富路８１號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1213,7 +1306,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區永安里自治北街１５號"
+                "k": "基隆市七堵區永安里自治北街１５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1226,7 +1320,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區百福里福五街４８號"
+                "k": "基隆市七堵區百福里福五街４８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1239,7 +1334,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區正光里明德一路８７號"
+                "k": "基隆市七堵區正光里明德一路８７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1252,7 +1348,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區正光里光明路１１２號"
+                "k": "基隆市七堵區正光里光明路１１２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1265,7 +1362,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區自強里大華一路１２５巷４８號"
+                "k": "基隆市七堵區自強里大華一路１２５巷４８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1278,7 +1376,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區正光里南興路２―５號"
+                "k": "基隆市七堵區正光里南興路２―５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1291,7 +1390,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區泰安里泰和街２６號"
+                "k": "基隆市七堵區泰安里泰和街２６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1304,7 +1404,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市七堵區明德一路６７號"
+                "k": "基隆市七堵區明德一路６７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1317,7 +1418,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區通化里中華路３―３號"
+                "k": "基隆市中山區通化里中華路３―３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1330,7 +1432,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區西榮里西定路２０號"
+                "k": "基隆市中山區西榮里西定路２０號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1343,7 +1446,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區西康里復興路３６號"
+                "k": "基隆市中山區西康里復興路３６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1356,7 +1460,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區協和里協和街１５０－２號"
+                "k": "基隆市中山區協和里協和街１５０－２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1369,7 +1474,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區德和里復興路１４６號"
+                "k": "基隆市中山區德和里復興路１４６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1382,7 +1488,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區中興里中山二路３６巷５號"
+                "k": "基隆市中山區中興里中山二路３６巷５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1395,7 +1502,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區西榮里西定路４８號"
+                "k": "基隆市中山區西榮里西定路４８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1408,7 +1516,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區和慶里中和路１６８巷５弄２５號"
+                "k": "基隆市中山區和慶里中和路１６８巷５弄２５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1421,7 +1530,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區德和里復興路１５０號"
+                "k": "基隆市中山區德和里復興路１５０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1434,7 +1544,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區安民里安一路４６號"
+                "k": "基隆市中山區安民里安一路４６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1447,7 +1558,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區中興里中山二路５１巷１３２號"
+                "k": "基隆市中山區中興里中山二路５１巷１３２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1460,7 +1572,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區協和里湖海路１段３７號"
+                "k": "基隆市中山區協和里湖海路１段３７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1473,7 +1586,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區仁正里中山二路１０３號"
+                "k": "基隆市中山區仁正里中山二路１０３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1486,7 +1600,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區安民里安一路６６號"
+                "k": "基隆市中山區安民里安一路６６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1499,7 +1614,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區安民里安一路３８號"
+                "k": "基隆市中山區安民里安一路３８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1512,7 +1628,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區通化里中華路５巷２號"
+                "k": "基隆市中山區通化里中華路５巷２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1525,7 +1642,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區德安里復興路３５３號"
+                "k": "基隆市中山區德安里復興路３５３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1538,7 +1656,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區德和里復興路１２４號"
+                "k": "基隆市中山區德和里復興路１２４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1551,7 +1670,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區德和里復興路１３６號"
+                "k": "基隆市中山區德和里復興路１３６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1564,7 +1684,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區和慶里中和路１６８巷７弄１９號"
+                "k": "基隆市中山區和慶里中和路１６８巷７弄１９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1577,7 +1698,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區西康里復興路３２號"
+                "k": "基隆市中山區西康里復興路３２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1590,7 +1712,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區西榮里西定路８８號"
+                "k": "基隆市中山區西榮里西定路８８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1603,7 +1726,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區仁正里中山二路１０５巷１０３號"
+                "k": "基隆市中山區仁正里中山二路１０５巷１０３號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1616,7 +1740,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區通化里復旦路１７―５號"
+                "k": "基隆市中山區通化里復旦路１７―５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1629,7 +1754,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區德和里復興路１６０號"
+                "k": "基隆市中山區德和里復興路１６０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1642,7 +1768,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區德安里復興路３１７號"
+                "k": "基隆市中山區德安里復興路３１７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1655,7 +1782,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區西康里復興路４３－１號"
+                "k": "基隆市中山區西康里復興路４３－１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1668,7 +1796,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區復興路２４０－１號"
+                "k": "基隆市中山區復興路２４０－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1681,7 +1810,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區西榮里西定路４５號"
+                "k": "基隆市中山區西榮里西定路４５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1694,7 +1824,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區通化里中華路５巷１２號"
+                "k": "基隆市中山區通化里中華路５巷１２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1707,7 +1838,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區德和里復興路１５６號"
+                "k": "基隆市中山區德和里復興路１５６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1720,7 +1852,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區西康里西定路４６５號"
+                "k": "基隆市中山區西康里西定路４６５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1733,7 +1866,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區德和里復興路１０３號"
+                "k": "基隆市中山區德和里復興路１０３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1746,7 +1880,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區德和里復興路１８９號"
+                "k": "基隆市中山區德和里復興路１８９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1759,7 +1894,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區和慶里中和路１６８巷１０弄２２號"
+                "k": "基隆市中山區和慶里中和路１６８巷１０弄２２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1772,7 +1908,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區中山里中山一路１１９號"
+                "k": "基隆市中山區中山里中山一路１１９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1785,7 +1922,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區西華里西定路１１０巷３６號"
+                "k": "基隆市中山區西華里西定路１１０巷３６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1798,7 +1936,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區德和里復興路２２４號"
+                "k": "基隆市中山區德和里復興路２２４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1811,7 +1950,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區中興里中山二路２１號"
+                "k": "基隆市中山區中興里中山二路２１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1824,7 +1964,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區協和里文化路１０６號"
+                "k": "基隆市中山區協和里文化路１０６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1837,7 +1978,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區西康里復興路９５之６號"
+                "k": "基隆市中山區西康里復興路９５之６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1850,7 +1992,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區安平里中山一路１１１號"
+                "k": "基隆市中山區安平里中山一路１１１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1863,7 +2006,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區民治里中山一路２５７號"
+                "k": "基隆市中山區民治里中山一路２５７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1876,7 +2020,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區西康里西定路４５１號"
+                "k": "基隆市中山區西康里西定路４５１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1889,7 +2034,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中山區德安里復興路２７５號"
+                "k": "基隆市中山區德安里復興路２７５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1902,7 +2048,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區正船里中船路市場１６號"
+                "k": "基隆市中正區正船里中船路市場１６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1915,7 +2062,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區海濱里北寧路２號"
+                "k": "基隆市中正區海濱里北寧路２號",
+                "pay_list": "LINE Pay Money\/歐付寶\/一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1928,7 +2076,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區中砂里中正路２７２號"
+                "k": "基隆市中正區中砂里中正路２７２號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1941,7 +2090,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區建國里立德路６號"
+                "k": "基隆市中正區建國里立德路６號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1954,7 +2104,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區海濱里祥豐街８４１號"
+                "k": "基隆市中正區海濱里祥豐街８４１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1967,7 +2118,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區新豐里新豐街３１０號"
+                "k": "基隆市中正區新豐里新豐街３１０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1980,7 +2132,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區正濱里中正路５５９號"
+                "k": "基隆市中正區正濱里中正路５５９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1993,7 +2146,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區建國里祥豐街１７４號"
+                "k": "基隆市中正區建國里祥豐街１７４號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2006,7 +2160,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區碧砂里北寧路３５２號"
+                "k": "基隆市中正區碧砂里北寧路３５２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2019,7 +2174,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區德義里義二路１０號"
+                "k": "基隆市中正區德義里義二路１０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2032,7 +2188,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區港通里信一路１７７號"
+                "k": "基隆市中正區港通里信一路１７７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2045,7 +2202,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區正濱里中正路８１０號"
+                "k": "基隆市中正區正濱里中正路８１０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2058,7 +2216,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區德義里義二路１９號"
+                "k": "基隆市中正區德義里義二路１９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2071,7 +2230,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區新豐里新豐街４１６號"
+                "k": "基隆市中正區新豐里新豐街４１６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2084,7 +2244,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區正船里中船路８８號"
+                "k": "基隆市中正區正船里中船路８８號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2097,7 +2258,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區海濱里北寧路７１號"
+                "k": "基隆市中正區海濱里北寧路７１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2110,7 +2272,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區新豐里新豐街３００號"
+                "k": "基隆市中正區新豐里新豐街３００號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2123,7 +2286,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區德義里義二路２７號"
+                "k": "基隆市中正區德義里義二路２７號",
+                "pay_list": "台灣 PAY\/一卡通\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2136,7 +2300,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區平寮里平二路２２號"
+                "k": "基隆市中正區平寮里平二路２２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2149,7 +2314,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區德義里義二路２巷９號"
+                "k": "基隆市中正區德義里義二路２巷９號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2162,7 +2328,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區港通里義一路１６０號"
+                "k": "基隆市中正區港通里義一路１６０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2175,7 +2342,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區港通里中正路６２之１號"
+                "k": "基隆市中正區港通里中正路６２之１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2188,7 +2356,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區碧砂里北寧路２７６號"
+                "k": "基隆市中正區碧砂里北寧路２７６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2201,7 +2370,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區德義里信二路２８８號"
+                "k": "基隆市中正區德義里信二路２８８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2214,7 +2384,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區真砂里豐稔街２１號"
+                "k": "基隆市中正區真砂里豐稔街２１號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2227,7 +2398,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區德義里義二路２６號"
+                "k": "基隆市中正區德義里義二路２６號",
+                "pay_list": "LINE Pay Money\/台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2240,7 +2412,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區正濱里中正路８２０號"
+                "k": "基隆市中正區正濱里中正路８２０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2253,7 +2426,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區港通里義一路７號"
+                "k": "基隆市中正區港通里義一路７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2266,7 +2440,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區長潭里北寧路３６７號"
+                "k": "基隆市中正區長潭里北寧路３６７號",
+                "pay_list": "LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2279,7 +2454,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區德義里信二路３１９號"
+                "k": "基隆市中正區德義里信二路３１９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2292,7 +2468,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區德義里信二路３１５號"
+                "k": "基隆市中正區德義里信二路３１５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2305,7 +2482,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區長潭里北寧路３６９巷４５―２號"
+                "k": "基隆市中正區長潭里北寧路３６９巷４５―２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2318,7 +2496,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區碧砂里北寧路２４２號"
+                "k": "基隆市中正區碧砂里北寧路２４２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2331,7 +2510,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區德義里信二路２８４號"
+                "k": "基隆市中正區德義里信二路２８４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2344,7 +2524,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區正濱里中正路７９８號"
+                "k": "基隆市中正區正濱里中正路７９８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2357,7 +2538,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區正濱里中正路７８２號"
+                "k": "基隆市中正區正濱里中正路７８２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2370,7 +2552,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區港通里義一路２５號"
+                "k": "基隆市中正區港通里義一路２５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2383,7 +2566,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區長潭里北寧路３６９巷４５―６號"
+                "k": "基隆市中正區長潭里北寧路３６９巷４５―６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2396,7 +2580,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區中船里中船路２２號"
+                "k": "基隆市中正區中船里中船路２２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2409,7 +2594,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區德義里義二路９３號"
+                "k": "基隆市中正區德義里義二路９３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2422,7 +2608,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區新富里新豐街３０３巷８弄２號"
+                "k": "基隆市中正區新富里新豐街３０３巷８弄２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2435,7 +2622,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區德義里義二路８５號"
+                "k": "基隆市中正區德義里義二路８５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2448,7 +2636,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區德義里義二路４２號"
+                "k": "基隆市中正區德義里義二路４２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2461,7 +2650,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區中正里中正路４２５號"
+                "k": "基隆市中正區中正里中正路４２５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2474,7 +2664,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區正濱里正濱路８８號"
+                "k": "基隆市中正區正濱里正濱路８８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2487,7 +2678,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區正濱里正濱路２號"
+                "k": "基隆市中正區正濱里正濱路２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2500,7 +2692,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區德義里義二路１６號"
+                "k": "基隆市中正區德義里義二路１６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2513,7 +2706,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區正義里義二路１６０號"
+                "k": "基隆市中正區正義里義二路１６０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2526,7 +2720,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區砂灣里祥豐街８３―１號"
+                "k": "基隆市中正區砂灣里祥豐街８３―１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2539,7 +2734,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區正船里中船路７巷１９號"
+                "k": "基隆市中正區正船里中船路７巷１９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2552,7 +2748,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區正濱里中正路７９４號"
+                "k": "基隆市中正區正濱里中正路７９４號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2565,7 +2762,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區港通里義一路２０巷２號"
+                "k": "基隆市中正區港通里義一路２０巷２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2578,7 +2776,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區正濱里中正路７９２號"
+                "k": "基隆市中正區正濱里中正路７９２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2591,7 +2790,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區海濱里祥豐街７７１號"
+                "k": "基隆市中正區海濱里祥豐街７７１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2604,7 +2804,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區新豐里新豐街３０６號"
+                "k": "基隆市中正區新豐里新豐街３０６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2617,7 +2818,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區正濱里中正路８１２―５號"
+                "k": "基隆市中正區正濱里中正路８１２―５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2630,7 +2832,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區正濱里中正路７９０―１號"
+                "k": "基隆市中正區正濱里中正路７９０―１號",
+                "pay_list": "街口支付\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2643,7 +2846,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區正濱里中正路８１２之６號"
+                "k": "基隆市中正區正濱里中正路８１２之６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2656,7 +2860,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區正義里義二路１４８號"
+                "k": "基隆市中正區正義里義二路１４８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2669,7 +2874,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區正濱里中正路５７９―１號"
+                "k": "基隆市中正區正濱里中正路５７９―１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2682,7 +2888,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區正船里中船路４２號"
+                "k": "基隆市中正區正船里中船路４２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2695,7 +2902,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區德義里義二路２巷４號"
+                "k": "基隆市中正區德義里義二路２巷４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2708,7 +2916,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區砂灣里祥豐街８１號"
+                "k": "基隆市中正區砂灣里祥豐街８１號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2721,7 +2930,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區新富里新豐街２５１巷１０號"
+                "k": "基隆市中正區新富里新豐街２５１巷１０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2734,7 +2944,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區新富里新豐街２８５號"
+                "k": "基隆市中正區新富里新豐街２８５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2747,7 +2958,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區港通里義一路２０巷３號"
+                "k": "基隆市中正區港通里義一路２０巷３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2760,7 +2972,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區砂子里北寧路３９２號"
+                "k": "基隆市中正區砂子里北寧路３９２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2773,7 +2986,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區新豐街２５１巷４弄１５號"
+                "k": "基隆市中正區新豐街２５１巷４弄１５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2786,7 +3000,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區入船里中正路６２號"
+                "k": "基隆市中正區入船里中正路６２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2799,7 +3014,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區正濱里中正路７７４號"
+                "k": "基隆市中正區正濱里中正路７７４號",
+                "pay_list": "愛金卡\/台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2812,7 +3028,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區德義里信二路３０７號"
+                "k": "基隆市中正區德義里信二路３０７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2825,7 +3042,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區新豐里新豐街４３８號"
+                "k": "基隆市中正區新豐里新豐街４３８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2838,7 +3056,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區碧砂里環港街８２號"
+                "k": "基隆市中正區碧砂里環港街８２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2851,7 +3070,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區港通里信三路２５號"
+                "k": "基隆市中正區港通里信三路２５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2864,7 +3084,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區港通里義一路２０巷１號"
+                "k": "基隆市中正區港通里義一路２０巷１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2877,7 +3098,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區港通里義一路６８號"
+                "k": "基隆市中正區港通里義一路６８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2890,7 +3112,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區新富里新豐街２２１號"
+                "k": "基隆市中正區新富里新豐街２２１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2903,7 +3126,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區新富里新豐街３７１號"
+                "k": "基隆市中正區新富里新豐街３７１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2916,7 +3140,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區義二路１９０號"
+                "k": "基隆市中正區義二路１９０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2929,7 +3154,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區德義里義二路６３號"
+                "k": "基隆市中正區德義里義二路６３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2942,7 +3168,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區中正路２４號"
+                "k": "基隆市中正區中正路２４號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2955,7 +3182,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區新豐街２３９號"
+                "k": "基隆市中正區新豐街２３９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2968,7 +3196,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區新富里新豐街２８１號"
+                "k": "基隆市中正區新富里新豐街２８１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2981,7 +3210,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區德義里義二路１２０號"
+                "k": "基隆市中正區德義里義二路１２０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2994,7 +3224,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區正義里義二路１２７號"
+                "k": "基隆市中正區正義里義二路１２７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3007,7 +3238,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區新富里新豐街３６３號"
+                "k": "基隆市中正區新富里新豐街３６３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3020,7 +3252,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區正濱里正濱路６８號"
+                "k": "基隆市中正區正濱里正濱路６８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3033,7 +3266,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區新富里新豐街２５１巷４弄３３號"
+                "k": "基隆市中正區新富里新豐街２５１巷４弄３３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3046,7 +3280,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區港通里信四路２７號"
+                "k": "基隆市中正區港通里信四路２７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3059,7 +3294,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區正濱里中正路７５４號"
+                "k": "基隆市中正區正濱里中正路７５４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3072,7 +3308,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區新豐街３６９號"
+                "k": "基隆市中正區新豐街３６９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3085,7 +3322,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區新豐街３６１號"
+                "k": "基隆市中正區新豐街３６１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3098,7 +3336,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區新豐街２０９號"
+                "k": "基隆市中正區新豐街２０９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3111,7 +3350,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區德義里義二路５２號"
+                "k": "基隆市中正區德義里義二路５２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3124,7 +3364,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區德義里義二路６號"
+                "k": "基隆市中正區德義里義二路６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3137,7 +3378,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區新豐街２２７號"
+                "k": "基隆市中正區新豐街２２７號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3150,7 +3392,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區新豐街２５１巷２弄５號"
+                "k": "基隆市中正區新豐街２５１巷２弄５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3163,7 +3406,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市中正區港通里信四路２３號"
+                "k": "基隆市中正區港通里信四路２３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3176,7 +3420,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區愛四路３６號"
+                "k": "基隆市仁愛區愛四路３６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3189,7 +3434,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區愛四路３１號"
+                "k": "基隆市仁愛區愛四路３１號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3202,7 +3448,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁四路２４號"
+                "k": "基隆市仁愛區仁四路２４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3215,7 +3462,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區博愛零售市場飲食類第Ｂ７０、增２９號"
+                "k": "基隆市仁愛區博愛零售市場飲食類第Ｂ７０、增２９號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3228,7 +3476,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區水錦里劉銘傳路６巷２５－３５號"
+                "k": "基隆市仁愛區水錦里劉銘傳路６巷２５－３５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3241,7 +3490,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁德里愛二路５２號"
+                "k": "基隆市仁愛區仁德里愛二路５２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3254,7 +3504,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁德里仁三路７８號"
+                "k": "基隆市仁愛區仁德里仁三路７８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3267,7 +3518,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區博愛里仁四路５８號"
+                "k": "基隆市仁愛區博愛里仁四路５８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3280,7 +3532,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁德里愛一路３５號"
+                "k": "基隆市仁愛區仁德里愛一路３５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3293,7 +3546,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區新店里忠二路３９號"
+                "k": "基隆市仁愛區新店里忠二路３９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3306,7 +3560,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區智仁里仁二路９９號"
+                "k": "基隆市仁愛區智仁里仁二路９９號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3319,7 +3574,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁德里愛一路３７號"
+                "k": "基隆市仁愛區仁德里愛一路３７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3332,7 +3588,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區水錦里仁二路６６號"
+                "k": "基隆市仁愛區水錦里仁二路６６號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3345,7 +3602,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁德里仁三路８０號"
+                "k": "基隆市仁愛區仁德里仁三路８０號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3358,7 +3616,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區水錦里仁二路７號"
+                "k": "基隆市仁愛區水錦里仁二路７號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3371,7 +3630,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區忠勇里仁二路１８２號"
+                "k": "基隆市仁愛區忠勇里仁二路１８２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3384,7 +3644,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁二路１３８號"
+                "k": "基隆市仁愛區仁二路１３８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3397,7 +3658,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區博愛里孝一路１１１號"
+                "k": "基隆市仁愛區博愛里孝一路１１１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3410,7 +3672,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區玉田里仁二路２１１號"
+                "k": "基隆市仁愛區玉田里仁二路２１１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3423,7 +3686,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區文昌里港西街４號"
+                "k": "基隆市仁愛區文昌里港西街４號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3436,7 +3700,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區新店里孝二路８６―４號"
+                "k": "基隆市仁愛區新店里孝二路８６―４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3449,7 +3714,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區文昌里忠二路４４號"
+                "k": "基隆市仁愛區文昌里忠二路４４號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3462,7 +3728,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁德里仁三路２９巷２號"
+                "k": "基隆市仁愛區仁德里仁三路２９巷２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3475,7 +3742,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區玉田里仁二路２２０號"
+                "k": "基隆市仁愛區玉田里仁二路２２０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3488,7 +3756,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區博愛里愛二路３９號"
+                "k": "基隆市仁愛區博愛里愛二路３９號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3501,7 +3770,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區博愛里愛三路１號"
+                "k": "基隆市仁愛區博愛里愛三路１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3514,7 +3784,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區水錦里劉銘傳路５－１號"
+                "k": "基隆市仁愛區水錦里劉銘傳路５－１號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3527,7 +3798,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁德里愛三路４９巷１８號"
+                "k": "基隆市仁愛區仁德里愛三路４９巷１８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3540,7 +3812,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區新店里孝一路５４號"
+                "k": "基隆市仁愛區新店里孝一路５４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3553,7 +3826,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區新店里孝三路７８號"
+                "k": "基隆市仁愛區新店里孝三路７８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3566,7 +3840,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區玉田里仁二路２０４號"
+                "k": "基隆市仁愛區玉田里仁二路２０４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3579,7 +3854,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區和明里愛五路３４號"
+                "k": "基隆市仁愛區和明里愛五路３４號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3592,7 +3868,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區虹橋里劉銘傳路１１巷４號"
+                "k": "基隆市仁愛區虹橋里劉銘傳路１１巷４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3605,7 +3882,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁德里仁四路６號"
+                "k": "基隆市仁愛區仁德里仁四路６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3618,7 +3896,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁德里愛三路３７號"
+                "k": "基隆市仁愛區仁德里愛三路３７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3631,7 +3910,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區和明里愛六路４號"
+                "k": "基隆市仁愛區和明里愛六路４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3644,7 +3924,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區和明里仁二路１５９號"
+                "k": "基隆市仁愛區和明里仁二路１５９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3657,7 +3938,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區文昌里忠二路５８號"
+                "k": "基隆市仁愛區文昌里忠二路５８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3670,7 +3952,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區文昌里忠二路５３號"
+                "k": "基隆市仁愛區文昌里忠二路５３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3683,7 +3966,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區書院里獅球路４８巷１０９號"
+                "k": "基隆市仁愛區書院里獅球路４８巷１０９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3696,7 +3980,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區明德里孝三路２５號"
+                "k": "基隆市仁愛區明德里孝三路２５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3709,7 +3994,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區文安里仁五路７號"
+                "k": "基隆市仁愛區文安里仁五路７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3722,7 +4008,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區同風里孝二路２８號"
+                "k": "基隆市仁愛區同風里孝二路２８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3735,7 +4022,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區文昌里孝三路６７號"
+                "k": "基隆市仁愛區文昌里孝三路６７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3748,7 +4036,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區文昌里孝四路１６號"
+                "k": "基隆市仁愛區文昌里孝四路１６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3761,7 +4050,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區水錦里劉銘傳路６巷２５―２３號"
+                "k": "基隆市仁愛區水錦里劉銘傳路６巷２５―２３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3774,7 +4064,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區明德里孝三路１９號"
+                "k": "基隆市仁愛區明德里孝三路１９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3787,7 +4078,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區同風里忠三路２７號"
+                "k": "基隆市仁愛區同風里忠三路２７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3800,7 +4092,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區明德市場７７號"
+                "k": "基隆市仁愛區明德市場７７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3813,7 +4106,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區水錦里劉銘傳路５號"
+                "k": "基隆市仁愛區水錦里劉銘傳路５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3826,7 +4120,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區博愛里愛三路４９巷３８號"
+                "k": "基隆市仁愛區博愛里愛三路４９巷３８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3839,7 +4134,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區水錦里仁一路２４５號"
+                "k": "基隆市仁愛區水錦里仁一路２４５號",
+                "pay_list": "街口支付\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3852,7 +4148,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁德里愛二路６５號"
+                "k": "基隆市仁愛區仁德里愛二路６５號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3865,7 +4162,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁德里愛二路４７號"
+                "k": "基隆市仁愛區仁德里愛二路４７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3878,7 +4176,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區文昌里孝三路２６號"
+                "k": "基隆市仁愛區文昌里孝三路２６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3891,7 +4190,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區明德里公園街３２６號"
+                "k": "基隆市仁愛區明德里公園街３２６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3904,7 +4204,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區和明里仁一路２９５―２４號"
+                "k": "基隆市仁愛區和明里仁一路２９５―２４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3917,7 +4218,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區玉田里愛四路３４號"
+                "k": "基隆市仁愛區玉田里愛四路３４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3930,7 +4232,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁德里愛二路６３號"
+                "k": "基隆市仁愛區仁德里愛二路６３號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3943,7 +4246,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區福仁里南榮路３１號"
+                "k": "基隆市仁愛區福仁里南榮路３１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3956,7 +4260,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區智仁里仁二路１２３號"
+                "k": "基隆市仁愛區智仁里仁二路１２３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3969,7 +4274,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區文昌里孝四路１５號"
+                "k": "基隆市仁愛區文昌里孝四路１５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3982,7 +4288,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區文昌里孝三路３６號"
+                "k": "基隆市仁愛區文昌里孝三路３６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3995,7 +4302,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區曲水里龍安街２１７號"
+                "k": "基隆市仁愛區曲水里龍安街２１７號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4008,7 +4316,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區新店里孝二路９３巷１２號"
+                "k": "基隆市仁愛區新店里孝二路９３巷１２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4021,7 +4330,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區文昌里孝三路６３號"
+                "k": "基隆市仁愛區文昌里孝三路６３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4034,7 +4344,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區水錦里仁一路２０７號"
+                "k": "基隆市仁愛區水錦里仁一路２０７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4047,7 +4358,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區文昌里孝三路５０號"
+                "k": "基隆市仁愛區文昌里孝三路５０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4060,7 +4372,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區和明里愛五路８之１號"
+                "k": "基隆市仁愛區和明里愛五路８之１號",
+                "pay_list": "街口支付\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4073,7 +4386,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區玉田里愛四路６號"
+                "k": "基隆市仁愛區玉田里愛四路６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4086,7 +4400,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區和明里仁一路２９３巷２號"
+                "k": "基隆市仁愛區和明里仁一路２９３巷２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4099,7 +4414,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區文昌里孝三路７５號"
+                "k": "基隆市仁愛區文昌里孝三路７５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4112,7 +4428,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區誠仁里南榮路１６９號"
+                "k": "基隆市仁愛區誠仁里南榮路１６９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4125,7 +4442,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區玉田里仁三路４０－１號"
+                "k": "基隆市仁愛區玉田里仁三路４０－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4138,7 +4456,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區和明里愛六路１３號"
+                "k": "基隆市仁愛區和明里愛六路１３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4151,7 +4470,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區新店里孝三路６０號"
+                "k": "基隆市仁愛區新店里孝三路６０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4164,7 +4484,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區玉田里仁三路２４號"
+                "k": "基隆市仁愛區玉田里仁三路２４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4177,7 +4498,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區忠二路３０號"
+                "k": "基隆市仁愛區忠二路３０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4190,7 +4512,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區水錦里劉銘傳路１６號"
+                "k": "基隆市仁愛區水錦里劉銘傳路１６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4203,7 +4526,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區曲水里龍安街２０７號"
+                "k": "基隆市仁愛區曲水里龍安街２０７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4216,7 +4540,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區新店里孝一路６０號"
+                "k": "基隆市仁愛區新店里孝一路６０號",
+                "pay_list": "愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4229,7 +4554,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區文昌里孝三路５９號"
+                "k": "基隆市仁愛區文昌里孝三路５９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4242,7 +4568,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁德里愛三路７５號"
+                "k": "基隆市仁愛區仁德里愛三路７５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4255,7 +4582,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區文昌里孝三路９５號"
+                "k": "基隆市仁愛區文昌里孝三路９５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4268,7 +4596,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區忠三路４０號"
+                "k": "基隆市仁愛區忠三路４０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4281,7 +4610,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區文昌里忠二路６８號"
+                "k": "基隆市仁愛區文昌里忠二路６８號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4294,7 +4624,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁德里孝一路６６之１號"
+                "k": "基隆市仁愛區仁德里孝一路６６之１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4307,7 +4638,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區文昌里忠三路４４號"
+                "k": "基隆市仁愛區文昌里忠三路４４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4320,7 +4652,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁德里愛二路５７號"
+                "k": "基隆市仁愛區仁德里愛二路５７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4333,7 +4666,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區孝二路８２、８２之１號"
+                "k": "基隆市仁愛區孝二路８２、８２之１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4346,7 +4680,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區愛二路２７號"
+                "k": "基隆市仁愛區愛二路２７號",
+                "pay_list": "愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4359,7 +4694,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區玉田里仁一路３１５號"
+                "k": "基隆市仁愛區玉田里仁一路３１５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4372,7 +4708,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁德里愛三路３４號"
+                "k": "基隆市仁愛區仁德里愛三路３４號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4385,7 +4722,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁德里愛二路６１號"
+                "k": "基隆市仁愛區仁德里愛二路６１號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4398,7 +4736,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區愛一路６１號"
+                "k": "基隆市仁愛區愛一路６１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4411,7 +4750,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁德里愛二路５４巷２號"
+                "k": "基隆市仁愛區仁德里愛二路５４巷２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4424,7 +4764,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區文昌里忠三路３４號"
+                "k": "基隆市仁愛區文昌里忠三路３４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4437,7 +4778,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區和明里仁二路１１０號"
+                "k": "基隆市仁愛區和明里仁二路１１０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4450,7 +4792,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區新店里忠三路１８號"
+                "k": "基隆市仁愛區新店里忠三路１８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4463,7 +4806,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區博愛里仁三路５７號"
+                "k": "基隆市仁愛區博愛里仁三路５７號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4476,7 +4820,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區玉田里愛三路９８巷１５號"
+                "k": "基隆市仁愛區玉田里愛三路９８巷１５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4489,7 +4834,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區博愛里仁四路１７―３號"
+                "k": "基隆市仁愛區博愛里仁四路１７―３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4502,7 +4848,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區文昌里孝三路５７號"
+                "k": "基隆市仁愛區文昌里孝三路５７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4515,7 +4862,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁德里愛一路４２號"
+                "k": "基隆市仁愛區仁德里愛一路４２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4528,7 +4876,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區新店里孝三路６８號"
+                "k": "基隆市仁愛區新店里孝三路６８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4541,7 +4890,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區和明里仁一路２９５號"
+                "k": "基隆市仁愛區和明里仁一路２９５號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4554,7 +4904,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區新店里孝一路６５號"
+                "k": "基隆市仁愛區新店里孝一路６５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4567,7 +4918,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區和明里仁二路１４０號"
+                "k": "基隆市仁愛區和明里仁二路１４０號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4580,7 +4932,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區玉田里愛四路１―４號"
+                "k": "基隆市仁愛區玉田里愛四路１―４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4593,7 +4946,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區水錦里仁一路２１７巷１號"
+                "k": "基隆市仁愛區水錦里仁一路２１７巷１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4606,7 +4960,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區玉田里愛三路９８巷１４號"
+                "k": "基隆市仁愛區玉田里愛三路９８巷１４號",
+                "pay_list": "愛金卡\/台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4619,7 +4974,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區新店里孝二路９３巷１５號"
+                "k": "基隆市仁愛區新店里孝二路９３巷１５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4632,7 +4988,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區文昌里忠三路６８號"
+                "k": "基隆市仁愛區文昌里忠三路６８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4645,7 +5002,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區同風里孝一路２３巷３弄１號"
+                "k": "基隆市仁愛區同風里孝一路２３巷３弄１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4658,7 +5016,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區玉田里愛四路２２號"
+                "k": "基隆市仁愛區玉田里愛四路２２號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4671,7 +5030,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區吉仁里南榮路１７９號"
+                "k": "基隆市仁愛區吉仁里南榮路１７９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4684,7 +5044,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區文昌里孝二路６３號"
+                "k": "基隆市仁愛區文昌里孝二路６３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4697,7 +5058,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區光華里成功一路１１８巷９弄２號"
+                "k": "基隆市仁愛區光華里成功一路１１８巷９弄２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4710,7 +5072,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區水錦里仁二路３７號"
+                "k": "基隆市仁愛區水錦里仁二路３７號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4723,7 +5086,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區明德里忠三路５５號"
+                "k": "基隆市仁愛區明德里忠三路５５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4736,7 +5100,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區吉仁里南榮路２０３號"
+                "k": "基隆市仁愛區吉仁里南榮路２０３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4749,7 +5114,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區明德里忠三路７５號"
+                "k": "基隆市仁愛區明德里忠三路７５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4762,7 +5128,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區文昌里港西街１５號"
+                "k": "基隆市仁愛區文昌里港西街１５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4775,7 +5142,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區新店里孝一路３４巷２號"
+                "k": "基隆市仁愛區新店里孝一路３４巷２號",
+                "pay_list": "街口支付\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4788,7 +5156,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區和明里仁一路２６９號"
+                "k": "基隆市仁愛區和明里仁一路２６９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4801,7 +5170,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區水錦里仁二路４３號"
+                "k": "基隆市仁愛區水錦里仁二路４３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4814,7 +5184,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區新店里忠一路３巷７號"
+                "k": "基隆市仁愛區新店里忠一路３巷７號",
+                "pay_list": "愛金卡\/台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4827,7 +5198,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區博愛里仁四路２１―１號"
+                "k": "基隆市仁愛區博愛里仁四路２１―１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4840,7 +5212,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區文昌里孝三路７９巷６號"
+                "k": "基隆市仁愛區文昌里孝三路７９巷６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4853,7 +5226,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區博愛里孝一路１１３號"
+                "k": "基隆市仁愛區博愛里孝一路１１３號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4866,7 +5240,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區新店里孝三路９６號"
+                "k": "基隆市仁愛區新店里孝三路９６號",
+                "pay_list": "LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4879,7 +5254,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區文昌里忠三路５８號"
+                "k": "基隆市仁愛區文昌里忠三路５８號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4892,7 +5268,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁德里愛三路８７號"
+                "k": "基隆市仁愛區仁德里愛三路８７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4905,7 +5282,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區忠勇里仁三路１１―３號"
+                "k": "基隆市仁愛區忠勇里仁三路１１―３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4918,7 +5296,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區和明里仁一路２７３號"
+                "k": "基隆市仁愛區和明里仁一路２７３號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4931,7 +5310,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區新店里孝二路９８號"
+                "k": "基隆市仁愛區新店里孝二路９８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4944,7 +5324,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區文昌里孝三路７９巷３號"
+                "k": "基隆市仁愛區文昌里孝三路７９巷３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4957,7 +5338,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區崇文里南榮路６號"
+                "k": "基隆市仁愛區崇文里南榮路６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4970,7 +5352,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁德里愛一路５０之１號"
+                "k": "基隆市仁愛區仁德里愛一路５０之１號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4983,7 +5366,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區玉田里仁二路２０９號"
+                "k": "基隆市仁愛區玉田里仁二路２０９號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4996,7 +5380,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區精一路９―５號"
+                "k": "基隆市仁愛區精一路９―５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5009,7 +5394,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁德里愛三路８３號"
+                "k": "基隆市仁愛區仁德里愛三路８３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5022,7 +5408,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區博愛里愛二路２７號"
+                "k": "基隆市仁愛區博愛里愛二路２７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -5035,7 +5422,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區和明里仁一路２９５―１８號"
+                "k": "基隆市仁愛區和明里仁一路２９５―１８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5048,7 +5436,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區新店里忠二路２７號"
+                "k": "基隆市仁愛區新店里忠二路２７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5061,7 +5450,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁德里仁四路２２之１號"
+                "k": "基隆市仁愛區仁德里仁四路２２之１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5074,7 +5464,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區忠勇里仁二路１７２號"
+                "k": "基隆市仁愛區忠勇里仁二路１７２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5087,7 +5478,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區玉田里仁二路２１７號"
+                "k": "基隆市仁愛區玉田里仁二路２１７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5100,7 +5492,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區玉田里愛三路９８巷４號"
+                "k": "基隆市仁愛區玉田里愛三路９８巷４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5113,7 +5506,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區仁德里仁三路３１號"
+                "k": "基隆市仁愛區仁德里仁三路３１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5126,7 +5520,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區博愛里仁四路１３之１號"
+                "k": "基隆市仁愛區博愛里仁四路１３之１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5139,7 +5534,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市仁愛區博愛里愛一路１０３－１號"
+                "k": "基隆市仁愛區博愛里愛一路１０３－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5152,7 +5548,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區義昭里信義市場１之５４號"
+                "k": "基隆市信義區義昭里信義市場１之５４號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5165,7 +5562,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區仁壽里信一路１４１巷２５號"
+                "k": "基隆市信義區仁壽里信一路１４１巷２５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5178,7 +5576,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區東光里東信路８１號"
+                "k": "基隆市信義區東光里東信路８１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5191,7 +5590,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區東光里東信路１５８號"
+                "k": "基隆市信義區東光里東信路１５８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5204,7 +5604,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區孝忠里深溪路１１０號"
+                "k": "基隆市信義區孝忠里深溪路１１０號",
+                "pay_list": "台灣 PAY\/一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5217,7 +5618,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區孝忠里深溪路４９號"
+                "k": "基隆市信義區孝忠里深溪路４９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5230,7 +5632,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區孝忠里深溪路６２號"
+                "k": "基隆市信義區孝忠里深溪路６２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5243,7 +5646,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區東信里東信路１８４號"
+                "k": "基隆市信義區東信里東信路１８４號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5256,7 +5660,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區義昭里信二路１８１號"
+                "k": "基隆市信義區義昭里信二路１８１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5269,7 +5674,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區禮儀里東明路１７７號"
+                "k": "基隆市信義區禮儀里東明路１７７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5282,7 +5688,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區孝忠里深溪路６７號"
+                "k": "基隆市信義區孝忠里深溪路６７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5295,7 +5702,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區孝忠里深溪路７７號"
+                "k": "基隆市信義區孝忠里深溪路７７號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5308,7 +5716,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區孝忠里深溪路１５６號"
+                "k": "基隆市信義區孝忠里深溪路１５６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5321,7 +5730,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區仁壽里壽山路２１－１號"
+                "k": "基隆市信義區仁壽里壽山路２１－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5334,7 +5744,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區孝賢里教孝街８１號"
+                "k": "基隆市信義區孝賢里教孝街８１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5347,7 +5758,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區仁壽里信一路１４１巷１０號"
+                "k": "基隆市信義區仁壽里信一路１４１巷１０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5360,7 +5772,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區仁義里信一路１０２號"
+                "k": "基隆市信義區仁義里信一路１０２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5373,7 +5786,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區孝忠里深溪路１１９號"
+                "k": "基隆市信義區孝忠里深溪路１１９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5386,7 +5800,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區東光里東信路８１－２號"
+                "k": "基隆市信義區東光里東信路８１－２號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5399,7 +5814,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區東信里東信路２１０號"
+                "k": "基隆市信義區東信里東信路２１０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5412,7 +5828,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區義昭里信一路７１號"
+                "k": "基隆市信義區義昭里信一路７１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5425,7 +5842,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區仁義里信二路２５６號"
+                "k": "基隆市信義區仁義里信二路２５６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5438,7 +5856,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區義幸里義七路１６號"
+                "k": "基隆市信義區義幸里義七路１６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5451,7 +5870,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區仁壽里義四路９號"
+                "k": "基隆市信義區仁壽里義四路９號",
+                "pay_list": "愛金卡\/台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5464,7 +5884,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區義幸里信二路１３３號"
+                "k": "基隆市信義區義幸里信二路１３３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5477,7 +5898,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區孝忠里深美街１２４號"
+                "k": "基隆市信義區孝忠里深美街１２４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5490,7 +5912,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區義幸里信二路１７４巷８號"
+                "k": "基隆市信義區義幸里信二路１７４巷８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5503,7 +5926,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區孝忠里深溪路８６號"
+                "k": "基隆市信義區孝忠里深溪路８６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5516,7 +5940,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區東明路２９號"
+                "k": "基隆市信義區東明路２９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5529,7 +5954,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區義幸里信二路１７２號"
+                "k": "基隆市信義區義幸里信二路１７２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5542,7 +5968,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區義和里信二路２５―４號"
+                "k": "基隆市信義區義和里信二路２５―４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5555,7 +5982,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區義和里信二路３７號"
+                "k": "基隆市信義區義和里信二路３７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5568,7 +5996,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區孝忠里深溪路７３號"
+                "k": "基隆市信義區孝忠里深溪路７３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5581,7 +6010,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區東信里花源一街２３號"
+                "k": "基隆市信義區東信里花源一街２３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5594,7 +6024,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區義幸里信二路１２４號"
+                "k": "基隆市信義區義幸里信二路１２４號",
+                "pay_list": "愛金卡\/台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5607,7 +6038,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區義民里信二路９２號"
+                "k": "基隆市信義區義民里信二路９２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5620,7 +6052,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區孝忠里深溪路７６號"
+                "k": "基隆市信義區孝忠里深溪路７６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5633,7 +6066,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區義民里信一路２６巷９號"
+                "k": "基隆市信義區義民里信一路２６巷９號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5646,7 +6080,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區仁義里義六路２１號"
+                "k": "基隆市信義區仁義里義六路２１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5659,7 +6094,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區深溪路４２號"
+                "k": "基隆市信義區深溪路４２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5672,7 +6108,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區深溪路８５號"
+                "k": "基隆市信義區深溪路８５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5685,7 +6122,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區深溪路５１號"
+                "k": "基隆市信義區深溪路５１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5698,7 +6136,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區義七路１７號"
+                "k": "基隆市信義區義七路１７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5711,7 +6150,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區中興路１３號"
+                "k": "基隆市信義區中興路１３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5724,7 +6164,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區深溪路５５巷９號"
+                "k": "基隆市信義區深溪路５５巷９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5737,7 +6178,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區義和里信二路２４―２號"
+                "k": "基隆市信義區義和里信二路２４―２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5750,7 +6192,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區仁壽里信一路１４１巷７號"
+                "k": "基隆市信義區仁壽里信一路１４１巷７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5763,7 +6206,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區義幸里信二路１０１號"
+                "k": "基隆市信義區義幸里信二路１０１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5776,7 +6220,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區東安里培德路９號"
+                "k": "基隆市信義區東安里培德路９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5789,7 +6234,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區仁義里義六路２３號"
+                "k": "基隆市信義區仁義里義六路２３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5802,7 +6248,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區仁義里信一路９６巷１１號"
+                "k": "基隆市信義區仁義里信一路９６巷１１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5815,7 +6262,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區東信里東信路２６０號"
+                "k": "基隆市信義區東信里東信路２６０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5828,7 +6276,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區義昭里信二路２３４巷２－３號"
+                "k": "基隆市信義區義昭里信二路２３４巷２－３號",
+                "pay_list": "LINE Pay Money\/街口支付\/一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5841,7 +6290,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區孝忠里教忠街９８號"
+                "k": "基隆市信義區孝忠里教忠街９８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5854,7 +6304,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區義和里信二路２５號"
+                "k": "基隆市信義區義和里信二路２５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5867,7 +6318,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區仁壽里義四路５號"
+                "k": "基隆市信義區仁壽里義四路５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5880,7 +6332,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區禮東里東明路２號"
+                "k": "基隆市信義區禮東里東明路２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5893,7 +6346,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區孝賢里深澳坑路２―３６號"
+                "k": "基隆市信義區孝賢里深澳坑路２―３６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5906,7 +6360,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區孝忠里深溪路２３號"
+                "k": "基隆市信義區孝忠里深溪路２３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5919,7 +6374,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區仁壽里義三路４巷２５號"
+                "k": "基隆市信義區仁壽里義三路４巷２５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5932,7 +6388,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區禮東里東明路６號"
+                "k": "基隆市信義區禮東里東明路６號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5945,7 +6402,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區東明里東信路４１號"
+                "k": "基隆市信義區東明里東信路４１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5958,7 +6416,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區東安里東信路４２號"
+                "k": "基隆市信義區東安里東信路４２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5971,7 +6430,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區孝忠里深溪路７９號"
+                "k": "基隆市信義區孝忠里深溪路７９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5984,7 +6444,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區義五路３３號"
+                "k": "基隆市信義區義五路３３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5997,7 +6458,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區教忠街１４１巷２３號"
+                "k": "基隆市信義區教忠街１４１巷２３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6010,7 +6472,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區孝忠里深溪路３１號"
+                "k": "基隆市信義區孝忠里深溪路３１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6023,7 +6486,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區信二路６３號"
+                "k": "基隆市信義區信二路６３號",
+                "pay_list": "街口支付\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -6036,7 +6500,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區仁義里信二路２５４號"
+                "k": "基隆市信義區仁義里信二路２５４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6049,7 +6514,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區孝忠里深溪路１８８號"
+                "k": "基隆市信義區孝忠里深溪路１８８號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6062,7 +6528,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市信義區義幸里信二路１２９號"
+                "k": "基隆市信義區義幸里信二路１２９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6075,7 +6542,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區武崙里基金一路１３５巷２１弄２之６號"
+                "k": "基隆市安樂區武崙里基金一路１３５巷２１弄２之６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6088,7 +6556,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區樂一路２２號"
+                "k": "基隆市安樂區樂一路２２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6101,7 +6570,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區安一路４６號"
+                "k": "基隆市安樂區安一路４６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6114,7 +6584,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區七賢里安和一街２巷７號"
+                "k": "基隆市安樂區七賢里安和一街２巷７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6127,7 +6598,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區新崙里基金一路２１６－２５號"
+                "k": "基隆市安樂區新崙里基金一路２１６－２５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6140,7 +6612,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區興寮里基金一路３５號"
+                "k": "基隆市安樂區興寮里基金一路３５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6153,7 +6626,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區外寮里武嶺街９１號"
+                "k": "基隆市安樂區外寮里武嶺街９１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6166,7 +6640,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區內寮里基金三路７１－６、７１－７號"
+                "k": "基隆市安樂區內寮里基金三路７１－６、７１－７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6179,7 +6654,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區外寮里基金一路１３１號"
+                "k": "基隆市安樂區外寮里基金一路１３１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6192,7 +6668,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區七賢里安和一街２巷６號"
+                "k": "基隆市安樂區七賢里安和一街２巷６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6205,7 +6682,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區鶯安里麥金路２３１－６號"
+                "k": "基隆市安樂區鶯安里麥金路２３１－６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6218,7 +6696,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區鶯安里麥金路２３１─５號"
+                "k": "基隆市安樂區鶯安里麥金路２３１─５號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6231,7 +6710,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區武崙里基金一路１７４之４號"
+                "k": "基隆市安樂區武崙里基金一路１７４之４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6244,7 +6724,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區內寮里武隆街１５０號"
+                "k": "基隆市安樂區內寮里武隆街１５０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6257,7 +6738,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區內寮里武隆街６７號"
+                "k": "基隆市安樂區內寮里武隆街６７號",
+                "pay_list": "台灣 PAY\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -6270,7 +6752,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區鶯歌里麥金路２、４號"
+                "k": "基隆市安樂區鶯歌里麥金路２、４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6283,7 +6766,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區新崙里基金一路２１２號"
+                "k": "基隆市安樂區新崙里基金一路２１２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6296,7 +6780,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區七賢里安和一街２巷２３號"
+                "k": "基隆市安樂區七賢里安和一街２巷２３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6309,7 +6794,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區外寮里武嶺街１３４號"
+                "k": "基隆市安樂區外寮里武嶺街１３４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6322,7 +6808,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區武崙里基金一路１３５巷２１弄２號"
+                "k": "基隆市安樂區武崙里基金一路１３５巷２１弄２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6335,7 +6822,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區七賢里安和一街２巷２１號"
+                "k": "基隆市安樂區七賢里安和一街２巷２１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6348,7 +6836,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區武崙里基金一路１９６號"
+                "k": "基隆市安樂區武崙里基金一路１９６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6361,7 +6850,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區六合里樂利三街１１０號"
+                "k": "基隆市安樂區六合里樂利三街１１０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6374,7 +6864,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區武崙里基金一路１３５巷２號"
+                "k": "基隆市安樂區武崙里基金一路１３５巷２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6387,7 +6878,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區慈仁里安一路１８６號"
+                "k": "基隆市安樂區慈仁里安一路１８６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6400,7 +6892,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區鶯歌里安樂路二段１５３－１號"
+                "k": "基隆市安樂區鶯歌里安樂路二段１５３－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6413,7 +6906,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區外寮里基金一路１３１―１３號"
+                "k": "基隆市安樂區外寮里基金一路１３１―１３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6426,7 +6920,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區壯觀里樂利二街６２巷２２１號"
+                "k": "基隆市安樂區壯觀里樂利二街６２巷２２１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6439,7 +6934,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區三民里麥金路４２４號"
+                "k": "基隆市安樂區三民里麥金路４２４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6452,7 +6948,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區外寮里武嶺街５８號"
+                "k": "基隆市安樂區外寮里武嶺街５８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6465,7 +6962,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區七賢里安和一街２巷１０號"
+                "k": "基隆市安樂區七賢里安和一街２巷１０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6478,7 +6976,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區外寮里武嶺街１６１－５號"
+                "k": "基隆市安樂區外寮里武嶺街１６１－５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6491,7 +6990,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區鶯安里麥金路２３１－１１號"
+                "k": "基隆市安樂區鶯安里麥金路２３１－１１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6504,7 +7004,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區鶯歌里安樂路二段１６６巷３２號"
+                "k": "基隆市安樂區鶯歌里安樂路二段１６６巷３２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6517,7 +7018,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區鶯歌里麥金路２０２號"
+                "k": "基隆市安樂區鶯歌里麥金路２０２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6530,7 +7032,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區鶯歌里安樂路二段２０７、２０９號"
+                "k": "基隆市安樂區鶯歌里安樂路二段２０７、２０９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6543,7 +7046,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區武崙里基金一路１３５巷５０號"
+                "k": "基隆市安樂區武崙里基金一路１３５巷５０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6556,7 +7060,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區五福里樂利三街３２巷１０弄１７號"
+                "k": "基隆市安樂區五福里樂利三街３２巷１０弄１７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6569,7 +7074,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區鶯歌里安樂路二段２０１號"
+                "k": "基隆市安樂區鶯歌里安樂路二段２０１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6582,7 +7088,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區鶯歌里安樂路二段１８５號"
+                "k": "基隆市安樂區鶯歌里安樂路二段１８５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6595,7 +7102,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區武崙里基金一路１１６號"
+                "k": "基隆市安樂區武崙里基金一路１１６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6608,7 +7116,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區鶯安里麥金路１４７―３號"
+                "k": "基隆市安樂區鶯安里麥金路１４７―３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6621,7 +7130,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區鶯安里麥金路２３１之８號"
+                "k": "基隆市安樂區鶯安里麥金路２３１之８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6634,7 +7144,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區基金一路１９４號"
+                "k": "基隆市安樂區基金一路１９４號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6647,7 +7158,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區鶯歌里麥金路１４號"
+                "k": "基隆市安樂區鶯歌里麥金路１４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6660,7 +7172,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區新崙里基金一路３５６號"
+                "k": "基隆市安樂區新崙里基金一路３５６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6673,7 +7186,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區定邦里安一路１２２－１號"
+                "k": "基隆市安樂區定邦里安一路１２２－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6686,7 +7200,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區武崙里基金一路１７２－７號"
+                "k": "基隆市安樂區武崙里基金一路１７２－７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6699,7 +7214,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區六合里樂利三街８２號"
+                "k": "基隆市安樂區六合里樂利三街８２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6712,7 +7228,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區三民里麥金路４１０號"
+                "k": "基隆市安樂區三民里麥金路４１０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6725,7 +7242,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區新崙里基金一路２０８巷１３８弄１８號"
+                "k": "基隆市安樂區新崙里基金一路２０８巷１３８弄１８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6738,7 +7256,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區內寮里湖海路二段１６６號"
+                "k": "基隆市安樂區內寮里湖海路二段１６６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6751,7 +7270,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區長樂里樂利三街２１－１號"
+                "k": "基隆市安樂區長樂里樂利三街２１－１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6764,7 +7284,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區武崙里基金一路１３５巷３３號"
+                "k": "基隆市安樂區武崙里基金一路１３５巷３３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6777,7 +7298,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區武崙里基金一路１３５巷２１弄１號"
+                "k": "基隆市安樂區武崙里基金一路１３５巷２１弄１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6790,7 +7312,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區內寮里武隆街１４６號"
+                "k": "基隆市安樂區內寮里武隆街１４６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6803,7 +7326,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區定邦里安一路１３０號"
+                "k": "基隆市安樂區定邦里安一路１３０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6816,7 +7340,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區嘉仁里安樂路一段２０８號"
+                "k": "基隆市安樂區嘉仁里安樂路一段２０８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6829,7 +7354,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區新崙里基金一路２１６之２５號"
+                "k": "基隆市安樂區新崙里基金一路２１６之２５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6842,7 +7368,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市安樂區武崙里基金一路１７６之１號"
+                "k": "基隆市安樂區武崙里基金一路１７６之１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6855,7 +7382,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區碇內里碇內街６號"
+                "k": "基隆市暖暖區碇內里碇內街６號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6868,7 +7396,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區碇安里源遠路２５１號"
+                "k": "基隆市暖暖區碇安里源遠路２５１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6881,7 +7410,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區暖暖街１５９號"
+                "k": "基隆市暖暖區暖暖街１５９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6894,7 +7424,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區碇內里源遠路２３６號"
+                "k": "基隆市暖暖區碇內里源遠路２３６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6907,7 +7438,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區暖東里東勢街２２１號"
+                "k": "基隆市暖暖區暖東里東勢街２２１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6920,7 +7452,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區暖暖里東勢街４―１０號"
+                "k": "基隆市暖暖區暖暖里東勢街４―１０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6933,7 +7466,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區暖暖里暖暖街８１號"
+                "k": "基隆市暖暖區暖暖里暖暖街８１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6946,7 +7480,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區暖暖里暖暖街２４１號"
+                "k": "基隆市暖暖區暖暖里暖暖街２４１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6959,7 +7494,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區暖同里東勢街２－２號"
+                "k": "基隆市暖暖區暖同里東勢街２－２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6972,7 +7508,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區暖同里東勢街１―２５號"
+                "k": "基隆市暖暖區暖同里東勢街１―２５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6985,7 +7522,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區碇和里源遠路１８０號"
+                "k": "基隆市暖暖區碇和里源遠路１８０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6998,7 +7536,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區暖同里東勢街１―２６號"
+                "k": "基隆市暖暖區暖同里東勢街１―２６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7011,7 +7550,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區暖暖里暖暖街１９１號"
+                "k": "基隆市暖暖區暖暖里暖暖街１９１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7024,7 +7564,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區暖同里暖暖街２２２號"
+                "k": "基隆市暖暖區暖同里暖暖街２２２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7037,7 +7578,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區八南里八堵路１４１號"
+                "k": "基隆市暖暖區八南里八堵路１４１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7050,7 +7592,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區暖暖里暖暖街２２７號"
+                "k": "基隆市暖暖區暖暖里暖暖街２２７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7063,7 +7606,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區碇安里源遠路２７９―９號"
+                "k": "基隆市暖暖區碇安里源遠路２７９―９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7076,7 +7620,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區過港里過港路８６號"
+                "k": "基隆市暖暖區過港里過港路８６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7089,7 +7634,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區暖暖里暖暖街２１７號"
+                "k": "基隆市暖暖區暖暖里暖暖街２１７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7102,7 +7648,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區暖同里暖暖街１９２號"
+                "k": "基隆市暖暖區暖同里暖暖街１９２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7115,7 +7662,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區碇內里源遠路２２０號"
+                "k": "基隆市暖暖區碇內里源遠路２２０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7128,7 +7676,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區暖暖里暖暖街６７號"
+                "k": "基隆市暖暖區暖暖里暖暖街６７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7141,7 +7690,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區碇安里源遠路３４１―３號"
+                "k": "基隆市暖暖區碇安里源遠路３４１―３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7154,7 +7704,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區暖同里暖暖街２２０號"
+                "k": "基隆市暖暖區暖同里暖暖街２２０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7167,7 +7718,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區東勢街１２號"
+                "k": "基隆市暖暖區東勢街１２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7180,7 +7732,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區碇和里源遠路１３６號"
+                "k": "基隆市暖暖區碇和里源遠路１３６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7193,7 +7746,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區暖暖里暖暖街２４３―３號"
+                "k": "基隆市暖暖區暖暖里暖暖街２４３―３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7206,7 +7760,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區暖暖里東勢街６―５號"
+                "k": "基隆市暖暖區暖暖里東勢街６―５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7219,7 +7774,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區碇內里源遠路２６０巷３６弄１７號"
+                "k": "基隆市暖暖區碇內里源遠路２６０巷３６弄１７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7232,7 +7788,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區過港里過港路２６號"
+                "k": "基隆市暖暖區過港里過港路２６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7245,7 +7802,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區暖西里暖暖街３７９巷３６號"
+                "k": "基隆市暖暖區暖西里暖暖街３７９巷３６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7258,7 +7816,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "基隆市暖暖區暖同里暖暖街２１４號"
+                "k": "基隆市暖暖區暖同里暖暖街２１４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",

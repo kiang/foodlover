@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市北屯區仁和里昌平路二段３１―３４號１樓",
+    "x": 120.684112,
+    "y": 24.191281,
+    "shops": [
+        {
+            "shop": "不只是咖啡有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

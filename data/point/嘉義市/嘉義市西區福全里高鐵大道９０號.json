@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "嘉義市西區福全里高鐵大道９０號１樓",
+    "x": 120.4304149389,
+    "y": 23.477753198868,
+    "shops": [
+        {
+            "shop": "荷妮早餐店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

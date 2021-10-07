@@ -1,0 +1,13 @@
+{
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺中市大里區內新里鐵路街５號",
+    "x": 120.690449,
+    "y": 24.111678,
+    "shops": [
+        {
+            "shop": "大西洋冰城成功店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

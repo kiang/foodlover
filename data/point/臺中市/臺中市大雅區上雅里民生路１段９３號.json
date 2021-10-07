@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大雅區上雅里民生路１段９３號１樓",
+    "x": 120.647993,
+    "y": 24.226607,
+    "shops": [
+        {
+            "shop": "鮮味覺小館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

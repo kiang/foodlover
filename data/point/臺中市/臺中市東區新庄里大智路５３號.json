@@ -1,0 +1,13 @@
+{
+    "name": "餐食攤販",
+    "address": "臺中市東區新庄里大智路５３號１樓",
+    "x": 120.68874,
+    "y": 24.135152,
+    "shops": [
+        {
+            "shop": "雞樂複合式餐飲店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

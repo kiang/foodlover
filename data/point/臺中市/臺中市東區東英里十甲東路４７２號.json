@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市東區東英里十甲東路４７２號１樓",
+    "x": 120.707043,
+    "y": 24.13793,
+    "shops": [
+        {
+            "shop": "洛基披薩店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

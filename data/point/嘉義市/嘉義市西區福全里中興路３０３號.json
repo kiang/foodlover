@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "嘉義市西區福全里中興路３０３號１樓",
+    "x": 120.4324999991,
+    "y": 23.482030003732,
+    "shops": [
+        {
+            "shop": "秉樑商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "咖啡館",
+    "address": "臺中市南區福順里忠明南路８０９號１樓",
+    "x": 120.661298,
+    "y": 24.122506,
+    "shops": [
+        {
+            "shop": "休憩咖啡",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
+}

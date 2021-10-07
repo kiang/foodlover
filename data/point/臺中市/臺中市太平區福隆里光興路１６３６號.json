@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市太平區福隆里光興路１６３６號１樓",
+    "x": 120.734359,
+    "y": 24.121694,
+    "shops": [
+        {
+            "shop": "鼎松蔬食館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

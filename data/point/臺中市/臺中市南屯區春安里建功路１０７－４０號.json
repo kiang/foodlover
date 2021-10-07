@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市南屯區春安里建功路１０７－４０號１樓",
+    "x": 120.607001,
+    "y": 24.136265,
+    "shops": [
+        {
+            "shop": "麥軒活力早餐店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

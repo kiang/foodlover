@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大里區立仁里立仁路１３２號１樓",
+    "x": 120.703335,
+    "y": 24.107949,
+    "shops": [
+        {
+            "shop": "雲吉美味館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

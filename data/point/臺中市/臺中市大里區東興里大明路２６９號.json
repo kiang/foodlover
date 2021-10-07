@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大里區東興里大明路２６９號１樓",
+    "x": 120.681586,
+    "y": 24.115006,
+    "shops": [
+        {
+            "shop": "健康素食",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

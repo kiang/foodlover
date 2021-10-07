@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市北區建興里永興街９５號",
+    "x": 120.682191,
+    "y": 24.161055,
+    "shops": [
+        {
+            "shop": "義大利焗烤屋",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

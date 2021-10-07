@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "嘉義市西區西榮里新榮路１６６號１樓",
+    "x": 120.44436000126,
+    "y": 23.47784000188,
+    "shops": [
+        {
+            "shop": "榮料理店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

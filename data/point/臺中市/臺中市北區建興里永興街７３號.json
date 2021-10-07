@@ -1,0 +1,13 @@
+{
+    "name": "調理飲料攤販",
+    "address": "臺中市北區建興里永興街７３號",
+    "x": 120.682236,
+    "y": 24.160409,
+    "shops": [
+        {
+            "shop": "百鮮果汁吧",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money"
+}

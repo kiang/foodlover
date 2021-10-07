@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市后里區月眉里安眉路１３３號",
+    "x": 120.700869,
+    "y": 24.321802,
+    "shops": [
+        {
+            "shop": "亮宅早午餐店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

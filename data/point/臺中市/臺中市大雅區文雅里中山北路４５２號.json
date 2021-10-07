@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大雅區文雅里中山北路４５２號１樓",
+    "x": 120.645088,
+    "y": 24.222833,
+    "shops": [
+        {
+            "shop": "佐府小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

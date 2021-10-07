@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市南區城隍里忠孝路１０６號１樓",
+    "x": 120.680738,
+    "y": 24.128916,
+    "shops": [
+        {
+            "shop": "忠孝小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

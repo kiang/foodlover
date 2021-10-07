@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市大里區內新里中興路二段５４０號（後面臨德芳路一段）",
+    "x": 120.689932,
+    "y": 24.113326,
+    "shops": [
+        {
+            "shop": "呈昀早餐店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

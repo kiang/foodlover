@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市南區福順里平順街２１９號１樓",
+    "x": 120.661717,
+    "y": 24.123054,
+    "shops": [
+        {
+            "shop": "呷尚寶復興店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

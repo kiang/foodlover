@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店\/咖啡館",
+    "address": "臺中市后里區墩東里成功路４７３號１樓",
+    "x": 120.717692,
+    "y": 24.304023,
+    "shops": [
+        {
+            "shop": "香織咖啡",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

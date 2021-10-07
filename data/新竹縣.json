@@ -4,7 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市仁義路129號"
+                "k": "新竹縣竹北市仁義路129號",
+                "pay_list": "LINE Pay Money\/台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -17,7 +18,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市仁愛街45號"
+                "k": "新竹縣竹北市仁愛街45號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +32,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市華興一街160號"
+                "k": "新竹縣竹北市華興一街160號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -43,7 +46,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣北埔鄉北埔村７鄰南興街９６―１號"
+                "k": "新竹縣北埔鄉北埔村７鄰南興街９６―１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -56,7 +60,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣北埔鄉北埔村００７鄰中山路１５號"
+                "k": "新竹縣北埔鄉北埔村００７鄰中山路１５號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -69,7 +74,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣北埔鄉北埔村００７鄰中正路１６號"
+                "k": "新竹縣北埔鄉北埔村００７鄰中正路１６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -82,7 +88,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣北埔鄉北埔村南興街１２４號"
+                "k": "新竹縣北埔鄉北埔村南興街１２４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -95,7 +102,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣寶山鄉新城村寶新路二段２５１巷２５號"
+                "k": "新竹縣寶山鄉新城村寶新路二段２５１巷２５號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -108,7 +116,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣寶山鄉雙溪村湳坑路２段８１巷２弄６號"
+                "k": "新竹縣寶山鄉雙溪村湳坑路２段８１巷２弄６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +130,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣寶山鄉雙新村雙園路二段３８１號"
+                "k": "新竹縣寶山鄉雙新村雙園路二段３８１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -134,7 +144,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣尖石鄉嘉樂村３鄰麥樹仁１７７－１號"
+                "k": "新竹縣尖石鄉嘉樂村３鄰麥樹仁１７７－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -147,7 +158,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣峨眉鄉湖光村０１１鄰十寮坑３７－６號"
+                "k": "新竹縣峨眉鄉湖光村０１１鄰十寮坑３７－６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +172,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣峨眉鄉湖光村０１１鄰湖農新邨８號"
+                "k": "新竹縣峨眉鄉湖光村０１１鄰湖農新邨８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -173,7 +186,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣峨眉鄉湖光村１４鄰西河排８之１３號"
+                "k": "新竹縣峨眉鄉湖光村１４鄰西河排８之１３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -186,7 +200,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新埔鎮四座里中正路２０３號"
+                "k": "新竹縣新埔鎮四座里中正路２０３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +214,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉山崎村８鄰建興路１段１４６－６號"
+                "k": "新竹縣新豐鄉山崎村８鄰建興路１段１４６－６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +228,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉松林村新興路１９１號"
+                "k": "新竹縣新豐鄉松林村新興路１９１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -225,7 +242,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉山崎村建興路１段８０號"
+                "k": "新竹縣新豐鄉山崎村建興路１段８０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +256,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉松林村泰安街７１﹒７３號"
+                "k": "新竹縣新豐鄉松林村泰安街７１﹒７３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -251,7 +270,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉山崎村建興路１段１３０號"
+                "k": "新竹縣新豐鄉山崎村建興路１段１３０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -264,7 +284,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉山崎村福德街１１１號"
+                "k": "新竹縣新豐鄉山崎村福德街１１１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -277,7 +298,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉松林街３８號"
+                "k": "新竹縣新豐鄉松林街３８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -290,7 +312,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉山崎村建興路一段１２７號"
+                "k": "新竹縣新豐鄉山崎村建興路一段１２７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -303,7 +326,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣橫山鄉內灣村３鄰中正路７１號"
+                "k": "新竹縣橫山鄉內灣村３鄰中正路７１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -316,7 +340,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉中興村中興二巷２―２號"
+                "k": "新竹縣湖口鄉中興村中興二巷２―２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -329,7 +354,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉愛勢村６鄰達生路７８號"
+                "k": "新竹縣湖口鄉愛勢村６鄰達生路７８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -342,7 +368,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中華路５９４號"
+                "k": "新竹縣竹北市中華路５９４號",
+                "pay_list": "一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -355,7 +382,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中華路３４０―１０號"
+                "k": "新竹縣竹北市中華路３４０―１０號",
+                "pay_list": "一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -368,7 +396,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市聯興里中正西路８６７號"
+                "k": "新竹縣竹北市聯興里中正西路８６７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -381,7 +410,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市新國里華興街２４０號"
+                "k": "新竹縣竹北市新國里華興街２４０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -394,7 +424,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市東平里文興路一段６２號"
+                "k": "新竹縣竹北市東平里文興路一段６２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -407,7 +438,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市文興路１９７號"
+                "k": "新竹縣竹北市文興路１９７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -420,7 +452,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市竹北里台元街３８號"
+                "k": "新竹縣竹北市竹北里台元街３８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -433,7 +466,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市文化里４３鄰文喜街３０號"
+                "k": "新竹縣竹北市文化里４３鄰文喜街３０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -446,7 +480,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中興里００６鄰復興三路二段８２號"
+                "k": "新竹縣竹北市中興里００６鄰復興三路二段８２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -459,7 +494,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市鹿場里００４鄰莊敬南路５３號"
+                "k": "新竹縣竹北市鹿場里００４鄰莊敬南路５３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -472,7 +508,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市國盛街２５８巷１９弄２號"
+                "k": "新竹縣竹北市國盛街２５８巷１９弄２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -485,7 +522,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市文興路一段１２３號"
+                "k": "新竹縣竹北市文興路一段１２３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -498,7 +536,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市鹿場里成功八路１６２號"
+                "k": "新竹縣竹北市鹿場里成功八路１６２號",
+                "pay_list": "一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -511,7 +550,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中興里００２鄰嘉豐五路一段１５０號"
+                "k": "新竹縣竹北市中興里００２鄰嘉豐五路一段１５０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -524,7 +564,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中興里嘉豐南路一段１號"
+                "k": "新竹縣竹北市中興里嘉豐南路一段１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -537,7 +578,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市文化里４１鄰縣政九路１８８號"
+                "k": "新竹縣竹北市文化里４１鄰縣政九路１８８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -550,7 +592,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市福德里中正東路３４１號"
+                "k": "新竹縣竹北市福德里中正東路３４１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -563,7 +606,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市新社里國盛街２５８巷１９弄２號"
+                "k": "新竹縣竹北市新社里國盛街２５８巷１９弄２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -576,7 +620,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市新社里０２６鄰中正西路３３２號"
+                "k": "新竹縣竹北市新社里０２６鄰中正西路３３２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -589,7 +634,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市溪州里中正西路１４４６號"
+                "k": "新竹縣竹北市溪州里中正西路１４４６號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -602,7 +648,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市十興里２１鄰莊敬五街１０號"
+                "k": "新竹縣竹北市十興里２１鄰莊敬五街１０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -615,7 +662,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市科大一路２２８號"
+                "k": "新竹縣竹北市科大一路２２８號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -628,7 +676,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市三民路２９號"
+                "k": "新竹縣竹北市三民路２９號",
+                "pay_list": "一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -641,7 +690,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中興里０１２鄰光明六路東二段２０－５號"
+                "k": "新竹縣竹北市中興里０１２鄰光明六路東二段２０－５號",
+                "pay_list": "台灣 PAY\/一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -654,7 +704,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市福德里博愛街３９１號"
+                "k": "新竹縣竹北市福德里博愛街３９１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -667,7 +718,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市新社里國盛街２３１號"
+                "k": "新竹縣竹北市新社里國盛街２３１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -680,7 +732,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市新國里中正西路６３號"
+                "k": "新竹縣竹北市新國里中正西路６３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -693,7 +746,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市福興東路二段１６６號"
+                "k": "新竹縣竹北市福興東路二段１６６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -706,7 +760,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市斗崙里縣政二路南段１２２號"
+                "k": "新竹縣竹北市斗崙里縣政二路南段１２２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -719,7 +774,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中興里嘉興路２０３號"
+                "k": "新竹縣竹北市中興里嘉興路２０３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -732,7 +788,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中崙里光明六路９５號"
+                "k": "新竹縣竹北市中崙里光明六路９５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -745,7 +802,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮頭重里０１２鄰竹中路８７號"
+                "k": "新竹縣竹東鎮頭重里０１２鄰竹中路８７號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -758,7 +816,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮仁愛路２４６號"
+                "k": "新竹縣竹東鎮仁愛路２４６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -771,7 +830,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮竹東里００３鄰東寧路三段５２號"
+                "k": "新竹縣竹東鎮竹東里００３鄰東寧路三段５２號",
+                "pay_list": "一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -784,7 +844,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮東華里長春路２段３號"
+                "k": "新竹縣竹東鎮東華里長春路２段３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -797,7 +858,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮員山里００３鄰下員山路２５０巷２９弄１５號"
+                "k": "新竹縣竹東鎮員山里００３鄰下員山路２５０巷２９弄１５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -810,7 +872,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮南華里００６鄰東寧路二段２７６號"
+                "k": "新竹縣竹東鎮南華里００６鄰東寧路二段２７６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -823,7 +886,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮仁愛里１１鄰北興路２段９５號"
+                "k": "新竹縣竹東鎮仁愛里１１鄰北興路２段９５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -836,7 +900,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣關西鎮南雄里中正路４３號"
+                "k": "新竹縣關西鎮南雄里中正路４３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -849,7 +914,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣五峰鄉桃山村清泉２６３號"
+                "k": "新竹縣五峰鄉桃山村清泉２６３號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -862,7 +928,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣五峰鄉桃山村民石３８０－１號"
+                "k": "新竹縣五峰鄉大隘村０１４鄰２７８之１５號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.083129,
+                    24.628546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣五峰鄉桃山村民石３８０－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -875,7 +956,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣五峰鄉大隘村大隘２８４號"
+                "k": "新竹縣五峰鄉大隘村大隘２８４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -888,7 +970,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣五峰鄉大隘村２２鄰茅圃４４８―１號"
+                "k": "新竹縣五峰鄉大隘村２２鄰茅圃４４８―１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -901,7 +984,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣北埔鄉北埔村６鄰北埔街１８號"
+                "k": "新竹縣北埔鄉北埔村６鄰北埔街１８號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -914,7 +998,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣北埔鄉南興村南興街５７號"
+                "k": "新竹縣北埔鄉南興村南興街５７號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -927,7 +1012,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣北埔鄉北埔村００７鄰南興街１４２號"
+                "k": "新竹縣北埔鄉北埔村００７鄰南興街１４２號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -940,7 +1026,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣北埔鄉水磜村麻布樹排３１號"
+                "k": "新竹縣北埔鄉南坑村９鄰８－５號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.064676,
+                    24.673486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣北埔鄉水磜村麻布樹排３１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -953,7 +1054,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣北埔鄉南興村１０鄰廟前街８號"
+                "k": "新竹縣北埔鄉南興村１０鄰廟前街８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -966,7 +1068,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣北埔鄉水磜村００６鄰水磜子３２之１０號"
+                "k": "新竹縣北埔鄉水磜村００６鄰水磜子３２之１０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -979,7 +1082,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣北埔鄉南興村１０鄰廟前街４―１號"
+                "k": "新竹縣北埔鄉南興村１０鄰廟前街４―１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -992,7 +1096,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣北埔鄉北埔村７鄰南興街１１６號"
+                "k": "新竹縣北埔鄉北埔村７鄰南興街１１６號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1005,7 +1110,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣北埔鄉南興村北埔街１３號"
+                "k": "新竹縣北埔鄉南興村北埔街１３號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1018,7 +1124,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣北埔鄉埔尾村００２鄰中正路７６號"
+                "k": "新竹縣北埔鄉埔尾村００２鄰中正路７６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1031,7 +1138,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣北埔鄉埔尾村１鄰長春街１１３號"
+                "k": "新竹縣北埔鄉埔尾村１鄰長春街１１３號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1044,7 +1152,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣北埔鄉南興街１３２號"
+                "k": "新竹縣北埔鄉南興街１３２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1057,7 +1166,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣北埔鄉南興村００４鄰公園街１６巷１１號"
+                "k": "新竹縣北埔鄉南興村００４鄰公園街１６巷１１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1070,7 +1180,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣北埔鄉北埔村００７鄰中山路４４號"
+                "k": "新竹縣北埔鄉北埔村００７鄰中山路４４號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1083,7 +1194,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣北埔鄉北埔村００７鄰中正路３０之１號"
+                "k": "新竹縣北埔鄉北埔村００７鄰中正路３０之１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1096,7 +1208,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣北埔鄉外坪村００８鄰六股２０―１號"
+                "k": "新竹縣北埔鄉外坪村００８鄰六股２０―１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1109,7 +1222,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣北埔鄉北埔村北埔街４２號"
+                "k": "新竹縣北埔鄉北埔村北埔街４２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1122,7 +1236,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣北埔鄉北埔村００７鄰南興街１５２號"
+                "k": "新竹縣北埔鄉北埔村００７鄰南興街１５２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1135,7 +1250,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣寶山鄉雙溪村雙園路２段１８２巷３９號"
+                "k": "新竹縣寶山鄉雙溪村雙園路２段１８２巷３９號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1148,7 +1264,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣寶山鄉大崎村雙園路二段１７９－４號"
+                "k": "新竹縣寶山鄉大崎村雙園路二段１７９－４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1161,7 +1278,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣寶山鄉雙新村湳坑三街１６號"
+                "k": "新竹縣寶山鄉雙新村湳坑三街１６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1174,7 +1292,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣寶山鄉雙新村明湖路５７號"
+                "k": "新竹縣寶山鄉雙新村明湖路５７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1187,7 +1306,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣寶山鄉三峰村９鄰湳坑路１段１７１號"
+                "k": "新竹縣寶山鄉三峰村９鄰湳坑路１段１７１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1200,7 +1320,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣寶山鄉雙溪村雙園路２段３３９號"
+                "k": "新竹縣寶山鄉雙溪村雙園路２段３３９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1213,7 +1334,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣寶山鄉雙溪村００３鄰雙園路二段３３１號"
+                "k": "新竹縣寶山鄉雙溪村００３鄰雙園路二段３３１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1226,7 +1348,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣寶山鄉雙溪村雙園路二段３６３號"
+                "k": "新竹縣寶山鄉雙溪村雙園路二段３６３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1239,7 +1362,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣寶山鄉大崎村雙園路一段２巷６號"
+                "k": "新竹縣寶山鄉大崎村雙園路一段２巷６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1252,7 +1376,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣寶山鄉雙新村雙園路二段４１０號"
+                "k": "新竹縣寶山鄉雙新村雙園路二段４１０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1265,7 +1390,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣尖石鄉義興村００１鄰尖石２１號"
+                "k": "新竹縣尖石鄉義興村００１鄰尖石２１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1278,7 +1404,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣尖石鄉嘉樂村麥樹仁１７７－１號"
+                "k": "新竹縣尖石鄉嘉樂村麥樹仁１７７－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1291,7 +1418,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣尖石鄉嘉樂村嘉樂１２９號"
+                "k": "新竹縣尖石鄉嘉樂村嘉樂１２９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1304,7 +1432,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣尖石鄉錦屏村錦屏３２號"
+                "k": "新竹縣尖石鄉錦屏村錦屏３２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1317,7 +1446,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣尖石鄉義興村００１鄰尖石３７號"
+                "k": "新竹縣尖石鄉義興村００１鄰尖石３７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1330,7 +1460,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣尖石鄉玉峰村宇老７號"
+                "k": "新竹縣尖石鄉玉峰村宇老７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1343,7 +1474,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣尖石鄉錦屏村００５鄰錦屏６９號"
+                "k": "新竹縣尖石鄉錦屏村００５鄰錦屏６９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1356,7 +1488,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣尖石鄉錦屏村那羅２２３號"
+                "k": "新竹縣尖石鄉錦屏村那羅２２３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1369,7 +1502,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣尖石鄉錦屏村０１２鄰那羅２２９號"
+                "k": "新竹縣尖石鄉錦屏村０１２鄰那羅２２９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1382,7 +1516,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣尖石鄉新樂村１０鄰煤源６１號"
+                "k": "新竹縣尖石鄉新樂村１０鄰煤源６１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1395,7 +1530,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新埔鎮上樟路１段２９１巷６號"
+                "k": "新竹縣新埔鎮上樟路１段２９１巷６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1408,7 +1544,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新埔鎮四座里中正路３０２號"
+                "k": "新竹縣新埔鎮四座里中正路３０２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1421,7 +1558,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新埔鎮新民里３鄰中正路７１６號"
+                "k": "新竹縣新埔鎮新民里３鄰中正路７１６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1434,7 +1572,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新埔鎮四座里中正路３００號"
+                "k": "新竹縣新埔鎮四座里中正路３００號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1447,7 +1586,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新埔鎮新埔里和平街６８號"
+                "k": "新竹縣新埔鎮新埔里和平街６８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1460,7 +1600,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新埔鎮中正路２１１號"
+                "k": "新竹縣新埔鎮文山里文山路犁頭山段１０３６號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.028298,
+                    24.833741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣新埔鎮中正路２１１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1473,7 +1628,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新埔鎮文華路１４８號"
+                "k": "新竹縣新埔鎮文華路１４８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1486,7 +1642,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新埔鎮下寮里義民路３段７１７巷１７２號"
+                "k": "新竹縣新埔鎮下寮里義民路３段７１７巷１７２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1499,7 +1656,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新埔鎮中正路７２８號"
+                "k": "新竹縣新埔鎮中正路７２８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1512,7 +1670,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新埔鎮五埔里三聖路１６５巷１２號"
+                "k": "新竹縣新埔鎮五埔里三聖路１６５巷１２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1525,7 +1684,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉松柏村６鄰明新街６２號"
+                "k": "新竹縣新豐鄉松柏村６鄰明新街６２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1538,7 +1698,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉松林村新興路１３９號"
+                "k": "新竹縣新豐鄉松林村新興路１３９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1551,7 +1712,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉新興路１３９－１號"
+                "k": "新竹縣新豐鄉新興路１３９－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1564,7 +1726,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉崎頂村建興路二段４１１號"
+                "k": "新竹縣新豐鄉崎頂村建興路二段４１１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1577,7 +1740,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉松林街３７號"
+                "k": "新竹縣新豐鄉松林街３７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1590,7 +1754,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉松林村康樂路一段９０號"
+                "k": "新竹縣新豐鄉松林村康樂路一段９０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1603,7 +1768,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉山崎村８鄰建興路１段９５號"
+                "k": "新竹縣新豐鄉山崎村８鄰建興路１段９５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1616,7 +1782,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉山崎村２６鄰文昌街５７號"
+                "k": "新竹縣新豐鄉山崎村２６鄰文昌街５７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1629,7 +1796,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉新興路１４６之１５號"
+                "k": "新竹縣新豐鄉新興路１４６之１５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1642,7 +1810,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉山崎村建興路一段５０號"
+                "k": "新竹縣新豐鄉山崎村建興路一段５０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1655,7 +1824,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉松柏村６鄰康和路１９９號"
+                "k": "新竹縣新豐鄉松柏村６鄰康和路１９９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1668,7 +1838,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉山崎村建興路１段１４３號"
+                "k": "新竹縣新豐鄉山崎村建興路１段１４３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1681,7 +1852,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉新興路２２３號"
+                "k": "新竹縣新豐鄉新興路２２３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1694,7 +1866,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉松林村潤泰街１巷１９號"
+                "k": "新竹縣新豐鄉松林村潤泰街１巷１９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1707,7 +1880,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉忠孝村建興路１段１７９號"
+                "k": "新竹縣新豐鄉忠孝村建興路１段１７９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1720,7 +1894,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉建興路一段１５５－９號"
+                "k": "新竹縣新豐鄉建興路一段１５５－９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1733,7 +1908,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉重興村新市路５７號"
+                "k": "新竹縣新豐鄉重興村新市路５７號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1746,7 +1922,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉新興路２２９號"
+                "k": "新竹縣新豐鄉新興路２２９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1759,7 +1936,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉松林村新興路１６１號"
+                "k": "新竹縣新豐鄉松林村新興路１６１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1772,7 +1950,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉員山村建興路一段１４號"
+                "k": "新竹縣新豐鄉員山村建興路一段１４號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1785,7 +1964,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉山崎村１２鄰學府街１３０號"
+                "k": "新竹縣新豐鄉山崎村１２鄰學府街１３０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1798,7 +1978,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉新豐村００２鄰紅毛４０－２號"
+                "k": "新竹縣新豐鄉新豐村００２鄰紅毛４０－２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1811,7 +1992,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉松林村康樂路一段１０８號"
+                "k": "新竹縣新豐鄉松林村康樂路一段１０８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1824,7 +2006,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉松林村７鄰新興路１６９號"
+                "k": "新竹縣新豐鄉松林村７鄰新興路１６９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1837,7 +2020,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉泰安街１０８號"
+                "k": "新竹縣新豐鄉泰安街１０８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1850,7 +2034,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉康樂路一段３６１巷８３號"
+                "k": "新竹縣新豐鄉康樂路一段３６１巷８３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1863,7 +2048,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉山崎村中興路２０７號"
+                "k": "新竹縣新豐鄉山崎村中興路２０７號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1876,7 +2062,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉崎頂村建興路二段１０７號"
+                "k": "新竹縣新豐鄉崎頂村建興路二段１０７號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1889,7 +2076,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉建興路一段１５５號"
+                "k": "新竹縣新豐鄉建興路一段１５５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1902,7 +2090,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉重興村新市路２０號"
+                "k": "新竹縣新豐鄉重興村新市路２０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1915,7 +2104,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉新興路２０６號"
+                "k": "新竹縣新豐鄉新興路２０６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1928,7 +2118,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉松林村新興路１６７―２號"
+                "k": "新竹縣新豐鄉松林村新興路１６７―２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1941,7 +2132,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉松林村康樂路一段１１２號"
+                "k": "新竹縣新豐鄉松林村康樂路一段１１２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1954,7 +2146,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉新興路３７號"
+                "k": "新竹縣新豐鄉新興路３７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1967,7 +2160,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉山崎村建興路一段８１號"
+                "k": "新竹縣新豐鄉山崎村建興路一段８１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1980,7 +2174,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉松林村新興路１６７號"
+                "k": "新竹縣新豐鄉松林村新興路１６７號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1993,7 +2188,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉山崎村建興路一段１５９號"
+                "k": "新竹縣新豐鄉山崎村泰安街臨２１１－１號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.993696,
+                    24.872812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣新豐鄉山崎村建興路一段１５９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2006,7 +2216,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉松林村新興路２號"
+                "k": "新竹縣新豐鄉松林村新興路２號",
+                "pay_list": "愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2019,7 +2230,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉山崎村建興路一段１４８號"
+                "k": "新竹縣新豐鄉山崎村建興路一段１４８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2032,7 +2244,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉新市路６８號"
+                "k": "新竹縣新豐鄉新市路６８號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2045,7 +2258,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉山崎村建興路一段１５３之４號"
+                "k": "新竹縣新豐鄉山崎村建興路一段１５３之４號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2058,7 +2272,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉重興村新庄路２３０號"
+                "k": "新竹縣新豐鄉重興村新庄路２３０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2071,7 +2286,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉康泰路２８２號"
+                "k": "新竹縣新豐鄉康泰路２８２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2084,7 +2300,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉山崎村文昌街１５７號"
+                "k": "新竹縣新豐鄉山崎村文昌街１５７號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2097,7 +2314,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉山崎村建興路一段９２號"
+                "k": "新竹縣新豐鄉山崎村建興路一段９２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2110,7 +2328,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉建興路一段９２之１號"
+                "k": "新竹縣新豐鄉建興路一段９２之１號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2123,7 +2342,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉松林村松林街１０６號"
+                "k": "新竹縣新豐鄉松林村松林街１０６號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2136,7 +2356,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉泰安街１０３號"
+                "k": "新竹縣新豐鄉泰安街１０３號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2149,7 +2370,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉山崎村建興路一段８９號"
+                "k": "新竹縣新豐鄉山崎村建興路一段８９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2162,7 +2384,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉建興路一段４１號"
+                "k": "新竹縣新豐鄉建興路一段４１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2175,7 +2398,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉山崎村建興路一段８７號"
+                "k": "新竹縣新豐鄉山崎村建興路一段８７號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2188,7 +2412,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉松林村泰安街１０號"
+                "k": "新竹縣新豐鄉松林村泰安街１０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2201,7 +2426,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉松林村尚仁街１０號"
+                "k": "新竹縣新豐鄉松林村尚仁街１０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2214,7 +2440,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉忠孝村仁愛街６６號"
+                "k": "新竹縣新豐鄉忠孝村仁愛街６６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2227,7 +2454,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣新豐鄉忠孝村建興路１段１５６－３號"
+                "k": "新竹縣新豐鄉忠孝村建興路１段１５６－３號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2240,7 +2468,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣橫山鄉內灣村４鄰中正路１６號"
+                "k": "新竹縣橫山鄉內灣村４鄰中正路１６號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2253,7 +2482,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣橫山鄉內灣村００５鄰中正路９３號"
+                "k": "新竹縣橫山鄉內灣村００５鄰中正路９３號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2266,7 +2496,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣橫山鄉內灣村０１０鄰和平街２４號"
+                "k": "新竹縣橫山鄉內灣村０１０鄰和平街２４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2279,7 +2510,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣橫山鄉福興村００５鄰馬福８９號"
+                "k": "新竹縣橫山鄉福興村００５鄰馬福８９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2292,7 +2524,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣橫山鄉內灣村００５鄰中山街二段５１―２號"
+                "k": "新竹縣橫山鄉內灣村００５鄰中山街二段５１―２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2305,7 +2538,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣橫山鄉內灣村５鄰中正路２８３號"
+                "k": "新竹縣橫山鄉內灣村５鄰中正路２８３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2318,7 +2552,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣橫山鄉橫山村００４鄰中豐路一段２６８號"
+                "k": "新竹縣橫山鄉橫山村００４鄰中豐路一段２６８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2331,7 +2566,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣橫山鄉南昌村００４鄰薯園２４－１號"
+                "k": "新竹縣橫山鄉南昌村００４鄰薯園２４－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2344,7 +2580,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉鳳凰村民富街３７號"
+                "k": "新竹縣湖口鄉鳳凰村民富街３７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2357,7 +2594,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉鳳凰村仁和路１０２號"
+                "k": "新竹縣湖口鄉鳳凰村仁和路１０２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2370,7 +2608,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉孝勢村中山路二段４８號"
+                "k": "新竹縣湖口鄉孝勢村中山路二段４８號",
+                "pay_list": "歐付寶\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2383,7 +2622,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉中山路二段１１５號"
+                "k": "新竹縣湖口鄉中山路二段１１５號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2396,7 +2636,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉孝勢村民生路４９號"
+                "k": "新竹縣湖口鄉孝勢村民生路４９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2409,7 +2650,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉孝勢村忠孝路１７號"
+                "k": "新竹縣湖口鄉孝勢村忠孝路１７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2422,7 +2664,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉鳳凰村仁和路９６號"
+                "k": "新竹縣湖口鄉鳳凰村仁和路９６號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2435,7 +2678,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉鳳凰村仁和路９２號"
+                "k": "新竹縣湖口鄉鳳凰村仁和路９２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2448,7 +2692,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉鳳凰村中華路２４號"
+                "k": "新竹縣湖口鄉鳳凰村中華路２４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2461,7 +2706,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉鳳凰村仁樂路１６０號"
+                "k": "新竹縣湖口鄉鳳凰村仁樂路１６０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2474,7 +2720,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉勝利村勝利路二段１１６號"
+                "k": "新竹縣湖口鄉勝利村勝利路二段１１６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2487,7 +2734,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉鳳山村新興路３０８號"
+                "k": "新竹縣湖口鄉鳳山村新興路３０８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2500,7 +2748,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉中華路９２號"
+                "k": "新竹縣湖口鄉中華路９２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2513,7 +2762,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉中正村中正路１段１９９號"
+                "k": "新竹縣湖口鄉中正村中正路１段１９９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2526,7 +2776,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉勝利村漢陽路２７號"
+                "k": "新竹縣湖口鄉勝利村漢陽路２７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2539,7 +2790,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉鳳山村國泰街８巷２０號"
+                "k": "新竹縣湖口鄉鳳山村國泰街８巷２０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2552,7 +2804,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉鳳凰村大勇路７７號"
+                "k": "新竹縣湖口鄉鳳凰村大勇路７７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2565,7 +2818,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉湖鏡村湖口老街１９３號"
+                "k": "新竹縣湖口鄉湖鏡村湖口老街１９３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2578,7 +2832,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉中山路２段１１３號"
+                "k": "新竹縣湖口鄉中山路２段１１３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2591,7 +2846,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉仁勢村１鄰中山路２段２００號"
+                "k": "新竹縣湖口鄉仁勢村１鄰中山路２段２００號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2604,7 +2860,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉鳳凰村仁和路１３３號"
+                "k": "新竹縣湖口鄉鳳凰村仁和路１３３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2617,7 +2874,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉仁和路１２９號"
+                "k": "新竹縣湖口鄉仁和路１２９號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2630,7 +2888,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉鳳凰村仁和路１４１號"
+                "k": "新竹縣湖口鄉鳳凰村仁和路１４１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2643,7 +2902,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉民權街３６―２號"
+                "k": "新竹縣湖口鄉民權街３６―２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2656,7 +2916,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉工業一路１６號"
+                "k": "新竹縣湖口鄉工業一路１６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2669,7 +2930,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉中正路一段２號"
+                "k": "新竹縣湖口鄉中正路一段２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2682,7 +2944,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉工業一路２５號"
+                "k": "新竹縣湖口鄉工業一路２５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2695,7 +2958,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉勝利路二段８８號"
+                "k": "新竹縣湖口鄉勝利路二段８８號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2708,7 +2972,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉愛勢村中山路二段１４７號"
+                "k": "新竹縣湖口鄉愛勢村中山路二段１４７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2721,7 +2986,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉中山路２段１９２號"
+                "k": "新竹縣湖口鄉中山路２段１９２號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2734,7 +3000,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉鳳山村三民南路１３６號"
+                "k": "新竹縣湖口鄉鳳山村三民南路１３６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2747,7 +3014,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉中正村中正七街２８３號"
+                "k": "新竹縣湖口鄉中正村中正七街２８３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2760,7 +3028,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉愛勢村中山路２段４２２號"
+                "k": "新竹縣湖口鄉愛勢村中山路２段４２２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2773,7 +3042,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉鳳凰村中華路２６號"
+                "k": "新竹縣湖口鄉鳳凰村中華路２６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2786,7 +3056,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉鳳凰村仁和路４１號"
+                "k": "新竹縣湖口鄉鳳凰村仁和路４１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2799,7 +3070,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉信勢村成功路９２號"
+                "k": "新竹縣湖口鄉信勢村成功路９２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2812,7 +3084,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉中興村工業一路７―３號"
+                "k": "新竹縣湖口鄉中興村工業一路７―３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2825,7 +3098,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉工業一路１８號"
+                "k": "新竹縣湖口鄉工業一路１８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2838,7 +3112,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉中正村達生五路３０號"
+                "k": "新竹縣湖口鄉中正村達生五路３０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2851,7 +3126,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉湖鏡村００２鄰湖口老街１９９號"
+                "k": "新竹縣湖口鄉湖鏡村００２鄰湖口老街１９９號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2864,7 +3140,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉勝利村勝利路二段１４號"
+                "k": "新竹縣湖口鄉勝利村勝利路二段１４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2877,7 +3154,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉湖鏡村湖口老街１０８號"
+                "k": "新竹縣湖口鄉湖鏡村湖口老街１０８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2890,7 +3168,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉中華路３２號"
+                "k": "新竹縣湖口鄉中華路３２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2903,7 +3182,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉信勢村成功路２０１號"
+                "k": "新竹縣湖口鄉信勢村成功路２０１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2916,7 +3196,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉鳳山村新興路４３３號"
+                "k": "新竹縣湖口鄉鳳山村新興路４３３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2929,7 +3210,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉中正村中正路一段１２２號"
+                "k": "新竹縣湖口鄉中正村中正路一段１２２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2942,7 +3224,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉湖口老街２０６號"
+                "k": "新竹縣湖口鄉湖口老街２０６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2955,7 +3238,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉中興村勝利路１段２３號"
+                "k": "新竹縣湖口鄉中興村勝利路１段２３號",
+                "pay_list": "一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -2968,7 +3252,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉中興村光復東路８８號"
+                "k": "新竹縣湖口鄉中興村光復東路８８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2981,7 +3266,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉仁勢村中正路１段１１號"
+                "k": "新竹縣湖口鄉仁勢村中正路１段１１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2994,7 +3280,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉鳳凰村大智路１巷３７號"
+                "k": "新竹縣湖口鄉鳳凰村大智路１巷３７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3007,7 +3294,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉中正路１段２４號"
+                "k": "新竹縣湖口鄉中正路１段２４號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3020,7 +3308,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉中正村中正六街５６號"
+                "k": "新竹縣湖口鄉中正村中正六街５６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3033,7 +3322,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉中興村光復東路２號"
+                "k": "新竹縣湖口鄉中興村光復東路２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3046,7 +3336,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉中山路２段１７６號"
+                "k": "新竹縣湖口鄉中山路２段１７６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3059,7 +3350,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉中勢村信昌三街１７號"
+                "k": "新竹縣湖口鄉中勢村信昌三街１７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3072,7 +3364,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉愛勢村民族街１３１號"
+                "k": "新竹縣湖口鄉愛勢村民族街１３１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3085,7 +3378,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣湖口鄉鳳凰村仁和路１２２－２號"
+                "k": "新竹縣湖口鄉鳳凰村仁和路１２２－２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3098,7 +3392,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市斗崙里縣政二路９號"
+                "k": "新竹縣竹北市斗崙里縣政二路９號",
+                "pay_list": "LINE Pay Money\/台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3111,7 +3406,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市勝利六街６６號"
+                "k": "新竹縣竹北市勝利六街６６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3124,7 +3420,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市新國里４鄰中正西路８９號"
+                "k": "新竹縣竹北市新國里４鄰中正西路８９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3137,7 +3434,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市竹仁里中正東路３１２號"
+                "k": "新竹縣竹北市竹仁里中正東路３１２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3150,7 +3448,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市竹義里１０鄰中正西路１０號"
+                "k": "新竹縣竹北市竹義里１０鄰中正西路１０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3163,7 +3462,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市福德街１６號"
+                "k": "新竹縣竹北市福德街１６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3176,7 +3476,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市文化里３３鄰文田街１３０號"
+                "k": "新竹縣竹北市文化里３３鄰文田街１３０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3189,7 +3490,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市尚義街４２６巷１００號"
+                "k": "新竹縣竹北市尚義街４２６巷１００號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3202,7 +3504,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市光明三路３４號"
+                "k": "新竹縣竹北市光明三路３４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3215,7 +3518,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中正西路１１４號"
+                "k": "新竹縣竹北市中正西路１１４號",
+                "pay_list": "一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3228,7 +3532,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市莊敬五街１００號"
+                "k": "新竹縣竹北市泰和里００２鄰環北路一段２８６巷１９弄６８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.022996,
+                    24.842334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市莊敬五街１００號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3241,7 +3560,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市光明一路１２７號"
+                "k": "新竹縣竹北市光明一路１２７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3254,7 +3574,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市興安里光明一路９３號"
+                "k": "新竹縣竹北市興安里光明一路９３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3267,7 +3588,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市縣政二路４１０號"
+                "k": "新竹縣竹北市縣政二路４１０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3280,7 +3602,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市東平里文興路一段３９６號"
+                "k": "新竹縣竹北市東平里文興路一段３９６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3293,7 +3616,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市自強南路８號"
+                "k": "新竹縣竹北市自強南路８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3306,7 +3630,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市科大一路２６８號"
+                "k": "新竹縣竹北市科大一路２６８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3319,7 +3644,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中興里文興路二段３號"
+                "k": "新竹縣竹北市中興里文興路二段３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3332,7 +3658,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市竹仁里中正東路２１９號"
+                "k": "新竹縣竹北市竹仁里中正東路２１９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3345,7 +3672,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市十興里勝利二路１１５號"
+                "k": "新竹縣竹北市十興里勝利二路１１５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3358,7 +3686,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市華興街２７８號"
+                "k": "新竹縣竹北市華興街２７８號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3371,7 +3700,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市光明六路４５號"
+                "k": "新竹縣竹北市光明六路４５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3384,7 +3714,36 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市鹿場里成功十街１號"
+                "k": "新竹縣竹北市十興里光明六路東１段２５５號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.027101,
+                    24.820619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市十興里光明六路東２段５５號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.024113,
+                    24.821587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市鹿場里成功十街１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3397,7 +3756,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市福興東路二段１０９號"
+                "k": "新竹縣竹北市福興東路二段１０９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3410,7 +3770,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市北崙里縣政十三路１４８號"
+                "k": "新竹縣竹北市北崙里縣政十三路１４８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3423,7 +3784,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市鹿場里福興東路一段３０２號"
+                "k": "新竹縣竹北市鹿場里福興東路一段３０２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3436,7 +3798,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市十興里莊敬五街３８號"
+                "k": "新竹縣竹北市十興里莊敬五街３８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3449,7 +3812,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市十興里勝利二路５７號"
+                "k": "新竹縣竹北市十興里勝利二路５７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3462,7 +3826,50 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市鹿場里００７鄰成功五街７６號"
+                "k": "新竹縣竹北市光明六路１２６、１２８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.997748,
+                    24.833534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市仁義路１７２－１、１７２－２號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.014596,
+                    24.833796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市東平里００２鄰六家一路一段２７號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.025513,
+                    24.81143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市鹿場里００７鄰成功五街７６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3475,7 +3882,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中興里文興路二段１號"
+                "k": "新竹縣竹北市中興里文興路二段１號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3488,7 +3896,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市竹仁里三民路３２３號"
+                "k": "新竹縣竹北市竹仁里三民路３２３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3501,7 +3910,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市鹿場里成功八路３７８號"
+                "k": "新竹縣竹北市鹿場里成功八路３７８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3514,7 +3924,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市鹿場里０１５鄰成功八路３７６號"
+                "k": "新竹縣竹北市鹿場里０１５鄰成功八路３７６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3527,7 +3938,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中興里文興路一段２５１號"
+                "k": "新竹縣竹北市東平里六家五路一段１２７號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.0254,
+                    24.809629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市中興里文興路一段２５１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3540,7 +3966,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市十興里勝利二路１１８號"
+                "k": "新竹縣竹北市十興里勝利二路１１８號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3553,7 +3980,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市泰和里中華路６７４號"
+                "k": "新竹縣竹北市中興里復興三路一段２２８號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.032583,
+                    24.810341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市泰和里中華路６７４號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3566,7 +4008,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市斗崙里科大一路２８號"
+                "k": "新竹縣竹北市斗崙里科大一路２８號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3579,7 +4022,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市竹仁里中正東路２５０號"
+                "k": "新竹縣竹北市竹仁里中正東路２５０號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3592,7 +4036,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中興里嘉豐南路１段５８號"
+                "k": "新竹縣竹北市中興里嘉豐南路１段５８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3605,7 +4050,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市北興里莊敬七街６１號"
+                "k": "新竹縣竹北市北興里莊敬七街６１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3618,7 +4064,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市東平里文興路二段３３２號"
+                "k": "新竹縣竹北市東平里文興路二段３３２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3631,7 +4078,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市北崙里博愛街２６５號"
+                "k": "新竹縣竹北市北崙里博愛街２６５號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3644,7 +4092,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市十興里勝利二路１０５號"
+                "k": "新竹縣竹北市十興里勝利二路１０５號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3657,7 +4106,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市北崙里博愛街２７９號"
+                "k": "新竹縣竹北市北崙里博愛街２７９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3670,7 +4120,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市勝利一路１３號"
+                "k": "新竹縣竹北市勝利一路１３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3683,7 +4134,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市十興里勝利七街１段２４８號"
+                "k": "新竹縣竹北市十興里勝利七街１段２４８號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3696,7 +4148,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市福德里三民路２７０號"
+                "k": "新竹縣竹北市福德里三民路２７０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3709,7 +4162,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市勝利十一路１５７號"
+                "k": "新竹縣竹北市勝利十一路１５７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3722,7 +4176,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市斗崙里縣政二路９３號"
+                "k": "新竹縣竹北市斗崙里縣政二路９３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3735,7 +4190,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市嘉豐一街１３０號"
+                "k": "新竹縣竹北市嘉豐一街１３０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3748,7 +4204,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市高鐵二路３６號"
+                "k": "新竹縣竹北市高鐵二路３６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3761,7 +4218,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市竹仁里中正東路６２號"
+                "k": "新竹縣竹北市竹仁里中正東路６２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3774,7 +4232,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市博愛街３５５號"
+                "k": "新竹縣竹北市博愛街３５５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3787,7 +4246,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市竹北里臺元街３３號"
+                "k": "新竹縣竹北市竹北里臺元街３３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3800,7 +4260,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市東興里自強北路２０號"
+                "k": "新竹縣竹北市東興里自強北路２０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3813,7 +4274,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中興里３鄰文興路１段１８３號"
+                "k": "新竹縣竹北市中興里３鄰文興路１段１８３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3826,7 +4288,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市光明一路２７５號"
+                "k": "新竹縣竹北市光明一路２７５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3839,7 +4302,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市文化里４３鄰文信路３２９號"
+                "k": "新竹縣竹北市文化里４３鄰文信路３２９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3852,7 +4316,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市鹿場里莊敬南路７號"
+                "k": "新竹縣竹北市鹿場里莊敬南路７號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3865,7 +4330,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中興里福興東路二段８７號"
+                "k": "新竹縣竹北市中興里福興東路二段８７號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3878,7 +4344,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市北崙里光明二街７９號"
+                "k": "新竹縣竹北市北崙里光明二街７９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3891,7 +4358,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市鹿場里成功二街１０２號"
+                "k": "新竹縣竹北市鹿場里成功二街１０２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3904,7 +4372,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市縣政九路１４９號"
+                "k": "新竹縣竹北市縣政九路１４９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3917,7 +4386,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市新國里華興街３６８號"
+                "k": "新竹縣竹北市新國里華興街３６８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3930,7 +4400,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市東興里００２鄰嘉豐北路６２號"
+                "k": "新竹縣竹北市東興里００２鄰嘉豐北路６２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3943,7 +4414,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市隘口里隘口三街２１６號"
+                "k": "新竹縣竹北市隘口里隘口三街２１６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3956,7 +4428,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市華興街２６２巷５６號"
+                "k": "新竹縣竹北市華興街２６２巷５６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3969,7 +4442,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市光明一路４８０號"
+                "k": "新竹縣竹北市光明一路４８０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3982,7 +4456,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市北崙里光明三路６５號"
+                "k": "新竹縣竹北市北崙里光明三路６５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3995,7 +4470,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中崙里福興一路２０號"
+                "k": "新竹縣竹北市中崙里福興一路２０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4008,7 +4484,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市福德里００１鄰三民路２７６號"
+                "k": "新竹縣竹北市福德里００１鄰三民路２７６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -4021,7 +4498,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市北興里勝利十一路６５號"
+                "k": "新竹縣竹北市中崙里光明六路２６７，２６９號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.004552,
+                    24.829939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市北興里勝利十一路６５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4034,7 +4526,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市福德里００３鄰三民路４２１號"
+                "k": "新竹縣竹北市福德里００３鄰三民路４２１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4047,7 +4540,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市文化里文信路３５５號"
+                "k": "新竹縣竹北市文化里文信路３５５號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4060,7 +4554,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中崙里光明六路８９號"
+                "k": "新竹縣竹北市中崙里光明六路８９號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4073,7 +4568,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市成功二街１６６號"
+                "k": "新竹縣竹北市成功二街１６６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4086,7 +4582,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市鹿場里自強南路１８８號"
+                "k": "新竹縣竹北市鹿場里自強南路１８８號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4099,7 +4596,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中興里文興路一段４３號"
+                "k": "新竹縣竹北市中興里文興路一段４３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4112,7 +4610,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市北崙里縣政九路１７７號"
+                "k": "新竹縣竹北市北崙里縣政九路１７７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4125,7 +4624,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市隘口三街２４３號"
+                "k": "新竹縣竹北市東平里嘉豐五路二段５８號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.026139,
+                    24.809839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市隘口三街２４３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4138,7 +4652,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市鹿場里００５鄰文興路５１號"
+                "k": "新竹縣竹北市東平里六家五路二段１９０號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.036665,
+                    24.802308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市鹿場里００５鄰文興路５１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4151,7 +4680,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市鹿場里文興路２０５號"
+                "k": "新竹縣竹北市鹿場里文興路２０５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4164,7 +4694,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市北崙里縣政十街５１號"
+                "k": "新竹縣竹北市北崙里縣政十街５１號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4177,7 +4708,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市嘉豐一街２２８巷５號"
+                "k": "新竹縣竹北市嘉豐一街２２８巷５號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4190,7 +4722,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中華路３５５號"
+                "k": "新竹縣竹北市中華路３５５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4203,7 +4736,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市北崙里光明六路１３２號"
+                "k": "新竹縣竹北市北崙里光明六路１３２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4216,7 +4750,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中興里文興路一段２５５號"
+                "k": "新竹縣竹北市東平里００８鄰六家一路二段７３號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.034583,
+                    24.806349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市中興里文興路一段２５５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4229,7 +4778,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市十興里莊敬二街２０之２號"
+                "k": "新竹縣竹北市十興里莊敬二街２０之２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4242,7 +4792,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市鹿場里成功十一街１０９號"
+                "k": "新竹縣竹北市鹿場里成功十一街１０９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4255,7 +4806,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市新庄里中正西路１８４１號"
+                "k": "新竹縣竹北市新庄里中正西路１８４１號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4268,7 +4820,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市北崙里光明一路３０７號"
+                "k": "新竹縣竹北市北崙里光明一路３０７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4281,7 +4834,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市文化里光明一路４００號"
+                "k": "新竹縣竹北市文化里光明一路４００號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4294,7 +4848,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市北興里莊敬北路２６８號"
+                "k": "新竹縣竹北市北興里莊敬北路２６８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4307,7 +4862,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市嘉興路１７０號"
+                "k": "新竹縣竹北市嘉興路１７０號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4320,7 +4876,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市縣政二路５５號"
+                "k": "新竹縣竹北市縣政二路５５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4333,7 +4890,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市文興路２７３號"
+                "k": "新竹縣竹北市文興路２７３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4346,7 +4904,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市十興里勝利二路５１號"
+                "k": "新竹縣竹北市十興里勝利二路５１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4359,7 +4918,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市東平里文興路二段５０號"
+                "k": "新竹縣竹北市東平里文興路二段５０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4372,7 +4932,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市勝利十一路１０３號"
+                "k": "新竹縣竹北市勝利十一路１０３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4385,7 +4946,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市斗崙里縣政二路２０號"
+                "k": "新竹縣竹北市斗崙里縣政二路２０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4398,7 +4960,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市興安里０１１鄰縣政二路４２８號"
+                "k": "新竹縣竹北市興安里０１１鄰縣政二路４２８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4411,7 +4974,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中山路３１７號"
+                "k": "新竹縣竹北市中山路３１７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4424,7 +4988,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市斗崙里縣政二路４７號"
+                "k": "新竹縣竹北市斗崙里縣政二路４７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4437,7 +5002,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市隘口里高鐵七路６號"
+                "k": "新竹縣竹北市隘口里高鐵七路６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4450,7 +5016,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市竹仁里中正東路５６號"
+                "k": "新竹縣竹北市竹仁里中正東路５６號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4463,7 +5030,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市斗崙里光明六路１１８號"
+                "k": "新竹縣竹北市斗崙里光明六路１１８號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4476,7 +5044,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市北崙里縣政十六街２４７號"
+                "k": "新竹縣竹北市北崙里縣政十六街２４７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4489,7 +5058,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市竹北里環北路一段１０１號"
+                "k": "新竹縣竹北市竹北里環北路一段１０１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4502,7 +5072,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市文化里光明一路２７７號"
+                "k": "新竹縣竹北市文化里光明一路２７７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4515,7 +5086,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市北崙里光明二街１１４號"
+                "k": "新竹縣竹北市北崙里光明二街１１４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4528,7 +5100,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市惟馨街７９號"
+                "k": "新竹縣竹北市惟馨街７９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4541,7 +5114,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市溪州里溪州路９２巷１２號"
+                "k": "新竹縣竹北市溪州里溪州路９２巷１２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4554,7 +5128,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市麻園里麻園七街１０號"
+                "k": "新竹縣竹北市麻園里麻園七街１０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4567,7 +5142,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市十興里勝利一路１０５號"
+                "k": "新竹縣竹北市十興里勝利一路１０５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4580,7 +5156,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市鹿場里文興路一段５３號"
+                "k": "新竹縣竹北市中興里復興三路二段１６８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.036518,
+                    24.808292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市鹿場里文興路一段５３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4593,7 +5184,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市自強北路２３０號"
+                "k": "新竹縣竹北市自強北路２３０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4606,7 +5198,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市嘉興路２０７巷６號"
+                "k": "新竹縣竹北市嘉興路２０７巷６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -4619,7 +5212,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市復興一街２３６號"
+                "k": "新竹縣竹北市復興一街２３６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4632,7 +5226,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市鹿場里莊敬南路１１７號"
+                "k": "新竹縣竹北市復興三路二段１６８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.038222,
+                    24.807607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市鹿場里莊敬南路１１７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4645,7 +5254,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市竹仁里三民路３１５號"
+                "k": "新竹縣竹北市竹仁里三民路３１５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4658,7 +5268,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市北興里莊敬北路２８６號"
+                "k": "新竹縣竹北市北興里莊敬北路２８６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4671,7 +5282,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市鹿場里成功五街１１６號"
+                "k": "新竹縣竹北市鹿場里成功五街１１６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4684,7 +5296,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市成功二街１６２號"
+                "k": "新竹縣竹北市成功二街１６２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4697,7 +5310,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市文化里０４２鄰光明一路２７５號"
+                "k": "新竹縣竹北市文化里０４２鄰光明一路２７５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4710,7 +5324,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市高鐵九路９８號"
+                "k": "新竹縣竹北市高鐵九路９８號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4723,7 +5338,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市鹿場里成功十二街３６號"
+                "k": "新竹縣竹北市鹿場里成功十二街３６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4736,7 +5352,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市光明一路６２號"
+                "k": "新竹縣竹北市光明一路６２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4749,7 +5366,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市莊敬南路１８８號"
+                "k": "新竹縣竹北市莊敬南路１８８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4762,7 +5380,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中興里文興路一段１９７號"
+                "k": "新竹縣竹北市中興里文興路一段１９７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4775,7 +5394,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中崙里興隆路一段１９９號"
+                "k": "新竹縣竹北市中崙里興隆路一段１９９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4788,7 +5408,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市北興里莊敬七街４３號"
+                "k": "新竹縣竹北市北興里莊敬七街４３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4801,7 +5422,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市光明三路８８號"
+                "k": "新竹縣竹北市光明三路８８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4814,7 +5436,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市北興里勝利十二街８２號"
+                "k": "新竹縣竹北市北興里勝利十二街８２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4827,7 +5450,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市竹仁里仁德街１９號"
+                "k": "新竹縣竹北市竹仁里仁德街１９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4840,7 +5464,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市東平里六家一路１段３號"
+                "k": "新竹縣竹北市東平里六家一路１段３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4853,7 +5478,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市竹義里華興街２０５號"
+                "k": "新竹縣竹北市竹義里華興街２０５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4866,7 +5492,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中正東路１７２號"
+                "k": "新竹縣竹北市中正東路１７２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4879,7 +5506,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中崙里縣政九路２９號"
+                "k": "新竹縣竹北市中崙里縣政九路２９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4892,7 +5520,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市福德里博愛街３５２號"
+                "k": "新竹縣竹北市福德里博愛街３５２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4905,7 +5534,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市十興里勝利三街１１２號"
+                "k": "新竹縣竹北市十興里勝利三街１１２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4918,7 +5548,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市三民路２９５號"
+                "k": "新竹縣竹北市三民路２９５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4931,7 +5562,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市新社里２鄰中正西路１２４號"
+                "k": "新竹縣竹北市新社里２鄰中正西路１２４號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4944,7 +5576,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市文信路３９３號"
+                "k": "新竹縣竹北市文信路３９３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4957,7 +5590,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市環北路１段４２０號"
+                "k": "新竹縣竹北市環北路１段４２０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4970,7 +5604,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市鹿場里自強五路２２５號"
+                "k": "新竹縣竹北市鹿場里自強五路２２５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4983,7 +5618,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市福德里３鄰博愛街３４２號"
+                "k": "新竹縣竹北市福德里３鄰博愛街３４２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4996,7 +5632,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市文化里４０鄰光明一路２６０號"
+                "k": "新竹縣竹北市文化里４０鄰光明一路２６０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5009,7 +5646,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市文興路１段５３號"
+                "k": "新竹縣竹北市文興路１段５３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5022,7 +5660,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市竹仁里博愛街４３６號"
+                "k": "新竹縣竹北市竹仁里博愛街４３６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5035,7 +5674,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市福德里三民路３６９號"
+                "k": "新竹縣竹北市福德里三民路３６９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5048,7 +5688,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中崙里福興路８８８巷７號"
+                "k": "新竹縣竹北市中崙里福興路８８８巷７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5061,7 +5702,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市竹北十興里東興路１段１５號"
+                "k": "新竹縣竹北市竹北十興里東興路１段１５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5074,7 +5716,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市北崙里１５鄰縣政十街１９２號"
+                "k": "新竹縣竹北市北崙里１５鄰縣政十街１９２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5087,7 +5730,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中正東路２６２號"
+                "k": "新竹縣竹北市中正東路２６２號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5100,7 +5744,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市興安里３３鄰光明一路３８號"
+                "k": "新竹縣竹北市興安里３３鄰光明一路３８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5113,7 +5758,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市北崙里博愛街１３３號"
+                "k": "新竹縣竹北市北崙里博愛街１３３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5126,7 +5772,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市自強南路１６１號"
+                "k": "新竹縣竹北市自強南路１６１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5139,7 +5786,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市斗崙里光明九路１２５號"
+                "k": "新竹縣竹北市斗崙里光明九路１２５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5152,7 +5800,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市十興里１３鄰勝利三街１０９號"
+                "k": "新竹縣竹北市十興里１３鄰勝利三街１０９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5165,7 +5814,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市十興里勝利一路８１號"
+                "k": "新竹縣竹北市光明六路東２段１９號",
+                "pay_list": "街口支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.029259,
+                    24.819538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市十興里勝利一路８１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5178,7 +5842,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市縣政二路８１號"
+                "k": "新竹縣竹北市縣政二路８１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5191,7 +5856,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中興里嘉興路１４２號"
+                "k": "新竹縣竹北市中興里嘉興路１４２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5204,7 +5870,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市竹北里台元一街７號"
+                "k": "新竹縣竹北市竹北里台元一街７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5217,7 +5884,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市博愛街１６８－１號"
+                "k": "新竹縣竹北市博愛街１６８－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5230,7 +5898,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市十興里勝利二路７９號"
+                "k": "新竹縣竹北市十興里勝利二路７９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5243,7 +5912,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市文化里文信路４０８號"
+                "k": "新竹縣竹北市文化里文信路４０８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5256,7 +5926,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市東平里文興路１段４０號"
+                "k": "新竹縣竹北市東平里文興路１段４０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5269,7 +5940,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中正西路９６號"
+                "k": "新竹縣竹北市中正西路９６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5282,7 +5954,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市中崙里福興路７７２－１號"
+                "k": "新竹縣竹北市中崙里福興路７７２－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5295,7 +5968,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市莊敬南路９７號"
+                "k": "新竹縣竹北市莊敬南路９７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5308,7 +5982,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市縣政二路９５號"
+                "k": "新竹縣竹北市縣政二路９５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5321,7 +5996,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市十興里勝利二路１１１號"
+                "k": "新竹縣竹北市十興里勝利二路１１１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5334,7 +6010,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市鹿場里成功八路２２５號"
+                "k": "新竹縣竹北市鹿場里成功八路２２５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5347,7 +6024,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市北崙里光明六路１７０號"
+                "k": "新竹縣竹北市北崙里光明六路１７０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5360,7 +6038,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹北市十興里０２８鄰勝利六街１７號"
+                "k": "新竹縣竹北市十興里０２８鄰勝利六街１７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5373,7 +6052,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮榮樂里１４鄰長春路２段９６號"
+                "k": "新竹縣竹北市光明六路東二段２２０號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.032481,
+                    24.814533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹東鎮榮樂里１４鄰長春路２段９６號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5386,7 +6080,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮頭重里１６鄰竹中路１１８號"
+                "k": "新竹縣竹東鎮頭重里１６鄰竹中路１１８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5399,7 +6094,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮雞林里仁愛路２５５號"
+                "k": "新竹縣竹東鎮雞林里仁愛路２５５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5412,7 +6108,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮東華里東林路２０號"
+                "k": "新竹縣竹東鎮東華里東林路２０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5425,7 +6122,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮員崠里０１８鄰東峰路１２０號"
+                "k": "新竹縣竹東鎮員崠里０１８鄰東峰路１２０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5438,7 +6136,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮頭重里中興路４段５０８號"
+                "k": "新竹縣竹東鎮頭重里中興路４段５０８號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5451,7 +6150,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮柯湖里中興路４段１０２３號"
+                "k": "新竹縣竹東鎮柯湖里中興路４段１０２３號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5464,7 +6164,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮榮華里朝陽路９９號"
+                "k": "新竹縣竹東鎮榮華里朝陽路９９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5477,7 +6178,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮員山里公道路８９９號"
+                "k": "新竹縣竹東鎮員山里公道路８９９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5490,7 +6192,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮商華里９鄰長春路２段３１號"
+                "k": "新竹縣竹東鎮東林攤販２９號",
+                "pay_list": "歐付寶"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.088925,
+                    24.742592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹東鎮商華里９鄰長春路２段３１號",
+                "pay_list": "台灣 PAY\/一卡通\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5503,7 +6220,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮榮樂里長春路２段１８號"
+                "k": "新竹縣竹東鎮榮樂里長春路２段１８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5516,7 +6234,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮竹東里４鄰長春路２段６１號"
+                "k": "新竹縣竹東鎮竹東里４鄰長春路２段６１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5529,7 +6248,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮東華里７鄰東林路３３號"
+                "k": "新竹縣竹東鎮東華里７鄰東林路３３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5542,7 +6262,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮忠孝里１２鄰長春路３段２２７號"
+                "k": "新竹縣竹東鎮忠孝里１２鄰長春路３段２２７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5555,7 +6276,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮東寧里１５鄰中豐路２段１７號"
+                "k": "新竹縣竹東鎮東寧里１５鄰中豐路２段１７號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5568,7 +6290,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮竹東里長春路２段７７號"
+                "k": "新竹縣竹東鎮竹東里長春路２段７７號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5581,7 +6304,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮榮華里０３１鄰長春路３段２０２號"
+                "k": "新竹縣竹東鎮榮華里０３１鄰長春路３段２０２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5594,7 +6318,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮東寧里０１４鄰中豐路１段１２５號"
+                "k": "新竹縣竹東鎮東寧里０１４鄰中豐路１段１２５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5607,7 +6332,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮仁愛里００７鄰北興路二段３號"
+                "k": "新竹縣竹東鎮仁愛里００７鄰北興路二段３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5620,7 +6346,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮中山里４鄰中山路１２５號"
+                "k": "新竹縣竹東鎮中山里４鄰中山路１２５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5633,7 +6360,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮竹東里０１６鄰長春路３段１７號"
+                "k": "新竹縣竹東鎮竹東里０１６鄰長春路３段１７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5646,7 +6374,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮柯湖里００７鄰中興路４段９８３―１號"
+                "k": "新竹縣竹東鎮柯湖里００７鄰中興路４段９８３―１號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5659,7 +6388,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮二重里０１９鄰明星一路１３８號"
+                "k": "新竹縣竹東鎮二重里０１９鄰明星一路１３８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5672,7 +6402,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮五豐里６鄰忠孝街９４號"
+                "k": "新竹縣竹東鎮五豐里６鄰忠孝街９４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5685,7 +6416,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮二重里０１９鄰明星一路１１０號"
+                "k": "新竹縣竹東鎮二重里０１９鄰明星一路１１０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5698,7 +6430,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮鷄林里１４鄰仁愛路２１８號"
+                "k": "新竹縣竹東鎮鷄林里１４鄰仁愛路２１８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5711,7 +6444,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮東華里４鄰東寧路２段３４０號"
+                "k": "新竹縣竹東鎮東華里４鄰東寧路２段３４０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5724,7 +6458,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮榮華里３４鄰長春路３段２２６號"
+                "k": "新竹縣竹東鎮榮華里３４鄰長春路３段２２６號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5737,7 +6472,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮榮華里２７鄰民德路４６號"
+                "k": "新竹縣竹東鎮榮華里２７鄰民德路４６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5750,7 +6486,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮榮華里２７鄰長春路３段１７８號"
+                "k": "新竹縣竹東鎮榮華里２７鄰長春路３段１７８號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5763,7 +6500,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮忠孝里１２鄰長春路３段２７３號"
+                "k": "新竹縣竹東鎮忠孝里１２鄰長春路３段２７３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5776,7 +6514,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮榮華里１鄰長春路３段２號"
+                "k": "新竹縣竹東鎮榮華里１鄰長春路３段２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5789,7 +6528,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮榮華里興農街１２１巷１９號"
+                "k": "新竹縣竹東鎮榮華里興農街１２１巷１９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5802,7 +6542,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮大鄉里２０鄰大林路１７５號"
+                "k": "新竹縣竹東鎮大鄉里２０鄰大林路１７５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5815,7 +6556,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮南華里２鄰東寧路２段２０７號"
+                "k": "新竹縣竹東鎮南華里２鄰東寧路２段２０７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5828,7 +6570,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮榮華里４２鄰北興路３段４５８－２號"
+                "k": "新竹縣竹東鎮榮華里４２鄰北興路３段４５８－２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5841,7 +6584,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮竹東里１７鄰東寧路３段１３５號"
+                "k": "新竹縣竹東鎮竹東里１７鄰東寧路３段１３５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5854,7 +6598,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮二重里中興路３段３０７號"
+                "k": "新竹縣竹東鎮二重里中興路３段３０７號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5867,7 +6612,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮東寧里０１５鄰東峰路６號"
+                "k": "新竹縣竹東鎮東寧里０１５鄰東峰路６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5880,7 +6626,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮鷄林里仁愛路１７０號"
+                "k": "新竹縣竹東鎮鷄林里仁愛路１７０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5893,7 +6640,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮二重里中興路３段１７７號"
+                "k": "新竹縣竹東鎮二重里中興路３段１７７號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5906,7 +6654,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮鷄林里２１鄰仁愛路２２０號"
+                "k": "新竹縣竹東鎮鷄林里２１鄰仁愛路２２０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5919,7 +6668,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮榮華里２７鄰長春路３段１７４號"
+                "k": "新竹縣竹東鎮榮華里２７鄰長春路３段１７４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5932,7 +6682,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮榮樂里大同路１０１號"
+                "k": "新竹縣竹東鎮榮樂里大同路１０１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5945,7 +6696,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮東華里０１２鄰信義路１２１號"
+                "k": "新竹縣竹東鎮東華里０１２鄰信義路１２１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5958,7 +6710,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮二重里中興路３段１８１號"
+                "k": "新竹縣竹東鎮二重里中興路３段１８１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5971,7 +6724,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮鷄林里仁愛路２２２號"
+                "k": "新竹縣竹東鎮鷄林里仁愛路２２２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5984,7 +6738,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮榮華里０３１鄰長春路３段１９６號"
+                "k": "新竹縣竹東鎮榮華里０３１鄰長春路３段１９６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5997,7 +6752,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮東寧里００４鄰北興路一段６號"
+                "k": "新竹縣竹東鎮東寧里００４鄰北興路一段６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6010,7 +6766,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮東寧里０１５鄰中豐路二段３３號"
+                "k": "新竹縣竹東鎮東寧里０１５鄰中豐路二段３３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6023,7 +6780,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮東華里０１２鄰信義路１２７號"
+                "k": "新竹縣竹東鎮東華里０１２鄰信義路１２７號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6036,7 +6794,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮忠孝里０１２鄰長春路３段２１１號"
+                "k": "新竹縣竹東鎮忠孝里０１２鄰長春路３段２１１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6049,7 +6808,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮榮華里０２７鄰長春路３段１７２號"
+                "k": "新竹縣竹東鎮榮華里０２７鄰長春路３段１７２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6062,7 +6822,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮仁愛里１５鄰北興路２段１２２號"
+                "k": "新竹縣竹東鎮仁愛里１５鄰北興路２段１２２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6075,7 +6836,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮二重里中興路３段１８７號"
+                "k": "新竹縣竹東鎮二重里中興路３段１８７號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6088,7 +6850,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮上舘里幸福路１０２－１號"
+                "k": "新竹縣竹東鎮上舘里幸福路１０２－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6101,7 +6864,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮上館里０１０鄰東峰路６６巷１７弄２號"
+                "k": "新竹縣竹東鎮上館里０１０鄰東峰路６６巷１７弄２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6114,7 +6878,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮東寧里１４鄰中豐路１段１１５號"
+                "k": "新竹縣竹東鎮東寧里１４鄰中豐路１段１１５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6127,7 +6892,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮竹東里０１３鄰東寧路三段１２５號"
+                "k": "新竹縣竹東鎮竹東里０１３鄰東寧路三段１２５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6140,7 +6906,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮鷄林里長安路１８號"
+                "k": "新竹縣竹東鎮鷄林里長安路１８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6153,7 +6920,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮忠孝里０１２鄰長春路３段２５５號"
+                "k": "新竹縣竹東鎮忠孝里０１２鄰長春路３段２５５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6166,7 +6934,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮東寧里０１５鄰中豐路二段１１號"
+                "k": "新竹縣竹東鎮東寧里０１５鄰中豐路二段１１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6179,7 +6948,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮鷄林里２３鄰杞林路８３號"
+                "k": "新竹縣竹東鎮鷄林里２３鄰杞林路８３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6192,7 +6962,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮二重里００１鄰中興路３段１１２號"
+                "k": "新竹縣竹東鎮二重里００１鄰中興路３段１１２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6205,7 +6976,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮榮樂里商華街６１號"
+                "k": "新竹縣竹東鎮榮樂里商華街６１號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -6218,7 +6990,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮二重里中興路３段３２１號"
+                "k": "新竹縣竹東鎮二重里中興路３段３２１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6231,7 +7004,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮鷄林里北興路一段６０８號"
+                "k": "新竹縣竹東鎮鷄林里北興路一段６０８號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6244,7 +7018,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮員山里００３鄰下員山路２５０巷２９弄１３號"
+                "k": "新竹縣竹東鎮員山里００３鄰下員山路２５０巷２９弄１３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6257,7 +7032,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮三重里中興路２段２８２號"
+                "k": "新竹縣竹東鎮三重里中興路２段２８２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6270,7 +7046,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮榮樂里０２１鄰長春路２段１４０號"
+                "k": "新竹縣竹東鎮榮樂里０２１鄰長春路２段１４０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6283,7 +7060,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮榮華里０３４鄰長春路３段２２８號"
+                "k": "新竹縣竹東鎮榮華里０３４鄰長春路３段２２８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6296,7 +7074,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮鷄林里１４鄰東林路１６０號"
+                "k": "新竹縣竹東鎮鷄林里１４鄰東林路１６０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6309,7 +7088,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮榮樂里長春路２段８０號"
+                "k": "新竹縣竹東鎮榮樂里長春路２段８０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6322,7 +7102,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮榮華里００３鄰長春路３段４０號"
+                "k": "新竹縣竹東鎮榮華里００３鄰長春路３段４０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6335,7 +7116,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮榮華里０３４鄰長春路３段２２２號"
+                "k": "新竹縣竹東鎮榮華里０３４鄰長春路３段２２２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6348,7 +7130,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮東華里００８鄰長春路２段４號"
+                "k": "新竹縣竹東鎮東華里００８鄰長春路２段４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6361,7 +7144,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮竹東里０１４鄰東寧路三段１１６號"
+                "k": "新竹縣竹東鎮竹東里０１４鄰東寧路三段１１６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6374,7 +7158,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮東華里００９鄰信義路１６１號"
+                "k": "新竹縣竹東鎮東華里００９鄰信義路１６１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6387,7 +7172,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮鷄林里０１０鄰北興路一段６１１號"
+                "k": "新竹縣竹東鎮鷄林里０１０鄰北興路一段６１１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6400,7 +7186,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮二重里中興路３段３０９號"
+                "k": "新竹縣竹東鎮二重里中興路３段３０９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6413,7 +7200,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮榮樂里大同路９４號"
+                "k": "新竹縣竹東鎮榮樂里大同路９４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6426,7 +7214,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮東寧里０１６鄰中豐路二段１１８號"
+                "k": "新竹縣竹東鎮東寧里０１６鄰中豐路二段１１８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6439,7 +7228,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮榮樂里三民街５９號"
+                "k": "新竹縣竹東鎮榮樂里三民街５９號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6452,7 +7242,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮東華里０１１鄰長春路１段３１５號"
+                "k": "新竹縣竹東鎮東寧里００１鄰沿河街１６巷７號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.100607,
+                    24.719234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹東鎮東華里０１１鄰長春路１段３１５號",
+                "pay_list": "愛金卡\/台灣 PAY\/一卡通\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6465,7 +7270,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮東華里長春路２段１４號"
+                "k": "新竹縣竹東鎮東華里長春路２段１４號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6478,7 +7284,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮仁愛里北興路二段１４２號"
+                "k": "新竹縣竹東鎮仁愛里北興路二段１４２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6491,7 +7298,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮榮樂里０２０鄰長春路２段１２０號"
+                "k": "新竹縣竹東鎮榮樂里０２０鄰長春路２段１２０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6504,7 +7312,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮榮華里０４０鄰長春路３段２９２號"
+                "k": "新竹縣竹東鎮榮華里０４０鄰長春路３段２９２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6517,7 +7326,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮榮華里０２６鄰長春路３段１６４號"
+                "k": "新竹縣竹東鎮榮華里０２６鄰長春路３段１６４號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6530,7 +7340,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮商華里００９鄰長春路２段１７號"
+                "k": "新竹縣竹東鎮商華里００９鄰長春路２段１７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6543,7 +7354,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣竹東鎮員崠里東峰路１２６號"
+                "k": "新竹縣竹東鎮員崠里東峰路１２６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6556,7 +7368,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣芎林鄉上山村２鄰文德路３３號"
+                "k": "新竹縣芎林鄉上山村２鄰文德路３３號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6569,7 +7382,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣芎林鄉新鳳村１鄰倒別牛２３號"
+                "k": "新竹縣芎林鄉上山村富林段５５３地號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.076127,
+                    24.776657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣芎林鄉新鳳村１鄰倒別牛２３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6582,7 +7410,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣芎林鄉新鳳村００１鄰倒別牛２３號"
+                "k": "新竹縣芎林鄉新鳳村００１鄰倒別牛２３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6595,7 +7424,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣芎林鄉芎林村１６鄰文山路５１１號"
+                "k": "新竹縣芎林鄉芎林村１６鄰文山路５１１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6608,7 +7438,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣芎林鄉文林村００７鄰文山路３４０號"
+                "k": "新竹縣芎林鄉文林村００７鄰文山路３４０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6621,7 +7452,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣芎林鄉石潭村００６鄰富林路２段７７號"
+                "k": "新竹縣芎林鄉石潭村００６鄰富林路２段７７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6634,7 +7466,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣芎林鄉上山村０１９鄰光明路８６號"
+                "k": "新竹縣芎林鄉上山村０１９鄰光明路８６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6647,7 +7480,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣芎林鄉文林村００５鄰文昌街２６號"
+                "k": "新竹縣芎林鄉文林村００５鄰文昌街２６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6660,7 +7494,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣芎林鄉上山村０２０鄰文德路９號"
+                "k": "新竹縣芎林鄉上山村００５鄰綠獅三街１２巷８號",
+                "pay_list": "台灣 PAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.074049,
+                    24.783508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣芎林鄉上山村０２０鄰文德路９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6673,7 +7522,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣芎林鄉芎林村０１１鄰文山路４９８號"
+                "k": "新竹縣芎林鄉芎林村０１１鄰文山路４９８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6686,7 +7536,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣關西鎮北斗里６鄰南京路１４號"
+                "k": "新竹縣關西鎮北斗里６鄰南京路１４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6699,7 +7550,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣關西鎮西安里中山路９０號"
+                "k": "新竹縣關西鎮西安里中山路９０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6712,7 +7564,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣關西鎮金山里６鄰馬武督３４號"
+                "k": "新竹縣關西鎮金山里６鄰馬武督３４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6725,7 +7578,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣關西鎮正義路１１５號"
+                "k": "新竹縣關西鎮正義路１１５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6738,7 +7592,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣關西鎮北斗里００１鄰中山路７０號"
+                "k": "新竹縣關西鎮北斗里００１鄰中山路７０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6751,7 +7606,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣關西鎮中豐路一段４０３號"
+                "k": "新竹縣關西鎮中豐路一段４０３號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6764,7 +7620,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣關西鎮北斗里正義路２２２號"
+                "k": "新竹縣關西鎮北斗里正義路２２２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6777,7 +7634,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣關西鎮北斗里正義路１３２號"
+                "k": "新竹縣關西鎮北斗里正義路１３２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6790,7 +7648,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣關西鎮北斗里明德路９９號"
+                "k": "新竹縣關西鎮北斗里明德路９９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6803,7 +7662,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣關西鎮北斗里中興路１４號"
+                "k": "新竹縣關西鎮北斗里中興路１４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6816,7 +7676,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣關西鎮北斗里００６鄰南京路２０號"
+                "k": "新竹縣關西鎮北斗里００６鄰南京路２０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6829,7 +7690,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣關西鎮正義路１１７號"
+                "k": "新竹縣關西鎮正義路１１７號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6842,7 +7704,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣關西鎮東安里中山東路５號"
+                "k": "新竹縣關西鎮東安里中山東路５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6855,7 +7718,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "新竹縣關西鎮北斗里正義路２１０號"
+                "k": "新竹縣關西鎮北斗里正義路２１０號",
+                "pay_list": "愛金卡"
             },
             "geometry": {
                 "type": "Point",

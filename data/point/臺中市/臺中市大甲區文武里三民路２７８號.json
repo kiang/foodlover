@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市大甲區文武里三民路２７８號１樓",
+    "x": 120.623364,
+    "y": 24.352012,
+    "shops": [
+        {
+            "shop": "糧晨吉食早安廚房",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
+}

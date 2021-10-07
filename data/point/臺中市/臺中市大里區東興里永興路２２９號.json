@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市大里區東興里永興路２２９號",
+    "x": 120.68131,
+    "y": 24.112223,
+    "shops": [
+        {
+            "shop": "紅吉早餐店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

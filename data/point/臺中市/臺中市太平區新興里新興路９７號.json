@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市太平區新興里新興路９７號",
+    "x": 120.710092,
+    "y": 24.159001,
+    "shops": [
+        {
+            "shop": "新興燒烤店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

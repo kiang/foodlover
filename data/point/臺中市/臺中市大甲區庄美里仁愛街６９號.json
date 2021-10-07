@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大甲區庄美里仁愛街６９號１樓",
+    "x": 120.618905,
+    "y": 24.348134,
+    "shops": [
+        {
+            "shop": "勇竣商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

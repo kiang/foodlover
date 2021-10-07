@@ -1,0 +1,17 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市東區十甲里精武東路１０１號１樓",
+    "x": 120.70916,
+    "y": 24.149446,
+    "shops": [
+        {
+            "shop": "老記飲食店",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "喬丞商行",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "嘉義市西區西榮里民族路５６８號１樓",
+    "x": 120.44721000055,
+    "y": 23.47590000857,
+    "shops": [
+        {
+            "shop": "香園小吃",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

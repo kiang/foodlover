@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市中區大墩里三民路２段１１６―１號",
+    "x": 120.677242,
+    "y": 24.140461,
+    "shops": [
+        {
+            "shop": "成功晨食館",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+}

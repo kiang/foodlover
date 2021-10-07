@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大里區永隆里國光路２段４１１號１樓",
+    "x": 120.679615,
+    "y": 24.109206,
+    "shops": [
+        {
+            "shop": "百翔便當社",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

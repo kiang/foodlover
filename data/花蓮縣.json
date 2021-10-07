@@ -4,7 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市重慶路572號"
+                "k": "花蓮縣花蓮市重慶路572號",
+                "pay_list": "LINE Pay Money\/一卡通\/歐付寶\/愛金卡\/台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -17,7 +18,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市重慶路480號"
+                "k": "花蓮縣花蓮市重慶路480號",
+                "pay_list": "街口支付\/台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +32,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉吉安村３鄰中山路３段２號"
+                "k": "花蓮縣吉安鄉吉安村３鄰中山路３段２號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -43,7 +46,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉勝安村０１２鄰慈惠一街１０６巷２弄５號"
+                "k": "花蓮縣吉安鄉勝安村０１２鄰慈惠一街１０６巷２弄５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -56,7 +60,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉北昌村中央路３段４４６號"
+                "k": "花蓮縣吉安鄉北昌村中央路３段４４６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -69,7 +74,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉永安村０１９鄰吉安路一段２０、２２號"
+                "k": "花蓮縣吉安鄉永安村０１９鄰吉安路一段２０、２２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -82,7 +88,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉宜昌村中華路二段３０號"
+                "k": "花蓮縣吉安鄉宜昌村中華路二段３０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -95,7 +102,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉宜昌村３鄰中華路２段３３號"
+                "k": "花蓮縣吉安鄉宜昌村３鄰中華路２段３３號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -108,7 +116,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉仁安村南濱街１段２５８號"
+                "k": "花蓮縣吉安鄉仁安村南濱街１段２５８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +130,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉吉安村２４鄰吉昌三街２６８―１０號"
+                "k": "花蓮縣吉安鄉吉安村２４鄰吉昌三街２６８―１０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -134,7 +144,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉北昌村中央路３段４６９號"
+                "k": "花蓮縣吉安鄉北昌村中央路３段４６９號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -147,7 +158,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉仁里村０２７鄰中山路一段２０、２２號"
+                "k": "花蓮縣吉安鄉仁里村０２７鄰中山路一段２０、２２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +172,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉吉安村吉昌二街２１５號"
+                "k": "花蓮縣吉安鄉吉安村吉昌二街２１５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -173,7 +186,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉慶豐村００５鄰慶豐一街１０９號"
+                "k": "花蓮縣吉安鄉慶豐村００５鄰慶豐一街１０９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -186,7 +200,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉勝安村０１６鄰中央路三段２７０號"
+                "k": "花蓮縣吉安鄉勝安村０１６鄰中央路三段２７０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +214,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉北昌村０２１鄰建昌路８號"
+                "k": "花蓮縣吉安鄉北昌村０２１鄰建昌路８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +228,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉南昌村昌隆三街７４號"
+                "k": "花蓮縣吉安鄉南昌村昌隆三街７４號",
+                "pay_list": "街口支付\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -225,7 +242,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉吉安村０１４鄰中興路１７２－１號"
+                "k": "花蓮縣吉安鄉吉安村０１４鄰中興路１７２－１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +256,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉勝安村０１０鄰慈惠三街１３７巷２號"
+                "k": "花蓮縣吉安鄉勝安村０１０鄰慈惠三街１３７巷２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -251,7 +270,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉志學村中正路２３８、２４０號"
+                "k": "花蓮縣壽豐鄉志學村中正路２３８、２４０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -264,7 +284,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣富里鄉竹田村００２鄰東竹５５―１號"
+                "k": "花蓮縣富里鄉竹田村００２鄰東竹５５―１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -277,7 +298,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉康樂村１３鄰加灣３―１號"
+                "k": "花蓮縣新城鄉康樂村１３鄰加灣３―１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -290,7 +312,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉嘉里村嘉里路１１６－２號"
+                "k": "花蓮縣新城鄉嘉里村嘉里路１１６－２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -303,7 +326,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉大漢村七星街１０６號"
+                "k": "花蓮縣新城鄉大漢村七星街１０６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -316,7 +340,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉大漢村００４鄰七星街１４８號"
+                "k": "花蓮縣新城鄉大漢村００４鄰七星街１４８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -329,7 +354,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉康樂村１４鄰加灣１７之１號"
+                "k": "花蓮縣新城鄉康樂村１４鄰加灣１７之１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -342,7 +368,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉新城村新興路１３０號"
+                "k": "花蓮縣新城鄉新城村新興路１３０號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -355,7 +382,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉康樂村１鄰康樂路１９０號"
+                "k": "花蓮縣新城鄉康樂村１鄰康樂路１９０號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -368,7 +396,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉康樂村０１３鄰加灣３―１號"
+                "k": "花蓮縣新城鄉康樂村０１３鄰加灣３―１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -381,7 +410,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉康樂村加灣１６－１號"
+                "k": "花蓮縣新城鄉康樂村加灣１６－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -394,7 +424,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉嘉里村０２５鄰嘉里路７２號"
+                "k": "花蓮縣新城鄉嘉里村０２５鄰嘉里路７２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -407,7 +438,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣玉里鎮啓模里１７鄰博愛街８２號"
+                "k": "花蓮縣玉里鎮啓模里１７鄰博愛街８２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -420,7 +452,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣玉里鎮國武里０２１鄰中山路二段８２號"
+                "k": "花蓮縣玉里鎮國武里０２１鄰中山路二段８２號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -433,7 +466,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣玉里鎮中城里００５鄰中山路一段１００號"
+                "k": "花蓮縣玉里鎮中城里００５鄰中山路一段１００號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -446,7 +480,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣玉里鎮泰昌里３鄰中山路２段１５２號"
+                "k": "花蓮縣玉里鎮泰昌里３鄰中山路２段１５２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -459,7 +494,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣瑞穗鄉瑞穗村０１５鄰中正北路一段１８９號"
+                "k": "花蓮縣瑞穗鄉瑞穗村０１５鄰中正北路一段１８９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -472,7 +508,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣瑞穗鄉瑞美村中山路一段１６９號"
+                "k": "花蓮縣瑞穗鄉瑞美村中山路一段１６９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -485,7 +522,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民立里５鄰民權八街１號"
+                "k": "花蓮縣花蓮市民立里５鄰民權八街１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -498,7 +536,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國華里５鄰中山路４２９，４３１號"
+                "k": "花蓮縣花蓮市國華里５鄰中山路４２９，４３１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -511,7 +550,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民生里５鄰中山路１８１號"
+                "k": "花蓮縣花蓮市民生里５鄰中山路１８１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -524,7 +564,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民生里大禹街６號"
+                "k": "花蓮縣花蓮市民生里大禹街６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -537,7 +578,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民族里中華路２１號"
+                "k": "花蓮縣花蓮市民族里中華路２１號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -550,7 +592,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主力里中華路２０鄰３１７巷１號"
+                "k": "花蓮縣花蓮市主力里中華路２０鄰３１７巷１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -563,7 +606,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民生里中山路１４２號"
+                "k": "花蓮縣花蓮市民生里中山路１４２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -576,7 +620,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國聯里２４鄰國聯一路７９號"
+                "k": "花蓮縣花蓮市國聯里２４鄰國聯一路７９號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -589,7 +634,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主勤里中華路８４―１號"
+                "k": "花蓮縣花蓮市主勤里中華路８４―１號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -602,7 +648,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國聯里００４鄰中山路５５１號"
+                "k": "花蓮縣花蓮市國聯里００４鄰中山路５５１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -615,7 +662,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民族里中山路１６９號"
+                "k": "花蓮縣花蓮市民族里中山路１６９號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -628,7 +676,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主信里中華路１４１號"
+                "k": "花蓮縣花蓮市主信里中華路１４１號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -641,7 +690,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主安里中正路１４３巷１號"
+                "k": "花蓮縣花蓮市主安里中正路１４３巷１號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -654,7 +704,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民族里００１鄰中華路１１號"
+                "k": "花蓮縣花蓮市民族里００１鄰中華路１１號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -667,7 +718,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國聯里國聯一路５７號"
+                "k": "花蓮縣花蓮市國聯里國聯一路５７號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -680,7 +732,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主工里１０鄰和平路４６０號"
+                "k": "花蓮縣花蓮市主工里１０鄰和平路４６０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -693,7 +746,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民族里中華路１號"
+                "k": "花蓮縣花蓮市民族里中華路１號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -706,7 +760,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國威里林森路２１２號"
+                "k": "花蓮縣花蓮市國威里林森路２１２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -719,7 +774,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民主里０１０鄰中山路１６巷１８號"
+                "k": "花蓮縣花蓮市民主里０１０鄰中山路１６巷１８號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -732,7 +788,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國興里０３６鄰建國路二段５００號"
+                "k": "花蓮縣花蓮市國興里０３６鄰建國路二段５００號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -745,7 +802,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國裕里中山路６２４號"
+                "k": "花蓮縣花蓮市國裕里中山路６２４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -758,7 +816,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主信里信義街４８號"
+                "k": "花蓮縣花蓮市主信里信義街４８號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -771,7 +830,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主力里中華路２９６之２號"
+                "k": "花蓮縣花蓮市主力里中華路２９６之２號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -784,7 +844,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主勤里５鄰中華路９９號"
+                "k": "花蓮縣花蓮市主勤里５鄰中華路９９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -797,7 +858,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主勤里５鄰中華路９５號"
+                "k": "花蓮縣花蓮市主勤里５鄰中華路９５號",
+                "pay_list": "街口支付\/一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -810,7 +872,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民生里００５鄰中山路１９５號"
+                "k": "花蓮縣花蓮市民生里００５鄰中山路１９５號",
+                "pay_list": "街口支付\/一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -823,7 +886,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主和里２１鄰廣東街９６及９８號"
+                "k": "花蓮縣花蓮市主和里２１鄰廣東街９６及９８號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -836,7 +900,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民族里００１鄰中華路１３號"
+                "k": "花蓮縣花蓮市民族里００１鄰中華路１３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -849,7 +914,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民族里中華路２３號"
+                "k": "花蓮縣花蓮市民族里中華路２３號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -862,7 +928,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民孝里０３１鄰華東１５號"
+                "k": "花蓮縣花蓮市民孝里０３１鄰華東１５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -875,7 +942,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國風里１１鄰林政街６３號"
+                "k": "花蓮縣花蓮市國風里１１鄰林政街６３號",
+                "pay_list": "一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -888,7 +956,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主力里００６鄰林森路７９號"
+                "k": "花蓮縣花蓮市主力里００６鄰林森路７９號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -901,7 +970,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國裕里５１鄰中央路４段１０號"
+                "k": "花蓮縣花蓮市國裕里５１鄰中央路４段１０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -914,7 +984,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主權里德安二街１３５號"
+                "k": "花蓮縣花蓮市主權里德安二街１３５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -927,7 +998,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主勤里中華路１０３號"
+                "k": "花蓮縣花蓮市主勤里中華路１０３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -940,7 +1012,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國治里明禮路４９號"
+                "k": "花蓮縣花蓮市國治里明禮路４９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -953,7 +1026,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主力里和平路４６７號"
+                "k": "花蓮縣花蓮市主力里和平路４６７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -966,7 +1040,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主權里７鄰中華路４６０號"
+                "k": "花蓮縣花蓮市主權里７鄰中華路４６０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -979,7 +1054,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民心里美工路６號"
+                "k": "花蓮縣花蓮市民心里美工路６號",
+                "pay_list": "愛金卡\/台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -992,7 +1068,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主信里００４鄰忠孝街７０號"
+                "k": "花蓮縣花蓮市主信里００４鄰忠孝街７０號",
+                "pay_list": "一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1005,7 +1082,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主商里一心街４４號"
+                "k": "花蓮縣花蓮市主商里一心街４４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1018,7 +1096,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民孝里中美路２７５－１２號"
+                "k": "花蓮縣花蓮市民孝里中美路２７５－１２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -1031,7 +1110,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國安里明心街２號"
+                "k": "花蓮縣花蓮市國安里明心街２號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1044,7 +1124,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國風里和平路５８９巷７號"
+                "k": "花蓮縣花蓮市國風里和平路５８９巷７號",
+                "pay_list": "街口支付\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1057,7 +1138,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主信里中華路１４３號"
+                "k": "花蓮縣花蓮市主信里中華路１４３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -1070,7 +1152,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國風里和平路５９７號"
+                "k": "花蓮縣花蓮市國風里和平路５９７號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1083,7 +1166,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民主里五權街２８號"
+                "k": "花蓮縣花蓮市民主里五權街２８號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1096,7 +1180,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民立里００１鄰永興路９號"
+                "k": "花蓮縣花蓮市民立里００１鄰永興路９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1109,7 +1194,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主工里０１２鄰民國路６３號"
+                "k": "花蓮縣花蓮市主工里０１２鄰民國路６３號",
+                "pay_list": "LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1122,7 +1208,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國威里２４鄰中山路３２０號"
+                "k": "花蓮縣花蓮市國威里２４鄰中山路３２０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1135,7 +1222,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主農里中原路３７３號"
+                "k": "花蓮縣花蓮市主農里中原路３７３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1148,7 +1236,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主和里中福路７９號"
+                "k": "花蓮縣花蓮市主和里中福路７９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1161,7 +1250,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國裕里２鄰中山路６０４號"
+                "k": "花蓮縣花蓮市國裕里２鄰中山路６０４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1174,7 +1264,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國聯里中山路４２２之７號"
+                "k": "花蓮縣花蓮市國聯里中山路４２２之７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1187,7 +1278,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民生里００５鄰中山路１９３號"
+                "k": "花蓮縣花蓮市民生里００５鄰中山路１９３號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1200,7 +1292,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民主里００２鄰北濱街２７―１號"
+                "k": "花蓮縣花蓮市民主里００２鄰北濱街２７―１號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1213,7 +1306,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民生里中山路１５４號"
+                "k": "花蓮縣花蓮市民生里中山路１５４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1226,7 +1320,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主和里中福路８４號"
+                "k": "花蓮縣花蓮市主和里中福路８４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -1239,7 +1334,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國華里中山路３９７號"
+                "k": "花蓮縣花蓮市國華里中山路３９７號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1252,7 +1348,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民德里民權五街８９號"
+                "k": "花蓮縣花蓮市民德里民權五街８９號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1265,7 +1362,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國魂里０１２鄰延平街１６９號"
+                "k": "花蓮縣花蓮市國魂里０１２鄰延平街１６９號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1278,7 +1376,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主權里睦和街４１巷１０號"
+                "k": "花蓮縣花蓮市主權里睦和街４１巷１０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1291,7 +1390,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國聯里國興四街９號"
+                "k": "花蓮縣花蓮市國聯里國興四街９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1304,7 +1404,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國風里林森路１８９號"
+                "k": "花蓮縣花蓮市國風里林森路１８９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1317,7 +1418,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國風里林森路２０７號"
+                "k": "花蓮縣花蓮市國風里林森路２０７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1330,7 +1432,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國治里００３鄰三民街２３號"
+                "k": "花蓮縣花蓮市國治里００３鄰三民街２３號",
+                "pay_list": "LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1343,7 +1446,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主力里中華路３１１號"
+                "k": "花蓮縣花蓮市主力里中華路３１１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1356,7 +1460,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主商里中華路４１號"
+                "k": "花蓮縣花蓮市主商里中華路４１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -1369,7 +1474,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主勤里節約街２號"
+                "k": "花蓮縣花蓮市主勤里節約街２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1382,7 +1488,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣豐濱鄉靜浦村００５鄰靜浦１７６―１號"
+                "k": "花蓮縣豐濱鄉靜浦村００５鄰靜浦１７６―１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1395,7 +1502,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣鳳林鎮南平里四維路５號"
+                "k": "花蓮縣鳳林鎮南平里四維路５號",
+                "pay_list": "LINE Pay Money\/愛金卡\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1408,7 +1516,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣光復鄉大華村中山路二段３０９號"
+                "k": "花蓮縣光復鄉大華村中山路二段３０９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1421,7 +1530,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣光復鄉南富村富田二街１２號"
+                "k": "花蓮縣光復鄉南富村富田二街１２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1434,7 +1544,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣光復鄉大全村農場路３２號"
+                "k": "花蓮縣光復鄉大全村農場路３２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1447,7 +1558,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣光復鄉大進村糖廠街１８號"
+                "k": "花蓮縣光復鄉大進村糖廠街１８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1460,7 +1572,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣光復鄉北富村００８鄰建國路二段１５５巷１０號"
+                "k": "花蓮縣光復鄉北富村００８鄰建國路二段１５５巷１０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1473,7 +1586,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣光復鄉南富村００６鄰富愛街１５號"
+                "k": "花蓮縣光復鄉南富村００６鄰富愛街１５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1486,7 +1600,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣光復鄉大安村中山路２段２８０號"
+                "k": "花蓮縣光復鄉大安村中山路２段２８０號",
+                "pay_list": "一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1499,7 +1614,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉南華村１０鄰吉安路５段２９６號"
+                "k": "花蓮縣吉安鄉南華村１０鄰吉安路５段２９６號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1512,7 +1628,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉北昌村自強路５６４號"
+                "k": "花蓮縣吉安鄉北昌村自強路５６４號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1525,7 +1642,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉勝安村１０鄰慈惠三街１４５號"
+                "k": "花蓮縣吉安鄉勝安村１０鄰慈惠三街１４５號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1538,7 +1656,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉仁安村海岸路２５１號"
+                "k": "花蓮縣吉安鄉仁安村海岸路２５１號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1551,7 +1670,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉宜昌村中華路２段２２４號"
+                "k": "花蓮縣吉安鄉宜昌村中華路２段２２４號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1564,7 +1684,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉太昌村建國路２段４０３號"
+                "k": "花蓮縣吉安鄉太昌村建國路２段４０３號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1577,7 +1698,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉南昌村００３鄰中山路二段１８１號"
+                "k": "花蓮縣吉安鄉南昌村００３鄰中山路二段１８１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1590,7 +1712,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉永安村００４鄰建國路二段１９９號"
+                "k": "花蓮縣吉安鄉永安村００４鄰建國路二段１９９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1603,7 +1726,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉稻香村香源路１００號"
+                "k": "花蓮縣吉安鄉稻香村香源路１００號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1616,7 +1740,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉勝安村６鄰自強路２１２號"
+                "k": "花蓮縣吉安鄉勝安村６鄰自強路２１２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1629,7 +1754,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉勝安村１６鄰自強路２０３號"
+                "k": "花蓮縣吉安鄉勝安村１６鄰自強路２０３號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1642,7 +1768,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉慶豐村中山路三段５４０號"
+                "k": "花蓮縣吉安鄉慶豐村中山路三段５４０號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1655,7 +1782,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉永安村建國路二段１５號"
+                "k": "花蓮縣吉安鄉永安村建國路二段１５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1668,7 +1796,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉北昌村０２８鄰北昌五街８號"
+                "k": "花蓮縣吉安鄉北昌村０２８鄰北昌五街８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1681,7 +1810,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉北昌村１４鄰自強路５５０號"
+                "k": "花蓮縣吉安鄉北昌村１４鄰自強路５５０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1694,7 +1824,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉福興村１９鄰福興七街８號"
+                "k": "花蓮縣吉安鄉福興村１９鄰福興七街８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -1707,7 +1838,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉仁里村１３鄰中正路１段１０４號"
+                "k": "花蓮縣吉安鄉仁里村１３鄰中正路１段１０４號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1720,7 +1852,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉宜昌村３２鄰中華路２段２８６號"
+                "k": "花蓮縣吉安鄉宜昌村３２鄰中華路２段２８６號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1733,7 +1866,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉永安村建國路二段１１８號"
+                "k": "花蓮縣吉安鄉永安村建國路二段１１８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1746,7 +1880,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉慶豐村０２７鄰吉安路二段２９５號"
+                "k": "花蓮縣吉安鄉慶豐村０２７鄰吉安路二段２９５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1759,7 +1894,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉干城村吉豐路五段１５號"
+                "k": "花蓮縣吉安鄉干城村吉豐路五段１５號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1772,7 +1908,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉東昌村００４鄰東海一街１００號"
+                "k": "花蓮縣吉安鄉東昌村００４鄰東海一街１００號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1785,7 +1922,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉仁安村０１５鄰南海四街１６３巷１３－１號"
+                "k": "花蓮縣吉安鄉仁安村０１５鄰南海四街１６３巷１３－１號",
+                "pay_list": "街口支付\/一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1798,7 +1936,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉宜昌村中華路２段１１―１號"
+                "k": "花蓮縣吉安鄉宜昌村中華路２段１１―１號",
+                "pay_list": "街口支付\/一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1811,7 +1950,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉北昌村４鄰中央路三段４５８號"
+                "k": "花蓮縣吉安鄉北昌村４鄰中央路三段４５８號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1824,7 +1964,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉永安村００９鄰建國路二段２７７―２號"
+                "k": "花蓮縣吉安鄉永安村００９鄰建國路二段２７７―２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1837,7 +1978,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉福興村０１１鄰福興八街３２５號"
+                "k": "花蓮縣吉安鄉福興村０１１鄰福興八街３２５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1850,7 +1992,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉北昌村自立路５０號"
+                "k": "花蓮縣吉安鄉北昌村自立路５０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1863,7 +2006,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉仁里村０４４鄰南埔八街１０６巷１號"
+                "k": "花蓮縣吉安鄉仁里村０４４鄰南埔八街１０６巷１號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1876,7 +2020,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉宜昌村１９鄰中華路２段２２９號"
+                "k": "花蓮縣吉安鄉宜昌村１９鄰中華路２段２２９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1889,7 +2034,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉北昌村建國路１段５３―１號"
+                "k": "花蓮縣吉安鄉北昌村建國路１段５３―１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1902,7 +2048,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉仁里村１９鄰仁里五街３號"
+                "k": "花蓮縣吉安鄉仁里村１９鄰仁里五街３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1915,7 +2062,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉宜昌村３１鄰吉祥七街１３號"
+                "k": "花蓮縣吉安鄉宜昌村３１鄰吉祥七街１３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1928,7 +2076,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉北昌村莊敬路５３號"
+                "k": "花蓮縣吉安鄉北昌村莊敬路５３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1941,7 +2090,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉慶豐村３９鄰中山路３段３２５號"
+                "k": "花蓮縣吉安鄉慶豐村３９鄰中山路３段３２５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1954,7 +2104,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉勝安村中央路３段３９８－１號"
+                "k": "花蓮縣吉安鄉勝安村中央路３段３９８－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1967,7 +2118,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉仁里村０３８鄰中山路一段１５２號"
+                "k": "花蓮縣吉安鄉仁里村０３８鄰中山路一段１５２號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1980,7 +2132,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉慶豐村０１１鄰中山路三段２２５號"
+                "k": "花蓮縣吉安鄉慶豐村０１１鄰中山路三段２２５號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1993,7 +2146,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉仁里村００１鄰中正路一段３號"
+                "k": "花蓮縣吉安鄉仁里村００１鄰中正路一段３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2006,7 +2160,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉永安村０１３鄰明仁二街１７６巷１號"
+                "k": "花蓮縣吉安鄉永安村０１３鄰明仁二街１７６巷１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2019,7 +2174,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉吉安村吉興三街１２５巷１９號"
+                "k": "花蓮縣吉安鄉吉安村吉興三街１２５巷１９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2032,7 +2188,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉勝安村００１鄰中華路５７４號"
+                "k": "花蓮縣吉安鄉勝安村００１鄰中華路５７４號",
+                "pay_list": "LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2045,7 +2202,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉南華村０１２鄰吉安路五段２１２號"
+                "k": "花蓮縣吉安鄉南華村０１２鄰吉安路五段２１２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2058,7 +2216,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉宜昌村中華路二段２３１號"
+                "k": "花蓮縣吉安鄉宜昌村中華路二段２３１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2071,7 +2230,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉仁里村００４鄰中正路一段２０５號"
+                "k": "花蓮縣吉安鄉仁里村００４鄰中正路一段２０５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2084,7 +2244,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉北昌村建國路一段５３－２號"
+                "k": "花蓮縣吉安鄉北昌村建國路一段５３－２號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2097,7 +2258,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉勝安村０１７鄰和平路一段１６７號"
+                "k": "花蓮縣吉安鄉勝安村０１７鄰和平路一段１６７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2110,7 +2272,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉勝安村００１鄰慈惠一街１號"
+                "k": "花蓮縣吉安鄉勝安村００１鄰慈惠一街１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2123,7 +2286,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉北昌村建國路一段３０２號"
+                "k": "花蓮縣吉安鄉北昌村建國路一段３０２號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2136,7 +2300,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉北昌村自強路５８９號"
+                "k": "花蓮縣吉安鄉北昌村自強路５８９號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2149,7 +2314,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉北昌村建國路一段２２０號"
+                "k": "花蓮縣吉安鄉北昌村建國路一段２２０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -2162,7 +2328,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉仁和村南海二街２６２巷６號"
+                "k": "花蓮縣吉安鄉仁和村南海二街２６２巷６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2175,7 +2342,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉北昌村０２７鄰自強路６５２號"
+                "k": "花蓮縣吉安鄉北昌村０２７鄰自強路６５２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2188,7 +2356,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉仁里村中正路一段６８號"
+                "k": "花蓮縣吉安鄉仁里村中正路一段６８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2201,7 +2370,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉北昌村建國路一段９６號"
+                "k": "花蓮縣吉安鄉北昌村建國路一段９６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2214,7 +2384,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉南昌村中山路２段６１號"
+                "k": "花蓮縣吉安鄉南昌村中山路２段６１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2227,7 +2398,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉永興村１５鄰全民街８號"
+                "k": "花蓮縣吉安鄉永興村１５鄰全民街８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2240,7 +2412,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉仁里村００５鄰中正路一段４５號"
+                "k": "花蓮縣吉安鄉仁里村００５鄰中正路一段４５號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2253,7 +2426,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉南昌村中山路２段１８３之１號"
+                "k": "花蓮縣吉安鄉南昌村中山路２段１８３之１號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2266,7 +2440,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉仁和村海岸路２１４號"
+                "k": "花蓮縣吉安鄉仁和村海岸路２１４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2279,7 +2454,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉宜昌村中華路２段７５號"
+                "k": "花蓮縣吉安鄉宜昌村中華路２段７５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2292,7 +2468,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉勝安村自強路６３號"
+                "k": "花蓮縣吉安鄉勝安村自強路６３號",
+                "pay_list": "街口支付\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2305,7 +2482,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉北昌村建國路一段２３８號"
+                "k": "花蓮縣吉安鄉北昌村建國路一段２３８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2318,7 +2496,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉北昌村建國路一段２７―１號"
+                "k": "花蓮縣吉安鄉北昌村建國路一段２７―１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2331,7 +2510,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉南昌村００８鄰南昌路１４９號"
+                "k": "花蓮縣吉安鄉南昌村００８鄰南昌路１４９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2344,7 +2524,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉宜昌村００１鄰宜昌一街１號"
+                "k": "花蓮縣吉安鄉宜昌村００１鄰宜昌一街１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2357,7 +2538,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉仁里村０１９鄰仁里五街３號"
+                "k": "花蓮縣吉安鄉仁里村０１９鄰仁里五街３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2370,7 +2552,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉慶豐村０２７鄰吉安路二段２８５號"
+                "k": "花蓮縣吉安鄉慶豐村０２７鄰吉安路二段２８５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2383,7 +2566,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉宜昌村０３２鄰中華路二段３００號"
+                "k": "花蓮縣吉安鄉宜昌村０３２鄰中華路二段３００號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2396,7 +2580,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉北昌村０１８鄰自強路５８２號"
+                "k": "花蓮縣吉安鄉北昌村０１８鄰自強路５８２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2409,7 +2594,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉干城村００１鄰吉安路六段１巷１號"
+                "k": "花蓮縣吉安鄉干城村００１鄰吉安路六段１巷１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2422,7 +2608,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉仁里村００３鄰中正路一段２０號"
+                "k": "花蓮縣吉安鄉仁里村００３鄰中正路一段２０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2435,7 +2622,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉宜昌村０２２鄰中華路二段２５０號"
+                "k": "花蓮縣吉安鄉宜昌村０２２鄰中華路二段２５０號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2448,7 +2636,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉南昌村０２２鄰南昌路７號"
+                "k": "花蓮縣吉安鄉南昌村０２２鄰南昌路７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2461,7 +2650,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉北昌村莊敬路２８９號"
+                "k": "花蓮縣吉安鄉北昌村莊敬路２８９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2474,7 +2664,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉勝安村和平路一段７９號"
+                "k": "花蓮縣吉安鄉勝安村和平路一段７９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2487,7 +2678,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉北昌村自強路５８８號"
+                "k": "花蓮縣吉安鄉北昌村自強路５８８號",
+                "pay_list": "愛金卡\/台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2500,7 +2692,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉北昌村０２３鄰自強路６２０號"
+                "k": "花蓮縣吉安鄉北昌村０２３鄰自強路６２０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2513,7 +2706,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉北昌村自強路４７６號"
+                "k": "花蓮縣吉安鄉北昌村自強路４７６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2526,7 +2720,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉福興村福興六街３８號"
+                "k": "花蓮縣吉安鄉福興村福興六街３８號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2539,7 +2734,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉勝安村勝安一街２―９號"
+                "k": "花蓮縣吉安鄉勝安村勝安一街２―９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2552,7 +2748,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉北昌村００５鄰建國路一段１２號"
+                "k": "花蓮縣吉安鄉北昌村００５鄰建國路一段１２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2565,7 +2762,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉北昌村建國路一段４１號"
+                "k": "花蓮縣吉安鄉北昌村建國路一段４１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2578,7 +2776,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉宜昌村０１９鄰中華路二段２２３號"
+                "k": "花蓮縣吉安鄉宜昌村０１９鄰中華路二段２２３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2591,7 +2790,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉慶豐村０３０鄰中山路三段４６８號"
+                "k": "花蓮縣吉安鄉慶豐村０３０鄰中山路三段４６８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2604,7 +2804,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉仁里村０３９鄰中山路一段１０１號"
+                "k": "花蓮縣吉安鄉仁里村０３９鄰中山路一段１０１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2617,7 +2818,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉福興村０１０鄰福興路１７９號"
+                "k": "花蓮縣吉安鄉福興村０１０鄰福興路１７９號",
+                "pay_list": "街口支付\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2630,7 +2832,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉宜昌村０１９鄰中華路二段２１５號"
+                "k": "花蓮縣吉安鄉宜昌村０１９鄰中華路二段２１５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2643,7 +2846,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉南昌村０１４鄰南昌路１１７號"
+                "k": "花蓮縣吉安鄉南昌村０１４鄰南昌路１１７號",
+                "pay_list": "一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2656,7 +2860,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉永安村００６鄰建國路二段２４１號"
+                "k": "花蓮縣吉安鄉永安村００６鄰建國路二段２４１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2669,7 +2874,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉勝安村００６鄰自立路一段１８號"
+                "k": "花蓮縣吉安鄉勝安村００６鄰自立路一段１８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2682,7 +2888,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉仁和村００８鄰海岸路２４２－１號"
+                "k": "花蓮縣吉安鄉仁和村００８鄰海岸路２４２－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2695,7 +2902,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉太昌村０２０鄰太昌路２５４巷２號"
+                "k": "花蓮縣吉安鄉太昌村０２０鄰太昌路２５４巷２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2708,7 +2916,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉慶豐村０１７鄰中山路三段３８６―１號"
+                "k": "花蓮縣吉安鄉慶豐村０１７鄰中山路三段３８６―１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2721,7 +2930,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉干城村００５鄰干城二街１４０號"
+                "k": "花蓮縣吉安鄉干城村００５鄰干城二街１４０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2734,7 +2944,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉宜昌村１２鄰中華路二段１７２號"
+                "k": "花蓮縣吉安鄉宜昌村１２鄰中華路二段１７２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2747,7 +2958,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣吉安鄉北昌村自立路二段１００－２號"
+                "k": "花蓮縣吉安鄉北昌村自立路二段１００－２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2760,7 +2972,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉志學村７鄰中正路２１號"
+                "k": "花蓮縣壽豐鄉志學村７鄰中正路２１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2773,7 +2986,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉共和村魚池４５號"
+                "k": "花蓮縣壽豐鄉共和村魚池４５號",
+                "pay_list": "LINE Pay Money\/街口支付\/台灣 PAY\/愛金卡\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -2786,7 +3000,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉豐山村２１鄰中山路１５０號"
+                "k": "花蓮縣壽豐鄉豐山村２１鄰中山路１５０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2799,7 +3014,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉豐山村１３鄰中興街４５號"
+                "k": "花蓮縣壽豐鄉豐山村１３鄰中興街４５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2812,7 +3028,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉鹽寮村大橋２２號"
+                "k": "花蓮縣壽豐鄉鹽寮村大橋２２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2825,7 +3042,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉志學村中正路９６巷１０－１號"
+                "k": "花蓮縣壽豐鄉志學村中正路９６巷１０－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2838,7 +3056,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉志學村大學路二段１號"
+                "k": "花蓮縣壽豐鄉志學村大學路二段１號",
+                "pay_list": "LINE Pay Money\/台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2851,7 +3070,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉壽豐村壽文路３１號"
+                "k": "花蓮縣壽豐鄉壽豐村壽文路３１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2864,7 +3084,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉志學村中正路７９號"
+                "k": "花蓮縣壽豐鄉志學村中正路７９號",
+                "pay_list": "街口支付\/台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2877,7 +3098,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉鹽寮村００６鄰福德８０號"
+                "k": "花蓮縣壽豐鄉鹽寮村００６鄰福德８０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2890,7 +3112,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉壽豐村０１９鄰壽文路４３號"
+                "k": "花蓮縣壽豐鄉壽豐村０１９鄰壽文路４３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2903,7 +3126,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉共和村理想路１號"
+                "k": "花蓮縣壽豐鄉共和村理想路１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2916,7 +3140,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉豐坪村３鄰豐坪路３段６巷２１號"
+                "k": "花蓮縣壽豐鄉豐坪村３鄰豐坪路３段６巷２１號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2929,7 +3154,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉鹽寮村山嶺１８號"
+                "k": "花蓮縣壽豐鄉鹽寮村山嶺１８號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2942,7 +3168,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉鹽寮村福德１８９號"
+                "k": "花蓮縣壽豐鄉鹽寮村福德１８９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -2955,7 +3182,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉志學村０１４鄰橋下１０５號"
+                "k": "花蓮縣壽豐鄉志學村０１４鄰橋下１０５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2968,7 +3196,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉志學村９鄰中正路１６１號"
+                "k": "花蓮縣壽豐鄉志學村９鄰中正路１６１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2981,7 +3210,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉壽豐村８鄰壽豐路１段６３號"
+                "k": "花蓮縣壽豐鄉壽豐村８鄰壽豐路１段６３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2994,7 +3224,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉池南村環潭南路２號"
+                "k": "花蓮縣壽豐鄉池南村環潭南路２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3007,7 +3238,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉池南村１鄰池南路１段９０號"
+                "k": "花蓮縣壽豐鄉池南村１鄰池南路１段９０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3020,7 +3252,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉豐山村中山路２１７號"
+                "k": "花蓮縣壽豐鄉豐山村中山路２１７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3033,7 +3266,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉志學村００３鄰中山路二段３０３號"
+                "k": "花蓮縣壽豐鄉志學村００３鄰中山路二段３０３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3046,7 +3280,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉志學村００６鄰中正路１７６號"
+                "k": "花蓮縣壽豐鄉志學村００６鄰中正路１７６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3059,7 +3294,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉志學村００７鄰中山路三段４號"
+                "k": "花蓮縣壽豐鄉志學村００７鄰中山路三段４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3072,7 +3308,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉壽豐村壽豐路二段８號"
+                "k": "花蓮縣壽豐鄉壽豐村壽豐路二段８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3085,7 +3322,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉志學村００５鄰中正路９８號"
+                "k": "花蓮縣壽豐鄉志學村００５鄰中正路９８號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3098,7 +3336,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉志學村中山路二段２０６號"
+                "k": "花蓮縣壽豐鄉志學村中山路二段２０６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3111,7 +3350,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉志學村中山路２段１８６號"
+                "k": "花蓮縣壽豐鄉志學村中山路２段１８６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3124,7 +3364,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉志學村大學路２段１號"
+                "k": "花蓮縣壽豐鄉志學村大學路２段１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3137,7 +3378,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉志學村中正路１４８號"
+                "k": "花蓮縣壽豐鄉志學村中正路１４８號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3150,7 +3392,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉志學村中正路１４１―１號"
+                "k": "花蓮縣壽豐鄉志學村中正路１４１―１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -3163,7 +3406,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉志學村中正路２３號"
+                "k": "花蓮縣壽豐鄉志學村中正路２３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3176,7 +3420,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉壽豐村０２０鄰山邊路三段６２巷１５號"
+                "k": "花蓮縣壽豐鄉壽豐村０２０鄰山邊路三段６２巷１５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3189,7 +3434,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉鹽寮村大坑５－１號"
+                "k": "花蓮縣壽豐鄉鹽寮村大坑５－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3202,7 +3448,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉志學村志光街１號"
+                "k": "花蓮縣壽豐鄉志學村志光街１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3215,7 +3462,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉鹽寮村００８鄰大坑５３號"
+                "k": "花蓮縣壽豐鄉鹽寮村００８鄰大坑５３號",
+                "pay_list": "街口支付\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3228,7 +3476,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉志學村中正路１５９號"
+                "k": "花蓮縣壽豐鄉志學村中正路１５９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3241,7 +3490,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉志學村中正路１９９號"
+                "k": "花蓮縣壽豐鄉志學村中正路１９９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3254,7 +3504,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉志學村００４鄰中正路４６號"
+                "k": "花蓮縣壽豐鄉志學村００４鄰中正路４６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3267,7 +3518,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉豐山村中興街１９號"
+                "k": "花蓮縣壽豐鄉豐山村中興街１９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3280,7 +3532,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉志學村中山路二段２０４號"
+                "k": "花蓮縣壽豐鄉志學村中山路二段２０４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3293,7 +3546,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣壽豐鄉池南村１鄰池南路１段７６號"
+                "k": "花蓮縣壽豐鄉池南村１鄰池南路１段７６號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3306,7 +3560,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣富里鄉竹田村２５鄰雲閩１５號"
+                "k": "花蓮縣富里鄉竹田村２５鄰雲閩１５號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3319,7 +3574,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣富里鄉新興村０１６鄰東興１１３號"
+                "k": "花蓮縣富里鄉新興村０１６鄰東興１１３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3332,7 +3588,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉北埔村２鄰北埔路１４號"
+                "k": "花蓮縣新城鄉北埔村２鄰北埔路１４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3345,7 +3602,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉大漢村七星街９號"
+                "k": "花蓮縣新城鄉大漢村七星街９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3358,7 +3616,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉新城村新興一路８８號"
+                "k": "花蓮縣新城鄉新城村新興一路８８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3371,7 +3630,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉大漢村七星街１５２－２號"
+                "k": "花蓮縣新城鄉大漢村七星街１５２－２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3384,7 +3644,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉大漢村３鄰七星街７９巷５號"
+                "k": "花蓮縣新城鄉大漢村３鄰七星街７９巷５號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3397,7 +3658,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉新城村０２３鄰新興路６３號"
+                "k": "花蓮縣新城鄉新城村０２３鄰新興路６３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3410,7 +3672,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉大漢村光復路４６８號"
+                "k": "花蓮縣新城鄉大漢村光復路４６８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3423,7 +3686,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉新城村新興路１號"
+                "k": "花蓮縣新城鄉新城村新興路１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3436,7 +3700,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉北埔村北埔路２２７號"
+                "k": "花蓮縣新城鄉北埔村北埔路２２７號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3449,7 +3714,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉大漢村００５鄰明潭街１０巷２３號"
+                "k": "花蓮縣新城鄉大漢村００５鄰明潭街１０巷２３號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3462,7 +3728,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉大漢村０１８鄰民有路１６５號"
+                "k": "花蓮縣新城鄉大漢村０１８鄰民有路１６５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3475,7 +3742,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉北埔村北埔路２７８號"
+                "k": "花蓮縣新城鄉北埔村北埔路２７８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3488,7 +3756,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉新城村新城村新興一路８６號"
+                "k": "花蓮縣新城鄉新城村新城村新興一路８６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3501,7 +3770,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉新城村新興路２號"
+                "k": "花蓮縣新城鄉新城村新興路２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3514,7 +3784,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉大漢村大德街３４５巷２３號"
+                "k": "花蓮縣新城鄉大漢村大德街３４５巷２３號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3527,7 +3798,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉嘉里村０３３鄰嘉里路１５９―７號"
+                "k": "花蓮縣新城鄉嘉里村０３３鄰嘉里路１５９―７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3540,7 +3812,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉北埔村２０鄰民族路５０號"
+                "k": "花蓮縣新城鄉北埔村２０鄰民族路５０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3553,7 +3826,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉北埔村０２４鄰北埔路２０１號"
+                "k": "花蓮縣新城鄉北埔村０２４鄰北埔路２０１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3566,7 +3840,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉嘉新村嘉新路１７６號"
+                "k": "花蓮縣新城鄉嘉新村嘉新路１７６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3579,7 +3854,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉新城村０２５鄰仁愛路５巷４號"
+                "k": "花蓮縣新城鄉新城村０２５鄰仁愛路５巷４號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3592,7 +3868,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉北埔村００３鄰光復路１２１號"
+                "k": "花蓮縣新城鄉北埔村００３鄰光復路１２１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3605,7 +3882,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉北埔村復興路２５９號"
+                "k": "花蓮縣新城鄉北埔村復興路２５９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3618,7 +3896,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉北埔村北埔路３０３－３號"
+                "k": "花蓮縣新城鄉北埔村北埔路３０３－３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3631,7 +3910,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣新城鄉新城村博愛路２９號"
+                "k": "花蓮縣新城鄉新城村博愛路２９號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3644,7 +3924,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣玉里鎮大禹里酸柑９號"
+                "k": "花蓮縣玉里鎮大禹里酸柑９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3657,7 +3938,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣玉里鎮國武里中山路２段８９號"
+                "k": "花蓮縣玉里鎮國武里中山路２段８９號",
+                "pay_list": "一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -3670,7 +3952,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣玉里鎮中城里光復路１４１號"
+                "k": "花蓮縣玉里鎮中城里光復路１４１號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3683,7 +3966,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣玉里鎮泰昌里１７鄰新生街１１號"
+                "k": "花蓮縣玉里鎮泰昌里１７鄰新生街１１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3696,7 +3980,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣玉里鎮泰昌里０１３鄰新興街６８號"
+                "k": "花蓮縣玉里鎮泰昌里０１３鄰新興街６８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3709,7 +3994,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣玉里鎮國武里２１鄰中山路２段６６號"
+                "k": "花蓮縣玉里鎮國武里２１鄰中山路２段６６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3722,7 +4008,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣玉里鎮樂合里溫泉４１－８號"
+                "k": "花蓮縣玉里鎮樂合里溫泉４１－８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3735,7 +4022,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣玉里鎮中城里０３４鄰樂園街７號"
+                "k": "花蓮縣玉里鎮中城里０３４鄰樂園街７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3748,7 +4036,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣玉里鎮觀音里０１４鄰高寮２８０―５號"
+                "k": "花蓮縣玉里鎮觀音里０１４鄰高寮２８０―５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3761,7 +4050,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣玉里鎮國武里１８鄰中正路１２０號"
+                "k": "花蓮縣玉里鎮國武里１８鄰中正路１２０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3774,7 +4064,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣玉里鎮中城里光復路７５號"
+                "k": "花蓮縣玉里鎮中城里光復路７５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3787,7 +4078,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣玉里鎮國武里０１２鄰興國路一段２３９號"
+                "k": "花蓮縣玉里鎮國武里０１２鄰興國路一段２３９號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3800,7 +4092,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣玉里鎮中城里０１４鄰中山路一段９９號"
+                "k": "花蓮縣玉里鎮中城里０１４鄰中山路一段９９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3813,7 +4106,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣玉里鎮中城里２６鄰光復路１０１號"
+                "k": "花蓮縣玉里鎮中城里２６鄰光復路１０１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3826,7 +4120,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣玉里鎮泰昌里中山路二段９７―１號"
+                "k": "花蓮縣玉里鎮泰昌里中山路二段９７―１號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3839,7 +4134,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣玉里鎮國武里０２３鄰中山路二段４３號"
+                "k": "花蓮縣玉里鎮國武里０２３鄰中山路二段４３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3852,7 +4148,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣玉里鎮中城里０３４鄰樂園街３號"
+                "k": "花蓮縣玉里鎮中城里０３４鄰樂園街３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3865,7 +4162,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣玉里鎮大禹里０１０鄰大禹４３號"
+                "k": "花蓮縣玉里鎮大禹里０１０鄰大禹４３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3878,7 +4176,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣玉里鎮中城里０２７鄰光復路１２１號"
+                "k": "花蓮縣玉里鎮中城里０２７鄰光復路１２１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3891,7 +4190,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣玉里鎮中城里光復路１５６號"
+                "k": "花蓮縣玉里鎮中城里光復路１５６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3904,7 +4204,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣瑞穗鄉瑞穗村６鄰中山路１段２８號"
+                "k": "花蓮縣瑞穗鄉瑞穗村６鄰中山路１段２８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3917,7 +4218,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣瑞穗鄉瑞穗村１３鄰成功北路５２號"
+                "k": "花蓮縣瑞穗鄉瑞穗村１３鄰成功北路５２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3930,7 +4232,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣瑞穗鄉瑞穗村１４鄰中正北路一段７８號"
+                "k": "花蓮縣瑞穗鄉瑞穗村１４鄰中正北路一段７８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3943,7 +4246,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣瑞穗鄉瑞良村９鄰中山路３段２３０號"
+                "k": "花蓮縣瑞穗鄉瑞良村９鄰中山路３段２３０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3956,7 +4260,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣瑞穗鄉瑞祥村祥北路２段１０１號"
+                "k": "花蓮縣瑞穗鄉瑞祥村祥北路２段１０１號",
+                "pay_list": "愛金卡\/台灣 PAY\/一卡通\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3969,7 +4274,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣瑞穗鄉富源村廣東路１６１號"
+                "k": "花蓮縣瑞穗鄉富源村廣東路１６１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3982,7 +4288,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣瑞穗鄉瑞穗村００５鄰中正北路一段２９號"
+                "k": "花蓮縣瑞穗鄉瑞穗村００５鄰中正北路一段２９號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3995,7 +4302,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣瑞穗鄉瑞穗村１６鄰國光北路２６９號"
+                "k": "花蓮縣瑞穗鄉瑞穗村１６鄰國光北路２６９號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4008,7 +4316,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣瑞穗鄉舞鶴村中正南路２段７６―５號"
+                "k": "花蓮縣瑞穗鄉舞鶴村中正南路２段７６―５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4021,7 +4330,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣瑞穗鄉瑞穗村０１１鄰中山路１段６號"
+                "k": "花蓮縣瑞穗鄉瑞穗村０１１鄰中山路１段６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4034,7 +4344,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣瑞穗鄉瑞穗村中正南路一段５號"
+                "k": "花蓮縣瑞穗鄉瑞穗村中正南路一段５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4047,7 +4358,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣瑞穗鄉瑞美村００８鄰中興路２５號"
+                "k": "花蓮縣瑞穗鄉瑞美村００８鄰中興路２５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4060,7 +4372,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣瑞穗鄉瑞穗村００６鄰中正北路５號"
+                "k": "花蓮縣瑞穗鄉瑞穗村００６鄰中正北路５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4073,7 +4386,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣瑞穗鄉舞鶴村０１４鄰中正南路２段７６－１號"
+                "k": "花蓮縣瑞穗鄉舞鶴村０１４鄰中正南路２段７６－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4086,7 +4400,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣秀林鄉富世村富世２４２―２號"
+                "k": "花蓮縣秀林鄉富世村富世２４２―２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4099,7 +4414,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣秀林鄉富世村富世２３１－１號"
+                "k": "花蓮縣秀林鄉富世村富世２３１－１號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4112,7 +4428,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣秀林鄉和平村和平３８―８號"
+                "k": "花蓮縣秀林鄉和平村和平３８―８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4125,7 +4442,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣秀林鄉銅門村銅門９號"
+                "k": "花蓮縣秀林鄉銅門村銅門９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4138,7 +4456,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣秀林鄉富世村富世２７５―１號"
+                "k": "花蓮縣秀林鄉富世村富世２７５―１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4151,7 +4470,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣秀林鄉佳民村７鄰佳民１１６號"
+                "k": "花蓮縣秀林鄉佳民村７鄰佳民１１６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4164,7 +4484,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣秀林鄉富世村民樂３８號"
+                "k": "花蓮縣秀林鄉富世村民樂３８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4177,7 +4498,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣秀林鄉景美村加灣１５６號"
+                "k": "花蓮縣秀林鄉景美村加灣１５６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4190,7 +4512,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣秀林鄉崇德村崇德路９６號"
+                "k": "花蓮縣秀林鄉崇德村崇德路９６號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4203,7 +4526,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣秀林鄉富世村民樂５號"
+                "k": "花蓮縣秀林鄉富世村民樂５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4216,7 +4540,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣秀林鄉崇德村００２鄰崇德２８－１號"
+                "k": "花蓮縣秀林鄉崇德村００２鄰崇德２８－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4229,7 +4554,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣秀林鄉富世村民樂２９號"
+                "k": "花蓮縣秀林鄉富世村民樂２９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4242,7 +4568,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣秀林鄉富世村富世２２號"
+                "k": "花蓮縣秀林鄉富世村富世２２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4255,7 +4582,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣秀林鄉銅門村００２鄰榕樹２３－３號"
+                "k": "花蓮縣秀林鄉銅門村００２鄰榕樹２３－３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4268,7 +4596,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣秀林鄉崇德村００７鄰崇德９１－３號"
+                "k": "花蓮縣秀林鄉崇德村００７鄰崇德９１－３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4281,7 +4610,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民運里中美一街４２號"
+                "k": "花蓮縣花蓮市民運里中美一街４２號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4294,7 +4624,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國興里３９鄰建國路２段８５８號"
+                "k": "花蓮縣花蓮市國興里３９鄰建國路２段８５８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4307,7 +4638,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國華里１１鄰林森路３５１號"
+                "k": "花蓮縣花蓮市國華里１１鄰林森路３５１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4320,7 +4652,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主農里中正路４８號"
+                "k": "花蓮縣花蓮市主農里中正路４８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4333,7 +4666,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國風里和平路６０６號"
+                "k": "花蓮縣花蓮市國風里和平路６０６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4346,7 +4680,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民德里民德四街２３號"
+                "k": "花蓮縣花蓮市民德里民德四街２３號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4359,7 +4694,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國威里大同街１０４號"
+                "k": "花蓮縣花蓮市國威里大同街１０４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4372,7 +4708,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國治里００８鄰新港街３２號"
+                "k": "花蓮縣花蓮市國治里００８鄰新港街３２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4385,7 +4722,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國裕里６鄰富強路５０號"
+                "k": "花蓮縣花蓮市國裕里６鄰富強路５０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4398,7 +4736,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主信里南京街２１１號"
+                "k": "花蓮縣花蓮市主信里南京街２１１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4411,7 +4750,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國威里民國路９９號"
+                "k": "花蓮縣花蓮市國威里民國路９９號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4424,7 +4764,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國慶里中山路１段３０６號"
+                "k": "花蓮縣花蓮市國慶里中山路１段３０６號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4437,7 +4778,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國治里１９鄰博愛街２２３―３號"
+                "k": "花蓮縣花蓮市國治里１９鄰博愛街２２３―３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4450,7 +4792,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國安里８鄰復興街１０２號"
+                "k": "花蓮縣花蓮市國安里８鄰復興街１０２號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4463,7 +4806,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國光里明禮路１８―３號"
+                "k": "花蓮縣花蓮市國光里明禮路１８―３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4476,7 +4820,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國裕里５１鄰中山路７２６號"
+                "k": "花蓮縣花蓮市國裕里５１鄰中山路７２６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4489,7 +4834,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民勤里２１鄰中美三街５６―３號"
+                "k": "花蓮縣花蓮市民勤里２１鄰中美三街５６―３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4502,7 +4848,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民立里民權路４２號"
+                "k": "花蓮縣花蓮市民立里民權路４２號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4515,7 +4862,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主商里一心街４８號"
+                "k": "花蓮縣花蓮市主商里一心街４８號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4528,7 +4876,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民政里２６鄰中興路２３３號"
+                "k": "花蓮縣花蓮市民政里２６鄰中興路２３３號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4541,7 +4890,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國風里林森路１１５巷５２號"
+                "k": "花蓮縣花蓮市國風里林森路１１５巷５２號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4554,7 +4904,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民生里大禹街４０號"
+                "k": "花蓮縣花蓮市民生里大禹街４０號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4567,7 +4918,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國裕里０４９鄰中山路７１６號"
+                "k": "花蓮縣花蓮市國裕里０４９鄰中山路７１６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4580,7 +4932,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民勤里４２鄰中美路７１―１３號"
+                "k": "花蓮縣花蓮市民勤里４２鄰中美路７１―１３號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4593,7 +4946,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主商里福建街４４５號"
+                "k": "花蓮縣花蓮市主商里福建街４４５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4606,7 +4960,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主義里南京街２３２號"
+                "k": "花蓮縣花蓮市主義里南京街２３２號",
+                "pay_list": "LINE Pay Money\/愛金卡\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4619,7 +4974,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民勤里０１０鄰民權九街４７號"
+                "k": "花蓮縣花蓮市民勤里０１０鄰民權九街４７號",
+                "pay_list": "LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4632,7 +4988,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國風里０１４鄰和平路５９９號"
+                "k": "花蓮縣花蓮市國風里０１４鄰和平路５９９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4645,7 +5002,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主工里０１６鄰民國路３號"
+                "k": "花蓮縣花蓮市主工里０１６鄰民國路３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4658,7 +5016,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國富里０１５鄰富國路６７號"
+                "k": "花蓮縣花蓮市國富里０１５鄰富國路６７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4671,7 +5030,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民生里中山路１９９－２號"
+                "k": "花蓮縣花蓮市民生里中山路１９９－２號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4684,7 +5044,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民生里中山路２０１號"
+                "k": "花蓮縣花蓮市民生里中山路２０１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4697,7 +5058,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國興里介仁街６７號"
+                "k": "花蓮縣花蓮市國興里介仁街６７號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4710,7 +5072,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國興里０３７鄰建國路二段５３６號"
+                "k": "花蓮縣花蓮市國興里０３７鄰建國路二段５３６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4723,7 +5086,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主和里重慶路１９５巷６號"
+                "k": "花蓮縣花蓮市主和里重慶路１９５巷６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4736,7 +5100,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民勤里１鄰中美路１－２號"
+                "k": "花蓮縣花蓮市民勤里１鄰中美路１－２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4749,7 +5114,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國富里莊敬路３２６號"
+                "k": "花蓮縣花蓮市國富里莊敬路３２６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4762,7 +5128,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主權里中原路６０６號"
+                "k": "花蓮縣花蓮市主權里中原路６０６號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4775,7 +5142,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國治里中正路６２５號"
+                "k": "花蓮縣花蓮市國治里中正路６２５號",
+                "pay_list": "街口支付\/一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4788,7 +5156,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民運里８鄰民生路５１號"
+                "k": "花蓮縣花蓮市民運里８鄰民生路５１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4801,7 +5170,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國安里中山路３９８－１號"
+                "k": "花蓮縣花蓮市國安里中山路３９８－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4814,7 +5184,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民勤里１５鄰中美路９９－１號"
+                "k": "花蓮縣花蓮市民勤里１５鄰中美路９９－１號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4827,7 +5198,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主睦里中正路３９６號"
+                "k": "花蓮縣花蓮市主睦里中正路３９６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4840,7 +5212,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民立里永興路２號"
+                "k": "花蓮縣花蓮市民立里永興路２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4853,7 +5226,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主和里０２５鄰中福路１２２號"
+                "k": "花蓮縣花蓮市主和里０２５鄰中福路１２２號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4866,7 +5240,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民享里２４鄰林園１之１號"
+                "k": "花蓮縣花蓮市民享里２４鄰林園１之１號",
+                "pay_list": "愛金卡\/台灣 PAY\/一卡通\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4879,7 +5254,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國風里林森路１２２號"
+                "k": "花蓮縣花蓮市國風里林森路１２２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4892,7 +5268,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國治里１６鄰新港街６７號"
+                "k": "花蓮縣花蓮市國治里１６鄰新港街６７號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4905,7 +5282,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國裕里１３鄰富安路９０號"
+                "k": "花蓮縣花蓮市國裕里１３鄰富安路９０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4918,7 +5296,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民生里８鄰三民街１０號"
+                "k": "花蓮縣花蓮市民生里８鄰三民街１０號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4931,7 +5310,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民政里２鄰中美路１５１號"
+                "k": "花蓮縣花蓮市民政里２鄰中美路１５１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4944,7 +5324,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國魂里中山路５４９―１號"
+                "k": "花蓮縣花蓮市國魂里中山路５４９―１號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4957,7 +5338,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國治里０１２鄰節約街１６―１號"
+                "k": "花蓮縣花蓮市國治里０１２鄰節約街１６―１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4970,7 +5352,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國治里４鄰節約街４０號"
+                "k": "花蓮縣花蓮市國治里４鄰節約街４０號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4983,7 +5366,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民意里府前路４４８號"
+                "k": "花蓮縣花蓮市民意里府前路４４８號",
+                "pay_list": "愛金卡\/台灣 PAY\/一卡通\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4996,7 +5380,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民生里８鄰中正路５８２－３號"
+                "k": "花蓮縣花蓮市民生里８鄰中正路５８２－３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5009,7 +5394,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國光里明禮路２６巷１０號"
+                "k": "花蓮縣花蓮市國光里明禮路２６巷１０號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5022,7 +5408,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民德里中美路３４號"
+                "k": "花蓮縣花蓮市民德里中美路３４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5035,7 +5422,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主工里２鄰中正路４７７號"
+                "k": "花蓮縣花蓮市主工里２鄰中正路４７７號",
+                "pay_list": "台灣 PAY\/一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5048,7 +5436,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國裕里０１３鄰富裕二街８１號"
+                "k": "花蓮縣花蓮市國裕里０１３鄰富裕二街８１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5061,7 +5450,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國富里莊敬路３０３號"
+                "k": "花蓮縣花蓮市國富里莊敬路３０３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5074,7 +5464,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國聯里００２鄰中山路４３４號"
+                "k": "花蓮縣花蓮市國聯里００２鄰中山路４３４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5087,7 +5478,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國威里自由街１４０號"
+                "k": "花蓮縣花蓮市國威里自由街１４０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5100,7 +5492,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民族里５鄰復興街２６號"
+                "k": "花蓮縣花蓮市民族里５鄰復興街２６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5113,7 +5506,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國風里０１５鄰建林街２０號"
+                "k": "花蓮縣花蓮市國風里０１５鄰建林街２０號",
+                "pay_list": "街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -5126,7 +5520,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主力里０２４鄰林森路６８號"
+                "k": "花蓮縣花蓮市主力里０２４鄰林森路６８號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5139,7 +5534,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國富里富國路４１號"
+                "k": "花蓮縣花蓮市國富里富國路４１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5152,7 +5548,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民德里１鄰民權路５號"
+                "k": "花蓮縣花蓮市民德里１鄰民權路５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5165,7 +5562,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民樂里０１１鄰海岸路４號"
+                "k": "花蓮縣花蓮市民樂里０１１鄰海岸路４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5178,7 +5576,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民主里中山路４８號"
+                "k": "花蓮縣花蓮市民主里中山路４８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -5191,7 +5590,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國華里００７鄰建國路７３號"
+                "k": "花蓮縣花蓮市國華里００７鄰建國路７３號",
+                "pay_list": "台灣 PAY\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -5204,7 +5604,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主商里南京街３３２號"
+                "k": "花蓮縣花蓮市主商里南京街３３２號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5217,7 +5618,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民孝里０１０鄰中美路３０１－３號"
+                "k": "花蓮縣花蓮市民孝里０１０鄰中美路３０１－３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5230,7 +5632,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民意里００１鄰府前路４００號"
+                "k": "花蓮縣花蓮市民意里００１鄰府前路４００號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5243,7 +5646,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國聯里２３鄰國聯一路９３號"
+                "k": "花蓮縣花蓮市國聯里２３鄰國聯一路９３號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5256,7 +5660,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國盛里０１１鄰國盛二街２０３－１號"
+                "k": "花蓮縣花蓮市國盛里０１１鄰國盛二街２０３－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5269,7 +5674,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主力里和平路５１１號"
+                "k": "花蓮縣花蓮市主力里和平路５１１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5282,7 +5688,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民生里花崗街５６號"
+                "k": "花蓮縣花蓮市民生里花崗街５６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5295,7 +5702,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民族里９鄰福建街５１２號"
+                "k": "花蓮縣花蓮市民族里９鄰福建街５１２號",
+                "pay_list": "愛金卡\/台灣 PAY\/一卡通\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5308,7 +5716,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國安里１５鄰明智街７３號"
+                "k": "花蓮縣花蓮市國安里１５鄰明智街７３號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5321,7 +5730,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民主里海濱街８號"
+                "k": "花蓮縣花蓮市民主里海濱街８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5334,7 +5744,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民德里中美路１０６號"
+                "k": "花蓮縣花蓮市民德里中美路１０６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5347,7 +5758,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主睦里０１３鄰和平路３６２―１號"
+                "k": "花蓮縣花蓮市主睦里０１３鄰和平路３６２―１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5360,7 +5772,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國魂里中山路５４９－１號"
+                "k": "花蓮縣花蓮市國魂里中山路５４９－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5373,7 +5786,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市建國路２８０號"
+                "k": "花蓮縣花蓮市建國路２８０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5386,7 +5800,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主學里中福路１４７號"
+                "k": "花蓮縣花蓮市主學里中福路１４７號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5399,7 +5814,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國風里００５鄰和平路５４５巷２０號"
+                "k": "花蓮縣花蓮市國風里００５鄰和平路５４５巷２０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5412,7 +5828,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主勤里自由街７６號"
+                "k": "花蓮縣花蓮市主勤里自由街７６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5425,7 +5842,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主力里１３鄰和平路５２９號"
+                "k": "花蓮縣花蓮市主力里１３鄰和平路５２９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5438,7 +5856,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主工里中正路４８９號"
+                "k": "花蓮縣花蓮市主工里中正路４８９號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5451,7 +5870,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國治里新港街４５號"
+                "k": "花蓮縣花蓮市國治里新港街４５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5464,7 +5884,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國盛里國盛四街１０２號"
+                "k": "花蓮縣花蓮市國盛里國盛四街１０２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5477,7 +5898,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民政里中美路１１７號"
+                "k": "花蓮縣花蓮市民政里中美路１１７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5490,7 +5912,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國聯里２０鄰國聯五路４９號"
+                "k": "花蓮縣花蓮市國聯里２０鄰國聯五路４９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5503,7 +5926,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國聯里中山路４２２―１號"
+                "k": "花蓮縣花蓮市國聯里中山路４２２―１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5516,7 +5940,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主工里民國路７９號"
+                "k": "花蓮縣花蓮市主工里民國路７９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付\/一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5529,7 +5954,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民族里００６鄰中山路７４號"
+                "k": "花蓮縣花蓮市民族里００６鄰中山路７４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5542,7 +5968,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民生里中正路５９０號"
+                "k": "花蓮縣花蓮市民生里中正路５９０號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5555,7 +5982,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國聯里國聯五路１０５號"
+                "k": "花蓮縣花蓮市國聯里國聯五路１０５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -5568,7 +5996,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民意里４９鄰府前路５０８號"
+                "k": "花蓮縣花蓮市民意里４９鄰府前路５０８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -5581,7 +6010,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國威里民國路１５３號"
+                "k": "花蓮縣花蓮市國威里民國路１５３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -5594,7 +6024,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國魂里００３鄰中山路４７５―９號"
+                "k": "花蓮縣花蓮市國魂里００３鄰中山路４７５―９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5607,7 +6038,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國聯里００４鄰國聯五路１５１號"
+                "k": "花蓮縣花蓮市國聯里００４鄰國聯五路１５１號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5620,7 +6052,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民生里００６鄰中山路１５０號"
+                "k": "花蓮縣花蓮市民生里００６鄰中山路１５０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5633,7 +6066,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國聯里國聯五路６９號"
+                "k": "花蓮縣花蓮市國聯里國聯五路６９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5646,7 +6080,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民政里中興路２５０－２號"
+                "k": "花蓮縣花蓮市民政里中興路２５０－２號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5659,7 +6094,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國威里０２７鄰復興街９６―２號"
+                "k": "花蓮縣花蓮市國威里０２７鄰復興街９６―２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5672,7 +6108,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國裕里５０鄰富裕三街２號"
+                "k": "花蓮縣花蓮市國裕里５０鄰富裕三街２號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5685,7 +6122,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民德里民德一街２３號"
+                "k": "花蓮縣花蓮市民德里民德一街２３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5698,7 +6136,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主權里德安二街２０號"
+                "k": "花蓮縣花蓮市主權里德安二街２０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5711,7 +6150,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國聯里２６鄰國聯二路１７號"
+                "k": "花蓮縣花蓮市國聯里２６鄰國聯二路１７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5724,7 +6164,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民勤里１０鄰中美路９１號"
+                "k": "花蓮縣花蓮市民勤里１０鄰中美路９１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5737,7 +6178,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民運里００２鄰中興路１３２號"
+                "k": "花蓮縣花蓮市民運里００２鄰中興路１３２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5750,7 +6192,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主勤里博愛街１９９號"
+                "k": "花蓮縣花蓮市主勤里博愛街１９９號",
+                "pay_list": "街口支付\/一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5763,7 +6206,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民勤里００３鄰中美路７－２號"
+                "k": "花蓮縣花蓮市民勤里００３鄰中美路７－２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -5776,7 +6220,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主權里中華路４５２號"
+                "k": "花蓮縣花蓮市主權里中華路４５２號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5789,7 +6234,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主計里廣東街２１１號"
+                "k": "花蓮縣花蓮市主計里廣東街２１１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5802,7 +6248,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民族里００７鄰中山路１０４號"
+                "k": "花蓮縣花蓮市民族里００７鄰中山路１０４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -5815,7 +6262,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國裕里中山路６９６號"
+                "k": "花蓮縣花蓮市國裕里中山路６９６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -5828,7 +6276,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主睦里０１２鄰信義街５３號"
+                "k": "花蓮縣花蓮市主睦里０１２鄰信義街５３號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5841,7 +6290,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民生里０１９鄰三民街３―２號"
+                "k": "花蓮縣花蓮市民生里０１９鄰三民街３―２號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5854,7 +6304,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國風里和平路５６０號"
+                "k": "花蓮縣花蓮市國風里和平路５６０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5867,7 +6318,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國裕里４９鄰中山路６８２號"
+                "k": "花蓮縣花蓮市國裕里４９鄰中山路６８２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5880,7 +6332,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國聯里４鄰國興五街２１３號"
+                "k": "花蓮縣花蓮市國聯里４鄰國興五街２１３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5893,7 +6346,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主權里中華路３５５號"
+                "k": "花蓮縣花蓮市主權里中華路３５５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5906,7 +6360,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國裕里５鄰富裕十七街２―１號"
+                "k": "花蓮縣花蓮市國裕里５鄰富裕十七街２―１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5919,7 +6374,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市主信里中正路４２５號"
+                "k": "花蓮縣花蓮市主信里中正路４２５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5932,7 +6388,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市民族里復興街２８號"
+                "k": "花蓮縣花蓮市民族里復興街２８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5945,7 +6402,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣花蓮市國慶里中山路一段３８６―６號"
+                "k": "花蓮縣花蓮市國慶里中山路一段３８６―６號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5958,7 +6416,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣萬榮鄉馬遠村馬遠９２－２３號"
+                "k": "花蓮縣萬榮鄉馬遠村馬遠９２－２３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5971,7 +6430,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣萬榮鄉西林村０１０鄰西林１７１―１號"
+                "k": "花蓮縣萬榮鄉西林村０１０鄰西林１７１―１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5984,7 +6444,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣萬榮鄉紅葉村１０鄰紅葉１８８號"
+                "k": "花蓮縣萬榮鄉紅葉村１０鄰紅葉１８８號",
+                "pay_list": "街口支付\/一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5997,7 +6458,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣豐濱鄉豐濱村２鄰三民路２４號"
+                "k": "花蓮縣豐濱鄉豐濱村２鄰三民路２４號",
+                "pay_list": "LINE Pay Money\/街口支付\/一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -6010,7 +6472,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣豐濱鄉港口村石梯坪５３－１號"
+                "k": "花蓮縣豐濱鄉港口村石梯坪５３－１號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6023,7 +6486,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣豐濱鄉豐濱村０２７鄰豐富１２２號"
+                "k": "花蓮縣豐濱鄉豐濱村０２７鄰豐富１２２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6036,7 +6500,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣豐濱鄉港口村石梯灣１１８－２號"
+                "k": "花蓮縣豐濱鄉港口村石梯灣１１８－２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6049,7 +6514,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣豐濱鄉港口村００１鄰石梯灣８２號"
+                "k": "花蓮縣豐濱鄉港口村００１鄰石梯灣８２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6062,7 +6528,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣豐濱鄉豐濱村６鄰民族街２７巷１１號"
+                "k": "花蓮縣豐濱鄉豐濱村６鄰民族街２７巷１１號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -6075,7 +6542,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣豐濱鄉豐濱村００３鄰三民路８６號"
+                "k": "花蓮縣豐濱鄉豐濱村００３鄰三民路８６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6088,7 +6556,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣豐濱鄉港口村１鄰石梯灣３號"
+                "k": "花蓮縣豐濱鄉港口村１鄰石梯灣３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6101,7 +6570,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣鳳林鎮大榮里中和路７１號"
+                "k": "花蓮縣鳳林鎮大榮里中和路７１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6114,7 +6584,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣鳳林鎮大榮里０１１鄰復興路５３號"
+                "k": "花蓮縣鳳林鎮大榮里０１１鄰復興路５３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6127,7 +6598,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣鳳林鎮長橋里長橋路８０號"
+                "k": "花蓮縣鳳林鎮長橋里長橋路８０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -6140,7 +6612,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣鳳林鎮鳳仁里信義路２５５號"
+                "k": "花蓮縣鳳林鎮鳳仁里信義路２５５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6153,7 +6626,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣鳳林鎮鳳義里鳳鳴二路１０號"
+                "k": "花蓮縣鳳林鎮鳳義里鳳鳴二路１０號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -6166,7 +6640,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "花蓮縣鳳林鎮鳳智里中正路二段８２號"
+                "k": "花蓮縣鳳林鎮鳳智里中正路二段８２號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",

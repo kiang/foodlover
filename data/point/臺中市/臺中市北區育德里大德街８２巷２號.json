@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市北區育德里大德街８２巷２號",
+    "x": 120.678878,
+    "y": 24.158534,
+    "shops": [
+        {
+            "shop": "韓國食堂",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

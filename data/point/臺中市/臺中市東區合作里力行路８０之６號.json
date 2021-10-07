@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市東區合作里力行路８０之６號１樓",
+    "x": 120.694778,
+    "y": 24.151212,
+    "shops": [
+        {
+            "shop": "渣凳早午餐",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
+}

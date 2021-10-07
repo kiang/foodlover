@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市北屯區東山里東山路二段中興巷４９弄１４號１樓",
+    "x": 120.741682,
+    "y": 24.178543,
+    "shops": [
+        {
+            "shop": "上野飲食店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "水產品零售\/飲料零售\/餐館、餐廳",
+    "address": "臺中市東區東英里自由路４段５２０號１樓",
+    "x": 120.710718,
+    "y": 24.142571,
+    "shops": [
+        {
+            "shop": "皇家海岸商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

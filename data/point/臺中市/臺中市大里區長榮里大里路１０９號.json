@@ -1,0 +1,13 @@
+{
+    "name": "文具零售\/餐館、餐廳\/咖啡館",
+    "address": "臺中市大里區長榮里大里路１０９號１樓",
+    "x": 120.685804,
+    "y": 24.103307,
+    "shops": [
+        {
+            "shop": "貓老闆咖啡",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

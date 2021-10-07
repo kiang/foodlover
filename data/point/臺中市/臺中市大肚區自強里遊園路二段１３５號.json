@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市大肚區自強里遊園路二段１３５號１樓",
+    "x": 120.580001,
+    "y": 24.171749,
+    "shops": [
+        {
+            "shop": "欣谷小吃店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+}

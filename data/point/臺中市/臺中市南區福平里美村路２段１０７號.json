@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市南區福平里美村路２段１０７號１樓",
+    "x": 120.662475,
+    "y": 24.128112,
+    "shops": [
+        {
+            "shop": "宸穎餐飲店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

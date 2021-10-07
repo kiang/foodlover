@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "嘉義市西區文化里垂楊路４０２、４０４、４０６號號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[嘉義市]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(-402403938),E:-1,N:-1",
+      "OutTraceInfo": "[嘉義市]\t { 模糊比對 } (西區)\t找到符合的[鄉鎮市區]，(文化里)\t找到符合的[村里]，(垂楊路)\t找到符合的[路街名]，(402404406號)\t進行[雙號過濾]，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -402403938 號，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "嘉義市西區文化里2鄰垂楊路468號",
+      "COUNTY": "嘉義市",
+      "TOWN": "西區",
+      "VILLAGE": "文化里",
+      "NEIGHBORHOOD": "2鄰",
+      "ROAD": "垂楊路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "468號",
+      "X": 120.448060,
+      "Y": 23.473890
+    }
+  ]
+}

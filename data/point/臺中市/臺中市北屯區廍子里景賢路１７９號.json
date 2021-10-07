@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市北屯區廍子里景賢路１７９號９樓之１",
+    "x": 120.722779,
+    "y": 24.166687,
+    "shops": [
+        {
+            "shop": "華中餐飲有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

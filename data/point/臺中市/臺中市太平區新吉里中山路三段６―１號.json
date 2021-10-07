@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市太平區新吉里中山路三段６―１號１樓",
+    "x": 120.722235,
+    "y": 24.149421,
+    "shops": [
+        {
+            "shop": "昱大餐飲店",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
+}

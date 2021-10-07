@@ -1,0 +1,13 @@
+{
+    "name": "餐食攤販",
+    "address": "臺中市南屯區三義里黎明路２段４０６號",
+    "x": 120.635369,
+    "y": 24.151506,
+    "shops": [
+        {
+            "shop": "卜卜喵鬆餅屋",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

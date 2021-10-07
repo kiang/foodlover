@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市西區忠明里華美街４１６號",
+    "x": 120.65929628012,
+    "y": 24.153731308097,
+    "shops": [
+        {
+            "shop": "藏月有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

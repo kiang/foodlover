@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市南屯區大業里大墩十二街１１１號１樓",
+    "x": 120.652523,
+    "y": 24.149804,
+    "shops": [
+        {
+            "shop": "猴吃鍋有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

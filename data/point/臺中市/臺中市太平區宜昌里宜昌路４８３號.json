@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市太平區宜昌里宜昌路４８３號１樓",
+    "x": 120.715092,
+    "y": 24.14702,
+    "shops": [
+        {
+            "shop": "喜徠商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "餐食攤販",
+    "address": "臺中市北屯區水湳里大連路一段５６―３號１樓",
+    "x": 120.671355,
+    "y": 24.175329,
+    "shops": [
+        {
+            "shop": "大連炸雞王店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

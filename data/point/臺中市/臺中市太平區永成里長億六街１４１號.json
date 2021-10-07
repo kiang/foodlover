@@ -1,0 +1,13 @@
+{
+    "name": "餐食攤販",
+    "address": "臺中市太平區永成里長億六街１４１號－１旁",
+    "x": 120.71617,
+    "y": 24.117989,
+    "shops": [
+        {
+            "shop": "蔡家班水煎包",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

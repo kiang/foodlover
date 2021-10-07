@@ -1,0 +1,13 @@
+{
+    "name": "飲酒店",
+    "address": "嘉義市西區番社里忠義街１４１及１４３號２樓",
+    "x": 120.44716,
+    "y": 23.48046,
+    "shops": [
+        {
+            "shop": "倉庫冷飲店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

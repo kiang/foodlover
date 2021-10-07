@@ -4,7 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮忠義街20號"
+                "k": "苗栗縣竹南鎮忠義街20號",
+                "pay_list": "街口支付\/LINE Pay Money\/台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -17,7 +18,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣銅鑼鄉銅鑼村永樂路36號"
+                "k": "苗栗縣銅鑼鄉銅鑼村永樂路36號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +32,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市和平里中山路146號"
+                "k": "苗栗縣頭份市和平里中山路146號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -43,7 +46,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里雙十街2巷83號"
+                "k": "苗栗縣頭份市東庄里雙十街2巷83號",
+                "pay_list": "台灣 PAY\/街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -56,7 +60,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三義鄉廣盛村１９鄰中正路１２４號"
+                "k": "苗栗縣三義鄉廣盛村１９鄰中正路１２４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -69,7 +74,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三義鄉勝興村１３鄰勝興５７號"
+                "k": "苗栗縣三義鄉勝興村１３鄰勝興５７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -82,7 +88,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三義鄉西湖村００３鄰下湖５―１０號"
+                "k": "苗栗縣三義鄉西湖村００３鄰下湖５―１０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -95,7 +102,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三義鄉龍騰村１３鄰龍騰３號"
+                "k": "苗栗縣三義鄉龍騰村１３鄰龍騰３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -108,7 +116,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣公館鄉館東村５鄰大同路１９４號"
+                "k": "苗栗縣公館鄉館東村５鄰大同路１９４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +130,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣卓蘭鎮上新里１９鄰上新１３－１４號"
+                "k": "苗栗縣卓蘭鎮上新里１９鄰上新１３－１４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -134,7 +144,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣卓蘭鎮上新里上新１３－１４號"
+                "k": "苗栗縣卓蘭鎮上新里上新１３－１４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -147,7 +158,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣卓蘭鎮新厝里１鄰７－１２號"
+                "k": "苗栗縣卓蘭鎮新厝里１鄰７－１２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +172,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉東河村０２１鄰２１號"
+                "k": "苗栗縣南庄鄉東河村０２１鄰２１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -173,7 +186,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉蓬萊村１１鄰八卦力１６之８號"
+                "k": "苗栗縣南庄鄉蓬萊村１１鄰八卦力１６之８號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -186,7 +200,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉西村０１０鄰中山路１號號"
+                "k": "苗栗縣南庄鄉西村０１０鄰中山路１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +214,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉西村中山路１００號號"
+                "k": "苗栗縣南庄鄉西村中山路１００號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +228,22 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉南江村０１７鄰２７號"
+                "k": "苗栗縣南庄鄉西村００７鄰７７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.999278,
+                    24.597266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣南庄鄉南江村０１７鄰２７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -225,7 +256,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣大湖鄉義和村００９鄰南昌路富民巷１０―１號"
+                "k": "苗栗縣大湖鄉義和村００９鄰南昌路富民巷１０―１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +270,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣泰安鄉士林村蘇魯３３號"
+                "k": "苗栗縣泰安鄉士林村蘇魯３３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -251,7 +284,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣獅潭鄉新店村７鄰新店６２―１號"
+                "k": "苗栗縣獅潭鄉新店村７鄰新店６２―１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -264,7 +298,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮新南里永貞路二段１７９號"
+                "k": "苗栗縣竹南鎮新南里永貞路二段１７９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -277,7 +312,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里００３鄰光復路１７２號"
+                "k": "苗栗縣竹南鎮照南里００３鄰光復路１７２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -290,7 +326,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮竹南里１４鄰博愛街６９號"
+                "k": "苗栗縣竹南鎮竹南里１４鄰博愛街６９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -303,7 +340,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮天文里龍昇街２號"
+                "k": "苗栗縣竹南鎮天文里龍昇街２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -316,7 +354,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮竹南里１７鄰博愛街１７１號"
+                "k": "苗栗縣竹南鎮竹南里１７鄰博愛街１７１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -329,7 +368,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮龍山里１３鄰龍昇街２１５號"
+                "k": "苗栗縣竹南鎮龍山里１３鄰龍昇街２１５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -342,7 +382,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮竹南里延平路１１２號"
+                "k": "苗栗縣竹南鎮竹南里延平路１１２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -355,7 +396,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮營盤里２３鄰自由街８８－１５號"
+                "k": "苗栗縣竹南鎮營盤里２３鄰自由街８８－１５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -368,7 +410,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮正南里０１８鄰中正路１７５號"
+                "k": "苗栗縣竹南鎮正南里０１８鄰中正路１７５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -381,7 +424,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里０２５鄰立達街１１７號"
+                "k": "苗栗縣竹南鎮照南里０２５鄰立達街１１７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -394,7 +438,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮竹南里００９鄰民族街１１０號"
+                "k": "苗栗縣竹南鎮竹南里００９鄰民族街１１０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -407,7 +452,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮頂埔里０１０鄰科中路１６號"
+                "k": "苗栗縣竹南鎮頂埔里０１０鄰科中路１６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -420,7 +466,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮竹興里３鄰博愛街４６３號"
+                "k": "苗栗縣竹南鎮竹興里３鄰博愛街４６３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -433,7 +480,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮苑南里信義路３８號"
+                "k": "苗栗縣苑裡鎮苑南里信義路３８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -446,7 +494,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮山腳里彎麗路１００號"
+                "k": "苗栗縣苑裡鎮山腳里彎麗路１００號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -459,7 +508,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市上苗里１５鄰中山路８０號"
+                "k": "苗栗縣苗栗市上苗里１５鄰中山路８０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -472,7 +522,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里府東路９１號"
+                "k": "苗栗縣苗栗市建功里府東路９１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -485,7 +536,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市清華里為公路３０９號"
+                "k": "苗栗縣苗栗市清華里為公路３０９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -498,7 +550,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市新苗里０１１鄰中正路９０５號"
+                "k": "苗栗縣苗栗市新苗里０１１鄰中正路９０５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -511,7 +564,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市中苗里５鄰中正路５５５號"
+                "k": "苗栗縣苗栗市中苗里５鄰中正路５５５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -524,7 +578,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市福麗里００９鄰至公路３３３―１號"
+                "k": "苗栗縣苗栗市福麗里００９鄰至公路３３３―１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -537,7 +592,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市上苗里中山路１０８號"
+                "k": "苗栗縣苗栗市上苗里中山路１０８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -550,7 +606,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市文山里０１４鄰自治路３２７號"
+                "k": "苗栗縣苗栗市文山里０１４鄰自治路３２７號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -563,7 +620,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市玉清里為民街４０巷２５弄３０號"
+                "k": "苗栗縣苗栗市玉清里為民街４０巷２５弄３０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -576,7 +634,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市福麗里１鄰府前路１８１號"
+                "k": "苗栗縣苗栗市福麗里１鄰府前路１８１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -589,7 +648,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市北苗里中山北路１０５―１號"
+                "k": "苗栗縣苗栗市北苗里中山北路１０５―１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -602,7 +662,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里長春街２５號"
+                "k": "苗栗縣苗栗市建功里長春街２５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -615,7 +676,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市文山里０１７鄰正發路１６０號"
+                "k": "苗栗縣苗栗市文山里０１７鄰正發路１６０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -628,7 +690,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里６鄰中山路２０３號"
+                "k": "苗栗縣苗栗市建功里６鄰中山路２０３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -641,7 +704,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市青苗里中正路６３１號"
+                "k": "苗栗縣苗栗市青苗里中正路６３１號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -654,7 +718,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市文山里２１鄰正發路２２０號"
+                "k": "苗栗縣苗栗市文山里２１鄰正發路２２０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -667,7 +732,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣通霄鎮通西里０２７鄰中山路２２３號"
+                "k": "苗栗縣通霄鎮通西里０２７鄰中山路２２３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -680,7 +746,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣通霄鎮內湖里１２鄰烏眉路２８８號"
+                "k": "苗栗縣通霄鎮內湖里１２鄰烏眉路２８８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -693,7 +760,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣通霄鎮通西里０１３鄰中正路７３號"
+                "k": "苗栗縣通霄鎮通西里０１３鄰中正路７３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -706,7 +774,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣通霄鎮白東里００４鄰２８號"
+                "k": "苗栗縣通霄鎮白東里００４鄰２８號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -719,7 +788,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣通霄鎮通西里００５鄰和平路３５號"
+                "k": "苗栗縣通霄鎮通西里００５鄰和平路３５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -732,7 +802,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣通霄鎮內湖里００５鄰５３―５號"
+                "k": "苗栗縣通霄鎮內湖里００５鄰５３―５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -745,7 +816,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣銅鑼鄉樟樹村４鄰５９號"
+                "k": "苗栗縣銅鑼鄉樟樹村４鄰５９號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -758,7 +830,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣銅鑼鄉朝陽村０２１鄰朝東１３５―３號"
+                "k": "苗栗縣銅鑼鄉朝陽村０２１鄰朝東１３５―３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -771,7 +844,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣銅鑼鄉銅鑼村０１２鄰新興路１４號"
+                "k": "苗栗縣銅鑼鄉銅鑼村０１２鄰新興路１４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -784,7 +858,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市中興里１２鄰中央路４００號"
+                "k": "苗栗縣頭份市中興里１２鄰中央路４００號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -797,7 +872,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市上興里０１７鄰永愛街６４巷５４號"
+                "k": "苗栗縣頭份市上興里０１７鄰永愛街６４巷５４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -810,7 +886,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市成功里００２鄰節約街５６號"
+                "k": "苗栗縣頭份市成功里００２鄰節約街５６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -823,7 +900,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市蟠桃里００７鄰德義路１３７號"
+                "k": "苗栗縣頭份市蟠桃里００７鄰德義路１３７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -836,7 +914,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市斗煥里００３鄰中正二路８７號"
+                "k": "苗栗縣頭份市斗煥里００３鄰中正二路８７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -849,7 +928,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市成功里７鄰中興路５３７號"
+                "k": "苗栗縣頭份市成功里７鄰中興路５３７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -862,7 +942,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市文化里０１５鄰八德二路２５６號"
+                "k": "苗栗縣頭份市文化里０１５鄰八德二路２５６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -875,7 +956,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市蟠桃里１２鄰德義路１９１號"
+                "k": "苗栗縣頭份市蟠桃里１２鄰德義路１９１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -888,7 +970,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市忠孝里００１鄰建國路１０９號"
+                "k": "苗栗縣頭份市忠孝里００１鄰建國路１０９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -901,7 +984,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市後庄里７鄰公北三路６２號"
+                "k": "苗栗縣頭份市後庄里７鄰公北三路６２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -914,7 +998,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭屋鄉頭屋村１４鄰尖豐路９２號"
+                "k": "苗栗縣頭屋鄉頭屋村１４鄰尖豐路９２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -927,7 +1012,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三灣鄉內灣村１鄰龍峎頂５－２８號"
+                "k": "苗栗縣三灣鄉內灣村１鄰龍峎頂５－２８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -940,7 +1026,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三灣鄉三灣村２鄰民生路２９號"
+                "k": "苗栗縣三灣鄉三灣村２鄰民生路２９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -953,7 +1040,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三灣鄉大河村２鄰三洽坑６號"
+                "k": "苗栗縣三灣鄉大河村２鄰三洽坑６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -966,7 +1054,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三灣鄉頂寮村３鄰祭山湖１５－１號"
+                "k": "苗栗縣三灣鄉頂寮村３鄰祭山湖１５－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -979,7 +1068,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三義鄉廣盛村９鄰中正路１７０―５號"
+                "k": "苗栗縣三義鄉廣盛村９鄰中正路１７０―５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -992,7 +1082,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三義鄉双潭村７鄰大坪７號"
+                "k": "苗栗縣三義鄉双潭村７鄰大坪７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1005,7 +1096,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三義鄉勝興村１２鄰勝興３４―１號"
+                "k": "苗栗縣三義鄉勝興村１２鄰勝興３４―１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1018,7 +1110,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三義鄉勝興村０１９鄰水美４８號"
+                "k": "苗栗縣三義鄉勝興村０１９鄰水美４８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1031,7 +1124,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三義鄉勝興村０２５鄰水美２８３―１號"
+                "k": "苗栗縣三義鄉勝興村０２５鄰水美２８３―１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1044,7 +1138,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三義鄉廣盛村００６鄰復興路１６－１號"
+                "k": "苗栗縣三義鄉廣盛村００６鄰復興路１６－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1057,7 +1152,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三義鄉双潭村０１３鄰崩山下１―５號"
+                "k": "苗栗縣三義鄉双潭村０１３鄰崩山下１―５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1070,7 +1166,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三義鄉廣盛村３８鄰廣聲新城２巷２６號"
+                "k": "苗栗縣三義鄉廣盛村３８鄰廣聲新城２巷２６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1083,7 +1180,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三義鄉勝興村１４鄰勝興６９號"
+                "k": "苗栗縣三義鄉勝興村１４鄰勝興６９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1096,7 +1194,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三義鄉双潭村１３鄰崩山下１－９號"
+                "k": "苗栗縣三義鄉双潭村１３鄰崩山下１－９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1109,7 +1208,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三義鄉廣盛村９鄰中正路１６８號"
+                "k": "苗栗縣三義鄉廣盛村９鄰中正路１６８號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1122,7 +1222,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三義鄉廣盛村１３鄰八股路１０―２１號"
+                "k": "苗栗縣三義鄉廣盛村１３鄰八股路１０―２１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1135,7 +1236,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三義鄉廣盛村３８鄰廣聲新城２巷３０號"
+                "k": "苗栗縣三義鄉廣盛村３８鄰廣聲新城２巷３０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1148,7 +1250,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三義鄉勝興村２２鄰水美１１８－１號"
+                "k": "苗栗縣三義鄉勝興村２２鄰水美１１８－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1161,7 +1264,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三義鄉廣盛村０１４鄰八股３６―５號"
+                "k": "苗栗縣三義鄉廣盛村０１４鄰八股３６―５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1174,7 +1278,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三義鄉廣盛村００８鄰中正路１６５號"
+                "k": "苗栗縣三義鄉廣盛村００８鄰中正路１６５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1187,7 +1292,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三義鄉勝興村２２鄰水美１０５號"
+                "k": "苗栗縣三義鄉勝興村２２鄰水美１０５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1200,7 +1306,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三義鄉勝興村０１４鄰勝興８８號"
+                "k": "苗栗縣三義鄉勝興村０１４鄰勝興８８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1213,7 +1320,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三義鄉西湖村０１６鄰伯公坑１６３號"
+                "k": "苗栗縣三義鄉西湖村０１６鄰伯公坑１６３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1226,7 +1334,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三義鄉勝興村０１４鄰勝興８３號"
+                "k": "苗栗縣三義鄉勝興村０１４鄰勝興８３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1239,7 +1348,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣三義鄉西湖村０１６鄰伯公坑１７３―１號"
+                "k": "苗栗縣三義鄉西湖村０１６鄰伯公坑１７３―１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1252,7 +1362,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣公館鄉福德村４鄰福德３５－３號"
+                "k": "苗栗縣公館鄉福德村４鄰福德３５－３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1265,7 +1376,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣公館鄉館中村大同路２３１―５號"
+                "k": "苗栗縣公館鄉館中村大同路２３１―５號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1278,7 +1390,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣公館鄉館中村５鄰大同路８１號"
+                "k": "苗栗縣公館鄉館中村５鄰大同路８１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1291,7 +1404,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣公館鄉玉泉村１４鄰玉泉３６８－９號"
+                "k": "苗栗縣公館鄉玉泉村１４鄰玉泉３６８－９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1304,7 +1418,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣公館鄉館中村１４鄰大同路２４３號"
+                "k": "苗栗縣公館鄉館中村１４鄰大同路２４３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1317,7 +1432,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣公館鄉館中村００２鄰榮光街６號"
+                "k": "苗栗縣公館鄉館中村００２鄰榮光街６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1330,7 +1446,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣公館鄉館中村１３鄰成功路２３號"
+                "k": "苗栗縣公館鄉館中村１３鄰成功路２３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1343,7 +1460,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣公館鄉仁安村６鄰仁安１００－１６號"
+                "k": "苗栗縣公館鄉仁安村６鄰仁安１００－１６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1356,7 +1474,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣公館鄉館中村０１４鄰大同路２２５號"
+                "k": "苗栗縣公館鄉館中村０１４鄰大同路２２５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1369,7 +1488,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣公館鄉福星村４鄰福星１１５－１號"
+                "k": "苗栗縣公館鄉福星村４鄰福星１１５－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1382,7 +1502,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣公館鄉館東村００６鄰大同路１２０號"
+                "k": "苗栗縣公館鄉館東村００６鄰大同路１２０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1395,7 +1516,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣公館鄉福德村４鄰福德３５－１２號"
+                "k": "苗栗縣公館鄉福德村４鄰福德３５－１２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1408,7 +1530,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣卓蘭鎮新厝里中山路１３６號"
+                "k": "苗栗縣卓蘭鎮新厝里中山路１３６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1421,7 +1544,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣卓蘭鎮新厝里１４鄰中山路５８號"
+                "k": "苗栗縣卓蘭鎮新厝里１４鄰中山路５８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1434,7 +1558,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣卓蘭鎮新厝里１５鄰中山路１６８號"
+                "k": "苗栗縣卓蘭鎮新厝里１５鄰中山路１６８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1447,7 +1572,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣卓蘭鎮中街里２鄰中山路９１號"
+                "k": "苗栗縣卓蘭鎮中街里２鄰中山路９１號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1460,7 +1586,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣卓蘭鎮中街里２鄰中山路８９號"
+                "k": "苗栗縣卓蘭鎮中街里２鄰中山路８９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1473,7 +1600,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣卓蘭鎮中街里中正路８５號"
+                "k": "苗栗縣卓蘭鎮中街里中正路８５號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1486,7 +1614,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣卓蘭鎮坪林里８鄰坪林８７號"
+                "k": "苗栗縣卓蘭鎮坪林里８鄰坪林８７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1499,7 +1628,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣卓蘭鎮西坪里１０鄰西坪１２２－６號"
+                "k": "苗栗縣卓蘭鎮西坪里１０鄰西坪１２２－６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1512,7 +1642,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉西村９鄰中正路４７―２號"
+                "k": "苗栗縣南庄鄉西村９鄰中正路４７―２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1525,7 +1656,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉東村６鄰中正路３６號（號"
+                "k": "苗栗縣南庄鄉東村６鄰中正路３６號",
+                "pay_list": "歐付寶"
             },
             "geometry": {
                 "type": "Point",
@@ -1538,7 +1670,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉東村６鄰中正路５２號號"
+                "k": "苗栗縣南庄鄉東村６鄰中正路５２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1551,7 +1684,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉田美村１２鄰紫金山莊９３號"
+                "k": "苗栗縣南庄鄉田美村１２鄰紫金山莊９３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1564,7 +1698,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉南江村９鄰里金舘３２－３號"
+                "k": "苗栗縣南庄鄉南江村９鄰里金舘３２－３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1577,7 +1712,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉南江村３鄰東江３１－３號"
+                "k": "苗栗縣南庄鄉南江村３鄰東江３１－３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1590,7 +1726,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉田美村１５鄰四灣９２號"
+                "k": "苗栗縣南庄鄉田美村１５鄰四灣９２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1603,7 +1740,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉南江村５鄰東江７３－７號"
+                "k": "苗栗縣南庄鄉南江村５鄰東江７３－７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1616,7 +1754,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉南江村小東河８之１號"
+                "k": "苗栗縣南庄鄉南江村小東河８之１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1629,7 +1768,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉東河村１６鄰向天湖２６號"
+                "k": "苗栗縣南庄鄉東河村１６鄰向天湖２６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1642,7 +1782,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉蓬萊村９鄰四二份７－６號"
+                "k": "苗栗縣南庄鄉蓬萊村９鄰四二份７－６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1655,7 +1796,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉東村５鄰中正路１巷２號號"
+                "k": "苗栗縣南庄鄉東村５鄰中正路１巷２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1668,7 +1810,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉東村１７鄰環清路３６號號"
+                "k": "苗栗縣南庄鄉東村１７鄰環清路３６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1681,7 +1824,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉蓬萊村４鄰紅毛舘５３－１號"
+                "k": "苗栗縣南庄鄉蓬萊村４鄰紅毛舘５３－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1694,7 +1838,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉南江村０１４鄰小東河１７－３號"
+                "k": "苗栗縣南庄鄉南江村０１４鄰小東河１７－３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1707,7 +1852,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉東村５鄰文化街１５號號"
+                "k": "苗栗縣南庄鄉東村５鄰文化街１５號",
+                "pay_list": "一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -1720,7 +1866,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉南江村０１７鄰福南５０號"
+                "k": "苗栗縣南庄鄉南江村０１７鄰福南５０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1733,7 +1880,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉西村０１２鄰大屋坑６號號"
+                "k": "苗栗縣南庄鄉西村０１２鄰大屋坑６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1746,7 +1894,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉東河村１２鄰橫屏背２６號"
+                "k": "苗栗縣南庄鄉東河村１２鄰橫屏背２６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1759,7 +1908,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉東村０１６鄰中正路２４２號號"
+                "k": "苗栗縣南庄鄉東村０１６鄰中正路２４２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1772,7 +1922,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉南江村９鄰里金舘３３號"
+                "k": "苗栗縣南庄鄉南江村９鄰里金舘３３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1785,7 +1936,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉東河村２４鄰鹿場１３－８號"
+                "k": "苗栗縣南庄鄉東河村２４鄰鹿場１３－８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1798,7 +1950,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉東河村２１鄰石壁２１號"
+                "k": "苗栗縣南庄鄉東河村２１鄰石壁２１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1811,7 +1964,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉東村１７鄰南庄１１１號號"
+                "k": "苗栗縣南庄鄉東村１７鄰南庄１１１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1824,7 +1978,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉東村１６鄰中正路２４０號號"
+                "k": "苗栗縣南庄鄉東村１６鄰中正路２４０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1837,7 +1992,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉蓬萊村８鄰紅毛舘１４２－５號"
+                "k": "苗栗縣南庄鄉蓬萊村８鄰紅毛舘１４２－５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1850,7 +2006,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣南庄鄉蓬萊村９鄰四十二份８－９號"
+                "k": "苗栗縣南庄鄉蓬萊村９鄰四十二份８－９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1863,7 +2020,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣大湖鄉新開村１６鄰十份３３號"
+                "k": "苗栗縣大湖鄉新開村１６鄰十份３３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1876,7 +2034,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣大湖鄉義和村８鄰淋漓坪１２６號"
+                "k": "苗栗縣大湖鄉義和村８鄰淋漓坪１２６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1889,7 +2048,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣大湖鄉栗林村９鄰薑麻園６號"
+                "k": "苗栗縣大湖鄉栗林村９鄰薑麻園６號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1902,7 +2062,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣大湖鄉栗林村１６鄰竹橋２０號"
+                "k": "苗栗縣大湖鄉栗林村１６鄰竹橋２０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1915,7 +2076,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣大湖鄉富興村００９鄰八寮灣２５號"
+                "k": "苗栗縣大湖鄉富興村００９鄰八寮灣２５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1928,7 +2090,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣大湖鄉富興村八寮灣１―３號"
+                "k": "苗栗縣大湖鄉富興村八寮灣１―３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1941,7 +2104,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣大湖鄉富興村６鄰水尾５―１０號"
+                "k": "苗栗縣大湖鄉富興村６鄰水尾５―１０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1954,7 +2118,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣大湖鄉富興村９鄰八寮灣１－６０號"
+                "k": "苗栗縣大湖鄉富興村９鄰八寮灣１－６０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1967,7 +2132,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣大湖鄉明湖村２鄰中原路８７－２號"
+                "k": "苗栗縣大湖鄉明湖村２鄰中原路８７－２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1980,7 +2146,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣大湖鄉新開村００３鄰新開７０－２號"
+                "k": "苗栗縣大湖鄉新開村００３鄰新開７０－２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1993,7 +2160,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣大湖鄉富興村９鄰八寮灣１－１０號"
+                "k": "苗栗縣大湖鄉富興村９鄰八寮灣１－１０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2006,7 +2174,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣大湖鄉東興村００５鄰上湖１０８號"
+                "k": "苗栗縣大湖鄉東興村００５鄰上湖１０８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2019,7 +2188,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣大湖鄉富興村００７鄰八寮灣３３－４１號"
+                "k": "苗栗縣大湖鄉富興村００７鄰八寮灣３３－４１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2032,7 +2202,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣大湖鄉栗林村１３鄰內雙坑５－３號"
+                "k": "苗栗縣大湖鄉栗林村１３鄰內雙坑５－３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2045,7 +2216,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣後龍鎮東明里１０鄰下浮尾１３７－２號"
+                "k": "苗栗縣後龍鎮東明里１０鄰下浮尾１３７－２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2058,7 +2230,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣後龍鎮大庄里１６鄰中山路２５０號"
+                "k": "苗栗縣後龍鎮大庄里１６鄰中山路２５０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2071,7 +2244,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣後龍鎮大庄里２０鄰中山路１７９號"
+                "k": "苗栗縣後龍鎮大庄里２０鄰中山路１７９號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2084,7 +2258,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣後龍鎮北龍里７鄰成功路１９號"
+                "k": "苗栗縣後龍鎮北龍里７鄰成功路１９號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2097,7 +2272,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣後龍鎮大庄里１９鄰中山路１０７號"
+                "k": "苗栗縣後龍鎮大庄里１９鄰中山路１０７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2110,7 +2286,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣後龍鎮校椅里５鄰造豐路２４７號"
+                "k": "苗栗縣後龍鎮校椅里５鄰造豐路２４７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2123,7 +2300,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣後龍鎮中龍里１鄰中華路１５１號"
+                "k": "苗栗縣後龍鎮中龍里１鄰中華路１５１號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2136,7 +2314,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣後龍鎮北龍里７鄰成功路９號"
+                "k": "苗栗縣後龍鎮北龍里７鄰成功路９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2149,7 +2328,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣後龍鎮龍坑里０１６鄰十班坑１５６―５６號"
+                "k": "苗栗縣後龍鎮龍坑里０１６鄰十班坑１５６―５６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2162,7 +2342,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣後龍鎮中龍里１２鄰三民路１２１號"
+                "k": "苗栗縣後龍鎮中龍里１２鄰三民路１２１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2175,7 +2356,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣後龍鎮北龍里００７鄰中華路２４號"
+                "k": "苗栗縣後龍鎮北龍里００７鄰中華路２４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2188,7 +2370,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣後龍鎮北龍里００７鄰中正路１２６號"
+                "k": "苗栗縣後龍鎮北龍里００７鄰中正路１２６號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2201,7 +2384,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣後龍鎮北龍里０１１鄰中華路５０－３號"
+                "k": "苗栗縣後龍鎮北龍里０１１鄰中華路５０－３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2214,7 +2398,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣後龍鎮中龍里００７鄰中市街２３１―３號"
+                "k": "苗栗縣後龍鎮中龍里００７鄰中市街２３１―３號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2227,7 +2412,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣後龍鎮中龍里０１１鄰三民路１３０―１號"
+                "k": "苗栗縣後龍鎮中龍里０１１鄰三民路１３０―１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2240,7 +2426,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣後龍鎮中龍里００１鄰中華路１５１―１號"
+                "k": "苗栗縣後龍鎮中龍里００１鄰中華路１５１―１號",
+                "pay_list": "愛金卡\/台灣 PAY\/一卡通\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2253,7 +2440,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣後龍鎮中龍里００１鄰中北街２５０―７號"
+                "k": "苗栗縣後龍鎮中龍里００１鄰中北街２５０―７號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2266,7 +2454,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣泰安鄉錦水村１１鄰圓墩８６－６號"
+                "k": "苗栗縣泰安鄉錦水村１１鄰圓墩８６－６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2279,7 +2468,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣泰安鄉錦水村１１鄰圓墩７３－１號"
+                "k": "苗栗縣泰安鄉錦水村１１鄰圓墩７３－１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2292,7 +2482,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣泰安鄉錦水村９鄰橫龍山３４號"
+                "k": "苗栗縣泰安鄉錦水村９鄰橫龍山３４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2305,7 +2496,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣泰安鄉錦水村９鄰橫龍山３４―１號"
+                "k": "苗栗縣泰安鄉錦水村９鄰橫龍山３４―１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2318,7 +2510,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣泰安鄉錦水村１０鄰橫龍山７２號"
+                "k": "苗栗縣泰安鄉錦水村１０鄰橫龍山７２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2331,7 +2524,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣泰安鄉清安村１２鄰洗水坑１１４號"
+                "k": "苗栗縣泰安鄉清安村１２鄰洗水坑１１４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2344,7 +2538,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣泰安鄉士林村５鄰馬那邦３２－１號"
+                "k": "苗栗縣泰安鄉士林村５鄰馬那邦３２－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2357,7 +2552,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣泰安鄉錦水村１０鄰橫龍山７２―１號"
+                "k": "苗栗縣泰安鄉錦水村１０鄰橫龍山７２―１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2370,7 +2566,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣泰安鄉錦水村１０鄰橫龍山７２－２號"
+                "k": "苗栗縣泰安鄉錦水村１０鄰橫龍山７２－２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2383,7 +2580,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣泰安鄉梅園村６鄰天狗２７－１號"
+                "k": "苗栗縣泰安鄉梅園村６鄰天狗２７－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2396,7 +2594,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣獅潭鄉新店村４鄰新店４６－５號"
+                "k": "苗栗縣獅潭鄉新店村４鄰新店４６－５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2409,7 +2608,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣獅潭鄉新店村１鄰小東勢２３之１號"
+                "k": "苗栗縣獅潭鄉新店村１鄰小東勢２３之１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2422,7 +2622,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣獅潭鄉新店村００１鄰小東勢１９號"
+                "k": "苗栗縣獅潭鄉新店村００１鄰小東勢１９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2435,7 +2636,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮佳興里照南路１６２號"
+                "k": "苗栗縣竹南鎮佳興里照南路１６２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2448,7 +2650,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮頂埔里中華路３１５號"
+                "k": "苗栗縣竹南鎮頂埔里中華路３１５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2461,7 +2664,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮大厝里０２１鄰中正路２７５號"
+                "k": "苗栗縣竹南鎮大厝里０２１鄰中正路２７５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2474,7 +2678,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮崎頂里１３鄰仁愛街１３８６號"
+                "k": "苗栗縣竹南鎮崎頂里１３鄰仁愛街１３８６號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2487,7 +2692,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮聖福里１７鄰龍天路１３８號"
+                "k": "苗栗縣竹南鎮聖福里１７鄰龍天路１３８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2500,7 +2706,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里０１１鄰光復路１３９號"
+                "k": "苗栗縣竹南鎮照南里０１１鄰光復路１３９號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2513,7 +2720,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮龍鳳里１４鄰龍江街１０３之１號"
+                "k": "苗栗縣竹南鎮龍鳳里１４鄰龍江街１０３之１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2526,7 +2734,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮山佳里００４鄰光復路５１６號"
+                "k": "苗栗縣竹南鎮山佳里００４鄰光復路５１６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2539,7 +2748,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮正南里０２８鄰大營路５６號"
+                "k": "苗栗縣竹南鎮正南里０２８鄰大營路５６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2552,7 +2762,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮山佳里５鄰光復路５３６號"
+                "k": "苗栗縣竹南鎮山佳里５鄰光復路５３６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2565,7 +2776,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里博愛街７４號"
+                "k": "苗栗縣竹南鎮照南里博愛街７４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2578,7 +2790,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里博愛街８６號"
+                "k": "苗栗縣竹南鎮照南里博愛街８６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2591,7 +2804,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮竹南里１６鄰博愛街８７號"
+                "k": "苗栗縣竹南鎮竹南里１６鄰博愛街８７號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2604,7 +2818,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮正南里０２３鄰民治街５５號"
+                "k": "苗栗縣竹南鎮正南里０２３鄰民治街５５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2617,7 +2832,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里０２５鄰立達街１９０號"
+                "k": "苗栗縣竹南鎮照南里０２５鄰立達街１９０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2630,7 +2846,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮新南里公園路１０８之１號"
+                "k": "苗栗縣竹南鎮新南里公園路１０８之１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2643,7 +2860,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮頂埔里００１鄰中華路７８巷３１號"
+                "k": "苗栗縣竹南鎮頂埔里００１鄰中華路７８巷３１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2656,7 +2874,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮崎頂里保興街１２２巷２弄２２號"
+                "k": "苗栗縣竹南鎮崎頂里保興街１２２巷２弄２２號",
+                "pay_list": "台灣 PAY\/一卡通\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2669,7 +2888,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮大埔里２鄰科專五路１０２號"
+                "k": "苗栗縣竹南鎮大埔里２鄰科專五路１０２號",
+                "pay_list": "街口支付\/LINE Pay Money\/愛金卡\/台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2682,7 +2902,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮中華里１８鄰大業街８５號"
+                "k": "苗栗縣竹南鎮中華里１８鄰大業街８５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2695,7 +2916,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮頂埔里１２鄰中華路１５０號"
+                "k": "苗栗縣竹南鎮頂埔里１２鄰中華路１５０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2708,7 +2930,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里１８鄰延平路１５８－９號"
+                "k": "苗栗縣竹南鎮照南里１８鄰延平路１５８－９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2721,7 +2944,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮頂埔里中華路１０５號"
+                "k": "苗栗縣竹南鎮頂埔里中華路１０５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2734,7 +2958,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮中華里１９鄰博愛街２７９號"
+                "k": "苗栗縣竹南鎮中華里１９鄰博愛街２７９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2747,7 +2972,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮正南里民族街５９號"
+                "k": "苗栗縣竹南鎮正南里民族街５９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2760,7 +2986,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮竹南里１２鄰民族街６９－２號"
+                "k": "苗栗縣竹南鎮竹南里１２鄰民族街６９－２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2773,7 +3000,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里博愛街４４號"
+                "k": "苗栗縣竹南鎮照南里博愛街４４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -2786,7 +3014,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮山佳里０１３鄰龍山路１７１號"
+                "k": "苗栗縣竹南鎮山佳里０１３鄰龍山路１７１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2799,7 +3028,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮正南里光復路１７６之１號"
+                "k": "苗栗縣竹南鎮正南里光復路１７６之１號",
+                "pay_list": "台灣 PAY\/一卡通\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2812,7 +3042,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮開元里００６鄰開元路５５９號"
+                "k": "苗栗縣竹南鎮開元里００６鄰開元路５５９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2825,7 +3056,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮大厝里００４鄰新生路３９號"
+                "k": "苗栗縣竹南鎮大厝里００４鄰新生路３９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2838,7 +3070,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里００３鄰光復路１８２號"
+                "k": "苗栗縣竹南鎮照南里００３鄰光復路１８２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2851,7 +3084,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮頂埔里１５鄰中華路１１７號"
+                "k": "苗栗縣竹南鎮頂埔里１５鄰中華路１１７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2864,7 +3098,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮頂埔里１５鄰中華路１１５號"
+                "k": "苗栗縣竹南鎮頂埔里１５鄰中華路１１５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2877,7 +3112,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮正南里延平路６６號"
+                "k": "苗栗縣竹南鎮正南里延平路６６號",
+                "pay_list": "一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2890,7 +3126,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里民族街１２６號"
+                "k": "苗栗縣竹南鎮照南里民族街１２６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2903,7 +3140,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮聖福里延平路２０７號"
+                "k": "苗栗縣竹南鎮聖福里延平路２０７號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2916,7 +3154,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮竹南里１０鄰民治街４２號"
+                "k": "苗栗縣竹南鎮竹南里１０鄰民治街４２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2929,7 +3168,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮竹南里１０鄰光復路１３３號"
+                "k": "苗栗縣竹南鎮竹南里１０鄰光復路１３３號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2942,7 +3182,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里光復路２０４號"
+                "k": "苗栗縣竹南鎮照南里光復路２０４號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2955,7 +3196,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮聖福里１３鄰環市路３段１５３號"
+                "k": "苗栗縣竹南鎮聖福里１３鄰環市路３段１５３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2968,7 +3210,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮新南里４鄰東平路９１號"
+                "k": "苗栗縣竹南鎮新南里４鄰東平路９１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2981,7 +3224,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里１６鄰博愛街１６０號"
+                "k": "苗栗縣竹南鎮照南里１６鄰博愛街１６０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2994,7 +3238,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮正南里福德路１２７號"
+                "k": "苗栗縣竹南鎮正南里福德路１２７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3007,7 +3252,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮聖福里龍天路１１號"
+                "k": "苗栗縣竹南鎮聖福里龍天路１１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3020,7 +3266,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮龍鳳里龍山路一段２１８號"
+                "k": "苗栗縣竹南鎮龍鳳里龍山路一段２１８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3033,7 +3280,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮竹南里博愛街３９號"
+                "k": "苗栗縣竹南鎮竹南里博愛街３９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3046,7 +3294,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮竹南里中山路１１５號"
+                "k": "苗栗縣竹南鎮竹南里中山路１１５號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3059,7 +3308,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮中華里０１２鄰中正路３０８號"
+                "k": "苗栗縣竹南鎮中華里０１２鄰中正路３０８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3072,7 +3322,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮頂埔里００９鄰頂大埔１３號"
+                "k": "苗栗縣竹南鎮頂埔里００９鄰頂大埔１３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3085,7 +3336,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮頂埔里０１２鄰中華路１０８號"
+                "k": "苗栗縣竹南鎮頂埔里０１２鄰中華路１０８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3098,7 +3350,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮大埔里１鄰科專五路４０３號"
+                "k": "苗栗縣竹南鎮大埔里１鄰科專五路４０３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3111,7 +3364,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮新南里０１７鄰公園路１１６號"
+                "k": "苗栗縣竹南鎮新南里０１７鄰公園路１１６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3124,7 +3378,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮竹南里博愛街１３９號"
+                "k": "苗栗縣竹南鎮竹南里博愛街１３９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3137,7 +3392,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮竹南里民治街４８號"
+                "k": "苗栗縣竹南鎮竹南里民治街４８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3150,7 +3406,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮天文里３鄰龍山路二段９２號"
+                "k": "苗栗縣竹南鎮天文里３鄰龍山路二段９２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3163,7 +3420,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里０１６鄰博愛街１７４號"
+                "k": "苗栗縣竹南鎮照南里０１６鄰博愛街１７４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3176,7 +3434,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里華東街９０號"
+                "k": "苗栗縣竹南鎮照南里華東街９０號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3189,7 +3448,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮海口里１０鄰保福路６號"
+                "k": "苗栗縣竹南鎮海口里１０鄰保福路６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3202,7 +3462,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里華東街８１號"
+                "k": "苗栗縣竹南鎮照南里華東街８１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3215,7 +3476,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里光復路２３７號"
+                "k": "苗栗縣竹南鎮照南里光復路２３７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3228,7 +3490,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮天文里龍山路二段２０號"
+                "k": "苗栗縣竹南鎮天文里龍山路二段２０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3241,7 +3504,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里０２４鄰立達街２５號"
+                "k": "苗栗縣竹南鎮照南里０２４鄰立達街２５號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3254,7 +3518,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里０１８鄰立達街２８號"
+                "k": "苗栗縣竹南鎮照南里０１８鄰立達街２８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3267,7 +3532,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮頂埔里００１鄰中華路４號"
+                "k": "苗栗縣竹南鎮頂埔里００１鄰中華路４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3280,7 +3546,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮正南里０２０鄰福德路６５號"
+                "k": "苗栗縣竹南鎮正南里０２０鄰福德路６５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3293,7 +3560,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮竹南里０１６鄰延平路２７―４號"
+                "k": "苗栗縣竹南鎮竹南里０１６鄰延平路２７―４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3306,7 +3574,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮正南里０１８鄰中正路１７７號"
+                "k": "苗栗縣竹南鎮正南里０１８鄰中正路１７７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3319,7 +3588,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮竹南里０１６鄰延平路２７―５號"
+                "k": "苗栗縣竹南鎮竹南里０１６鄰延平路２７―５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3332,7 +3602,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里光復路１７３號"
+                "k": "苗栗縣竹南鎮照南里光復路１７３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3345,7 +3616,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里０２２鄰華東街５３號"
+                "k": "苗栗縣竹南鎮照南里０２２鄰華東街５３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3358,7 +3630,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮營盤里００５鄰建國路１１８號"
+                "k": "苗栗縣竹南鎮營盤里００５鄰建國路１１８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3371,7 +3644,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮營盤里００９鄰博愛街３２６號"
+                "k": "苗栗縣竹南鎮營盤里００９鄰博愛街３２６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3384,7 +3658,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮龍鳳里００７鄰龍安街７９號"
+                "k": "苗栗縣竹南鎮龍鳳里００７鄰龍安街７９號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3397,7 +3672,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮竹南里０１４鄰和平街８１―３號"
+                "k": "苗栗縣竹南鎮竹南里０１４鄰和平街８１―３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3410,7 +3686,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮竹南里００９鄰光復路１２９號"
+                "k": "苗栗縣竹南鎮竹南里００９鄰光復路１２９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3423,7 +3700,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮竹南里００８鄰民權街２９號"
+                "k": "苗栗縣竹南鎮竹南里００８鄰民權街２９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3436,7 +3714,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里博愛街１８８號"
+                "k": "苗栗縣竹南鎮照南里博愛街１８８號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3449,7 +3728,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮山佳里８鄰光復路５２０號"
+                "k": "苗栗縣竹南鎮山佳里８鄰光復路５２０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3462,7 +3742,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮新南里維新路５０號"
+                "k": "苗栗縣竹南鎮新南里維新路５０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3475,7 +3756,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里博愛街１９４號"
+                "k": "苗栗縣竹南鎮照南里博愛街１９４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3488,7 +3770,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮營盤里０１９鄰營盤邊６４―１號"
+                "k": "苗栗縣竹南鎮營盤里０１９鄰營盤邊６４―１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3501,7 +3784,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮中華里１９鄰博愛街２９７號"
+                "k": "苗栗縣竹南鎮中華里１９鄰博愛街２９７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3514,7 +3798,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮營盤里００７鄰延平路１４１號"
+                "k": "苗栗縣竹南鎮營盤里００７鄰延平路１４１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3527,7 +3812,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里立達街２０號"
+                "k": "苗栗縣竹南鎮照南里立達街２０號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3540,7 +3826,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里００３鄰光復路１８０號"
+                "k": "苗栗縣竹南鎮照南里００３鄰光復路１８０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3553,7 +3840,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里華東街７６號"
+                "k": "苗栗縣竹南鎮照南里華東街７６號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3566,7 +3854,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮大埔里２鄰大埔六街９７號"
+                "k": "苗栗縣竹南鎮大埔里２鄰大埔六街９７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3579,7 +3868,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮海口里０１２鄰仁德路３６１巷３７號"
+                "k": "苗栗縣竹南鎮海口里０１２鄰仁德路３６１巷３７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3592,7 +3882,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里１８鄰立達街１６號"
+                "k": "苗栗縣竹南鎮照南里１８鄰立達街１６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3605,7 +3896,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮聖福里龍天路９０號"
+                "k": "苗栗縣竹南鎮聖福里龍天路９０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3618,7 +3910,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮新南里五谷王１６號"
+                "k": "苗栗縣竹南鎮新南里五谷王１６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3631,7 +3924,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里光復路２１９號"
+                "k": "苗栗縣竹南鎮照南里光復路２１９號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3644,7 +3938,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮大埔里２鄰科專二路２３３號"
+                "k": "苗栗縣竹南鎮大埔里２鄰科專二路２３３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3657,7 +3952,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮大埔里２鄰科專六路２９８號"
+                "k": "苗栗縣竹南鎮大埔里２鄰科專六路２９８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3670,7 +3966,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮正南里民治街２７之５號"
+                "k": "苗栗縣竹南鎮正南里民治街２７之５號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3683,7 +3980,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮大埔里１鄰大埔一街７９號"
+                "k": "苗栗縣竹南鎮大埔里１鄰大埔一街７９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3696,7 +3994,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮竹南里博愛街１５５號"
+                "k": "苗栗縣竹南鎮竹南里博愛街１５５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3709,7 +4008,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮竹南里博愛街１號"
+                "k": "苗栗縣竹南鎮竹南里博愛街１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3722,7 +4022,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮頂埔里科北一路２１號"
+                "k": "苗栗縣竹南鎮頂埔里科北一路２１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3735,7 +4036,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮中華里０１６鄰萬大街７３號"
+                "k": "苗栗縣竹南鎮中華里０１６鄰萬大街７３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3748,7 +4050,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮正南里中正路１１９號"
+                "k": "苗栗縣竹南鎮正南里中正路１１９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3761,7 +4064,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮大厝里４鄰新生路６６號"
+                "k": "苗栗縣竹南鎮大厝里４鄰新生路６６號",
+                "pay_list": "街口支付\/一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3774,7 +4078,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮照南里民族街１１５號"
+                "k": "苗栗縣竹南鎮照南里民族街１１５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3787,7 +4092,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮正南里１１鄰民族街１６號"
+                "k": "苗栗縣竹南鎮正南里１１鄰民族街１６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3800,7 +4106,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮竹南里０１３鄰延平路６８－１號"
+                "k": "苗栗縣竹南鎮竹南里０１３鄰延平路６８－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3813,7 +4120,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣竹南鎮龍鳳里１７鄰龍山路一段１６３巷５０弄３７號"
+                "k": "苗栗縣竹南鎮龍鳳里１７鄰龍山路一段１６３巷５０弄３７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3826,7 +4134,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮苑南里９鄰天下路８３號"
+                "k": "苗栗縣苑裡鎮苑南里９鄰天下路８３號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3839,7 +4148,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮西勢里中山路１１６號"
+                "k": "苗栗縣苑裡鎮西勢里中山路１１６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3852,7 +4162,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮苑南里為公路７３號"
+                "k": "苗栗縣苑裡鎮苑南里為公路７３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3865,7 +4176,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮苑南里１鄰新生路５０－１號"
+                "k": "苗栗縣苑裡鎮苑南里１鄰新生路５０－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3878,7 +4190,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮苑南里４鄰為公路３２―１號"
+                "k": "苗栗縣苑裡鎮苑南里４鄰為公路３２―１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3891,7 +4204,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮苑東里建國路６２號"
+                "k": "苗栗縣苑裡鎮苑東里建國路６２號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -3904,7 +4218,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮苑北里１３鄰育才街１２巷１３號"
+                "k": "苗栗縣苑裡鎮苑北里１３鄰育才街１２巷１３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3917,7 +4232,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮苑南里０１１鄰為公路６７號"
+                "k": "苗栗縣苑裡鎮苑南里０１１鄰為公路６７號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3930,7 +4246,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮苑南里２鄰仁愛街２號"
+                "k": "苗栗縣苑裡鎮苑南里２鄰仁愛街２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3943,7 +4260,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮苑南里１１鄰中山路１４２號"
+                "k": "苗栗縣苑裡鎮苑南里１１鄰中山路１４２號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -3956,7 +4274,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮苑南里１１鄰為公路８５號"
+                "k": "苗栗縣苑裡鎮苑南里１１鄰為公路８５號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -3969,7 +4288,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮苑南里信義路８９號"
+                "k": "苗栗縣苑裡鎮苑南里信義路８９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3982,7 +4302,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮苑南里信義路５８號"
+                "k": "苗栗縣苑裡鎮苑南里信義路５８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3995,7 +4316,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮苑南里１１鄰天下路７１號"
+                "k": "苗栗縣苑裡鎮苑南里１１鄰天下路７１號",
+                "pay_list": "台灣 PAY\/一卡通\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4008,7 +4330,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮西勢里中山路１１０號"
+                "k": "苗栗縣苑裡鎮西勢里中山路１１０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4021,7 +4344,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮苑南里１鄰新興路８６－３號"
+                "k": "苗栗縣苑裡鎮苑南里１鄰新興路８６－３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4034,7 +4358,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮客庄里新興路４８號"
+                "k": "苗栗縣苑裡鎮客庄里新興路４８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4047,7 +4372,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮西勢里１１鄰西勢２－２２號"
+                "k": "苗栗縣苑裡鎮西勢里１１鄰西勢２－２２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4060,7 +4386,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮苑南里１０鄰和平路１６１號"
+                "k": "苗栗縣苑裡鎮苑南里１０鄰和平路１６１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4073,7 +4400,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮苑南里南興路１５０號"
+                "k": "苗栗縣苑裡鎮苑南里南興路１５０號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4086,7 +4414,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮客庄里新興路５４號"
+                "k": "苗栗縣苑裡鎮客庄里新興路５４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4099,7 +4428,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮客庄里１１鄰信義路１０－１７號"
+                "k": "苗栗縣苑裡鎮客庄里１１鄰信義路１０－１７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4112,7 +4442,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮客庄里新興路２５號"
+                "k": "苗栗縣苑裡鎮客庄里新興路２５號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4125,7 +4456,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮客庄里１３鄰信義路２１號"
+                "k": "苗栗縣苑裡鎮客庄里１３鄰信義路２１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4138,7 +4470,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮客庄里２４鄰新興路２７號"
+                "k": "苗栗縣苑裡鎮客庄里２４鄰新興路２７號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4151,7 +4484,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮苑南里２鄰世界路一段６０號"
+                "k": "苗栗縣苑裡鎮苑南里２鄰世界路一段６０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4164,7 +4498,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮玉田里玉田２５―１號"
+                "k": "苗栗縣苑裡鎮玉田里玉田２５―１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4177,7 +4512,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮苑南里５鄰信義路４７號"
+                "k": "苗栗縣苑裡鎮苑南里５鄰信義路４７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4190,7 +4526,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮苑南里９鄰為公路５６號"
+                "k": "苗栗縣苑裡鎮苑南里９鄰為公路５６號",
+                "pay_list": "一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4203,7 +4540,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮苑東里建國路９４號"
+                "k": "苗栗縣苑裡鎮苑東里建國路９４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4216,7 +4554,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苑裡鎮苑南里１２鄰中山路１７０號"
+                "k": "苗栗縣苑裡鎮苑南里１２鄰中山路１７０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4229,7 +4568,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市嘉盛里２３鄰為公路５２４號"
+                "k": "苗栗縣苗栗市嘉盛里２３鄰為公路５２４號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4242,7 +4582,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市高苗里１１鄰大同路１４８號"
+                "k": "苗栗縣苗栗市高苗里１１鄰大同路１４８號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4255,7 +4596,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市玉華里玉清街１６巷１號"
+                "k": "苗栗縣苗栗市玉華里玉清街１６巷１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4268,7 +4610,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市北苗里１３鄰中華路８５號"
+                "k": "苗栗縣苗栗市北苗里１３鄰中華路８５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4281,7 +4624,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里府前路１１２號"
+                "k": "苗栗縣苗栗市建功里府前路１１２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4294,7 +4638,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市綠苗里光復路１１９號"
+                "k": "苗栗縣苗栗市綠苗里光復路１１９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4307,7 +4652,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市青苗里至公路５７號"
+                "k": "苗栗縣苗栗市青苗里至公路５７號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4320,7 +4666,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市上苗里長安街８１號"
+                "k": "苗栗縣苗栗市上苗里長安街８１號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4333,7 +4680,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市福麗里０３４鄰府前路１４８號"
+                "k": "苗栗縣苗栗市福麗里０３４鄰府前路１４８號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4346,7 +4694,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市上苗里７鄰長安街１８號"
+                "k": "苗栗縣苗栗市上苗里７鄰長安街１８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4359,7 +4708,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市福麗里０３４鄰府前路１３８號"
+                "k": "苗栗縣苗栗市福麗里０３４鄰府前路１３８號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4372,7 +4722,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里２５鄰民族路７０之１號"
+                "k": "苗栗縣苗栗市建功里２５鄰民族路７０之１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4385,7 +4736,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市勝利里０２２鄰中正路１０７１號"
+                "k": "苗栗縣苗栗市勝利里０２２鄰中正路１０７１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4398,7 +4750,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里０２１鄰府前路１７７號"
+                "k": "苗栗縣苗栗市建功里０２１鄰府前路１７７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4411,7 +4764,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里２５鄰忠孝路７７號"
+                "k": "苗栗縣苗栗市建功里２５鄰忠孝路７７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4424,7 +4778,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市新苗里００２鄰中正路７８９號"
+                "k": "苗栗縣苗栗市新苗里００２鄰中正路７８９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4437,7 +4792,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市福麗里０１６鄰國華路９４７號"
+                "k": "苗栗縣苗栗市福麗里０１６鄰國華路９４７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4450,7 +4806,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市玉華里玉清一街１號"
+                "k": "苗栗縣苗栗市玉華里玉清一街１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4463,7 +4820,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市福麗里０２７鄰民族路１７２號"
+                "k": "苗栗縣苗栗市福麗里０２７鄰民族路１７２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4476,7 +4834,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市文聖里３鄰國華路５９９號"
+                "k": "苗栗縣苗栗市文聖里３鄰國華路５９９號",
+                "pay_list": "街口支付\/一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4489,7 +4848,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市恭敬里８鄰中正路１０６２號"
+                "k": "苗栗縣苗栗市恭敬里８鄰中正路１０６２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4502,7 +4862,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市福星里６鄰豐年路１７４號"
+                "k": "苗栗縣苗栗市福星里６鄰豐年路１７４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4515,7 +4876,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里１６鄰府東路１２號"
+                "k": "苗栗縣苗栗市建功里１６鄰府東路１２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4528,7 +4890,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里忠孝路２１２號"
+                "k": "苗栗縣苗栗市建功里忠孝路２１２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4541,7 +4904,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市勝利里２２鄰中正路１０７７號"
+                "k": "苗栗縣苗栗市勝利里２２鄰中正路１０７７號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4554,7 +4918,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市福星里２９鄰中華東街１３０號"
+                "k": "苗栗縣苗栗市福星里２９鄰中華東街１３０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4567,7 +4932,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市福麗里府前路１６６號"
+                "k": "苗栗縣苗栗市福麗里府前路１６６號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4580,7 +4946,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市福麗里至公路１４０號"
+                "k": "苗栗縣苗栗市福麗里至公路１４０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4593,7 +4960,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市清華里為公路１５２號"
+                "k": "苗栗縣苗栗市清華里為公路１５２號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4606,7 +4974,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里府前路１７５號"
+                "k": "苗栗縣苗栗市建功里府前路１７５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4619,7 +4988,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市新苗里６鄰新東街５３號"
+                "k": "苗栗縣苗栗市新苗里６鄰新東街５３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4632,7 +5002,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里府前路１２１號"
+                "k": "苗栗縣苗栗市建功里府前路１２１號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4645,7 +5016,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市北苗里自治路９４號"
+                "k": "苗栗縣苗栗市北苗里自治路９４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4658,7 +5030,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市福麗里００２鄰至公路１４１―１號"
+                "k": "苗栗縣苗栗市福麗里００２鄰至公路１４１―１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4671,7 +5044,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市北苗里８鄰英明街６６號"
+                "k": "苗栗縣苗栗市北苗里８鄰英明街６６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4684,7 +5058,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里２１鄰府前路１２５號"
+                "k": "苗栗縣苗栗市建功里２１鄰府前路１２５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4697,7 +5072,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市玉苗里中山路７６５號"
+                "k": "苗栗縣苗栗市玉苗里中山路７６５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4710,7 +5086,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里饒平街２４號"
+                "k": "苗栗縣苗栗市建功里饒平街２４號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4723,7 +5100,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里民族路６８―２號"
+                "k": "苗栗縣苗栗市建功里民族路６８―２號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4736,7 +5114,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市青苗里中山路５８９號"
+                "k": "苗栗縣苗栗市青苗里中山路５８９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4749,7 +5128,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市恭敬里００８鄰中正路１０７８號"
+                "k": "苗栗縣苗栗市恭敬里００８鄰中正路１０７８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4762,7 +5142,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市勝利里００１鄰中正路９２１號"
+                "k": "苗栗縣苗栗市勝利里００１鄰中正路９２１號",
+                "pay_list": "台灣 PAY\/一卡通\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4775,7 +5156,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里府前路１７３號"
+                "k": "苗栗縣苗栗市建功里府前路１７３號",
+                "pay_list": "台灣 PAY\/一卡通\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4788,7 +5170,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里２４鄰府前路１０５號"
+                "k": "苗栗縣苗栗市建功里２４鄰府前路１０５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4801,7 +5184,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里２鄰建功街２０－１號"
+                "k": "苗栗縣苗栗市建功里２鄰建功街２０－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4814,7 +5198,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里２２鄰府前路８６－２號"
+                "k": "苗栗縣苗栗市建功里２２鄰府前路８６－２號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4827,7 +5212,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里３５鄰忠孝路２４號"
+                "k": "苗栗縣苗栗市建功里３５鄰忠孝路２４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4840,7 +5226,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市勝利里３１鄰新東街１４０號"
+                "k": "苗栗縣苗栗市勝利里３１鄰新東街１４０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4853,7 +5240,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市勝利里００１鄰中正路９２５號"
+                "k": "苗栗縣苗栗市勝利里００１鄰中正路９２５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4866,7 +5254,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市文山里０１４鄰祥發街５５號"
+                "k": "苗栗縣苗栗市文山里０１４鄰祥發街５５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4879,7 +5268,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市維新里新東街１９７號"
+                "k": "苗栗縣苗栗市維新里新東街１９７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4892,7 +5282,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市新苗里００７鄰日新街１號"
+                "k": "苗栗縣苗栗市新苗里００７鄰日新街１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4905,7 +5296,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市勝利里０３９鄰金鳳街６４號"
+                "k": "苗栗縣苗栗市勝利里０３９鄰金鳳街６４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4918,7 +5310,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市新苗里０１５鄰天雲街１巷８號"
+                "k": "苗栗縣苗栗市新苗里０１５鄰天雲街１巷８號",
+                "pay_list": "一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -4931,7 +5324,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市北苗里英才路３０５號"
+                "k": "苗栗縣苗栗市北苗里英才路３０５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4944,7 +5338,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市高苗里０１７鄰大同路１１８號"
+                "k": "苗栗縣苗栗市高苗里０１７鄰大同路１１８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4957,7 +5352,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里大埔街５６號"
+                "k": "苗栗縣苗栗市建功里大埔街５６號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4970,7 +5366,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市高苗里０１０鄰中正路８８６號"
+                "k": "苗栗縣苗栗市高苗里０１０鄰中正路８８６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -4983,7 +5380,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市文山里３鄰文山６３―６號"
+                "k": "苗栗縣苗栗市文山里３鄰文山６３―６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4996,7 +5394,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市中苗里２鄰中正路４７５號"
+                "k": "苗栗縣苗栗市中苗里２鄰中正路４７５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5009,7 +5408,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里２７鄰府東路２號"
+                "k": "苗栗縣苗栗市建功里２７鄰府東路２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5022,7 +5422,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市玉華里８鄰玉清路１４２－１號"
+                "k": "苗栗縣苗栗市玉華里８鄰玉清路１４２－１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5035,7 +5436,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市恭敬里１０鄰東海街２號"
+                "k": "苗栗縣苗栗市恭敬里１０鄰東海街２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5048,7 +5450,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市青苗里中山路５９６號"
+                "k": "苗栗縣苗栗市青苗里中山路５９６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5061,7 +5464,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市恭敬里００１鄰中正路９３８號"
+                "k": "苗栗縣苗栗市恭敬里００１鄰中正路９３８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5074,7 +5478,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市勝利里１鄰中正路９１１號"
+                "k": "苗栗縣苗栗市勝利里１鄰中正路９１１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5087,7 +5492,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里２１鄰府前路１７１號"
+                "k": "苗栗縣苗栗市建功里２１鄰府前路１７１號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5100,7 +5506,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市文山里００４鄰國華路９８０號"
+                "k": "苗栗縣苗栗市文山里００４鄰國華路９８０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5113,7 +5520,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市北苗里北安街１７８號"
+                "k": "苗栗縣苗栗市北苗里北安街１７８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5126,7 +5534,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市北苗里３２鄰英才路２２號"
+                "k": "苗栗縣苗栗市北苗里３２鄰英才路２２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5139,7 +5548,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市恭敬里０１０鄰東海街８號"
+                "k": "苗栗縣苗栗市恭敬里０１０鄰東海街８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5152,7 +5562,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市恭敬里００６鄰中正路１０１０號"
+                "k": "苗栗縣苗栗市恭敬里００６鄰中正路１０１０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5165,7 +5576,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市高苗里００７鄰光復路２１號"
+                "k": "苗栗縣苗栗市高苗里００７鄰光復路２１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5178,7 +5590,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市北苗里華民路７６號"
+                "k": "苗栗縣苗栗市北苗里華民路７６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5191,7 +5604,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市青苗里中正路６７３號"
+                "k": "苗栗縣苗栗市青苗里中正路６７３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5204,7 +5618,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市青苗里中正路５６５號"
+                "k": "苗栗縣苗栗市青苗里中正路５６５號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5217,7 +5632,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市玉清里１４鄰育英街南苑２７號"
+                "k": "苗栗縣苗栗市玉清里１４鄰育英街南苑２７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5230,7 +5646,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市清華里為公路３５２號"
+                "k": "苗栗縣苗栗市清華里為公路３５２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5243,7 +5660,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市勝利里０２２鄰中正路１０９５號"
+                "k": "苗栗縣苗栗市勝利里０２２鄰中正路１０９５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5256,7 +5674,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市大同里００１鄰光復路１３３號"
+                "k": "苗栗縣苗栗市大同里００１鄰光復路１３３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5269,7 +5688,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市文山里０１１鄰國華路７８６巷１８號"
+                "k": "苗栗縣苗栗市文山里０１１鄰國華路７８６巷１８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5282,7 +5702,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市綠苗里０１５鄰光復路７７號"
+                "k": "苗栗縣苗栗市綠苗里０１５鄰光復路７７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5295,7 +5716,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里府前路９９號"
+                "k": "苗栗縣苗栗市建功里府前路９９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5308,7 +5730,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里２２鄰府前路１１０號"
+                "k": "苗栗縣苗栗市建功里２２鄰府前路１１０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5321,7 +5744,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市中苗里００７鄰中山路５３７號"
+                "k": "苗栗縣苗栗市中苗里００７鄰中山路５３７號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5334,7 +5758,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里府前路１５１號"
+                "k": "苗栗縣苗栗市建功里府前路１５１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5347,7 +5772,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市北苗里英才路２２號"
+                "k": "苗栗縣苗栗市北苗里英才路２２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5360,7 +5786,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市勝利里４鄰中正路９５３號"
+                "k": "苗栗縣苗栗市勝利里４鄰中正路９５３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5373,7 +5800,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市青苗里１２鄰中正路５８５號"
+                "k": "苗栗縣苗栗市青苗里１２鄰中正路５８５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5386,7 +5814,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市福麗里０２１鄰民族路１０１巷９號"
+                "k": "苗栗縣苗栗市福麗里０２１鄰民族路１０１巷９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5399,7 +5828,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市恭敬里００１鄰中正路９４４號"
+                "k": "苗栗縣苗栗市恭敬里００１鄰中正路９４４號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5412,7 +5842,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市福星里３５鄰國華路２１１號"
+                "k": "苗栗縣苗栗市福星里３５鄰國華路２１１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5425,7 +5856,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市福麗里００６鄰國華路９７３號"
+                "k": "苗栗縣苗栗市福麗里００６鄰國華路９７３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5438,7 +5870,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里中山路２６５之１號"
+                "k": "苗栗縣苗栗市建功里中山路２６５之１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5451,7 +5884,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市青苗里中正路６３７號"
+                "k": "苗栗縣苗栗市青苗里中正路６３７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5464,7 +5898,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市青苗里中山路６０９號"
+                "k": "苗栗縣苗栗市青苗里中山路６０９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5477,7 +5912,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市高苗里００３鄰日新街３７號"
+                "k": "苗栗縣苗栗市高苗里００３鄰日新街３７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5490,7 +5926,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市高苗里００１鄰日新街３１號"
+                "k": "苗栗縣苗栗市高苗里００１鄰日新街３１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5503,7 +5940,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里６鄰新倉街４號"
+                "k": "苗栗縣苗栗市建功里６鄰新倉街４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5516,7 +5954,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市維新里新庄街１９號"
+                "k": "苗栗縣苗栗市維新里新庄街１９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5529,7 +5968,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市福星里２鄰中華路１６２之１號"
+                "k": "苗栗縣苗栗市福星里２鄰中華路１６２之１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5542,7 +5982,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市玉苗里光復路１６８號"
+                "k": "苗栗縣苗栗市玉苗里光復路１６８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5555,7 +5996,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市建功里忠孝路１４２號"
+                "k": "苗栗縣苗栗市建功里忠孝路１４２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5568,7 +6010,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市北苗里２１鄰正發路３５號"
+                "k": "苗栗縣苗栗市北苗里２１鄰正發路３５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5581,7 +6024,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市福麗里００１鄰至公路１５６號"
+                "k": "苗栗縣苗栗市福麗里００１鄰至公路１５６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5594,7 +6038,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市綠苗里００９鄰中正路８０４號"
+                "k": "苗栗縣苗栗市綠苗里００９鄰中正路８０４號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5607,7 +6052,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市福麗里２１鄰北安街１５１號"
+                "k": "苗栗縣苗栗市福麗里２１鄰北安街１５１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5620,7 +6066,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣苗栗市玉華里１２鄰玉清路３２９號"
+                "k": "苗栗縣苗栗市玉華里１２鄰玉清路３２９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5633,7 +6080,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣西湖鄉金獅村００２鄰金獅１８―５號"
+                "k": "苗栗縣西湖鄉金獅村００２鄰金獅１８―５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5646,7 +6094,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣通霄鎮南和里１２鄰南和１６６號"
+                "k": "苗栗縣通霄鎮南和里１２鄰南和１６６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5659,7 +6108,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣通霄鎮通灣里１８鄰中山路８９號"
+                "k": "苗栗縣通霄鎮通灣里１８鄰中山路８９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5672,7 +6122,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣通霄鎮通西里２４鄰中山路１６５號"
+                "k": "苗栗縣通霄鎮通西里２４鄰中山路１６５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5685,7 +6136,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣通霄鎮通西里中正路５９號"
+                "k": "苗栗縣通霄鎮通西里中正路５９號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5698,7 +6150,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣通霄鎮通南里５鄰中山路６６號"
+                "k": "苗栗縣通霄鎮通南里５鄰中山路６６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5711,7 +6164,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣通霄鎮白西里１２鄰白西６７－３號"
+                "k": "苗栗縣通霄鎮白西里１２鄰白西６７－３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5724,7 +6178,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣通霄鎮五南里中山路３２２號"
+                "k": "苗栗縣通霄鎮五南里中山路３２２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5737,7 +6192,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣通霄鎮通西里中山路６８號"
+                "k": "苗栗縣通霄鎮通西里中山路６８號",
+                "pay_list": "台灣 PAY\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5750,7 +6206,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣通霄鎮通西里中正路４９號"
+                "k": "苗栗縣通霄鎮通西里中正路４９號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5763,7 +6220,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣造橋鄉大西村慈聖路二段２８０巷１１號"
+                "k": "苗栗縣造橋鄉大西村慈聖路二段２８０巷１１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5776,7 +6234,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣造橋鄉大西村慈聖路２段２８０巷１１號"
+                "k": "苗栗縣造橋鄉大西村慈聖路２段２８０巷１１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5789,7 +6248,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣造橋鄉造橋村過港坪８之５號"
+                "k": "苗栗縣造橋鄉造橋村過港坪８之５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5802,7 +6262,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣銅鑼鄉銅鑼村００８鄰中正路１７３號"
+                "k": "苗栗縣銅鑼鄉銅鑼村００８鄰中正路１７３號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5815,7 +6276,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣銅鑼鄉中平村００７鄰中平９９－６號"
+                "k": "苗栗縣銅鑼鄉中平村００７鄰中平９９－６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5828,7 +6290,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣銅鑼鄉銅鑼村０１４鄰中正路４３―２號"
+                "k": "苗栗縣銅鑼鄉銅鑼村０１４鄰中正路４３―２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5841,7 +6304,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣銅鑼鄉九湖村０１２鄰銅科南路６號"
+                "k": "苗栗縣銅鑼鄉九湖村０１２鄰銅科南路６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5854,7 +6318,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣銅鑼鄉銅鑼村００７鄰中正路１６２號"
+                "k": "苗栗縣銅鑼鄉銅鑼村００７鄰中正路１６２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5867,7 +6332,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣銅鑼鄉銅鑼村７鄰中正路１６２―１號"
+                "k": "苗栗縣銅鑼鄉銅鑼村７鄰中正路１６２―１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5880,7 +6346,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣銅鑼鄉九湖村九湖４０號"
+                "k": "苗栗縣銅鑼鄉九湖村九湖４０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5893,7 +6360,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣銅鑼鄉銅鑼村１０鄰中正路１４７號"
+                "k": "苗栗縣銅鑼鄉銅鑼村１０鄰中正路１４７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5906,7 +6374,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣銅鑼鄉銅鑼村１５鄰中正路１９－１０號"
+                "k": "苗栗縣銅鑼鄉銅鑼村１５鄰中正路１９－１０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5919,7 +6388,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣銅鑼鄉銅鑼村中正路３２號"
+                "k": "苗栗縣銅鑼鄉銅鑼村中正路３２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5932,7 +6402,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市後庄里３５鄰復興街１３１號"
+                "k": "苗栗縣頭份市後庄里３５鄰復興街１３１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5945,7 +6416,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市田寮里１５鄰自強路２段４６６號"
+                "k": "苗栗縣頭份市田寮里１５鄰自強路２段４６６號",
+                "pay_list": "LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -5958,7 +6430,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市建國里２鄰中華路１５３５號"
+                "k": "苗栗縣頭份市建國里２鄰中華路１５３５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5971,7 +6444,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市建國里中華路１４２０號"
+                "k": "苗栗縣頭份市建國里中華路１４２０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5984,7 +6458,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市山下里建國路二段１３５號"
+                "k": "苗栗縣頭份市山下里建國路二段１３５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5997,7 +6472,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里１５鄰育樂街６號"
+                "k": "苗栗縣頭份市東庄里１５鄰育樂街６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6010,7 +6486,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市山下里００９鄰建國路二段１３０號"
+                "k": "苗栗縣頭份市山下里００９鄰建國路二段１３０號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6023,7 +6500,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市山下里０１０鄰建國路二段１２３號"
+                "k": "苗栗縣頭份市山下里０１０鄰建國路二段１２３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6036,7 +6514,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里１８鄰尚順路６０號"
+                "k": "苗栗縣頭份市東庄里１８鄰尚順路６０號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6049,7 +6528,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市信義里９鄰信義路５５號"
+                "k": "苗栗縣頭份市信義里９鄰信義路５５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6062,7 +6542,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市建國里０１４鄰建國路６６號"
+                "k": "苗栗縣頭份市建國里０１４鄰建國路６６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6075,7 +6556,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市建國里０１１鄰建國路１１８號"
+                "k": "苗栗縣頭份市建國里０１１鄰建國路１１８號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6088,7 +6570,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里０１８鄰東民二街１號"
+                "k": "苗栗縣頭份市東庄里０１８鄰東民二街１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6101,7 +6584,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市成功里０１１鄰建國路１７８號"
+                "k": "苗栗縣頭份市成功里０１１鄰建國路１７８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6114,7 +6598,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里１９鄰和平路３３８號"
+                "k": "苗栗縣頭份市東庄里１９鄰和平路３３８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6127,7 +6612,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里０１８鄰東民一街２號"
+                "k": "苗栗縣頭份市東庄里０１８鄰東民一街２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6140,7 +6626,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市文化里０１５鄰八德二路２７６號"
+                "k": "苗栗縣頭份市文化里０１５鄰八德二路２７６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6153,7 +6640,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市成功里００７鄰信東路３５０號"
+                "k": "苗栗縣頭份市成功里００７鄰信東路３５０號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -6166,7 +6654,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市蘆竹里１６鄰工業路９號"
+                "k": "苗栗縣頭份市蘆竹里１６鄰工業路９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6179,7 +6668,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市中興里２鄰中央路１５８號"
+                "k": "苗栗縣頭份市中興里２鄰中央路１５８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6192,7 +6682,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市忠孝里１２鄰忠孝一路７３號"
+                "k": "苗栗縣頭份市忠孝里１２鄰忠孝一路７３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6205,7 +6696,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市頭份里０１８鄰中正路２３６號"
+                "k": "苗栗縣頭份市頭份里０１８鄰中正路２３６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6218,7 +6710,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市建國里０１２鄰建國路１３２號"
+                "k": "苗栗縣頭份市建國里０１２鄰建國路１３２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6231,7 +6724,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里０１８鄰東民二街２０號"
+                "k": "苗栗縣頭份市東庄里０１８鄰東民二街２０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6244,7 +6738,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里０１８鄰東民二街６號"
+                "k": "苗栗縣頭份市東庄里０１８鄰東民二街６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6257,7 +6752,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里０１８鄰東民路１７７號"
+                "k": "苗栗縣頭份市東庄里０１８鄰東民路１７７號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6270,7 +6766,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市建國里７鄰中華路１３５３號"
+                "k": "苗栗縣頭份市建國里７鄰中華路１３５３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6283,7 +6780,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市田寮里２３鄰自強路二段５０２號"
+                "k": "苗栗縣頭份市田寮里２３鄰自強路二段５０２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6296,7 +6794,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市興隆里１１鄰興隆路３５９巷２１５號"
+                "k": "苗栗縣頭份市興隆里１１鄰興隆路３５９巷２１５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6309,7 +6808,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里尚順路６８號"
+                "k": "苗栗縣頭份市東庄里尚順路６８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6322,7 +6822,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市仁愛里０１３鄰信東路１３號"
+                "k": "苗栗縣頭份市仁愛里０１３鄰信東路１３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6335,7 +6836,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市建國里建國路６６號"
+                "k": "苗栗縣頭份市建國里建國路６６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6348,7 +6850,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市民族里９鄰中華路９３３號"
+                "k": "苗栗縣頭份市民族里９鄰中華路９３３號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6361,7 +6864,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市斗煥里大營路３號"
+                "k": "苗栗縣頭份市斗煥里大營路３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6374,7 +6878,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市自強里４鄰仁愛路１０３號"
+                "k": "苗栗縣頭份市自強里４鄰仁愛路１０３號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -6387,7 +6892,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市後庄里０２１鄰中央路７９０號"
+                "k": "苗栗縣頭份市後庄里０２１鄰中央路７９０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6400,7 +6906,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市忠孝里建國路５７號"
+                "k": "苗栗縣頭份市忠孝里建國路５７號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6413,7 +6920,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市建國里１１鄰建國路１１２―２號"
+                "k": "苗栗縣頭份市建國里１１鄰建國路１１２―２號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6426,7 +6934,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里和平路２６３號"
+                "k": "苗栗縣頭份市東庄里和平路２６３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6439,7 +6948,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里１６鄰信義路１１３號"
+                "k": "苗栗縣頭份市東庄里１６鄰信義路１１３號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6452,7 +6962,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市頭份里中華路１１６０號"
+                "k": "苗栗縣頭份市頭份里中華路１１６０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6465,7 +6976,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市山下里建國路２段１３２號"
+                "k": "苗栗縣頭份市山下里建國路２段１３２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6478,7 +6990,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市忠孝里００１鄰建國路７７號"
+                "k": "苗栗縣頭份市忠孝里００１鄰建國路７７號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -6491,7 +7004,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市信義里０１１鄰中正路４３號"
+                "k": "苗栗縣頭份市信義里０１１鄰中正路４３號",
+                "pay_list": "LINE Pay Money\/台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6504,7 +7018,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里０１８鄰東民一街３７號"
+                "k": "苗栗縣頭份市東庄里０１８鄰東民一街３７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6517,7 +7032,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里０１８鄰和平路２３６號"
+                "k": "苗栗縣頭份市東庄里０１８鄰和平路２３６號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6530,7 +7046,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市流東里０１４鄰中正新村１７１號"
+                "k": "苗栗縣頭份市流東里０１４鄰中正新村１７１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6543,7 +7060,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市信義里００２鄰信義路４３號"
+                "k": "苗栗縣頭份市信義里００２鄰信義路４３號",
+                "pay_list": "台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6556,7 +7074,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里１８鄰東民路１８２號"
+                "k": "苗栗縣頭份市東庄里１８鄰東民路１８２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6569,7 +7088,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市和平里中正路１２號"
+                "k": "苗栗縣頭份市和平里中正路１２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6582,7 +7102,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市成功里５鄰建國路１６６號"
+                "k": "苗栗縣頭份市成功里５鄰建國路１６６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6595,7 +7116,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市忠孝里建國路８１號"
+                "k": "苗栗縣頭份市忠孝里建國路８１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6608,7 +7130,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市民族里１１鄰東興路８８號"
+                "k": "苗栗縣頭份市民族里１１鄰東興路８８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6621,7 +7144,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市民權里中華路９１５號"
+                "k": "苗栗縣頭份市民權里中華路９１５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6634,7 +7158,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市建國里０１１鄰建國路１１６號"
+                "k": "苗栗縣頭份市建國里０１１鄰建國路１１６號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6647,7 +7172,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市民族里０１３鄰和平路１０７號"
+                "k": "苗栗縣頭份市民族里０１３鄰和平路１０７號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6660,7 +7186,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市民族里００１鄰信義路１０１號"
+                "k": "苗栗縣頭份市民族里００１鄰信義路１０１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6673,7 +7200,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市山下里０１０鄰信東路二段７２號"
+                "k": "苗栗縣頭份市山下里０１０鄰信東路二段７２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6686,7 +7214,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市忠孝里００１鄰建國路４３號"
+                "k": "苗栗縣頭份市忠孝里００１鄰建國路４３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6699,7 +7228,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市後庄里００７鄰光華北路２５巷５５號"
+                "k": "苗栗縣頭份市後庄里００７鄰光華北路２５巷５５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6712,7 +7242,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市忠孝里０１２鄰忠孝一路１０９―１號"
+                "k": "苗栗縣頭份市忠孝里０１２鄰忠孝一路１０９―１號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6725,7 +7256,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里０１８鄰和平路２６８號"
+                "k": "苗栗縣頭份市東庄里０１８鄰和平路２６８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6738,7 +7270,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市仁愛里０１３鄰銀河北路７號"
+                "k": "苗栗縣頭份市仁愛里０１３鄰銀河北路７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6751,7 +7284,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市頭份里０１４鄰中華路１２０２號"
+                "k": "苗栗縣頭份市頭份里０１４鄰中華路１２０２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6764,7 +7298,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市成功里１０鄰中興路５９９號"
+                "k": "苗栗縣頭份市成功里１０鄰中興路５９９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6777,7 +7312,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里０１８鄰尚順路８９號"
+                "k": "苗栗縣頭份市東庄里０１８鄰尚順路８９號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6790,7 +7326,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市建國里００８鄰建國路４２之１號"
+                "k": "苗栗縣頭份市建國里００８鄰建國路４２之１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6803,7 +7340,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市忠孝里００１鄰建國路８３號"
+                "k": "苗栗縣頭份市忠孝里００１鄰建國路８３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6816,7 +7354,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市和平里００５鄰和平路７３號"
+                "k": "苗栗縣頭份市和平里００５鄰和平路７３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6829,7 +7368,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里０１８鄰東民三街２０號"
+                "k": "苗栗縣頭份市東庄里０１８鄰東民三街２０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6842,7 +7382,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里０１８鄰和平路２３２號"
+                "k": "苗栗縣頭份市東庄里０１８鄰和平路２３２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6855,7 +7396,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里０１８鄰東民五街１８號"
+                "k": "苗栗縣頭份市東庄里０１８鄰東民五街１８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6868,7 +7410,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市文化里０１５鄰文化街１９１號"
+                "k": "苗栗縣頭份市文化里０１５鄰文化街１９１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6881,7 +7424,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市自強里０１０鄰中正路１５５號"
+                "k": "苗栗縣頭份市自強里０１０鄰中正路１５５號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6894,7 +7438,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市中興里１鄰信東路２６７號"
+                "k": "苗栗縣頭份市中興里１鄰信東路２６７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6907,7 +7452,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里００５鄰中央路１４６號"
+                "k": "苗栗縣頭份市東庄里００５鄰中央路１４６號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -6920,7 +7466,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市民族里００１鄰和平路８６號"
+                "k": "苗栗縣頭份市民族里００１鄰和平路８６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -6933,7 +7480,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市成功里７鄰中興路５２７號"
+                "k": "苗栗縣頭份市成功里７鄰中興路５２７號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6946,7 +7494,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市文化里０１３鄰文化街９８號"
+                "k": "苗栗縣頭份市文化里０１３鄰文化街９８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6959,7 +7508,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里０２３鄰中央路３６巷１９號"
+                "k": "苗栗縣頭份市東庄里０２３鄰中央路３６巷１９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -6972,7 +7522,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里０１８鄰東民一街１２號"
+                "k": "苗栗縣頭份市東庄里０１８鄰東民一街１２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6985,7 +7536,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市信義里０１１鄰中正路５５號"
+                "k": "苗栗縣頭份市信義里０１１鄰中正路５５號",
+                "pay_list": "台灣 PAY\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -6998,7 +7550,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里１４鄰忠孝一路５６號"
+                "k": "苗栗縣頭份市東庄里１４鄰忠孝一路５６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7011,7 +7564,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里０１８鄰東民五街３２號"
+                "k": "苗栗縣頭份市東庄里０１８鄰東民五街３２號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7024,7 +7578,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市成功里０１１鄰建國路１７２號"
+                "k": "苗栗縣頭份市成功里０１１鄰建國路１７２號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7037,7 +7592,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市民族里００３鄰自強路２７９號"
+                "k": "苗栗縣頭份市民族里００３鄰自強路２７９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7050,7 +7606,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市成功里０１０鄰建國路１５９號"
+                "k": "苗栗縣頭份市成功里０１０鄰建國路１５９號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -7063,7 +7620,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市新華里３鄰中正一路５１３號"
+                "k": "苗栗縣頭份市新華里３鄰中正一路５１３號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7076,7 +7634,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里０１６鄰中央路２３號"
+                "k": "苗栗縣頭份市東庄里０１６鄰中央路２３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7089,7 +7648,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市成功里０１１鄰建國路１５６號"
+                "k": "苗栗縣頭份市成功里０１１鄰建國路１５６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -7102,7 +7662,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市仁愛里００６鄰信義路７號"
+                "k": "苗栗縣頭份市仁愛里００６鄰信義路７號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -7115,7 +7676,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市興隆里００４鄰興隆路一段４３９巷２７號"
+                "k": "苗栗縣頭份市興隆里００４鄰興隆路一段４３９巷２７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7128,7 +7690,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市山下里０１０鄰建國路二段７９號"
+                "k": "苗栗縣頭份市山下里０１０鄰建國路二段７９號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -7141,7 +7704,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市忠孝里００１鄰建國路１０７號"
+                "k": "苗栗縣頭份市忠孝里００１鄰建國路１０７號",
+                "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7154,7 +7718,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市自強里００４鄰信義路１１４號"
+                "k": "苗栗縣頭份市自強里００４鄰信義路１１４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7167,7 +7732,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市斗煥里０１０鄰中正二路２１４號"
+                "k": "苗栗縣頭份市斗煥里０１０鄰中正二路２１４號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7180,7 +7746,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里０１８鄰東民一街２９號"
+                "k": "苗栗縣頭份市東庄里０１８鄰東民一街２９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -7193,7 +7760,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市建國里００１鄰中華路１３３４號"
+                "k": "苗栗縣頭份市建國里００１鄰中華路１３３４號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7206,7 +7774,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市建國里０１１鄰建國路８０巷１７弄１９號"
+                "k": "苗栗縣頭份市建國里０１１鄰建國路８０巷１７弄１９號",
+                "pay_list": "愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -7219,7 +7788,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市新華里３鄰中正一路５１５號"
+                "k": "苗栗縣頭份市新華里３鄰中正一路５１５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7232,7 +7802,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市自強里４鄰仁愛路９８號"
+                "k": "苗栗縣頭份市自強里４鄰仁愛路９８號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -7245,7 +7816,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市忠孝里０１４鄰忠孝一路１０２號"
+                "k": "苗栗縣頭份市忠孝里０１４鄰忠孝一路１０２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7258,7 +7830,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里１５鄰育樂街６－６號"
+                "k": "苗栗縣頭份市東庄里１５鄰育樂街６－６號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7271,7 +7844,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市自強里００５鄰中華路１０１０號"
+                "k": "苗栗縣頭份市自強里００５鄰中華路１０１０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7284,7 +7858,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市民族里００２鄰和平路１０３號"
+                "k": "苗栗縣頭份市民族里００２鄰和平路１０３號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7297,7 +7872,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里０１８鄰東民二街２８號"
+                "k": "苗栗縣頭份市東庄里０１８鄰東民二街２８號",
+                "pay_list": "一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -7310,7 +7886,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市和平里００８鄰中華路８９２號"
+                "k": "苗栗縣頭份市和平里００８鄰中華路８９２號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7323,7 +7900,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里０１８鄰東民一街２８號"
+                "k": "苗栗縣頭份市東庄里０１８鄰東民一街２８號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7336,7 +7914,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市成功里０１１鄰建國路１５８號"
+                "k": "苗栗縣頭份市成功里０１１鄰建國路１５８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7349,7 +7928,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市民族里０１２鄰東民路１０１號"
+                "k": "苗栗縣頭份市民族里０１２鄰東民路１０１號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -7362,7 +7942,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市頭份里００８鄰中正路１８６號"
+                "k": "苗栗縣頭份市頭份里００８鄰中正路１８６號",
+                "pay_list": "一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7375,7 +7956,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市中興里１４鄰建國路二段２１６號"
+                "k": "苗栗縣頭份市中興里１４鄰建國路二段２１６號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -7388,7 +7970,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市蟠桃里中央路３６５號"
+                "k": "苗栗縣頭份市蟠桃里中央路３６５號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7401,7 +7984,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市中興里１３鄰建國路二段２９６號"
+                "k": "苗栗縣頭份市中興里１３鄰建國路二段２９６號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7414,7 +7998,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市後庄里０２１鄰光華北路１２號"
+                "k": "苗栗縣頭份市後庄里０２１鄰光華北路１２號",
+                "pay_list": "一卡通\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -7427,7 +8012,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市山下里０１４鄰文化街２３１號"
+                "k": "苗栗縣頭份市山下里０１４鄰文化街２３１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7440,7 +8026,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市後庄里２１鄰公北二路１０３號"
+                "k": "苗栗縣頭份市後庄里２１鄰公北二路１０３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7453,7 +8040,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市和平里００６鄰中正路３５號"
+                "k": "苗栗縣頭份市和平里００６鄰中正路３５號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7466,7 +8054,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里０１８鄰東民二街７號"
+                "k": "苗栗縣頭份市東庄里０１８鄰東民二街７號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7479,7 +8068,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市成功里０１８鄰忠孝二路１１５號"
+                "k": "苗栗縣頭份市成功里０１８鄰忠孝二路１１５號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -7492,7 +8082,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里０１８鄰東民一街６號"
+                "k": "苗栗縣頭份市東庄里０１８鄰東民一街６號",
+                "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -7505,7 +8096,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市忠孝里００１鄰建國路６３號"
+                "k": "苗栗縣頭份市忠孝里００１鄰建國路６３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7518,7 +8110,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市頭份里００８鄰中正路１９０號"
+                "k": "苗栗縣頭份市頭份里００８鄰中正路１９０號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7531,7 +8124,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市信義里００９鄰和平路４８號"
+                "k": "苗栗縣頭份市信義里００９鄰和平路４８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7544,7 +8138,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市成功里００７鄰信東路３２０號"
+                "k": "苗栗縣頭份市成功里００７鄰信東路３２０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7557,7 +8152,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市山下里００７鄰文化街２１０號"
+                "k": "苗栗縣頭份市山下里００７鄰文化街２１０號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7570,7 +8166,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市合興里００２鄰中央路５９８號"
+                "k": "苗栗縣頭份市合興里００２鄰中央路５９８號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7583,7 +8180,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市文化里１５鄰文化街２０５號"
+                "k": "苗栗縣頭份市文化里１５鄰文化街２０５號",
+                "pay_list": "街口支付\/一卡通\/LINE Pay Money\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -7596,7 +8194,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市自強里０１０鄰中華路１０３０號"
+                "k": "苗栗縣頭份市自強里０１０鄰中華路１０３０號",
+                "pay_list": "街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -7609,7 +8208,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市東庄里１５鄰中央路９７號"
+                "k": "苗栗縣頭份市東庄里１５鄰中央路９７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7622,7 +8222,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市興隆里０２０鄰花園東路７５號"
+                "k": "苗栗縣頭份市興隆里０２０鄰花園東路７５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7635,7 +8236,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市後庄里１５鄰復興街１２１號"
+                "k": "苗栗縣頭份市後庄里１５鄰復興街１２１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7648,7 +8250,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市文化里１４鄰文化街１５５號"
+                "k": "苗栗縣頭份市文化里１４鄰文化街１５５號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -7661,7 +8264,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市民族里１鄰中華路９８９號"
+                "k": "苗栗縣頭份市民族里１鄰中華路９８９號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7674,7 +8278,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭份市合興里八德一路２２６號"
+                "k": "苗栗縣頭份市合興里八德一路２２６號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7687,7 +8292,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭屋鄉象山村１２鄰象山路１８８號"
+                "k": "苗栗縣頭屋鄉象山村１２鄰象山路１８８號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7700,7 +8306,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "苗栗縣頭屋鄉頭屋村２２鄰尖豐路１２３號"
+                "k": "苗栗縣頭屋鄉頭屋村２２鄰尖豐路１２３號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",

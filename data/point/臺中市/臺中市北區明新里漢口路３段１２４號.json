@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市北區明新里漢口路３段１２４號１樓",
+    "x": 120.670666,
+    "y": 24.166712,
+    "shops": [
+        {
+            "shop": "津香小吃店",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

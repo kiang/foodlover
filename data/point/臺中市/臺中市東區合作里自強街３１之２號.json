@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市東區合作里自強街３１之２號１樓",
+    "x": 120.696689,
+    "y": 24.151693,
+    "shops": [
+        {
+            "shop": "自強烤肉之家",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

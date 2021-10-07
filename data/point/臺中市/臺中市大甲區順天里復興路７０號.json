@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市大甲區順天里復興路７０號",
+    "x": 120.620093,
+    "y": 24.346449,
+    "shops": [
+        {
+            "shop": "竹亭夕食",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

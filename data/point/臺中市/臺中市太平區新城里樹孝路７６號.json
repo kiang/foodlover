@@ -1,0 +1,17 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市太平區新城里樹孝路７６號",
+    "x": 120.717588,
+    "y": 24.151526,
+    "shops": [
+        {
+            "shop": "林家庒蟹黃粥小吃店",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "國之脆中美式炸雞店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

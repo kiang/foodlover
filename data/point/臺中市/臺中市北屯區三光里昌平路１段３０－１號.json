@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市北屯區三光里昌平路１段３０－１號",
+    "x": 120.694211,
+    "y": 24.166495,
+    "shops": [
+        {
+            "shop": "初包子",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

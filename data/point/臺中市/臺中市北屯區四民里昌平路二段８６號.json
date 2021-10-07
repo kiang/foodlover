@@ -1,0 +1,13 @@
+{
+    "name": "餐食攤販",
+    "address": "臺中市北屯區四民里昌平路二段８６號１樓",
+    "x": 120.682406,
+    "y": 24.192361,
+    "shops": [
+        {
+            "shop": "昌二炸雞店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

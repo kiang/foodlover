@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺南市東區成大里育樂街３４號１樓",
+    "x": 120.21727958489,
+    "y": 22.995538682952,
+    "shops": [
+        {
+            "shop": "成大肉圓",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

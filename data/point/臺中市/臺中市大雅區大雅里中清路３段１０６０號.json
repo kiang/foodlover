@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大雅區大雅里中清路３段１０６０號",
+    "x": 120.64734,
+    "y": 24.221585,
+    "shops": [
+        {
+            "shop": "大雅口福牛肉麵",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

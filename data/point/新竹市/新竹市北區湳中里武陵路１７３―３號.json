@@ -1,0 +1,13 @@
+{
+    "name": "咖啡館",
+    "address": "新竹市北區湳中里武陵路１７３―３號１樓",
+    "x": 120.96827888069,
+    "y": 24.821118901324,
+    "shops": [
+        {
+            "shop": "軒亘咖啡屋",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "飲料零售\/餐館、餐廳",
+    "address": "臺中市南屯區三和里河南路４段４４０號１、２樓",
+    "x": 120.637292,
+    "y": 24.150463,
+    "shops": [
+        {
+            "shop": "沛睿有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

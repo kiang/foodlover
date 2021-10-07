@@ -1,0 +1,13 @@
+{
+    "name": "餐食攤販",
+    "address": "臺中市東勢區延平里９鄰忠孝街３０號１樓",
+    "x": 120.830082,
+    "y": 24.253539,
+    "shops": [
+        {
+            "shop": "洪淑貞",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

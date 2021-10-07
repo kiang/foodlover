@@ -1,0 +1,13 @@
+{
+    "name": "連鎖速食店",
+    "address": "臺中市大甲區薰風里０１１鄰順天路８號１樓",
+    "x": 120.620654,
+    "y": 24.342268,
+    "shops": [
+        {
+            "shop": "三月食品有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "餐食攤販",
+    "address": "臺中市東區東興里大智路２８８號旁騎樓",
+    "x": 120.69001,
+    "y": 24.130965,
+    "shops": [
+        {
+            "shop": "黃記牛肉麵",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

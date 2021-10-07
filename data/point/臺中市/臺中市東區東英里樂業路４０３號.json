@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市東區東英里樂業路４０３號１樓",
+    "x": 120.705627,
+    "y": 24.137557,
+    "shops": [
+        {
+            "shop": "石頭玉米晨食館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

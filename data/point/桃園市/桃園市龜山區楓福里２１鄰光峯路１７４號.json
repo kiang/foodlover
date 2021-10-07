@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "桃園市龜山區楓福里２１鄰光峯路１７４號１樓",
+    "x": 121.342972,
+    "y": 25.003194,
+    "shops": [
+        {
+            "shop": "順順來小吃店",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
+}

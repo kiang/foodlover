@@ -1,0 +1,13 @@
+{
+    "name": "便當、自助餐店",
+    "address": "臺中市大雅區四德里雅環路１段１５４巷１８號１樓",
+    "x": 120.653847,
+    "y": 24.217828,
+    "shops": [
+        {
+            "shop": "阿金食堂",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

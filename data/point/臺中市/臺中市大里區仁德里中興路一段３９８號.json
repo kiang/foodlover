@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大里區仁德里中興路一段３９８號１樓",
+    "x": 120.691597,
+    "y": 24.09183,
+    "shops": [
+        {
+            "shop": "小豬滷味",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

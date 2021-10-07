@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市東區東南里精武路３７―６號１樓",
+    "x": 120.699078,
+    "y": 24.148111,
+    "shops": [
+        {
+            "shop": "平安小吃",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
+}

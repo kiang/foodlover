@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市太平區永成里太平路２５３號１樓",
+    "x": 120.719196,
+    "y": 24.121675,
+    "shops": [
+        {
+            "shop": "新蜜源小吃部",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

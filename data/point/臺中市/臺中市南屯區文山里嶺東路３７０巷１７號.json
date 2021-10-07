@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市南屯區文山里嶺東路３７０巷１７號１樓",
+    "x": 120.611395,
+    "y": 24.145195,
+    "shops": [
+        {
+            "shop": "鬼匠拉麵嶺東店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

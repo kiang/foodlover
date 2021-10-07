@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市南區德義里建成路１５７７號１樓",
+    "x": 120.67703,
+    "y": 24.126203,
+    "shops": [
+        {
+            "shop": "丸樂晨坊",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大里區長榮里益民路２段２０８號１樓",
+    "x": 120.683983,
+    "y": 24.109165,
+    "shops": [
+        {
+            "shop": "城吉小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

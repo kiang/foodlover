@@ -1,0 +1,13 @@
+{
+    "name": "咖啡館",
+    "address": "臺中市中區重慶里市府路１０７巷１－１號一樓",
+    "x": 120.681504,
+    "y": 24.141283,
+    "shops": [
+        {
+            "shop": "順順咖啡",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

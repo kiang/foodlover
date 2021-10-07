@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大里區長榮里益民路２段４號",
+    "x": 120.689169,
+    "y": 24.106444,
+    "shops": [
+        {
+            "shop": "金霸氣海鮮粥品",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
+}

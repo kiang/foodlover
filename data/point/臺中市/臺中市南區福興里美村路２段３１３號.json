@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市南區福興里美村路２段３１３號",
+    "x": 120.668432,
+    "y": 24.122506,
+    "shops": [
+        {
+            "shop": "明勳",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

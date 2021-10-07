@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市東勢區延平里三民街７３號",
+    "x": 120.830521,
+    "y": 24.253433,
+    "shops": [
+        {
+            "shop": "東奇早點",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

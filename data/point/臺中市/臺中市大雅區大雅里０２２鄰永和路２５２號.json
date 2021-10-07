@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大雅區大雅里０２２鄰永和路２５２號１樓",
+    "x": 120.648767,
+    "y": 24.223551,
+    "shops": [
+        {
+            "shop": "香香雞排",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

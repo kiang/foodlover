@@ -1,0 +1,13 @@
+{
+    "name": "糖果餅乾零售",
+    "address": "臺南市北區北華里崇安街５４號１樓",
+    "x": 120.20675583006,
+    "y": 23.000431416368,
+    "shops": [
+        {
+            "shop": "連得堂",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

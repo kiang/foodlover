@@ -1,0 +1,13 @@
+{
+    "name": "咖啡館",
+    "address": "臺中市東區東英里十甲東路５６６號１樓",
+    "x": 120.708321,
+    "y": 24.140758,
+    "shops": [
+        {
+            "shop": "日升商行",
+            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
+}

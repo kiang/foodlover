@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市北區新北里雙十路２段１巷２號１樓",
+    "x": 120.687876,
+    "y": 24.151606,
+    "shops": [
+        {
+            "shop": "迷鹿咖啡",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

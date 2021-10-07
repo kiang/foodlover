@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺南市東區東門里勝利路２９號１樓",
+    "x": 120.21732912017,
+    "y": 22.98812896173,
+    "shops": [
+        {
+            "shop": "良晨光華餐坊",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

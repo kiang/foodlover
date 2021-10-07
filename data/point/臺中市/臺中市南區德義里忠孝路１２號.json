@@ -1,0 +1,13 @@
+{
+    "name": "餐食攤販",
+    "address": "臺中市南區德義里忠孝路１２號１樓後半部面對建成路空地",
+    "x": 120.675477,
+    "y": 24.126709,
+    "shops": [
+        {
+            "shop": "富田炸雞店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

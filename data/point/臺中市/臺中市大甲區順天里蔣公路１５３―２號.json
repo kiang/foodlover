@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大甲區順天里蔣公路１５３―２號１樓",
+    "x": 120.623147,
+    "y": 24.345706,
+    "shops": [
+        {
+            "shop": "東港肉丸",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

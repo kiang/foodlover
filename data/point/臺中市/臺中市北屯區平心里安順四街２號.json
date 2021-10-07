@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市北屯區平心里安順四街２號",
+    "x": 120.688111,
+    "y": 24.173483,
+    "shops": [
+        {
+            "shop": "馡曄國際有限公司",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
+}

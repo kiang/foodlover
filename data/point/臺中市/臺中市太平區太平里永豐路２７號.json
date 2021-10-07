@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市太平區太平里永豐路２７號１樓",
+    "x": 120.713295,
+    "y": 24.124628,
+    "shops": [
+        {
+            "shop": "群玲早食屋",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

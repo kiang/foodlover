@@ -1,0 +1,13 @@
+{
+    "name": "餐食攤販",
+    "address": "臺中市大甲區文武里和平路２５３巷２３號１樓",
+    "x": 120.621416,
+    "y": 24.354894,
+    "shops": [
+        {
+            "shop": "臺灣燒企業社",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

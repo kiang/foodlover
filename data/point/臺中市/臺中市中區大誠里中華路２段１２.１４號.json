@@ -1,0 +1,13 @@
+{
+    "name": "餐食攤販",
+    "address": "臺中市中區大誠里中華路２段１２.１４號前",
+    "x": 120.679553,
+    "y": 24.147701,
+    "shops": [
+        {
+            "shop": "攤販東２９",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

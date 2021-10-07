@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市南區樹義里大慶街２段７巷８號１樓",
+    "x": 120.652303,
+    "y": 24.114056,
+    "shops": [
+        {
+            "shop": "謝文盛",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

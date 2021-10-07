@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大里區仁化里工業二路８８號１樓",
+    "x": 120.714984,
+    "y": 24.095821,
+    "shops": [
+        {
+            "shop": "牛珀麵食館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

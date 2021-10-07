@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市北屯區四民里后庒路９０３號",
+    "x": 120.681695,
+    "y": 24.192688,
+    "shops": [
+        {
+            "shop": "日月鮮飲食",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

@@ -18,7 +18,7 @@
         },
         {
             "shop": "西門商場 003",
-            "pay_list": "街口支付 \/ (悠遊卡) \/ LINE Pay Money"
+            "pay_list": "街口支付 \/ 悠遊卡 \/ LINE Pay Money"
         },
         {
             "shop": "西門商場 004",
@@ -34,7 +34,7 @@
         },
         {
             "shop": "西門商場 007",
-            "pay_list": "(APPLEPAY) \/ 街口支付 \/ 台灣 PAY"
+            "pay_list": "APPLEPAY \/ 街口支付 \/ 台灣 PAY"
         },
         {
             "shop": "西門商場 008",
@@ -46,7 +46,7 @@
         },
         {
             "shop": "西門商場 010",
-            "pay_list": "(APPLEPAY) \/ 街口支付 \/ 台灣 PAY"
+            "pay_list": "APPLEPAY \/ 街口支付 \/ 台灣 PAY"
         },
         {
             "shop": "西門商場 011",
@@ -134,7 +134,7 @@
         },
         {
             "shop": "西門商場 032",
-            "pay_list": "台灣 PAY \/ (APPLEPAY) \/ 街口支付 \/ LINE Pay Money"
+            "pay_list": "台灣 PAY \/ APPLEPAY \/ 街口支付 \/ LINE Pay Money"
         },
         {
             "shop": "西門商場 033",
@@ -146,7 +146,7 @@
         },
         {
             "shop": "西門商場 035",
-            "pay_list": "(APPLYPAY、支付寶) \/ 街口支付 \/ 台灣 PAY"
+            "pay_list": "街口支付 \/ 台灣 PAY \/ APPLEPAY \/ 支付寶"
         },
         {
             "shop": "西門商場 036",
@@ -162,7 +162,7 @@
         },
         {
             "shop": "西門商場 039",
-            "pay_list": "街口支付 \/ (悠遊卡) \/ 台灣 PAY"
+            "pay_list": "街口支付 \/ 悠遊卡 \/ 台灣 PAY"
         },
         {
             "shop": "西門商場 040",
@@ -170,11 +170,11 @@
         },
         {
             "shop": "西門商場 041",
-            "pay_list": "台灣 PAY \/ 街口支付 \/ (APPLEPAY、支付寶) \/ LINE Pay Money"
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money \/ APPLEPAY \/ 支付寶"
         },
         {
             "shop": "西門商場 042",
-            "pay_list": "(APPLEPAY) \/ 街口支付 \/ 台灣 PAY"
+            "pay_list": "APPLEPAY \/ 街口支付 \/ 台灣 PAY"
         },
         {
             "shop": "西門商場 043",
@@ -232,5 +232,6 @@
             "shop": "西門商場 057",
             "pay_list": "台灣 PAY"
         }
-    ]
+    ],
+    "pay_list": "台灣 PAY\/街口支付\/LINE Pay Money\/悠遊卡\/APPLEPAY\/支付寶"
 }

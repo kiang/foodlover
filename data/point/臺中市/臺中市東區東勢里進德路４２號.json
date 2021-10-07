@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市東區東勢里進德路４２號",
+    "x": 120.692351,
+    "y": 24.146068,
+    "shops": [
+        {
+            "shop": "香味王大雞排",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

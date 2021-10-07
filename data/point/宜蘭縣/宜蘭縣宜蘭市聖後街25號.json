@@ -106,7 +106,7 @@
         },
         {
             "shop": "東門觀光夜市 盡好喝",
-            "pay_list": "(PG) \/ 街口支付"
+            "pay_list": "PG \/ 街口支付"
         },
         {
             "shop": "東門觀光夜市 善美仙草",
@@ -126,7 +126,7 @@
         },
         {
             "shop": "東門觀光夜市 瓶子服飾",
-            "pay_list": "(信用卡) \/ 街口支付 \/ LINE Pay Money"
+            "pay_list": "信用卡 \/ 街口支付 \/ LINE Pay Money"
         },
         {
             "shop": "東門觀光夜市 女主角少淑女服飾",
@@ -134,7 +134,7 @@
         },
         {
             "shop": "東門觀光夜市 金東門寵物生活館",
-            "pay_list": "玉山銀行 \/ 台灣 PAY \/ 街口支付 \/ LINE Pay Money \/ (信用卡)"
+            "pay_list": "玉山銀行 \/ 台灣 PAY \/ 街口支付 \/ LINE Pay Money \/ 信用卡"
         },
         {
             "shop": "東門觀光夜市 林小胖滷味",
@@ -158,7 +158,7 @@
         },
         {
             "shop": "東門觀光夜市 盡好喝",
-            "pay_list": "(PG) \/ 街口支付"
+            "pay_list": "PG \/ 街口支付"
         },
         {
             "shop": "東門觀光夜市 鳥蛋達人",
@@ -278,7 +278,7 @@
         },
         {
             "shop": "東門觀光夜市 瓶子服飾",
-            "pay_list": "街口支付 \/ (信用卡) \/ LINE Pay Money"
+            "pay_list": "街口支付 \/ 信用卡 \/ LINE Pay Money"
         },
         {
             "shop": "東門觀光夜市 女主角少淑女服飾",
@@ -286,7 +286,7 @@
         },
         {
             "shop": "東門觀光夜市 金東門寵物生活館",
-            "pay_list": "(信用卡) \/ 玉山銀行 \/ LINE Pay Money \/ 街口支付 \/ 台灣 PAY"
+            "pay_list": "信用卡 \/ 玉山銀行 \/ LINE Pay Money \/ 街口支付 \/ 台灣 PAY"
         },
         {
             "shop": "東門觀光夜市 林小胖滷味",
@@ -300,5 +300,6 @@
             "shop": "東門觀光夜市 夏戀微風",
             "pay_list": "玉山銀行 \/ LINE Pay Money \/ 街口支付 \/ 台灣 PAY"
         }
-    ]
+    ],
+    "pay_list": "LINE Pay Money\/玉山銀行\/街口支付\/台灣 PAY\/PG\/信用卡"
 }

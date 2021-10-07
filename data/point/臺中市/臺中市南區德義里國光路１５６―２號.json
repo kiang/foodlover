@@ -1,0 +1,13 @@
+{
+    "name": "調理包食品零售\/麵店、小吃店",
+    "address": "臺中市南區德義里國光路１５６―２號",
+    "x": 120.677831,
+    "y": 24.12895,
+    "shops": [
+        {
+            "shop": "晨安餃子蔬食館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

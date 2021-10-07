@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市北區建興里永興街１４５號",
+    "x": 120.682227,
+    "y": 24.162271,
+    "shops": [
+        {
+            "shop": "陽光現炒小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "便當、自助餐店",
+    "address": "桃園市龜山區長庚里長慶三街２２號１樓",
+    "x": 121.383268,
+    "y": 25.054821,
+    "shops": [
+        {
+            "shop": "邦煮手工便當店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

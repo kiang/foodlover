@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大肚區大肚里沙田路２段５８９－１號",
+    "x": 120.545743,
+    "y": 24.15016,
+    "shops": [
+        {
+            "shop": "集集小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

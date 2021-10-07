@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "新竹縣竹北市東平里六家五路一段１２７號",
+    "x": 121.0254,
+    "y": 24.809629,
+    "shops": [
+        {
+            "shop": "六家火鍋",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

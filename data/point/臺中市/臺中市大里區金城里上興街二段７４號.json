@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大里區金城里上興街二段７４號",
+    "x": 120.698859,
+    "y": 24.091426,
+    "shops": [
+        {
+            "shop": "佳佳快餐麵食館",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

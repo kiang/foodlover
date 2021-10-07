@@ -1,0 +1,13 @@
+{
+    "name": "便當、自助餐店",
+    "address": "嘉義市東區太平里新生路３７２號１樓",
+    "x": 120.46016000121,
+    "y": 23.487760006599,
+    "shops": [
+        {
+            "shop": "米穀食堂",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

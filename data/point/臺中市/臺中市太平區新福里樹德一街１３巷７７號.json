@@ -1,0 +1,13 @@
+{
+    "name": "便當、自助餐店",
+    "address": "臺中市太平區新福里樹德一街１３巷７７號１樓",
+    "x": 120.707961,
+    "y": 24.149789,
+    "shops": [
+        {
+            "shop": "秀媽手做私房料理",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

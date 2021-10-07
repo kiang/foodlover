@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市南屯區溝墘里大英街４３７號旁",
+    "x": 120.648537,
+    "y": 24.151807,
+    "shops": [
+        {
+            "shop": "禾家現炒",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

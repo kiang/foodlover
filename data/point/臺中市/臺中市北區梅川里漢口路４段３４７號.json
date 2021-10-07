@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市北區梅川里漢口路４段３４７號１樓",
+    "x": 120.682075,
+    "y": 24.167217,
+    "shops": [
+        {
+            "shop": "五路財神小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

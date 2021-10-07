@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市大肚區大肚里０１４鄰自治路９６號",
+    "x": 120.545945,
+    "y": 24.151917,
+    "shops": [
+        {
+            "shop": "畇品商行",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money"
+}

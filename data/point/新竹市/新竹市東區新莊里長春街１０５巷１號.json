@@ -1,0 +1,13 @@
+{
+    "name": "咖啡館",
+    "address": "新竹市東區新莊里長春街１０５巷１號",
+    "x": 121.01545092085,
+    "y": 24.787309287667,
+    "shops": [
+        {
+            "shop": "勇淳有限公司",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+}

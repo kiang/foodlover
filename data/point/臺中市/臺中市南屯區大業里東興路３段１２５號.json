@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市南屯區大業里東興路３段１２５號",
+    "x": 120.652868,
+    "y": 24.149135,
+    "shops": [
+        {
+            "shop": "欣興飲食店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

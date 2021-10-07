@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市北屯區仁美里崇德路三段４００號",
+    "x": 120.686533,
+    "y": 24.188642,
+    "shops": [
+        {
+            "shop": "春分有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

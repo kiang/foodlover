@@ -1,0 +1,13 @@
+{
+    "name": "咖啡館\/咖啡零售\/咖啡批發",
+    "address": "臺中市北屯區平陽里梅川東路五段２號及６號",
+    "x": 120.681664,
+    "y": 24.176479,
+    "shops": [
+        {
+            "shop": "馡翔實業有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

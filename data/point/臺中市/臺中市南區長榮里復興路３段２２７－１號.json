@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市南區長榮里復興路３段２２７－１號１樓",
+    "x": 120.675358,
+    "y": 24.131433,
+    "shops": [
+        {
+            "shop": "呷尙寶有恆店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

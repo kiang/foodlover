@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市東勢區廣興里００５鄰三民街１４０號",
+    "x": 120.83049,
+    "y": 24.254403,
+    "shops": [
+        {
+            "shop": "泓美商行",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        }
+    ],
+    "pay_list": "LINE Pay Money\/街口支付"
+}

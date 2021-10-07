@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大雅區大雅里中清東路１３０號",
+    "x": 120.648247,
+    "y": 24.222349,
+    "shops": [
+        {
+            "shop": "水餃餐廳",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "新北市鶯歌區同慶里尖山埔路２３３、２３７號",
+    "x": 121.344635,
+    "y": 24.950126,
+    "shops": [
+        {
+            "shop": "滋味嘉小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

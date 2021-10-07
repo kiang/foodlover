@@ -1,0 +1,13 @@
+{
+    "name": "咖啡零售\/咖啡館",
+    "address": "臺中市西區忠誠里精誠六街２２號１樓",
+    "x": 120.65703883487,
+    "y": 24.154896799166,
+    "shops": [
+        {
+            "shop": "諦羅斯特有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

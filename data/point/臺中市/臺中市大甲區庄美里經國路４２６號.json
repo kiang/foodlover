@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大甲區庄美里經國路４２６號１樓",
+    "x": 120.617265,
+    "y": 24.348804,
+    "shops": [
+        {
+            "shop": "冠味小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

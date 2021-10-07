@@ -1,0 +1,13 @@
+{
+    "name": "咖啡館",
+    "address": "臺中市大雅區大雅里０１８鄰民興街７４號",
+    "x": 120.648548,
+    "y": 24.225626,
+    "shops": [
+        {
+            "shop": "厚黑精品咖啡",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

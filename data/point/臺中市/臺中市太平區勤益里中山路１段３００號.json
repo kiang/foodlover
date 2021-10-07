@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市太平區勤益里中山路１段３００號１樓",
+    "x": 120.733554,
+    "y": 24.142887,
+    "shops": [
+        {
+            "shop": "再次相遇早午餐店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

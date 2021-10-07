@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市大甲區順天里蔣公路１２０號",
+    "x": 120.62304,
+    "y": 24.345842,
+    "shops": [
+        {
+            "shop": "廟口蚵仔煎",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

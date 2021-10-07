@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "新竹市北區水田里中正路２７０號１樓",
+    "x": 120.96430525276,
+    "y": 24.812376150761,
+    "shops": [
+        {
+            "shop": "睿華食堂",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

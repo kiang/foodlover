@@ -1,0 +1,13 @@
+{
+    "name": "調理飲料攤販\/餐食攤販",
+    "address": "臺中市東區東勢里力行路２４１巷５９－２號騎樓",
+    "x": 120.691729,
+    "y": 24.149874,
+    "shops": [
+        {
+            "shop": "寶盈",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

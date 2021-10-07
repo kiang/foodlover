@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市太平區新城里樹孝路３７３號１樓",
+    "x": 120.719486,
+    "y": 24.155753,
+    "shops": [
+        {
+            "shop": "麻辣甘麵",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
+}

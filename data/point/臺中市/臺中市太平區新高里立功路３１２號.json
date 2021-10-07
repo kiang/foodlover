@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市太平區新高里立功路３１２號１樓",
+    "x": 120.715393,
+    "y": 24.157923,
+    "shops": [
+        {
+            "shop": "欣客手作社",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

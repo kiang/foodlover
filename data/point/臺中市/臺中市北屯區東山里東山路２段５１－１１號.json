@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市北屯區東山里東山路２段５１－１１號右側",
+    "x": 120.741024,
+    "y": 24.18009,
+    "shops": [
+        {
+            "shop": "明富小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

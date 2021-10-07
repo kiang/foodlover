@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市南區南和里工學路３４號１樓",
+    "x": 120.66627,
+    "y": 24.117056,
+    "shops": [
+        {
+            "shop": "臻味商行",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "一卡通\/LINE Pay Money"
+}

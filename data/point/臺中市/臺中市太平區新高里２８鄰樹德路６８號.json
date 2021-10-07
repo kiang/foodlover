@@ -1,0 +1,13 @@
+{
+    "name": "咖啡館",
+    "address": "臺中市太平區新高里２８鄰樹德路６８號１樓",
+    "x": 120.71117,
+    "y": 24.151534,
+    "shops": [
+        {
+            "shop": "貝拉索商行",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money"
+}

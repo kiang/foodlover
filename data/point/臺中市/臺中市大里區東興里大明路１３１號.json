@@ -1,0 +1,13 @@
+{
+    "name": "調理飲料攤販\/餐食攤販",
+    "address": "臺中市大里區東興里大明路１３１號１樓",
+    "x": 120.685554,
+    "y": 24.115168,
+    "shops": [
+        {
+            "shop": "豪記大雞排",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

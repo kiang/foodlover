@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市南屯區南屯里五權西路２段６８３號１樓",
+    "x": 120.638606,
+    "y": 24.141884,
+    "shops": [
+        {
+            "shop": "漢君餐飲",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

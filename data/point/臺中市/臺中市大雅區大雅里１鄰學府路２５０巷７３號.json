@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市大雅區大雅里１鄰學府路２５０巷７３號１樓",
+    "x": 120.65197,
+    "y": 24.223855,
+    "shops": [
+        {
+            "shop": "拉亞早餐店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

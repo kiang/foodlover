@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市太平區新光里樹德路９７號１樓",
+    "x": 120.711284,
+    "y": 24.153027,
+    "shops": [
+        {
+            "shop": "日好食商行",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
+}

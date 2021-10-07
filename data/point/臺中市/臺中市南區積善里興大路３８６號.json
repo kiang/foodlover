@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市南區積善里興大路３８６號１樓",
+    "x": 120.671629,
+    "y": 24.117459,
+    "shops": [
+        {
+            "shop": "新時代小吃店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

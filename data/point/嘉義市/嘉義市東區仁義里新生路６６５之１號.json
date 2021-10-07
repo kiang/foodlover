@@ -1,0 +1,13 @@
+{
+    "name": "餐館、餐廳",
+    "address": "嘉義市東區仁義里新生路６６５之１號１樓",
+    "x": 120.45667914276,
+    "y": 23.4939034455,
+    "shops": [
+        {
+            "shop": "富諭商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市北屯區廍子里廍子路６６６號",
+    "x": 120.736067,
+    "y": 24.172519,
+    "shops": [
+        {
+            "shop": "長興美食",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "日常手作調飲專賣店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

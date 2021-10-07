@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市大肚區蔗??里中蔗路２―１８號",
+    "x": 120.576458,
+    "y": 24.169651,
+    "shops": [
+        {
+            "shop": "陳雪娥",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

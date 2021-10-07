@@ -1,0 +1,13 @@
+{
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺中市太平區平安里太平路１６６號１樓",
+    "x": 120.720778,
+    "y": 24.12054,
+    "shops": [
+        {
+            "shop": "大佐茶行",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "街口支付\/LINE Pay Money"
+}

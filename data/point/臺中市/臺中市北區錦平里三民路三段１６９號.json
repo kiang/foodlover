@@ -1,0 +1,17 @@
+{
+    "name": "餐館、餐廳",
+    "address": "臺中市北區錦平里三民路三段１６９號１５樓",
+    "x": 120.684668,
+    "y": 24.151848,
+    "shops": [
+        {
+            "shop": "漢來美食股份有限公司台中三民分公司",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "宮廷餐廳股份有限公司",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ],
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+}

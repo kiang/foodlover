@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "臺中市大里區健民里鳳凰路１９號１樓",
+    "x": 120.716168,
+    "y": 24.094985,
+    "shops": [
+        {
+            "shop": "鳳凰早餐店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "新竹市東區新興里南大路３９９號１樓",
+    "x": 120.96806942953,
+    "y": 24.79650478068,
+    "shops": [
+        {
+            "shop": "君亞商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

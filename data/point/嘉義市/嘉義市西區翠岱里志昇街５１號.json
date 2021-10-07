@@ -1,0 +1,13 @@
+{
+    "name": "早餐店",
+    "address": "嘉義市西區翠岱里志昇街５１號１樓",
+    "x": 120.44430999704,
+    "y": 23.468930002115,
+    "shops": [
+        {
+            "shop": "志昇晨食館",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

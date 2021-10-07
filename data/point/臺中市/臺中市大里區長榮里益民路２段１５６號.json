@@ -1,0 +1,13 @@
+{
+    "name": "菸酒零售\/麵店、小吃店\/飲料零售",
+    "address": "臺中市大里區長榮里益民路２段１５６號１樓",
+    "x": 120.684237,
+    "y": 24.108076,
+    "shops": [
+        {
+            "shop": "舞星吉壽司店",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}

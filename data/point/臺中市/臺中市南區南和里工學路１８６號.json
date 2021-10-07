@@ -1,0 +1,13 @@
+{
+    "name": "麵店、小吃店",
+    "address": "臺中市南區南和里工學路１８６號１樓",
+    "x": 120.659349,
+    "y": 24.117138,
+    "shops": [
+        {
+            "shop": "圓飪米糕",
+            "pay_list": "LINE Pay Money"
+        }
+    ],
+    "pay_list": "LINE Pay Money"
+}
