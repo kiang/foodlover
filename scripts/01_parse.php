@@ -63,6 +63,9 @@ foreach (glob($basePath . '/raw/data/*.json') as $jsonFile) {
                         if (!isset($pool[$point['city']])) {
                             $pool[$point['city']] = [];
                         }
+                        if(is_array($point['market_name'])) {
+                            $point['market_name'] = implode('/', $point['market_name']);
+                        }
                         if (!isset($pool[$point['city']][$address])) {
                             $pool[$point['city']][$address] = [
                                 'name' => $point['market_name'],
