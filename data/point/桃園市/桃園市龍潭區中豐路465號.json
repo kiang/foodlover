@@ -1,0 +1,40 @@
+{
+    "name": "龍潭觀光夜市",
+    "address": "桃園市龍潭區中豐路465號",
+    "x": 121.202321,
+    "y": 24.857313,
+    "shops": [
+        {
+            "shop": "龍潭觀光夜市 C31",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "龍潭觀光夜市 C35",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "龍潭觀光夜市 C74",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "龍潭觀光夜市 D05",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "龍潭觀光夜市 C31",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "龍潭觀光夜市 C35",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "龍潭觀光夜市 C74",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "龍潭觀光夜市 D05",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

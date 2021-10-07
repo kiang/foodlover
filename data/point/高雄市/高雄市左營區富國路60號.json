@@ -1,0 +1,28 @@
+{
+    "name": "龍華公有零售市場",
+    "address": "高雄市左營區富國路60號",
+    "x": 120.306765,
+    "y": 22.658518,
+    "shops": [
+        {
+            "shop": "龍華公有零售市場 甲字5號",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "龍華公有零售市場 甲字15號",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "龍華公有零售市場 乙字3號",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "龍華公有零售市場 丙字57號",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "龍華公有零售市場 丁字43號",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": [
+        "餐館、餐廳"
+    ],
+    "address": "新北市永和區和平里永平路１５３號",
+    "x": 121.511016,
+    "y": 25.008579,
+    "shops": [
+        {
+            "shop": "咖哩王子餐飲有限公司",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "戀咖哩咖哩店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        }
+    ]
+}

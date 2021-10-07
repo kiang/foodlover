@@ -1,0 +1,20 @@
+{
+    "name": "篤行公有零售市場",
+    "address": "臺中市西區篤行路200號",
+    "x": 120.673938,
+    "y": 24.151233,
+    "shops": [
+        {
+            "shop": "篤行公有零售市場 陳瓊雲",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "篤行公有零售市場 徐英智",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "篤行公有零售市場 張雅羚",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

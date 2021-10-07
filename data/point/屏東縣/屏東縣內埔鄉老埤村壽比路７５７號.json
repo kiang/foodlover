@@ -1,0 +1,18 @@
+{
+    "name": [
+        "麵店、小吃店"
+    ],
+    "address": "屏東縣內埔鄉老埤村壽比路７５７號",
+    "x": 120.595297,
+    "y": 22.640511,
+    "shops": [
+        {
+            "shop": "松阪小吃部",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "郭美雪",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

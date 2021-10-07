@@ -1,0 +1,850 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市仁義路129號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.014504,
+                    24.834444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市仁愛街45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.010769,
+                    24.837299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市華興一街160號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.999065,
+                    24.840873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣北埔鄉北埔村７鄰南興街９６―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.057485,
+                    24.700493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣北埔鄉北埔村００７鄰中山路１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.057013,
+                    24.701644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣北埔鄉北埔村００７鄰中正路１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.056898,
+                    24.700835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣北埔鄉北埔村南興街１２４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.057153,
+                    24.70089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣寶山鄉新城村寶新路二段２５１巷２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.977318,
+                    24.742315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣寶山鄉雙溪村湳坑路２段８１巷２弄６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.989902,
+                    24.763328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣寶山鄉雙新村雙園路二段３８１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.989118,
+                    24.764111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣尖石鄉嘉樂村３鄰麥樹仁１７７－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.208248,
+                    24.705487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣峨眉鄉湖光村０１１鄰十寮坑３７－６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.986255,
+                    24.668568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣峨眉鄉湖光村０１１鄰湖農新邨８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.987056,
+                    24.664669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣峨眉鄉湖光村１４鄰西河排８之１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.982642,
+                    24.671198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣新埔鎮四座里中正路２０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.080997,
+                    24.827321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣新豐鄉山崎村８鄰建興路１段１４６－６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.994927,
+                    24.8737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣新豐鄉松林村新興路１９１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.995345,
+                    24.869237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣新豐鄉山崎村建興路１段８０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99542,
+                    24.871513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣新豐鄉松林村泰安街７１﹒７３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.993686,
+                    24.870094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣新豐鄉山崎村建興路１段１３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.995033,
+                    24.873187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣新豐鄉山崎村福德街１１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.995506,
+                    24.872845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣新豐鄉松林街３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.992592,
+                    24.868634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣新豐鄉山崎村建興路一段１２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.994632,
+                    24.873355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣橫山鄉內灣村３鄰中正路７１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.182652,
+                    24.704856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣湖口鄉中興村中興二巷２―２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.032465,
+                    24.868955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣湖口鄉愛勢村６鄰達生路７８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.046936,
+                    24.903085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市中華路５９４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.006384,
+                    24.845763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市中華路３４０―１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.998514,
+                    24.827185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市聯興里中正西路８６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.980059,
+                    24.840454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市新國里華興街２４０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.000442,
+                    24.838244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市東平里文興路一段６２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.024959,
+                    24.812109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市文興路１９７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.018621,
+                    24.815875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市竹北里台元街３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01658,
+                    24.843136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市文化里４３鄰文喜街３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.010913,
+                    24.831875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市中興里００６鄰復興三路二段８２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.035555,
+                    24.808762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市鹿場里００４鄰莊敬南路５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.021287,
+                    24.818372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市國盛街２５８巷１９弄２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.001426,
+                    24.844726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市文興路一段１２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.026943,
+                    24.811667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市鹿場里成功八路１６２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.018223,
+                    24.817639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市中興里００２鄰嘉豐五路一段１５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.029349,
+                    24.813665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市中興里嘉豐南路一段１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.035313,
+                    24.812096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市文化里４１鄰縣政九路１８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.012179,
+                    24.831686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市福德里中正東路３４１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.011264,
+                    24.835432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市新社里國盛街２５８巷１９弄２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.001426,
+                    24.844726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市新社里０２６鄰中正西路３３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.996086,
+                    24.843077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市溪州里中正西路１４４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.967776,
+                    24.842185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市十興里２１鄰莊敬五街１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.026231,
+                    24.821432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市科大一路２２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.011189,
+                    24.820484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市三民路２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.018328,
+                    24.834482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市中興里０１２鄰光明六路東二段２０－５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.029275,
+                    24.818781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市福德里博愛街３９１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00897,
+                    24.837129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市新社里國盛街２３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00208,
+                    24.843456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市新國里中正西路６３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.001516,
+                    24.840306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市福興東路二段１６６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.028824,
+                    24.814108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市斗崙里縣政二路南段１２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.011312,
+                    24.818515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市中興里嘉興路２０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.027756,
+                    24.817415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市中崙里光明六路９５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.008737,
+                    24.82721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹東鎮頭重里０１２鄰竹中路８７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.029514,
+                    24.781341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹東鎮仁愛路２４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.090826,
+                    24.735529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹東鎮竹東里００３鄰東寧路三段５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.087532,
+                    24.737952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹東鎮東華里長春路２段３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.088905,
+                    24.737105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹東鎮員山里００３鄰下員山路２５０巷２９弄１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.033688,
+                    24.787655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹東鎮南華里００６鄰東寧路二段２７６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.088668,
+                    24.73505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹東鎮仁愛里１１鄰北興路２段９５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.092823,
+                    24.739317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣關西鎮南雄里中正路４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.176294,
+                    24.788423
+                ]
+            }
+        }
+    ]
+}

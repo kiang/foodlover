@@ -1,0 +1,22 @@
+{
+    "name": [
+        "西點麵包零售"
+    ],
+    "address": "屏東縣屏東市大同里民族路４０號",
+    "x": 120.489425,
+    "y": 22.669981,
+    "shops": [
+        {
+            "shop": "民族蛋糕店",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "阿Ｑ滷味",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "三叔公古早味紅茶",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

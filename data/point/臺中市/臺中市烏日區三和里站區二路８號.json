@@ -1,0 +1,34 @@
+{
+    "name": [
+        "西點麵包零售"
+    ],
+    "address": "臺中市烏日區三和里站區二路８號２樓",
+    "x": 120.615785,
+    "y": 24.111597,
+    "shops": [
+        {
+            "shop": "胖先生食品股份有限公司高鐵分公司",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "桂香新綠有限公司",
+            "pay_list": "一卡通 \/ 愛金卡"
+        },
+        {
+            "shop": "裕珍馨食品股份有限公司台中烏日高鐵門市",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "吳寶春食品股份有限公司台中高鐵店",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "嘉城國際有限公司",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        },
+        {
+            "shop": "老虎堂國際有限公司台中高鐵門市",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": [
+        "飲料零售",
+        "西點麵包零售"
+    ],
+    "address": "南投縣草屯鎮富寮里中正路５５７－５５號",
+    "x": 120.695528,
+    "y": 23.978586,
+    "shops": [
+        {
+            "shop": "安柏點心屋",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "風雨球場早午餐",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "好粥到商店",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

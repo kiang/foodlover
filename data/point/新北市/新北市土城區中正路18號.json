@@ -1,0 +1,80 @@
+{
+    "name": "土城公有零售市場",
+    "address": "新北市土城區中正路18號1樓",
+    "x": 121.44301,
+    "y": 24.975073,
+    "shops": [
+        {
+            "shop": "土城公有零售市場 12號",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "土城公有零售市場 15號",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "土城公有零售市場 19號",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "土城公有零售市場 20號",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "土城公有零售市場 21號",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "土城公有零售市場 25號",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "土城公有零售市場 26號",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "土城公有零售市場 27號",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "土城公有零售市場 50號",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "土城公有零售市場 51號",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "土城公有零售市場 52號",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "土城公有零售市場 68號",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "土城公有零售市場 69號",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "土城公有零售市場 70號",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "土城公有零售市場 71號",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "土城公有零售市場 72號",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "土城公有零售市場 73號",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "土城公有零售市場 76號",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

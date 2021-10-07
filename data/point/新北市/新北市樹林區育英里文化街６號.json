@@ -1,0 +1,18 @@
+{
+    "name": [
+        "麵店、小吃店"
+    ],
+    "address": "新北市樹林區育英里文化街６號",
+    "x": 121.420281,
+    "y": 24.987202,
+    "shops": [
+        {
+            "shop": "忒鮮商行",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "豪早商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

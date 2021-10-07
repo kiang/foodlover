@@ -1,0 +1,2722 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區友愛街117號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.199744,
+                    22.99137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區國華街3段26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.197666,
+                    22.993825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區友愛街206巷6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.196613,
+                    22.992242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區郡西路35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.194166,
+                    22.988486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市仁德區仁義里仁義路45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.253904,
+                    22.968274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市佳里區東寧里中山路300號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1769,
+                    23.161062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市北區開元路124號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.218397,
+                    23.006575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市南區建南路154號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.189661,
+                    22.985189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市善化區仁愛路51-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.301868,
+                    23.131343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市學甲區濟生路135號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.180702,
+                    23.232707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市新營區復興路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.313299,
+                    23.302574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市楠西區東勢路125號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.485855,
+                    23.177419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市鹽水區康樂路56號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.268393,
+                    23.31954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市麻豆區中正路80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.250071,
+                    23.185703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市下營區營前里中山路２段６３－５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.261563,
+                    23.233273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市下營區下營里中正南路９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.262919,
+                    23.234922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區民族路３段１２４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.196723,
+                    22.998718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區民權路２段１７６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.202378,
+                    22.995304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區永華里開山路１２２巷３６弄１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.206188,
+                    22.989788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區南廠里永華路１段３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.196208,
+                    22.987752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區青年路２２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.211249,
+                    22.991465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區赤嵌里民族路二段２２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.201958,
+                    22.997191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區南美里永福路２段１９０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.202083,
+                    22.995978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區府前里中正路１９１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.197896,
+                    22.992722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區南美里中正路７４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.201276,
+                    22.992315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區北門路１段４９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.211401,
+                    22.990164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區大涼里中華西路２段１２巷３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.187244,
+                    22.987248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區南廠里西門路１段７１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.197194,
+                    22.988838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區五條港里西門路２段３５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.199686,
+                    22.998066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區南門里南門路４６－１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.20398,
+                    22.984856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區赤嵌里赤嵌街４７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.202462,
+                    22.998514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區赤嵌里民族路二段２２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.201842,
+                    22.99723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區淺草里海安路２段９８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.196725,
+                    22.995054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區南美里民生路一段１５７巷２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.200526,
+                    22.993827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區開山里府前路１段１０９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.208794,
+                    22.988833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區南廠里國華街二段７３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.19649,
+                    22.98963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區淺草里正興街６３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.197194,
+                    22.994201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區赤嵌里新美街１８９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.201511,
+                    22.998519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區光賢里和善街１２５巷３４弄４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.191059,
+                    23.003634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區新美街１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.20018,
+                    22.994584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區赤嵌里民族路二段４０７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.200935,
+                    22.997226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區南美里忠義路２段１１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.203205,
+                    22.994167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區城隍里北門路１段１１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.211676,
+                    22.994665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區赤崁里赤嵌里１鄰中山路７９巷１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.207176,
+                    22.994327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區南廠里保安路１２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.194802,
+                    22.990556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區南美里府前路１段３０４巷１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.198912,
+                    22.9908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區兌悅里成功路５１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.194739,
+                    23.002174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區南廠里大智街１４１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.192977,
+                    22.988916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區西湖里湖美二街６２巷４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.182215,
+                    23.00164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區城隍里中山路８巷３－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.205996,
+                    22.992723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區藥王里大新街７２巷１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.192739,
+                    22.999307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市中西區城隍里中山路１０４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.208931,
+                    22.994834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市仁德區保安里保安路１段１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.224498,
+                    22.923606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市仁德區仁義里中山路４７９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.25524,
+                    22.971046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市仁德區保安里二仁路一段６０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.225776,
+                    22.920124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市仁德區上崙里上崙街３７７巷１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.250598,
+                    22.938015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市仁德區仁德里文華路三段４２８巷１１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.245761,
+                    22.971385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市仁德區保安里０１３鄰二仁路一段１００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.224639,
+                    22.922031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市仁德區保安里０１２鄰開發二路４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.244898,
+                    22.922211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市仁德區仁德里文華路三段４２８巷５３弄１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.244542,
+                    22.971049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市仁德區太子里大發路１７７巷２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.250619,
+                    22.987223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市仁德區仁愛里機場路１００８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.216931,
+                    22.948665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市仁德區仁義里中山路４３９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.256401,
+                    22.970896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市仁德區後壁里德南路２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.251859,
+                    22.948616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市仁德區仁義里中山路６０５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.252206,
+                    22.971439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市佳里區佳興里７鄰佳里興４５８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.188604,
+                    23.190398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市佳里區忠仁里００８鄰延平路２１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.178776,
+                    23.158626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市佳里區建南里光復路２００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.174899,
+                    23.160806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市佳里區東寧里佳東路３２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.182753,
+                    23.161064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市佳里區民安里同安寮１―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.188947,
+                    23.16157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市佳里區東寧里１鄰中山路３７９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.176751,
+                    23.163615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市六甲區六甲里中山路４２之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.350492,
+                    23.231036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市六甲區六甲里民生街２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.351508,
+                    23.227162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市北門區慈安里三寮灣４８４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.110543,
+                    23.238844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市善化區光文里０１２鄰民生路１４２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.302493,
+                    23.131246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市善化區坐駕里中正路４２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.294073,
+                    23.130507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市善化區光文里忠孝路２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.303297,
+                    23.131727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市善化區光文里中山路２７６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295931,
+                    23.132111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市善化區坐駕里民生路４１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295604,
+                    23.130215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市善化區光文里中山路１７０－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.300935,
+                    23.132829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市學甲區慈福里００１鄰華宗路３０６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.182694,
+                    23.230654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市學甲區明宜里和平路２７７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.178984,
+                    23.23374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市學甲區新榮里００７鄰建國東路２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.187957,
+                    23.229465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區四草里四草大道６８６巷１弄６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.133214,
+                    23.014249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區安順里安豐二街３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.21531,
+                    23.049548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區海西里海尾路３５２－２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.184237,
+                    23.036259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區州南里長和路２段１９６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.218943,
+                    23.063464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區國安里國安街２０８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.186505,
+                    23.021992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區海東里同安路１４５巷１７弄２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.189871,
+                    23.041487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區頂安里北安路２段５３０、５３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.202627,
+                    23.038713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區安西里安通路４段４７巷２３弄７３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.20997,
+                    23.029551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區溪心里海環街７１５巷１１８弄１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.183792,
+                    23.046142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區東和里長和路１段２５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.234144,
+                    23.059176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區淵西里安中路４段３２４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.164565,
+                    23.052073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區鳳凰里北安路３段１４５巷２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.202004,
+                    23.041015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區溪墘里海佃路１段２７０巷３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.192522,
+                    23.026402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區安順里總安街１段１２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.216078,
+                    23.050968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區州北里安和路５段２６６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.217023,
+                    23.067923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區新順里安和路２段２８２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.216314,
+                    23.041962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區學東里公學路６段７２０巷１９弄６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.141391,
+                    23.079823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區州北里安和路５段２３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.217318,
+                    23.067302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區淵西里安中路４段３２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.164679,
+                    23.052026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區海東里海東七街４９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.188383,
+                    23.033294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區海東里安中路１段７５７巷１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.193274,
+                    23.044233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區新順里安豐六街５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.213189,
+                    23.0468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區溪墘里海佃路１段３３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.191204,
+                    23.027052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區海佃里海佃路１段１３３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.191614,
+                    23.02299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區梅花里同安路３４２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.192736,
+                    23.042956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區溪墘里海佃路１段１２０之８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.192089,
+                    23.022881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區安富里安寧街９４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.194021,
+                    23.023561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區溪心里本原街２段２９１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.184295,
+                    23.055347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區顯宮里工業二路１５６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.145007,
+                    23.046057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區梅花里安中路１段３６１之５８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.201515,
+                    23.039372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安南區國安里永續路５１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.17646,
+                    23.022017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安定區中沙里沙崙４２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.210966,
+                    23.074579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安平區建平里永華路２段６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.184747,
+                    22.989657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安平區文平里永華路２段１４１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.183421,
+                    22.989222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安平區華平里華平路７０１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.175792,
+                    22.997012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安平區華平里華平路５０７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.175292,
+                    22.993717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安平區平安里安平路５５６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.170621,
+                    22.998594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安平區育平里健康路３段６９６之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.165415,
+                    22.985251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安平區育平里育平一街１４巷１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.165606,
+                    22.986498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安平區平通里慶平路７０５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.166875,
+                    22.997633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安平區金城里同平路１０８巷２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.15218,
+                    22.996535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安平區天妃里安平路７８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.161486,
+                    23.000354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安平區王城里安北路３８４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.153468,
+                    23.000195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安平區王城里安北路２３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.158512,
+                    23.002153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安平區天妃里安平路１７３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.161471,
+                    23.000133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安平區平安里安平路５７８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.169994,
+                    22.998716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安平區王城里安北路１９６巷１１弄２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.158205,
+                    23.002806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安平區平安里安平路５１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.171741,
+                    22.998419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安平區天妃里安平路１３３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.162795,
+                    22.999873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安平區怡平里永華六街１５４巷１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.178211,
+                    22.994409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安平區平通里國平路５９３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.171532,
+                    22.996524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安平區文平里中華西路２段５１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.186471,
+                    22.987555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市安平區王城里安北路２０７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.159496,
+                    23.0024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市後壁區後壁里後壁９８―５、９８－６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.373569,
+                    23.363194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市後壁區後壁里後壁９８－７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.361662,
+                    23.366942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市後壁區後壁里後壁４２之２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.358666,
+                    23.359442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市後壁區菁寮里００１鄰７―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.334963,
+                    23.376888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市後壁區後??里後廍里後廍３２―２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308421,
+                    23.340917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市後壁區長安里００３鄰中寮３５―５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.357,
+                    23.331226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市新化區護國里民生路８７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.310547,
+                    23.03715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市新化區東榮里信義路５４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.319455,
+                    23.037983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市新化區太平里中正路５００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30734,
+                    23.038174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市新化區護國里６鄰中正路５３９之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307263,
+                    23.037853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市新市區三舍里三舍１９５－６５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.290002,
+                    23.099681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市新市區新和里０４４鄰民權路２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.290266,
+                    23.077852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市新市區新市里仁愛街３１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293958,
+                    23.077532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市新市區社內里富安一街６０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.285273,
+                    23.080044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市新營區忠政里０３２鄰府西路２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.313767,
+                    23.311586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市新營區民權里三民路８９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.313822,
+                    23.30688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市新營區新南里５３鄰金華路二段１８０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.299836,
+                    23.307984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市新營區新北里南新街１３巷４４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308482,
+                    23.31051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市新營區中營里００２鄰東平街１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.33062,
+                    23.310524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市新營區永平里中山路１４１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.316541,
+                    23.304157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市新營區三仙里民權路７１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.312312,
+                    23.306999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市新營區南興里延平路１４０巷３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31264,
+                    23.297709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市新營區民生里三民路１８６巷２―５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307654,
+                    23.304991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市新營區三仙里健康路２５１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.311803,
+                    23.319348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市新營區太南里太子宮１９８―３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.285882,
+                    23.279198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市新營區永平里延平路１０２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.313312,
+                    23.30009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市新營區民權里民權路６６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31276,
+                    23.30584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市新營區新南里０２３鄰復興路６２０巷１５弄２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295872,
+                    23.30639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市新營區新北里０２９鄰周武街６４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.309572,
+                    23.311874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市歸仁區文化里０１１鄰文化北街６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.291045,
+                    22.972453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市歸仁區六甲里０１２鄰中正南路一段１０３６巷３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.277949,
+                    22.95203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區中興里中華路３３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.234208,
+                    23.008372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區正強里自強路２０３之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.250373,
+                    23.027505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區西勢里０２１鄰富強路一段８７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.272844,
+                    23.015404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區二王里中山南路４３６巷１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.239438,
+                    23.017128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區復華里復國一路４６６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.245553,
+                    23.014552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區塩行里７鄰中正五街１１巷１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.244904,
+                    23.037531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區東橋里東橋十街９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.23338,
+                    23.022863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區正強里四維街５１巷２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.251915,
+                    23.032229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區勝利里０３３鄰中華路１―１４９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.234948,
+                    23.003357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區六合里０２１鄰中華二路３４０巷５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.231039,
+                    23.008845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區六合里中山南路１０６－３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.229339,
+                    23.01291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區六合里中華二路３５９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.232406,
+                    23.008292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區塩行里中正路３０１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.24463,
+                    23.034185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區龍潭里龍潭街１７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.26712,
+                    23.03329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區正強里自強路２９３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.252369,
+                    23.028908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區中華里小東路４７７巷２８弄２４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.23612,
+                    22.999396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區大灣里民族路３９３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.26685,
+                    23.007595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區龍埔里龍中街４８７巷１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.26173,
+                    23.034966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區東橋里東橋五路３５７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.233597,
+                    23.024405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區東橋里東橋八街２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.233108,
+                    23.020402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區永康里永明街８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.259928,
+                    23.025213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區東橋里東橋二街９９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.236902,
+                    23.018533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區崑山里國光五街２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.259479,
+                    23.00559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區塩興里永安路１０５巷４７弄１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.245524,
+                    23.042925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區大灣里０１３鄰大灣路２３３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.267765,
+                    23.00705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區復華里０３３鄰復國一路４６６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.245553,
+                    23.014552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區崑山里大仁街１０９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.257056,
+                    23.002983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區復華里０１４鄰復國一路４３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.246003,
+                    23.01404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區龍潭里０２５鄰龍橋街１４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.264709,
+                    23.03753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市永康區塩行里中正七街７０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.240561,
+                    23.040673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市玉井區玉田里中山路２２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.465166,
+                    23.120505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市白河區永安里０１７鄰中山路１―２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.414711,
+                    23.34887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市關廟區香洋里中正路９６９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.328333,
+                    22.962437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市關廟區香洋里中山路２段４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.327001,
+                    22.960156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市關廟區下湖里保東一街３５５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304249,
+                    22.98752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市關廟區香洋里０２８鄰中山路二段７５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.327383,
+                    22.958731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市鹽水區橋南里月津路１３３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.265084,
+                    23.31275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市鹽水區橋南里忠孝路１１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.272809,
+                    23.311195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市麻豆區埤頭里２鄰苓子林８－１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.232119,
+                    23.189665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市麻豆區巷口里興中路１４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.251825,
+                    23.18382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市麻豆區新興里中華街１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.247134,
+                    23.18381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺南市麻豆區中興里００２鄰仁愛路７之２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.246965,
+                    23.18295
+                ]
+            }
+        }
+    ]
+}

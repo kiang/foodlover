@@ -1,0 +1,31 @@
+{
+    "name": [
+        "西點麵包零售",
+        "冰果店、冷（熱）飲店"
+    ],
+    "address": "新北市汐止區復興里新台五路一段７５號地下一層",
+    "x": 121.645591,
+    "y": 25.060815,
+    "shops": [
+        {
+            "shop": "彩虹石頭咖啡廳",
+            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money"
+        },
+        {
+            "shop": "涵屋小吃店",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "彩虹石頭咖啡廳",
+            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money"
+        },
+        {
+            "shop": "奇豆飲品",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        },
+        {
+            "shop": "柒欣企業社",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

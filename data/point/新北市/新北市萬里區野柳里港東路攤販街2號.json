@@ -1,0 +1,28 @@
+{
+    "name": "野柳攤販集中場(賣店區)",
+    "address": "萬里區野柳里港東路攤販街2號",
+    "x": 121.68641,
+    "y": 25.202815,
+    "shops": [
+        {
+            "shop": "野柳攤販集中場(賣店區) 東港魚乾行",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "野柳攤販集中場(賣店區) 女王牧場",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "野柳攤販集中場(賣店區) 富品特產行",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "野柳攤販集中場(賣店區) 葛德特產行",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "野柳攤販集中場(賣店區) 明貴特產行",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

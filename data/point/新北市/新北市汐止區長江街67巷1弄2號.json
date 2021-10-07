@@ -1,0 +1,56 @@
+{
+    "name": "觀光攤販集中區",
+    "address": "汐止區長江街67巷1弄2號",
+    "x": 121.656523,
+    "y": 25.072232,
+    "shops": [
+        {
+            "shop": "觀光攤販集中區 43號阿公茶",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "觀光攤販集中區 35號阿娥治么店",
+            "pay_list": "LINE Pay Money \/ 台灣 PAY"
+        },
+        {
+            "shop": "觀光攤販集中區 71號蔡媽媽歡樂冰品屋",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "觀光攤販集中區 31號 柑單生活",
+            "pay_list": "歐付寶 \/ 台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "觀光攤販集中區 67號灶飯食堂",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "觀光攤販集中區 58號大嫂健康飲料",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "觀光攤販集中區 3號食烤房",
+            "pay_list": "LINE Pay Money \/ 台灣 PAY"
+        },
+        {
+            "shop": "觀光攤販集中區 48號Boom Boom",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "觀光攤販集中區 79號窩屋藝品趣味店",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "觀光攤販集中區 樂烏龍",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "觀光攤販集中區 37號超素複合式蔬食",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "觀光攤販集中區 27號南洋美食",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ]
+}

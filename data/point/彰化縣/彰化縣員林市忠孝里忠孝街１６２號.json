@@ -1,0 +1,19 @@
+{
+    "name": [
+        "西點麵包零售",
+        "咖啡館"
+    ],
+    "address": "彰化縣員林市忠孝里忠孝街１６２號１樓",
+    "x": 120.581402,
+    "y": 23.957059,
+    "shops": [
+        {
+            "shop": "法蕾咖啡館",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "法蕾咖啡館",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ]
+}

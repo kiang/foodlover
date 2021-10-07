@@ -1,0 +1,32 @@
+{
+    "name": "一心公有零售市場",
+    "address": "臺中市北區錦南街50-2號",
+    "x": 120.686843,
+    "y": 24.154665,
+    "shops": [
+        {
+            "shop": "一心公有零售市場 傅森銘",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "一心公有零售市場 陳敏俐",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "一心公有零售市場 鄭宇伶",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "一心公有零售市場 鍾有福",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "一心公有零售市場 三民鎖匙店",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "一心公有零售市場 楊振豐",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

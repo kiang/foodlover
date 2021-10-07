@@ -1,0 +1,5413 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區八德路二段108之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.536209,
+                    25.045815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區北安路458巷41弄3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.545458,
+                    25.078665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區長安西路3 號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.521201,
+                    25.050163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區中山北路一段110號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.521461,
+                    25.050007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區市民大道三段8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.532101,
+                    25.045216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區忠孝東路一段108號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.524772,
+                    25.044253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區羅斯福路四段92號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53501,
+                    25.01376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區仁愛路四段496巷19號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.560453,
+                    25.036372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區松山路294號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.577648,
+                    25.043016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區永吉路278巷1弄30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.575249,
+                    25.044885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區西湖里內湖路１段２８５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.566599,
+                    25.082411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區內湖路一段285號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.566599,
+                    25.082411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區五分街及安康路434巷至488號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.616874,
+                    25.066842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市北投區新市街30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.502735,
+                    25.132673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市南港區研究院路二段70巷12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.614546,
+                    25.045514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市南港區同德路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.586755,
+                    25.046147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區士東路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.529276,
+                    25.111924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區基河路101 號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.524165,
+                    25.087958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區保安街49巷17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.511961,
+                    25.060231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區重慶北路3段347、349號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.514469,
+                    25.076301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區瑞安街75號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54093,
+                    25.028117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市文山區保儀路13巷3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.569186,
+                    24.988496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市文山區木新路三段310巷4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.557222,
+                    24.981476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市文山區景文街137號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.541106,
+                    24.989878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市文山區興隆路二段97號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.547452,
+                    24.999739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區八德路四段679號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.576132,
+                    25.050218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區八德路三段76號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.552732,
+                    25.048061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區塔悠路40號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.570899,
+                    25.050747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區成都路10巷33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.506696,
+                    25.041722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區康定路172巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.501715,
+                    25.039376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區和平西路三段120號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.499812,
+                    25.035011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區環河南路一段328號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.498641,
+                    25.040889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區西寧南路4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.507045,
+                    25.047931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區新福里民權東路２段１０７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.532788,
+                    25.062701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區埤頭里八德路２段３０６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.542479,
+                    25.046855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區中央里伊通街１１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.534716,
+                    25.054463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區朱園里長安東路２段６９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.534054,
+                    25.048535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區中央里四平街７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.534125,
+                    25.053576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區復興北路５１４巷２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5429,
+                    25.066053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區民生西路２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.521396,
+                    25.05788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區永安里明水路３９７巷１９弄２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.549313,
+                    25.078545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區朱園里長安東路２段７３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.534223,
+                    25.048532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區大直里大直街２０巷１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54525,
+                    25.081316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區集英里撫順街３９之２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.519454,
+                    25.063457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區聚葉里中山北路２段１１５巷３弄２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.524176,
+                    25.061278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區朱園里長安東路２段１３１―４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533451,
+                    25.048345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區中庄里松江路２７６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.532951,
+                    25.059809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區新生里吉林路２３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.530376,
+                    25.060921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區興亞里松江路１００巷２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.530456,
+                    25.051078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區行孝里建國北路３段７９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.537021,
+                    25.06537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區龍洲里興安街９８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.542407,
+                    25.05594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區江寧里民權東路３段７０－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.543035,
+                    25.062152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區埤頭里八德路２段１９４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.538743,
+                    25.046292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區松江里松江路２７３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533377,
+                    25.059895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區中庄里民生東路２段９７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.531139,
+                    25.058109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區集英里民權西路７０巷１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.519824,
+                    25.062287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區朱園里南京東路２段１３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533659,
+                    25.051838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區中庄里錦州街１６０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.529599,
+                    25.06022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區民安里南京西路１２巷１３弄７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.521784,
+                    25.051712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區復華里龍江路９８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.540351,
+                    25.052425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區行仁里龍江路３９４巷２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.539876,
+                    25.067287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區行仁里龍江路３６６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.540892,
+                    25.066324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區康樂里南京東路１段２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.524242,
+                    25.052357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區江寧里錦州街３１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53821,
+                    25.060331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區中山里新生北路２段６０巷１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.526796,
+                    25.055764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區大直里北安路６２１巷２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.548796,
+                    25.082851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區江山里錦州街３５６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.539726,
+                    25.060169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區大直里大直街５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.546771,
+                    25.080472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區埤頭里八德路２段３０８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.542559,
+                    25.04688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區康樂里中山北路２段２７巷３―３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.523391,
+                    25.053242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區中央里建國北路２段９０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.536525,
+                    25.056594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區民安里１２鄰民生西路４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.521308,
+                    25.057599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區朱崙里建國北路１段２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.537051,
+                    25.047165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區朱園里松江路１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533139,
+                    25.046448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區興亞里松江路１０８巷３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.532336,
+                    25.051492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區永安里明水路３８９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.546531,
+                    25.077576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區康樂里林森北路２４７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52556,
+                    25.054131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區中庄里松江路２６６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53294,
+                    25.059324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區江寧里復興北路３７０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.543966,
+                    25.060642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區康樂里中山北路２段４５巷２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.523585,
+                    25.054489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區朱園里長安東路２段６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533912,
+                    25.048537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區遼寧街１３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.541991,
+                    25.053469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區朱園里長安東路２段７１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.534091,
+                    25.048535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區大直里大直街１０９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.547923,
+                    25.084054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區康樂里中山北路２段１１巷７之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.523732,
+                    25.05279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區力行里龍江路６５巷２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.541852,
+                    25.050847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區中吉里松江路２０４巷２４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.532021,
+                    25.057392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區朱馥里合江街４１巷１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.540206,
+                    25.055696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區力行里遼寧街１０５巷４８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.543374,
+                    25.051057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區朱馥里合江街１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53916,
+                    25.055039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區龍洲里民生東路三段８８巷６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.542478,
+                    25.05743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區恆安里雙城街１０巷１３之６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.523946,
+                    25.06436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區江山里龍江路２４８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.540629,
+                    25.0593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中山區圓山里民族東路７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.526386,
+                    25.068231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區龍福里羅斯福路１段４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.517439,
+                    25.033458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區東門里信義路１段２１－３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.523261,
+                    25.036451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區博愛路１０１﹒１０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51163,
+                    25.042891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區文盛里羅斯福路３段２８４巷１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.531705,
+                    25.015926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區愛國里延平南路２１６巷８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.506867,
+                    25.034644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區龍福里南昌路１段６１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51742,
+                    25.031113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區林興里辛亥路１段１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.527483,
+                    25.018764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區文祥里杭州南路１段１４３巷２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.524805,
+                    25.036102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區光復里博愛路８６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.511385,
+                    25.044447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區南門里廣州街１０―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.509932,
+                    25.03527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區三愛里信義路２段１９９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.529836,
+                    25.03394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區建國里衡陽路１３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.509277,
+                    25.042083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區梅花里忠孝東路２段２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.527703,
+                    25.043937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區博愛路９９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.511606,
+                    25.043004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區幸福里忠孝東路２段８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52945,
+                    25.04304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區黎明里懷寧街６４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.514034,
+                    25.043914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區南福里南昌路２段３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.519837,
+                    25.027988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區新營里羅斯福路２段１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.520816,
+                    25.02961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區梅花里八德路１段６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.531481,
+                    25.043917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區三愛里仁愛路２段１０８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.532399,
+                    25.037983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區永功里三元街２０９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.512932,
+                    25.027702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區板溪里和平西路１段２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.520634,
+                    25.026591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區文祥里杭州南路１段１４５―２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.525148,
+                    25.037769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區光復里延平南路７３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.510336,
+                    25.044381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區南昌路１段１０５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.518113,
+                    25.030169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區梅花里北平東路９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.523386,
+                    25.046564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區忠勤里汀州路一段９２巷３７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.506646,
+                    25.02979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區廈安里和平西路２段１５０之２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50569,
+                    25.032905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區文盛里汀州路３段１３５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.530935,
+                    25.0161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區黎明里公園路２２之３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.517055,
+                    25.045155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區光復里博愛路１３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.511412,
+                    25.042871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區重慶南路３段１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.515297,
+                    25.029129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市中正區南福里羅斯福路２段３０巷１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.520867,
+                    25.02803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區光復南路４６１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.557677,
+                    25.034208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區安康里松德路１５９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.574841,
+                    25.036489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區三犁里三犂里信義路５段１２４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.568665,
+                    25.032577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區廣居里忠孝東路５段３７２巷２９弄１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.57413,
+                    25.039047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區景聯里吳興街４９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.560246,
+                    25.031158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區景聯里基隆路二段８５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.557987,
+                    25.030089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區中興里基隆路二段２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.558728,
+                    25.031936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區正和里光復南路４２１巷９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.557909,
+                    25.036256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區松光里松山路４６１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.578005,
+                    25.03967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區永春里松山路３１５―５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.577969,
+                    25.045213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區景新里莊敬路２１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.561607,
+                    25.030163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區黎忠里和平東路３段３９１巷３９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.559075,
+                    25.020517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區永春里松山路３１５之５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.577986,
+                    25.042214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區興雅里忠孝東路五段１５巷１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56596,
+                    25.042126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區惠安里吳興街３５４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.566469,
+                    25.025618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區興雅里基隆路一段１５９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.565183,
+                    25.04196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區興雅里基隆路一段１５５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.565336,
+                    25.042216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區基隆路１段１５５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.565336,
+                    25.042216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區景新里莊敬路２３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.562068,
+                    25.029537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區富臺里忠孝東路５段２５９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.570778,
+                    25.041141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區大道里忠孝東路５段５５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.581357,
+                    25.042947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區廣居里虎林街１２１巷２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.576936,
+                    25.040236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區西村里基隆路１段３３３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.561111,
+                    25.034254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區福德街６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.580817,
+                    25.037013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區大道里中坡南路１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.582555,
+                    25.043531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區五全里永吉路２７８巷５７弄９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.57449,
+                    25.043507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區三張里莊敬路３９１巷５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.565731,
+                    25.028369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區大道里忠孝東路５段７９０巷２５弄１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.583318,
+                    25.042748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區安康里松德路１７１―３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.574965,
+                    25.037046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區六合里信義路五段１５０巷４０１弄２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.570517,
+                    25.024298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區松光里松山路４６５巷２９弄１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.579292,
+                    25.040873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區三張里莊敬路３６１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.564773,
+                    25.027823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市信義區三犁里台北市三犂里松仁路２２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.568719,
+                    25.026263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區港墘里瑞光路３９９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.572638,
+                    25.077659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區湖元里新湖三路２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.574203,
+                    25.062187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區寶湖里民權東路６段１２３巷２０弄１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.592194,
+                    25.069652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區石潭里安康路３２巷２４弄７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.594644,
+                    25.062045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區湖元里行愛路５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.581774,
+                    25.062109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區港墘里瑞光路１８８巷５８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.576432,
+                    25.073656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區安湖里東湖路７巷１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.612568,
+                    25.069452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區內湖里成功路四段１８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.594547,
+                    25.084081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區湖元里舊宗路２段１２１巷９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.575383,
+                    25.06935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區港墘里瑞光路３５８巷３０弄１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.573113,
+                    25.076222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區碧山里內湖路３段９２―２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.592015,
+                    25.086269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區五分里安康路４１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.614414,
+                    25.06624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區瑞陽里文德路６４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.581174,
+                    25.078061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區湖元里陽光街３４５巷１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.577963,
+                    25.072189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區湖元里瑞湖街１８２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.576344,
+                    25.069493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區葫洲里康寧路３段５６巷１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61008,
+                    25.070964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區明湖里康寧路３段１０３－３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.610105,
+                    25.071449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區西湖里瑞光路５１３巷２２弄１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.568811,
+                    25.080055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區石潭里南京東路６段３５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.586015,
+                    25.058828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區湖元里瑞湖街１７８巷１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.575794,
+                    25.070792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區港富里內湖路１段７０７－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.577455,
+                    25.079495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區港墘里瑞光路２５８巷５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.574905,
+                    25.074653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區港富里港墘路６９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.578239,
+                    25.081083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區湖濱里成功路３段１７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.590473,
+                    25.080556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區安湖里康寧路三段１８９巷３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.613265,
+                    25.070699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區紫雲里康寧路１段３３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59877,
+                    25.078704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區港墘里江南街９５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.576865,
+                    25.076761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區金湖里康寧路３段２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60736,
+                    25.072783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區安湖里康寧路三段１８９巷１２弄１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.612881,
+                    25.069942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區安湖里東湖路１１３巷４９弄１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.615313,
+                    25.070202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區南湖里康寧路三段７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.611273,
+                    25.070209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區葫洲里民權東路６段２９６巷４６－３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.607785,
+                    25.071353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區港墘里文德路２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.578863,
+                    25.078458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市內湖區秀湖里成功路４段３４５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.599476,
+                    25.084531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市北投區一德里立德路１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.471438,
+                    25.124942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市北投區中心里珠海路１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.501948,
+                    25.137699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市北投區中央里磺港路４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.502001,
+                    25.133316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市北投區中庸里大業路６３７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.498644,
+                    25.137129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市北投區大同里大興街２３巷２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.498102,
+                    25.130697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市北投區振華里東華街一段５５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51559,
+                    25.115051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市北投區永明里東華街二段６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.515007,
+                    25.115779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市北投區振華里石牌路二段６４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.516095,
+                    25.116294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市北投區八仙里北投路１段７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.501865,
+                    25.121872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市北投區福興里承德路七段１４１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.508422,
+                    25.112725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市北投區一德里中央北路四段５１５巷２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.468867,
+                    25.12684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市北投區長安里中央北路１段９８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.499692,
+                    25.134796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市北投區振華里明德路２５３．２５５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.521347,
+                    25.117549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市北投區大同里大興街９巷４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.497175,
+                    25.130873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市北投區懷德街１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.519439,
+                    25.11167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市北投區開明里中和街３２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.499694,
+                    25.141148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市北投區大同里北投路二段２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.497809,
+                    25.131385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市北投區石牌里致遠一路一段６０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.515974,
+                    25.108888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市北投區吉慶里實踐街８２巷５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.510876,
+                    25.115038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市北投區榮華里明德路１５０巷３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52197,
+                    25.109617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市北投區中心里珠海路５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.501684,
+                    25.137789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市南港區南港路１段１２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.613527,
+                    25.055443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市南港區重陽里向陽路１６２巷２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.594711,
+                    25.056021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市南港區合成里忠孝東路６段８５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.584661,
+                    25.048176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市南港區仁福里福德街３７３巷３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.591735,
+                    25.039076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市南港區三重里經貿二路１８６－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.614969,
+                    25.058743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市南港區東新街７５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58839,
+                    25.046665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市南港區三重里園區街１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.610733,
+                    25.058868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市南港區三重里三重路１９―４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.614054,
+                    25.055478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市南港區三重里重陽路５０４巷１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.612476,
+                    25.060047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市南港區成福里東新街１０８巷２之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.587729,
+                    25.046222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市南港區玉成里八德路４段７７０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.580084,
+                    25.050357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區葫東里延平北路５段３２４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.509514,
+                    25.086393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區前港里劍潭路１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.523152,
+                    25.084244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區福志里中正路１２４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.528402,
+                    25.09605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區天玉里天母西路６５―３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52927,
+                    25.118981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區天母里天母北路９７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52666,
+                    25.123106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區天福里天母東路１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.532096,
+                    25.117826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區葫蘆里延平北路五段２６１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.509617,
+                    25.085089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區德行里福國路７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.524911,
+                    25.10206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區天壽里中山北路６段７１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.527516,
+                    25.114968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區社園里永平街７６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.505099,
+                    25.091557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區芝山里德行東路３００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.536467,
+                    25.110043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區東山里德行東路３３１巷５１弄３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.537991,
+                    25.112297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區義信里大東路１３―２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.525254,
+                    25.086497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區天母東路３６－４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5326,
+                    25.117792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區福德里美德街４０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.525302,
+                    25.094861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區天母東路１０－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.531808,
+                    25.117754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區福佳里文林路５１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.524046,
+                    25.096799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區舊佳里文林路５４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.524094,
+                    25.097418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區天山里中山北路７段１５４巷７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533115,
+                    25.124368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區天山里中山北路七段１５８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.532677,
+                    25.124067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區永倫里倫等街５１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.501426,
+                    25.093043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區福中里福港街１０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.518214,
+                    25.088611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區華榮街４１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5234,
+                    25.096029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區前港街７０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.520246,
+                    25.084869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區明勝里承德路４段１０巷２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.520889,
+                    25.079705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區前港里後港街１５２―２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.522426,
+                    25.085039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區福德里士商路１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.521428,
+                    25.089334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區天祿里士東路８７―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52645,
+                    25.111865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區天玉里天母西路１３巷１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.527134,
+                    25.11972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區德行里中山北路６段３７之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.524553,
+                    25.103418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區社子里社中街２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.509719,
+                    25.087999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市士林區蘭雅里士東路１００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.529276,
+                    25.111924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區永樂里迪化街１段２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.510324,
+                    25.0545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區光能里赤峰街２３巷７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.519681,
+                    25.053944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區雙連里雙連街８９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.518895,
+                    25.060027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區保安里哈密街６８巷９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.517813,
+                    25.07344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區鄰江里迪化街２段１９１巷１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.512086,
+                    25.069533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區南芳里迪化街１段３０９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.509289,
+                    25.062118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區大有里迪化街１段２４７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.509401,
+                    25.060424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區星明里重慶北路２段７１―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.514516,
+                    25.054345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區延平里甘州街４４―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.512973,
+                    25.058311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區建泰里南京西路１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.520332,
+                    25.052505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區保安里承德路３段２３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.518493,
+                    25.072372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區永樂里西寧北路７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.508623,
+                    25.054092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區老師里重慶北路３段３００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.513608,
+                    25.073795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區建泰里承德路一段５１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.517459,
+                    25.051604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區蓬萊里重慶北路三段５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.513898,
+                    25.065778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區光能里南京西路４１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.519765,
+                    25.052924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區蓬萊里承德路三段７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.518122,
+                    25.065722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區永樂里延平北路二段６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.511568,
+                    25.055627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區光能里民生西路１５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.518653,
+                    25.057279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區斯文里大龍街９１巷７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.516516,
+                    25.067367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大同區重慶里哈密街５９巷５３弄１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.516321,
+                    25.075333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區通化里通化街３９巷５０弄１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.555487,
+                    25.030588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區學府里基隆路４段４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.540623,
+                    25.013743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區光武里大安路１段１６巷２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.546088,
+                    25.044321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區正聲里忠孝東路四段２７６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.555156,
+                    25.041183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區仁慈里復興南路１段２６１―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.543892,
+                    25.037398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區建倫里敦化南路１段２３３巷４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.551678,
+                    25.040251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區誠安里忠孝東路３段臨２９９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.543291,
+                    25.041833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區古莊里羅斯福路２段８３之２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.523746,
+                    25.025656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區建倫里忠孝東路４段１４２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.549373,
+                    25.041298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區信義路３段３１巷１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.534871,
+                    25.036031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區車層里仁愛路４段３４５巷５弄７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.554385,
+                    25.038542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區師大路５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.528632,
+                    25.024166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區光復南路４２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.557383,
+                    25.036396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區建倫里安和路１段４９巷１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.552115,
+                    25.038602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區永康里永康街２―７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.529662,
+                    25.032527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區通安里通化街１５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.553702,
+                    25.028722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區建倫里仁愛路４段１５１巷２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.551855,
+                    25.039352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區光信里光復南路５７０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.557328,
+                    25.034096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區新龍里信義路三段１３４巷５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.539153,
+                    25.030404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區錦安里麗水街２８―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.528498,
+                    25.029294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區敦安里信義路４段１４９―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.549346,
+                    25.033456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區仁慈里復興南路１段２７９巷２４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.544865,
+                    25.035526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區福住里永康街１３巷５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.530095,
+                    25.032723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區大學里溫州街４６巷６―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.532957,
+                    25.021712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區誠安里復興南路１段１２６巷１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.543,
+                    25.04331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區羣賢里四維路１８３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54812,
+                    25.027937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區華聲里光復南路１８０巷８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.557274,
+                    25.042494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區光武里大安路１段５１巷２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.547402,
+                    25.043203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區龍淵里復興南路２段３０８巷５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.543,
+                    25.023658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區通安里安和路２段３５巷５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.552864,
+                    25.031783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區大學里新生南路３段８４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533507,
+                    25.018916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區福住里永康街２３巷６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.530024,
+                    25.031738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區龍生里和平東路２段１６１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.541492,
+                    25.02534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區華聲里忠孝東路４段２８９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.554737,
+                    25.041611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區敦煌里信義路４段２６５巷１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.554477,
+                    25.034403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區民輝里濟南路３段２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53433,
+                    25.040078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區正聲里光復南路２９０巷４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.556979,
+                    25.039399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區建倫里安和路１段２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.550372,
+                    25.039169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區和安里復興南路１段３８６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.543392,
+                    25.03396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區羣賢里復興南路２段２３７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54371,
+                    25.025846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區黎孝里安居街３４巷９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.554109,
+                    25.021082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區義安里敦化南路２段９７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.549184,
+                    25.028912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區仁愛里忠孝東路４段２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.543981,
+                    25.041307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區德安里四維路７６巷１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.547248,
+                    25.034445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區錦華里杭州南路２段８９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52195,
+                    25.028642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區建倫里忠孝東路４段２１６巷４０弄６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.552651,
+                    25.039352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區虎嘯里和平東路３段８２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.550892,
+                    25.024304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區錦安里潮州街１８８－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.530405,
+                    25.028258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區福住里金華街２４３巷２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.530295,
+                    25.030995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區龍陣里復興南路２段１６０巷１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54249,
+                    25.027888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區龍生里和平東路２段４９―３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.538328,
+                    25.025758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區龍生里瑞安街１３７―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.539707,
+                    25.02679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區大學里新生南路３段１００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.532938,
+                    25.016876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區住安里信義路４段２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.544462,
+                    25.033165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區全安里安和路２段１８４巷６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.549958,
+                    25.024989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區羣賢里和平東路二段２８５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.544524,
+                    25.024957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區義安里敦化南路２段１０１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.549183,
+                    25.028753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區通化里信義路４段３７８巷１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.555815,
+                    25.032461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區福住里永康街３１巷８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.529793,
+                    25.031288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區建倫里忠孝東路４段２１６巷１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.552871,
+                    25.040451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區敦煌里安和路１段１２７巷５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.552969,
+                    25.034721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區光信里光復南路５６４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.557329,
+                    25.034251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區龍淵里和平東路２段１１８巷３５﹒３７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.542918,
+                    25.023364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區福住里永康街１５―２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.529965,
+                    25.033329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區敦煌里信義路４段２７９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.554714,
+                    25.033344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區建倫里忠孝東路４段１７０巷１７弄１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.551602,
+                    25.040019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區建安里忠孝東路４段１８１巷４０弄１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.549784,
+                    25.044059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區忠孝東路４段２１６巷５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.552853,
+                    25.038872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市大安區仁慈里復興南路１段２９５巷１３弄４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.544402,
+                    25.035264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市文山區興光里興隆路三段３５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.555592,
+                    25.00056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市文山區興光里興隆路三段１１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.558159,
+                    24.998978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市文山區興豐里興隆路一段２９１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54472,
+                    24.998732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市文山區華興里木柵路一段２７０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.554629,
+                    24.988005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市文山區景慶里溪口街３９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.540086,
+                    24.994691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市文山區樟腳里恆光街２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.566864,
+                    24.983139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市文山區景福街１５５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.536663,
+                    24.995412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市文山區明義里木柵路２段８０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.559749,
+                    24.988631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市文山區興業里興隆路２段２２０巷１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.552214,
+                    25.00075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市文山區興福里景華街７７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.545534,
+                    24.995303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市文山區木柵里秀明路一段９０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.566596,
+                    24.99057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市文山區萬興里新光路一段１６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.573925,
+                    24.992808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市文山區樟文里忠順街１段７０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.559009,
+                    24.98395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市文山區萬有里羅斯福路六段１８５―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.540443,
+                    24.998837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市文山區萬祥里羅斯福路五段２８１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.539649,
+                    25.000788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市文山區景行里景文街８２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.541043,
+                    24.990545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區慈祐里饒河街１８９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.575954,
+                    25.050709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區民福里復興北路４２７巷５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.544746,
+                    25.063427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區富錦街４８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.563631,
+                    25.060851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區敦化里八德路三段１２巷５１弄２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.551967,
+                    25.046278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區富錦里富錦街４９２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.563777,
+                    25.06086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區復勢里光復北路６０巷９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.557333,
+                    25.049682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區新東里延壽街８９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.566807,
+                    25.057227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區東勢里南京東路４段７５巷１４弄１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55312,
+                    25.052185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區東勢里南京東路４段１３３巷４弄２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.554165,
+                    25.052333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區松基里民生東路３段１１０巷３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.544872,
+                    25.057196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區慈祐里饒河街２１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.576511,
+                    25.050922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區精忠里民生東路４段４７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.550195,
+                    25.057943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區民有里民權東路３段１７０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.548937,
+                    25.061615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區東光里南京東路５段１２３巷１弄２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.559888,
+                    25.051995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區新聚里東興路８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.565188,
+                    25.050298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區民生東路５段１４９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.562239,
+                    25.059034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區三民里富錦街４６３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.562158,
+                    25.060953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區敦化里八德路３段７４巷６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.552479,
+                    25.047844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區八德路４段６６９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.575864,
+                    25.050187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區精忠里民生東路４段６９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.551131,
+                    25.058033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區新聚里南京東路５段２５４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5663,
+                    25.051154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區吉祥里光復北路１１巷９７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56234,
+                    25.050436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區東光里南京東路５段１２３巷９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.560715,
+                    25.052285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區新聚里八德路４段２４９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.564955,
+                    25.049026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區民有里民權東路３段１６０巷２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.546906,
+                    25.059726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區松基里興安街１７１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.545939,
+                    25.05617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區復勢里八德路３段１６９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.555481,
+                    25.048162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區新東里南京東路５段４１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.570725,
+                    25.051686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區敦化里八德路３段１２巷５９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.550757,
+                    25.045179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市松山區復盛里八德路４段２０２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.564029,
+                    25.048701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區福星里開封街２段２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50846,
+                    25.04615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區福星里開封街２段４８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.507375,
+                    25.046408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區福音里康定路１８７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.501554,
+                    25.036498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區富民里康定路３０８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.501267,
+                    25.036042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區銘德里長泰街２８４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.493644,
+                    25.02128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區福星里漢中街６―２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.507831,
+                    25.046054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區新和里中華路２段４８４巷８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.506711,
+                    25.026533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區成都路４７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.506417,
+                    25.042743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區仁德里桂林路２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.505397,
+                    25.037604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區成都路７８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.504991,
+                    25.042891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區成都路４４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.506311,
+                    25.042584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區華江里環河南路２段２０２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.492973,
+                    25.034047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區富民里康定路３００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.501313,
+                    25.036314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區忠德里東園街３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.495946,
+                    25.026869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區長泰街１５６巷１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.497287,
+                    25.022621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區萬壽里武昌街２段７４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.506119,
+                    25.044832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區西門里峨眉街６６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.504538,
+                    25.044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區福音里三水街７１之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.503075,
+                    25.035993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區西門里成都路５４之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.505798,
+                    25.042704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區南寧路４１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.504141,
+                    25.036104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區萬大路４２４巷１５６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.493781,
+                    25.020751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺北市萬華區峨眉街４４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.506384,
+                    25.043569
+                ]
+            }
+        }
+    ]
+}

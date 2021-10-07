@@ -1,0 +1,44 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "連江縣北竿鄉塘岐村２２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.99836,
+                    26.22408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "連江縣南竿鄉福沃村５７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.944444,
+                    26.157862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "連江縣南竿鄉清水村８４－１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.939848,
+                    26.146597
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,4516 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北區錦南街50-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.686843,
+                    24.154665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北區五權路176號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.675763,
+                    24.14917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北區錦平里中華路二段143號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.680806,
+                    24.14936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區北平路四段68號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.691846,
+                    24.170331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南區台中路90號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.683215,
+                    24.133483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區大墩六街161號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.65024,
+                    24.142507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區東興路三段125號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.652868,
+                    24.149135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區南屯路2段595號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.638901,
+                    24.139213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市后里區墩北里四村路121號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.71322,
+                    24.305979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市后里區后里里復興街99巷31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.720879,
+                    24.308668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大甲區順天路146號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.622446,
+                    24.344953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大甲區新政路38號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.625994,
+                    24.348362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大雅區大雅路50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.649142,
+                    24.224098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市太平區太平路446號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.715632,
+                    24.124832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市東勢區上新里三民街88號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.830787,
+                    24.253005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市東區進化路230-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.694614,
+                    24.149913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市東區建成路500號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.695437,
+                    24.134452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市清水區鎮北街9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.576047,
+                    24.267723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市清水區中社里鎮政路97號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.560349,
+                    24.268229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西區大明街9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.672805,
+                    24.138421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西區篤行路200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.673938,
+                    24.151233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區重慶路180 號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.657523,
+                    24.167289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區市前街88號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.715901,
+                    24.25024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區三村里西勢路701號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.701003,
+                    24.234244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市霧峰區中正路958-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.699169,
+                    24.065674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區平安里天津路４段３７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.687138,
+                    24.169447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區平心里崇德路２段１８０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.68577,
+                    24.173131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區仁愛里中清路２段１６５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.669464,
+                    24.176649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區松茂里松竹路２段１７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.696558,
+                    24.183541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區和平里東山路一段３８１―４１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.720591,
+                    24.176189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區大德里中清路二段３９２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.667689,
+                    24.179784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區和平里和祥街２０５巷７６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.72335,
+                    24.178497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區廍子里廍子路１８７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.733109,
+                    24.161707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區平陽里大連路２段２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.682681,
+                    24.176079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區平順里昌平路１段４５４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.690546,
+                    24.176755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區水景里軍功路１段２４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.716314,
+                    24.166066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區松竹里崇德路２段３５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.686069,
+                    24.177574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區和平里東山路１段４９９、５０１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.73729,
+                    24.178822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區仁和里崇德路３段１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.68583,
+                    24.181967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區水湳里大連北街４７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.673694,
+                    24.177472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區平福里熱河路２段２２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.688238,
+                    24.174714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區忠平里敦化路１段５６５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.666433,
+                    24.186658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區松和里崇德六路一段１０６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.693301,
+                    24.180164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區廍子里廍子里樹孝路７０２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.736836,
+                    24.15996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區松竹里昌平路二段８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.69032,
+                    24.1793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區平和里文心路四段６０１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684974,
+                    24.172422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區水湳里大連路１段６１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.672702,
+                    24.176048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區北興里東光路６６５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.699929,
+                    24.164308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區軍功里環中東路一段１５０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.722179,
+                    24.183665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區平和里崇德路２段２０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.685383,
+                    24.173708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區平和里旅順路１段１１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.680734,
+                    24.17493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區北京里太原路三段１５０巷８弄１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.689314,
+                    24.164041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區和平里東山路１段４２０－１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.736403,
+                    24.177969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區和平里東山路１段３３８－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.725119,
+                    24.176037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區東光里東山路１段１２３巷１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.703363,
+                    24.170522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區平心里昌平路１段９７―４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.690962,
+                    24.172197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區東光里北屯路２８２―２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.697996,
+                    24.170521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區水景里太原路３段６０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.706155,
+                    24.164987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區北京里北屯路１４１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.692869,
+                    24.163198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區太原路３段１３８３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.731922,
+                    24.161304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區平福里大連路二段６２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.686387,
+                    24.175446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區平和里瀋陽路一段１０７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.67876,
+                    24.174239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區后庄里中清路２段１１７６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.660397,
+                    24.192366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區平和里綏遠路２段２０９―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.681584,
+                    24.173307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區新平里中清路２段９３７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.662285,
+                    24.188337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區平陽里綏遠路２段２１５巷１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.68145,
+                    24.175429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區平德里天津路３段１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.67983,
+                    24.169893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區平田里興安路１段２４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.694478,
+                    24.171958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區同榮里新興路１８巷３７之３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.66425,
+                    24.195637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區廍子里太順路２００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.722753,
+                    24.159029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市北屯區平順里大連路３段５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.692151,
+                    24.174962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區惠中里大光街１１４－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.647893,
+                    24.149097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區文山里嶺東路６８０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.611577,
+                    24.147518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區惠中里大墩路５７３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.649568,
+                    24.150092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區南屯里南屯路２段７３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.638735,
+                    24.139631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區惠中里大光街１０２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.647961,
+                    24.148288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區三和里公益路２段５１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.636861,
+                    24.151239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區田心里大墩四街３２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.646075,
+                    24.141366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區三厝里文心南五路三段２４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.630948,
+                    24.144207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區新生里五權西路２段１１２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.627512,
+                    24.148318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區永定里永春東路１３２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.633239,
+                    24.137315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區溝墘里大業路２３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.649248,
+                    24.153392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區惠中里文心路１段３７６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.647022,
+                    24.149362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區大誠里東興路２段９４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.653225,
+                    24.138528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區大同里向上南路１段１６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.653597,
+                    24.144797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區文山里嶺東路３３７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.610765,
+                    24.145609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區南屯里南屯路二段６８０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.639573,
+                    24.139026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區溝墘里大墩路６７３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.649568,
+                    24.151955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區大同里東興路二段２４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.653171,
+                    24.142759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區豐樂里永春東一路７１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.64156,
+                    24.132999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區惠中里大墩路５１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.649604,
+                    24.148091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區寶山里工業區二三路３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.604483,
+                    24.158183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區溝墘里大業路２７７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.648382,
+                    24.153403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區大業里大墩路６３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.650037,
+                    24.150563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區向心里大墩南路４２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.649801,
+                    24.134633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區三和里大墩十一街６５６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.636975,
+                    24.148769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區中和里黎明路１段２２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.627036,
+                    24.117124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區南屯里南屯路２段６４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.63755,
+                    24.140053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區南屯里五福街１８５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.636764,
+                    24.138117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區三和里黎明東街４３９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.636287,
+                    24.150604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區文心里大墩路３０１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.649739,
+                    24.14405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區南屯里五權西路２段６７１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.63885,
+                    24.141801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區永定里益昌二街７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.634162,
+                    24.140792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區惠中里大墩十二街３２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.646103,
+                    24.149742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區大業里大聖街３１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.650749,
+                    24.153317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市南屯區大業里大墩路８０８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.649933,
+                    24.154679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市后里區后里里三豐路４段１５巷３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.72148,
+                    24.309546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市后里區后里里５鄰三豐路３段１０９２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.722281,
+                    24.307926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市后里區月眉里雲頭路共和巷６―２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.701525,
+                    24.32072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市后里區眉山里甲后路２段３５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.696177,
+                    24.313745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市后里區墩西里公安路７４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.71113,
+                    24.304749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市外埔區大東里甲后路５段２５、２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.634885,
+                    24.344035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市外埔區大東里甲后路五段１４０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.637206,
+                    24.34288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市外埔區水美里００１鄰水美路８―１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.640514,
+                    24.32926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大安區海墘里大安港路１１７８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.585967,
+                    24.379545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大安區福興里４鄰興安路１６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.602193,
+                    24.346397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大甲區頂店里中山路１段１０９８―５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.627728,
+                    24.351797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大甲區順天里７鄰蔣公路１３３－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.622553,
+                    24.346015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大甲區大甲里光明路８４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.623261,
+                    24.344203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大甲區日南里００６鄰工七路２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.654082,
+                    24.405346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大甲區武曲里大安港路３２１―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.610084,
+                    24.354534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大甲區庄美里興安路１４２－９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.61011,
+                    24.350262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大甲區大甲里鎮瀾街１４０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.623864,
+                    24.345023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大甲區武曲里新政路３２６巷２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.616146,
+                    24.352768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大甲區薰風里３鄰光明路６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.623257,
+                    24.344038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大甲區平安里８鄰三民路１４５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.622001,
+                    24.349138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大甲區朝陽里順天路３００―２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.624287,
+                    24.346644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大甲區孔門里文武路７６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.623998,
+                    24.346858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大肚區頂街里２鄰沙田路２段７７４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.54468,
+                    24.154002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大肚區瑞井里遊園路１段３巷１弄５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.571735,
+                    24.15645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大肚區社腳里沙田路１段７７４巷４７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.556794,
+                    24.13006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大里區瑞城里向學一路１４７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.703344,
+                    24.091629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大里區新里里國光路２段２１９－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.681056,
+                    24.104346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大里區國光里東榮路４８３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.680434,
+                    24.109261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大里區仁化里９鄰仁美路１３７巷３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.708528,
+                    24.102238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大里區東湖里中興路一段１０５、１０７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.690265,
+                    24.092489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大里區內新里中興路２段４４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.690127,
+                    24.108979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大里區永隆里國光路２段４１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.679453,
+                    24.109828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大里區永隆里大明路４９０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.674573,
+                    24.1151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大里區新仁里１０鄰新仁路１段１２３―４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.710389,
+                    24.109245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大里區大里里長興一街２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.679491,
+                    24.09879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大里區長榮里大里路３９－７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.688327,
+                    24.106197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大里區日新里中興路２段日新六巷８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.692984,
+                    24.120947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大里區健民里仁化路７９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.728191,
+                    24.091356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大里區大明里中興路２段６７１巷１０４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.687002,
+                    24.11577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大雅區大雅里中清路３段１２１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.645707,
+                    24.225209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大雅區西寶里雅潭路６－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.677308,
+                    24.21407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大雅區大雅里１３鄰民生路１段４２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.646896,
+                    24.225998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大雅區大雅里雅環路２段１０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.652553,
+                    24.22661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大雅區上雅里雅環路２段２７６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.649236,
+                    24.229386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大雅區橫山里中科路６－５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.61847,
+                    24.209809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大雅區六寶里１７鄰月祥路８４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.62853,
+                    24.240708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大雅區大楓里雅楓街９９巷１弄２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.667039,
+                    24.233692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市大雅區二和里學府路９６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.650578,
+                    24.219124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市太平區新福里中山路４段１７４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.703064,
+                    24.148278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市太平區新高里中山路四段４６，４８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.710663,
+                    24.149787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市太平區興隆里興隆路７―５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.731641,
+                    24.111516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市太平區永成里０１７鄰永成北路９２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.713962,
+                    24.116961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市太平區德隆里光興路１１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.728708,
+                    24.097391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市太平區新坪里育才路１２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.720608,
+                    24.156082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市太平區新坪里建和路１段２２巷３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.719451,
+                    24.158833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市太平區新福里中山路四段２６０巷１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.700822,
+                    24.148938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市太平區中興里太平路６８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.710977,
+                    24.126927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市太平區新光里旱溪東路２段１１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.70254,
+                    24.152498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市太平區宜昌里宜昌路５４８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.715611,
+                    24.147455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市太平區新城里１鄰樹孝路３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.716694,
+                    24.150884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市太平區太平里太平路５８１，５８３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.708053,
+                    24.128444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市太平區新坪里育德路６－５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.722506,
+                    24.158256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市太平區宜昌里中山路三段３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.721812,
+                    24.149175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市太平區成功里東平路２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.735325,
+                    24.133721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市太平區永隆里光興路６５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.729203,
+                    24.105563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市太平區新高里環中東路３段２８６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.717443,
+                    24.158947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市太平區宜佳里新平路二段２１９巷１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.714397,
+                    24.140991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市太平區平安里鵬儀路１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.722773,
+                    24.119654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市太平區新高里育賢路３２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.714967,
+                    24.15903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市太平區中山里中山路２段３５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.729812,
+                    24.150221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市新社區新社里興安路２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.808317,
+                    24.241163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市新社區協成里興隆街８３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.806586,
+                    24.195367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市東勢區下新里粵寧街中路巷１５之２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.826226,
+                    24.268207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市東勢區廣興里８鄰三民街１９２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.830288,
+                    24.25532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區草湳里自強二街２８巷２１弄２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.530784,
+                    24.241198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區中正里中興路９６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.535047,
+                    24.253226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區草湳里８鄰港埠路１段５３７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.530019,
+                    24.236191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市梧棲區文化里文化路２段１０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.53027,
+                    24.254673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區居仁里光華路２７８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.564902,
+                    24.240259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區居仁里大同街１２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.55925,
+                    24.239591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里光榮街６９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.564004,
+                    24.24293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區竹林里臺灣大道七段７２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.570524,
+                    24.236117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里光華路４３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.568597,
+                    24.244297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿寮里福人街１０１巷７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.563723,
+                    24.244187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市沙鹿區鹿峰里錦衣街１４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.564638,
+                    24.251635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市清水區楊厝里頂三庄路３６巷８５弄２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.615772,
+                    24.29322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市清水區中社里１鄰鎮政路６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.560706,
+                    24.267816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市清水區北寧里北寧街８２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.577053,
+                    24.272226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市清水區南寧里中山路２８３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.575695,
+                    24.270121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市清水區文昌里中山路３３３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.576203,
+                    24.271447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市清水區橋頭里０２９鄰民治東路７９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.566276,
+                    24.273698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市清水區高西里美堤街１５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.549995,
+                    24.309141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市清水區清水里中山路３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.572048,
+                    24.2606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市烏日區烏日里日新街１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.627238,
+                    24.104754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市烏日區三和里站區二路８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.615785,
+                    24.111597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市烏日區學田里學田路５０２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.607643,
+                    24.121507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市烏日區三和里００５鄰學田路８巷６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.609188,
+                    24.108713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市烏日區前竹里中山路一段２２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.644341,
+                    24.109341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市烏日區螺潭里溪南路二段６８巷２６弄３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.641361,
+                    24.068019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市烏日區榮泉里榮和路１６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.598042,
+                    24.109591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市烏日區北里里太明路６７巷１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.659878,
+                    24.057891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市烏日區烏日里光日路４０６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.626036,
+                    24.111302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市烏日區三和里中山路３段１２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.61108,
+                    24.108371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市石岡區萬安里豐勢路九房巷１２７―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.780457,
+                    24.275832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市神岡區豐洲里００７鄰豐洲路５２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.702695,
+                    24.26234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市神岡區大社里大漢街１３４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.700113,
+                    24.252628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市神岡區社口里８鄰中山路７２４，７２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.674555,
+                    24.252434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市神岡區社南里中山路７４５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.678354,
+                    24.249552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市神岡區豐洲里豐洲路２６５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.707956,
+                    24.259874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市神岡區大社里豐社一街５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.69864,
+                    24.250824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市神岡區豐洲里五權路９６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.711963,
+                    24.257276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區何仁里西屯路２段９８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.655023,
+                    24.165911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區何厝里青海路１段１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.657189,
+                    24.163499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區惠來里市政北二路１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.64287,
+                    24.160419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區上德里臺灣大道３段４６０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.641891,
+                    24.167545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區西安里漢翔路２２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.641662,
+                    24.185317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區永安里西屯路３段１６６―３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.633179,
+                    24.182817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區福安里福科路２０６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.624646,
+                    24.182333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區何安里青海路１段１７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.653077,
+                    24.165544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區惠來里惠中路２段４５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.641253,
+                    24.155681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區上石里青海路２段２４０之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.645801,
+                    24.170399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區西平里福星北路５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.644898,
+                    24.184059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區福中里中工二路１５４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.615843,
+                    24.177489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區福安里２鄰福科路１４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.626985,
+                    24.181522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區福雅里西屯路三段１５７―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.623721,
+                    24.185386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區福林里福康路１１９巷３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.616822,
+                    24.186318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區何源里文心路３段３５７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.666255,
+                    24.173231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區福雅里福順路３０５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.618639,
+                    24.183153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區西墩里漢翔路２３５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.64017,
+                    24.184895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區福雅里福科路３７６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.619575,
+                    24.184639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區大河里中平路５８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.660411,
+                    24.17624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區何安里四川路１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.651471,
+                    24.163623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區大河里長安路１段１２４―５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.65662,
+                    24.170945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區何成里大墩二十街１２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.652148,
+                    24.160049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區逢福里福星路６３３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.647518,
+                    24.174638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區西墩里環中路２段９８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.638334,
+                    24.188275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區惠來里河南路４段１９９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.636804,
+                    24.155289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區大河里長安路１段１６２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.659983,
+                    24.171956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區西安里逢甲路２０２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.640086,
+                    24.176058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區西安里逢甲路２５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.639583,
+                    24.17536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區福瑞里福科路７７６、７７８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.605703,
+                    24.187636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區福雅里臺灣大道４段７９６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.620283,
+                    24.18099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區上德里河南路２段４２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.643669,
+                    24.170351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區西平里文華路１２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.646291,
+                    24.17959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區何成里大墩路９１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.650428,
+                    24.157004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區福林里００１鄰玉門路８６、８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.611155,
+                    24.190214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區福林里福雅路１０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.619116,
+                    24.185531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區港尾里中清路２段１４７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.657332,
+                    24.19722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區何成里大墩路９７３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.652302,
+                    24.15988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區何安里西屯路２段１０１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.653054,
+                    24.166163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區上安里００１鄰臺灣大道３段４９６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.641046,
+                    24.16813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區上安里００１鄰臺灣大道３段５７０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.640004,
+                    24.168921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區協和里工業區三六路１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.603581,
+                    24.169326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區福林里福康路４８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.617371,
+                    24.184476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區協和里工業區二八路４５１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.587101,
+                    24.173762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區林厝里安林路５７―１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.62365,
+                    24.19473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區何成里大墩路９７９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.652404,
+                    24.159977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區西墩里黎明路３段４０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.639067,
+                    24.183043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區協和里工業區三二路６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.587653,
+                    24.177358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區何南里精明一街２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.656283,
+                    24.156836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區潮洋里朝富路１８－２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.638324,
+                    24.168018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區西平里文華路１５５巷１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.645734,
+                    24.180992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區何厝里西屯路二段３９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.659772,
+                    24.164287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區港尾里１０鄰經貿路２段３２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.656937,
+                    24.192882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區福雅里１０鄰福順路２５５巷１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.620299,
+                    24.182195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區惠來里０２５鄰臺灣大道３段１９０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.646229,
+                    24.164888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區上安里河南路２段５５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.641238,
+                    24.168391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區何厝里西屯路２段３９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.659772,
+                    24.164287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區至善里上安路１７３巷３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.637912,
+                    24.172388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區港尾里中清路２段１３９２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.658102,
+                    24.195976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區上德里上石路２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.643485,
+                    24.167524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區何福里漢口路２段１１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.661322,
+                    24.164645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區西平里逢甲路１９巷２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.645636,
+                    24.1785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區上安里００１鄰臺灣大道３段５０８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.640868,
+                    24.168243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區永安里西屯路３段１４８―４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.633179,
+                    24.182817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區福恩里工業區一路６６－８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.614347,
+                    24.178279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區大河里甘肅路二段５８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.656028,
+                    24.171621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區西平里福星路４２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.645298,
+                    24.179099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區福聯里西屯路３段１７７－１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.594606,
+                    24.19125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區何厝里四川路８７巷６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.655054,
+                    24.161878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區何安里青海路１段６３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.655178,
+                    24.164104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區何明里大有街７０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.658022,
+                    24.160547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區潮洋里臺灣大道３段６９９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.635174,
+                    24.171582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區至善里至善路１２１巷７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.642328,
+                    24.176086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區潮洋里朝馬路１１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.635633,
+                    24.169148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區福和里中工三路４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.619057,
+                    24.179925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區福恩里工業區一路６６之８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.614347,
+                    24.178279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市西屯區上安里００１鄰臺灣大道３段５５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.640307,
+                    24.168647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區豐西里豐西街３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.714625,
+                    24.251814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區圳寮里中山路５７１巷２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.7122,
+                    24.254987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區社皮里１３鄰中正路６３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.705702,
+                    24.250055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區西勢里２１鄰中興路２４２―３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.710148,
+                    24.244804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區頂街里中正路２００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.718269,
+                    24.251925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區中陽里豐陽路５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.722672,
+                    24.250399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區中陽里向陽路１４８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.724945,
+                    24.252158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區豐榮里中正路２１２巷１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.717923,
+                    24.252148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區豐田里２鄰豐南街６８巷５１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.713317,
+                    24.238198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區南陽里永康路１０１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.726843,
+                    24.242799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區翁子里豐勢路一段４６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.731847,
+                    24.258379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區北陽里００９鄰圓環東路６２４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.728112,
+                    24.249842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區翁社里豐年路２０１―２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.736925,
+                    24.261949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區中山里府前街２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.71982,
+                    24.249555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區東勢里博愛街３１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.715205,
+                    24.245784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區下街里源豐路５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.716022,
+                    24.25249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區中山里中正路２０９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.718138,
+                    24.251732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區西安里瑞安街１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.71259,
+                    24.247772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區豐西里中正路３００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.714074,
+                    24.251109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區南陽里２２鄰安康路１０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.725838,
+                    24.24303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區葫蘆里市前街４９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.715683,
+                    24.249601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區中陽里南陽路４３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.723989,
+                    24.247357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區北陽里豐東路６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.728176,
+                    24.244979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區社皮里中正路７３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.701016,
+                    24.249044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區鎌村里鎌村路２７１巷１３５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.730552,
+                    24.230141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區南陽里圓環東路２０１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.72107,
+                    24.243496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區中陽里向陽路１９３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.726564,
+                    24.252096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區頂街里中正路１５４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.719527,
+                    24.251805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區南陽里圓環東路３０２―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.720862,
+                    24.243476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區豐西里源豐路１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.715273,
+                    24.251944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區西安里西勢路１７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.707365,
+                    24.244403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區南村里豐東路３６２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.733748,
+                    24.252171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市豐原區圳寮里中山路６４８－３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.713365,
+                    24.255039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市霧峰區錦榮里中正路９１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.698839,
+                    24.064288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市霧峰區中正里中正路９２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.698869,
+                    24.064737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市霧峰區北柳里２５鄰四德路４１２巷５６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.677205,
+                    24.06557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市霧峰區四德里新埔路１５８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.67332,
+                    24.074159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市霧峰區吉峰里吉峰路７４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.703993,
+                    24.07579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市霧峰區坑口里和平路２之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.695617,
+                    24.04341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市霧峰區坑口里和平路６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.695944,
+                    24.043323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市霧峰區坑口里和平路４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.695857,
+                    24.043344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市霧峰區坑口里和平路１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.695815,
+                    24.043633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市霧峰區本堂里樹仁路２２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.696556,
+                    24.057286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市龍井區龍津里中央路１段１８１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.523037,
+                    24.200844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市龍井區東海里８鄰國際街１６９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.59578,
+                    24.187719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市龍井區新東里臺灣大道５段３巷６２弄２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.591956,
+                    24.18193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市龍井區新東里７鄰新興路２２巷２弄８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.589121,
+                    24.181474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市龍井區新東里２１鄰遊園南路３１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.583083,
+                    24.178825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市龍井區龍崗里竹師路２段１１２巷３９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.550821,
+                    24.191416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市龍井區忠和里台西南路２５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.514926,
+                    24.222197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市龍井區山腳里０１３鄰沙田路６段１２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.551837,
+                    24.212344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市龍井區新東里遊園南路２６９巷５６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.585044,
+                    24.179887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "臺中市龍井區新東里新興路１巷２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.592541,
+                    24.181239
+                ]
+            }
+        }
+    ]
+}

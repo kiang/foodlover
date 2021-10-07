@@ -1,0 +1,92 @@
+{
+    "name": "第三公有零售市場",
+    "address": "臺中市南區台中路90號",
+    "x": 120.683215,
+    "y": 24.133483,
+    "shops": [
+        {
+            "shop": "第三公有零售市場 A005",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "第三公有零售市場 A006",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "第三公有零售市場 A010",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "第三公有零售市場 A011",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "第三公有零售市場 6",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "第三公有零售市場 27",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "第三公有零售市場 32",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "第三公有零售市場 33",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "第三公有零售市場 34",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "第三公有零售市場 35",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "第三公有零售市場 36",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "第三公有零售市場 43",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "第三公有零售市場 45",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "第三公有零售市場 57",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "第三公有零售市場 C007",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "第三公有零售市場 C013",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "第三公有零售市場 C033",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "第三公有零售市場 C041",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "第三公有零售市場 C045",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "第三公有零售市場 C069",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "第三公有零售市場 C126",
+            "pay_list": "台灣 PAY"
+        }
+    ]
+}

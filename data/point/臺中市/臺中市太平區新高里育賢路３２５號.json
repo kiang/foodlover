@@ -1,0 +1,19 @@
+{
+    "name": [
+        "西點麵包零售",
+        "咖啡館"
+    ],
+    "address": "臺中市太平區新高里育賢路３２５號",
+    "x": 120.714967,
+    "y": 24.15903,
+    "shops": [
+        {
+            "shop": "立盟企業社",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "立盟企業社",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

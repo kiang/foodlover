@@ -1,0 +1,28 @@
+{
+    "name": "和平街攤販集中場",
+    "address": "新北市中和區和平街89號",
+    "x": 121.505038,
+    "y": 24.992101,
+    "shops": [
+        {
+            "shop": "和平街攤販集中場 4",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "和平街攤販集中場 5",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "和平街攤販集中場 24",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "和平街攤販集中場 57",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "和平街攤販集中場 63",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

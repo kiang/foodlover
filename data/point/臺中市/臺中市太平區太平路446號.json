@@ -1,0 +1,56 @@
+{
+    "name": "太平公有零售市場",
+    "address": "臺中市太平區太平路446號",
+    "x": 120.715632,
+    "y": 24.124832,
+    "shops": [
+        {
+            "shop": "太平公有零售市場 阿明青果行",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "太平公有零售市場 凱琳服飾精品",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "太平公有零售市場 水噹噹女裝",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "太平公有零售市場 符媽媽麵食",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "太平公有零售市場 阿芬炸雞專賣店",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "太平公有零售市場 珮琪玉器",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "太平公有零售市場 香樂肉鬆",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "太平公有零售市場 旺旺肉品",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "太平公有零售市場 小玲滷味",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "太平公有零售市場 美珠化妝品",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "太平公有零售市場 美美化妝品",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "太平公有零售市場 愛妮化妝品",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

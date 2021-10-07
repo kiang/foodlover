@@ -1,0 +1,200 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金湖鎮菜市場1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.414584,
+                    24.441022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金城鎮北門里中興路１４６巷２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.319458,
+                    24.433449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金城鎮西門里環島北路１段５９―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.321526,
+                    24.440519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金城鎮東門里莒光路５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.3184,
+                    24.431585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金城鎮中興路１３５－１３７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.31844,
+                    24.43373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金城鎮中興路１４６巷１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.319443,
+                    24.433613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金城鎮北門里民生路３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.319588,
+                    24.434822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金寧鄉榜林村榜林１０７－２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.329738,
+                    24.4371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金寧鄉榜林村伯玉路１段２２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.327836,
+                    24.436581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金寧鄉盤山村盤果路２００之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.340492,
+                    24.440664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金寧鄉盤山村伯玉路２段３０１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.340265,
+                    24.440791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金寧鄉盤山村頂堡５２―４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.337248,
+                    24.44566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金湖鎮新湖里塔后１３－３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.409211,
+                    24.440957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金湖鎮瓊林１８０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.373459,
+                    24.454604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金湖鎮新湖里湖前７３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.410056,
+                    24.436699
+                ]
+            }
+        }
+    ]
+}

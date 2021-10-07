@@ -1,0 +1,18 @@
+{
+    "name": [
+        "麵店、小吃店"
+    ],
+    "address": "新北市泰山區泰林路３段２２號（黎明技術學院師生餐廳）",
+    "x": 121.419616,
+    "y": 25.065895,
+    "shops": [
+        {
+            "shop": "金牌滷味",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "靜葳商行",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

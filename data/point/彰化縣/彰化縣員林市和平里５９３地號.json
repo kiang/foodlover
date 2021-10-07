@@ -1,0 +1,18 @@
+{
+    "name": [
+        "麵店、小吃店"
+    ],
+    "address": "彰化縣員林市和平里５９３地號",
+    "x": 120.570582,
+    "y": 23.959695,
+    "shops": [
+        {
+            "shop": "瑞炸物",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        },
+        {
+            "shop": "洪珮恩",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

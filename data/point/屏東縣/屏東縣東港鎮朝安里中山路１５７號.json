@@ -1,0 +1,22 @@
+{
+    "name": [
+        "西點麵包零售"
+    ],
+    "address": "屏東縣東港鎮朝安里中山路１５７號１樓",
+    "x": 120.446976,
+    "y": 22.468471,
+    "shops": [
+        {
+            "shop": "安亨咖啡麵包坊",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "安可咖啡麵包坊",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "安可咖啡麵包坊",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

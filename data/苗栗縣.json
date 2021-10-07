@@ -1,0 +1,902 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣竹南鎮忠義街20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.87454,
+                    24.688751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣銅鑼鄉銅鑼村永樂路36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.788505,
+                    24.48861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣頭份市和平里中山路146號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.907871,
+                    24.683789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣頭份市東庄里雙十街2巷83號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.892099,
+                    24.685991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣三義鄉廣盛村１９鄰中正路１２４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.771835,
+                    24.413461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣三義鄉勝興村１３鄰勝興５７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.781831,
+                    24.389467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣三義鄉西湖村００３鄰下湖５―１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.743801,
+                    24.360939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣三義鄉龍騰村１３鄰龍騰３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.777424,
+                    24.376805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣公館鄉館東村５鄰大同路１９４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.828292,
+                    24.502796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣卓蘭鎮上新里１９鄰上新１３－１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.830539,
+                    24.306021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣卓蘭鎮上新里上新１３－１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.830539,
+                    24.306021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣卓蘭鎮新厝里１鄰７－１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.823995,
+                    24.320598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣南庄鄉東河村０２１鄰２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.043589,
+                    24.57391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣南庄鄉蓬萊村１１鄰八卦力１６之８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.958997,
+                    24.531015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣南庄鄉南江村０１７鄰２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98839,
+                    24.574171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣大湖鄉義和村００９鄰南昌路富民巷１０―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.86582,
+                    24.397473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣泰安鄉士林村蘇魯３３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.922151,
+                    24.344961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣獅潭鄉新店村７鄰新店６２―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.926305,
+                    24.533806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣竹南鎮新南里永貞路二段１７９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.885274,
+                    24.691396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣竹南鎮照南里００３鄰光復路１７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.879334,
+                    24.687725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣竹南鎮竹南里１４鄰博愛街６９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.87718,
+                    24.686719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣竹南鎮天文里龍昇街２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.868358,
+                    24.696027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣竹南鎮竹南里１７鄰博愛街１７１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.874395,
+                    24.686855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣竹南鎮龍山里１３鄰龍昇街２１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.872775,
+                    24.700627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣竹南鎮竹南里延平路１１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.877049,
+                    24.686712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣竹南鎮營盤里２３鄰自由街８８－１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.876084,
+                    24.687873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣竹南鎮正南里０１８鄰中正路１７５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.874971,
+                    24.683596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣竹南鎮照南里０２５鄰立達街１１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.877814,
+                    24.690978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣竹南鎮竹南里００９鄰民族街１１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.878525,
+                    24.686523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣竹南鎮頂埔里０１０鄰科中路１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.915149,
+                    24.712783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣竹南鎮竹興里３鄰博愛街４６３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.864802,
+                    24.689193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣苑裡鎮苑南里信義路３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.654554,
+                    24.441661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣苑裡鎮山腳里彎麗路１００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.686322,
+                    24.414384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣苗栗市上苗里１５鄰中山路８０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.823398,
+                    24.567912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣苗栗市建功里府東路９１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.821456,
+                    24.562743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣苗栗市清華里為公路３０９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.830067,
+                    24.571722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣苗栗市新苗里０１１鄰中正路９０５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.816136,
+                    24.551572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣苗栗市中苗里５鄰中正路５５５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.820892,
+                    24.557852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣苗栗市福麗里００９鄰至公路３３３―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.817654,
+                    24.558309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣苗栗市上苗里中山路１０８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.823404,
+                    24.567343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣苗栗市文山里０１４鄰自治路３２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.815485,
+                    24.567803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣苗栗市玉清里為民街４０巷２５弄３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.827805,
+                    24.565655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣苗栗市福麗里１鄰府前路１８１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.817648,
+                    24.559664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣苗栗市北苗里中山北路１０５―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.82377,
+                    24.571653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣苗栗市建功里長春街２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.821071,
+                    24.562037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣苗栗市文山里０１７鄰正發路１６０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.81679,
+                    24.569303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣苗栗市建功里６鄰中山路２０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.82344,
+                    24.56501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣苗栗市青苗里中正路６３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.819869,
+                    24.555993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣苗栗市文山里２１鄰正發路２２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.815077,
+                    24.569476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣通霄鎮通西里０２７鄰中山路２２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.678934,
+                    24.491347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣通霄鎮內湖里１２鄰烏眉路２８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.702868,
+                    24.496378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣通霄鎮通西里０１３鄰中正路７３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.679964,
+                    24.490304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣通霄鎮白東里００４鄰２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.710648,
+                    24.571342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣通霄鎮通西里００５鄰和平路３５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.679804,
+                    24.489408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣通霄鎮內湖里００５鄰５３―５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.694374,
+                    24.49765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣銅鑼鄉樟樹村４鄰５９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.789992,
+                    24.464115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣銅鑼鄉朝陽村０２１鄰朝東１３５―３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.785631,
+                    24.485704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣銅鑼鄉銅鑼村０１２鄰新興路１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.78675,
+                    24.48636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣頭份市中興里１２鄰中央路４００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.899565,
+                    24.693514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣頭份市上興里０１７鄰永愛街６４巷５４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.921632,
+                    24.669698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣頭份市成功里００２鄰節約街５６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.908767,
+                    24.695004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣頭份市蟠桃里００７鄰德義路１３７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.896214,
+                    24.691402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣頭份市斗煥里００３鄰中正二路８７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.942756,
+                    24.681926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣頭份市成功里７鄰中興路５３７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.907011,
+                    24.694799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣頭份市文化里０１５鄰八德二路２５６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.898934,
+                    24.700562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣頭份市蟠桃里１２鄰德義路１９１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.894399,
+                    24.691703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣頭份市忠孝里００１鄰建國路１０９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.911443,
+                    24.694675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣頭份市後庄里７鄰公北三路６２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.890462,
+                    24.693404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "苗栗縣頭屋鄉頭屋村１４鄰尖豐路９２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.851819,
+                    24.575327
+                ]
+            }
+        }
+    ]
+}

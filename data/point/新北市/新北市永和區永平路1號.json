@@ -1,0 +1,68 @@
+{
+    "name": "樂華夜市",
+    "address": "新北市永和區永平路1號至187號、2號至194號(永和路及中山路間)及永平路81巷1號、3號及2號至",
+    "x": 121.513678,
+    "y": 25.008651,
+    "shops": [
+        {
+            "shop": "樂華夜市 香精油",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "樂華夜市 木櫥滷味",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "樂華夜市 鹹酥雞",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "樂華夜市 三明治",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "樂華夜市 蒙古烤肉",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "樂華夜市 服飾",
+            "pay_list": "歐付寶"
+        },
+        {
+            "shop": "樂華夜市 紅豆餅",
+            "pay_list": "歐付寶"
+        },
+        {
+            "shop": "樂華夜市 黑輪",
+            "pay_list": "歐付寶"
+        },
+        {
+            "shop": "樂華夜市 咖哩飯",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "樂華夜市 日式雞蛋糕",
+            "pay_list": "歐付寶"
+        },
+        {
+            "shop": "樂華夜市 泰桑哩",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "樂華夜市 阿泰鐵板燒",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "樂華夜市 鳥蛋?人",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "樂華夜市 保護貼",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "樂華夜市 梅子芭樂",
+            "pay_list": "台灣 PAY"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "第五公有零售市場",
+    "address": "臺中市西區大明街9號",
+    "x": 120.672805,
+    "y": 24.138421,
+    "shops": [
+        {
+            "shop": "第五公有零售市場 A004",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "第五公有零售市場 1",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "第五公有零售市場 13",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "第五公有零售市場 17",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "第五公有零售市場 21",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "第五公有零售市場 26",
+            "pay_list": "玉山銀行"
+        },
+        {
+            "shop": "第五公有零售市場 29",
+            "pay_list": "玉山銀行"
+        },
+        {
+            "shop": "第五公有零售市場 31",
+            "pay_list": "玉山銀行"
+        },
+        {
+            "shop": "第五公有零售市場 37",
+            "pay_list": "玉山銀行"
+        },
+        {
+            "shop": "第五公有零售市場 40",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "第五公有零售市場 C016",
+            "pay_list": "台灣 PAY"
+        }
+    ]
+}

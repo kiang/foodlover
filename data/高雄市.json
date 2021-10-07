@@ -1,0 +1,4178 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區鳳南里中華三路285-39號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.292812,
+                    22.635477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區建工路852巷26-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31655,
+                    22.648584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前金區大同二路28巷5-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295198,
+                    22.62735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市大樹區久堂里市場巷21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.419763,
+                    22.653271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市大社區燕巢區鳳西巷69號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.398815,
+                    22.759038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市左營區左營下路262號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.29858,
+                    22.690836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市左營區富國路60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.306765,
+                    22.658518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市新興區南華路40-4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.302637,
+                    22.630143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市旗津區慈愛里旗津三路1050號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.268371,
+                    22.610192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市梓官區中崙路市場巷78號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.268259,
+                    22.760566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市楠梓區楠梓東街116號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.329579,
+                    22.730332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市橋頭區舊市巷14號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.311764,
+                    22.757726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區新興里民生路21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.360573,
+                    22.6248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鹽埕區七賢三路123號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.281918,
+                    22.62618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鹽埕區瀨南街141-7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.28232,
+                    22.62499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鼓山區九如四路1460巷45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.280739,
+                    22.659272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區正順里大順二路３６５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.325115,
+                    22.647518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區鼎泰里河堤路６８２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.315305,
+                    22.66825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區本和里大豐一路４６５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32643,
+                    22.658669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區正興里建元路２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.317536,
+                    22.647542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區安邦里同協路１９９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.292714,
+                    22.648847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區寶泰里大豐二路２８０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.332772,
+                    22.645374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區寶獅里九如一路３１７―３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.33627,
+                    22.637377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區寶德里光武路８０巷３弄７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.335611,
+                    22.639316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區建東里自立一路７６巷４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.297213,
+                    22.636543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區本揚里陽明路３８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.342861,
+                    22.645721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區寶華里九如一路５４巷１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.34294,
+                    22.63717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區正興里建元路５６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.317594,
+                    22.646844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區灣興里灣興街４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.313146,
+                    22.651405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區灣興里灣興街５０巷１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.312875,
+                    22.651845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區灣愛里大昌一路３０２巷３５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.320288,
+                    22.658759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區寶華里陽明路１６巷２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.341703,
+                    22.637264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區寶業里褒揚街１０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.342556,
+                    22.64062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區鼎泰里明仁路１６之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.314449,
+                    22.660685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區愛國路１５７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.318234,
+                    22.651599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區建工路５９７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31977,
+                    22.648263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區本文里建工路４１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.328335,
+                    22.652011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區安發里九如一路８１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.319539,
+                    22.640152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區鼎力里天祥一路２０８－２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.317554,
+                    22.668239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區本揚里澄清路７５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.347085,
+                    22.646511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區德西里同盟三路５９０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.28564,
+                    22.648413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區正興里建工路６７７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.317528,
+                    22.647849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區德智里十全一路６１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.311457,
+                    22.644705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區德西里中和街１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.290657,
+                    22.640333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區灣興里灣興街３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.313567,
+                    22.651243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區安邦里康平街２６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.29467,
+                    22.647489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區精華里嫩江街５９巷８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.298002,
+                    22.642778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區安泰里同盟二路３７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30209,
+                    22.651384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區安和里松江街３５１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304225,
+                    22.649035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區鼎泰里鼎瑞街８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.315355,
+                    22.665565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區本館里昌裕街９６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.330766,
+                    22.654395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區灣復里鼎山街６９４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.315695,
+                    22.649321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區灣中里鼎山街６５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.316584,
+                    22.649695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區灣復里民族一路３８４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.315483,
+                    22.652625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區昌裕街２１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.328492,
+                    22.652263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區安泰里重慶街３３５巷１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.302252,
+                    22.65078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區德仁里遼寧一街９３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.310919,
+                    22.642021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區鼎泰里民族一路６３８巷５０弄７―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.317457,
+                    22.661059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區立業里恆豐街２９０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.29722,
+                    22.640291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區正興里建興路３６９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.322214,
+                    22.646737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區本元里大豐二路５１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.334453,
+                    22.650041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區安發里延吉街６３巷１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.318935,
+                    22.641234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區達明里吉林街１５１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.306188,
+                    22.644403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區安和里綏遠一街１６９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.303904,
+                    22.648719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區同德里山東街１０６－１０８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.311646,
+                    22.643198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市仁武區仁武里中正路１３７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.349332,
+                    22.702394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市仁武區大灣里八德南路４８３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.341196,
+                    22.67737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市仁武區灣內里仁心路２０巷３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.357566,
+                    22.679708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市仁武區竹後里鳳仁路３６９巷３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.335133,
+                    22.714794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市仁武區大灣里大春街１０５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.334543,
+                    22.676083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市仁武區灣內里鳳仁路４７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.354999,
+                    22.681652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市仁武區竹後里竹工三巷３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.332185,
+                    22.713411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市仁武區灣內里２１鄰澄觀路１５７７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.349762,
+                    22.684533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市仁武區大灣里八德西路１１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.332322,
+                    22.675228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市仁武區仁和里仁忠路７７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.355851,
+                    22.677188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市仁武區八卦里八德中路２２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.335027,
+                    22.686416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市六龜區大津里大津２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.648827,
+                    22.879902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前金區青山里中正四路１０５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.297901,
+                    22.629773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前金區長興里中正四路８２―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.298981,
+                    22.630645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前金區青山里中正四路８３之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.299037,
+                    22.630082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前金區長興里中正四路１４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.296909,
+                    22.630013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前金區榮復里自強三路２７７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.296835,
+                    22.620909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前金區青山里中正四路８３―２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.299155,
+                    22.630185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前金區新生里市中一路２７０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.289064,
+                    22.631962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前金區林投里前金二街５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.292026,
+                    22.627075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前金區林投里成功一路４３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.292429,
+                    22.627202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前金區榮復里新田路３２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295925,
+                    22.619848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前金區文東里中山二路５４７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.301392,
+                    22.621153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前金區文西里自強三路２５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.297428,
+                    22.620315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前鎮區瑞昌里瑞隆路２３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.333718,
+                    22.605848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前鎮區瑞昌里瑞隆路２３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.333774,
+                    22.605858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前鎮區草衙里佛佑路１１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.324278,
+                    22.574228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前鎮區仁愛里新強路２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.315304,
+                    22.580466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前鎮區明孝里漁港中二路８０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.316644,
+                    22.573927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前鎮區瑞昌里瑞隆路２３４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.333341,
+                    22.605829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前鎮區興東里一心一路３９４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.316012,
+                    22.609131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前鎮區建隆里中華五路７６２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.305846,
+                    22.604958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前鎮區信義里新衙路２８８之４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31504,
+                    22.582391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前鎮區瑞華里瑞福路１３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.335881,
+                    22.607945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前鎮區西山里一心二路８３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.309473,
+                    22.611588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前鎮區瑞隆里武慶一路２２巷１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.332381,
+                    22.604281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市大寮區中庄里１４鄰八德路７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.392508,
+                    22.635749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市大寮區翁園里００１鄰翁園路１之２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.404118,
+                    22.625167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市大寮區過溪里華二街１２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.411707,
+                    22.579048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市大寮區山頂里鳳林三路７７１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.391614,
+                    22.611484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市大寮區中庄里鳳屏一路４２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.391797,
+                    22.635546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市大寮區前庄里捷西路２９８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.389259,
+                    22.622413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市大寮區山頂里４鄰鳳林三路７０７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.392812,
+                    22.610486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市大寮區後庄里０３１鄰民族路１０巷１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.384344,
+                    22.633506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市大寮區中興里光華路２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.383563,
+                    22.619188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市大寮區會社里鳳林三路２０４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.400233,
+                    22.599398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市大社區保社里０１２鄰旗楠路１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.341645,
+                    22.745047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市大社區大社里中山路２２３－２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.34788,
+                    22.73204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市大社區觀音里三民路１８４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.348695,
+                    22.725807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市大社區大社里中正路８５－６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.348828,
+                    22.732486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市小港區山明里山明路３０７巷４９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.365691,
+                    22.563704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市小港區正苓里學府路１６８巷４０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.353739,
+                    22.56604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市小港區小港里台糖路１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.34495,
+                    22.565062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市小港區山東里中山四路２―１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.34757,
+                    22.570643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市小港區二苓里漢民路２２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.35177,
+                    22.565428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市小港區廈莊里新昌街３―３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.361912,
+                    22.582103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市小港區順苓里平治街２―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.358186,
+                    22.56762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市小港區正苓里漢民路２８４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.353708,
+                    22.566673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市小港區六苓里漢民路６６１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.360615,
+                    22.567305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市岡山區臺上里０１１鄰大仁路１０５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.301661,
+                    22.805154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市岡山區仁壽里前峰路２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.289472,
+                    22.794422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市岡山區仁壽里前峰路６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.289434,
+                    22.794442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市岡山區壽天里公園東路２２－６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.292925,
+                    22.799703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市岡山區平安里岡山路１９３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295911,
+                    22.791535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市岡山區臺上里大仁路１１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.301683,
+                    22.804938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市岡山區岡山里民享路５０巷９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.297383,
+                    22.789652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市岡山區後協里大義二路３３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.286124,
+                    22.786897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市岡山區後協里大義二路６０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.284906,
+                    22.78902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市左營區新下里華夏路３０５巷５７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.296408,
+                    22.671631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市左營區菜公里華夏路１１２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308348,
+                    22.683886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市左營區新上里自由二路３４２－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.309082,
+                    22.665911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市左營區新光里華夏路９２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.303946,
+                    22.680356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市左營區新上里明華一路７０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.309492,
+                    22.662877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市左營區埤西里左營大路１２―４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.28773,
+                    22.680536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市左營區福山里重和路２２、２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.312281,
+                    22.684861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市左營區福山里民族一路１１９５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.320469,
+                    22.68773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市左營區菜公里高鐵路１０５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308728,
+                    22.687374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市左營區新上里裕誠路４５４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304755,
+                    22.66588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市左營區新下里華夏路４８５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.299325,
+                    22.674645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市左營區菜公里博愛三路３１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.306657,
+                    22.676411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市左營區新上里天祥二路１１１巷３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31355,
+                    22.668412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市左營區新上里裕誠路１４７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.311588,
+                    22.663969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市左營區福山里重信路４８５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.310002,
+                    22.684132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市左營區頂西里西陵街７７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.290879,
+                    22.687303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市新興區浩然里復興二路２８６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.309111,
+                    22.623833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市新興區大明里中正四路３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.300617,
+                    22.630714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市新興區光耀里渤海街２３―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.312599,
+                    22.629764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市新興區漢民里大同一路１０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30381,
+                    22.628823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市新興區南華橫二路６５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.305778,
+                    22.634955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市新興區長驛里六合二路７０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.299601,
+                    22.632396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市新興區中山一路１４之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.301655,
+                    22.626033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市新興區長驛里明星街７９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.298779,
+                    22.633295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市新興區興昌里六合一路３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.311277,
+                    22.632542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市新興區蕉園里林森一路１４８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304691,
+                    22.629306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市新興區六合路１３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.315307,
+                    22.632259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市新興區尚文街１１巷１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.314829,
+                    22.634777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市旗山區南勝里得勝巷２－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.452794,
+                    22.794426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市旗山區圓富里旗甲路二段１４３巷３弄２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.494758,
+                    22.918002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市旗山區太平里大德段１０７４－００００地號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.47877,
+                    22.882845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市旗山區湄洲里延平一路５０８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.483214,
+                    22.889809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市旗山區湄洲里中山路６０之１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.482271,
+                    22.886263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市旗山區湄洲里中山路６６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.482129,
+                    22.886835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市旗山區竹峰里中正路４０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.479529,
+                    22.894043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市旗山區竹峰里文中路１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.480868,
+                    22.890979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市旗山區湄洲里中山路４９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.481908,
+                    22.886524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市旗山區湄洲里中山路６２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.482128,
+                    22.886755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市旗津區振興里廟前路９２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.268899,
+                    22.61352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市林園區王公里４鄰林園北路５０１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.394972,
+                    22.514644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市林園區文賢里０１３鄰文賢南路１４９之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.393306,
+                    22.500599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市梓官區赤東里赤崁南路９２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.24856,
+                    22.735731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市梓官區典寶里海景路３１巷１２弄１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.264332,
+                    22.743103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市楠梓區宏昌里後昌新路２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.29163,
+                    22.718664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市楠梓區翠屏里德賢路４７１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.302598,
+                    22.725968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市楠梓區土庫二路１８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.326126,
+                    22.739464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市楠梓區享平里楠梓路６９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.329166,
+                    22.729074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市楠梓區清豐里清豐三路２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.332445,
+                    22.741506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市楠梓區五常里鳳楠路１３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.330855,
+                    22.723709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市楠梓區五常里鳳楠路１３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.330865,
+                    22.723754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市楠梓區翠屏里德賢路２５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304751,
+                    22.726244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市楠梓區清豐里土庫路１４１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.330284,
+                    22.739132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市楠梓區裕昌里德民路９０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.289903,
+                    22.720928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市楠梓區泰昌里三山街２０８－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.283842,
+                    22.715275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市楠梓區東寧里旗楠路２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.329125,
+                    22.731242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市楠梓區中陽里楠都東街２０８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.326928,
+                    22.726447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市楠梓區翠屏里德賢路２５９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304141,
+                    22.726133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市楠梓區翠屏里德賢路２０６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.306575,
+                    22.726875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市橋頭區德松里００９鄰成功北路７１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307363,
+                    22.763639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市橋頭區仕隆里隆豐路１９５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307244,
+                    22.754038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市橋頭區仕隆里１８鄰仕隆南路３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.312299,
+                    22.751684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市橋頭區仕豐里仕豐路１７８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.305362,
+                    22.748443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市橋頭區白樹里０３６鄰美德街１１６巷１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.303013,
+                    22.761859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市橋頭區甲北里００７鄰甲圍路豐田巷１７６弄３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295385,
+                    22.74343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市橋頭區芋寮里芋林路６之４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.286311,
+                    22.760632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市湖內區葉厝里１２鄰中正路１段４９５－２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.215695,
+                    22.908594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市燕巢區安招里０４２鄰安林三街４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.331878,
+                    22.78736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市田寮區崇德里１２鄰崇德路興德巷４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.379682,
+                    22.877635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市甲仙區西安里文化路５１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.588421,
+                    23.081499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市甲仙區大田里新興路９２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.583529,
+                    23.079143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市甲仙區西安里文化路１０２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.587025,
+                    23.0816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市美濃區中壇里中正路２段３１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.534046,
+                    22.884848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市美濃區泰安里永安路２０９之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.542675,
+                    22.899463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市美濃區泰安里永安路１９７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.543242,
+                    22.899327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區尚義里尚禮街３３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.314528,
+                    22.628955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區光華里廣州二街６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.319597,
+                    22.617024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區意誠里自強三路３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.300411,
+                    22.611715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區和煦里青年一路１４１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.309377,
+                    22.622195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區意誠里三多四路６１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.301784,
+                    22.612821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區仁政里中山二路４０４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.303191,
+                    22.618272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區五福里建國一路２１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.327926,
+                    22.633127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區林南里林泉街７８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.317268,
+                    22.622885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區林榮里英義街４１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.324663,
+                    22.618915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區苓洲里成功一路２３９―４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295942,
+                    22.618117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區正言里中正一路２８６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.327895,
+                    22.62976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區中正里青年一路２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.316633,
+                    22.625049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區中正里光華一路１４８－７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.315499,
+                    22.624659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區正心里正言路１１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.331104,
+                    22.633265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區安祥里六合路５７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.317724,
+                    22.631909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區美田里中興街１２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30501,
+                    22.619969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區和煦里忠孝二路１１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308023,
+                    22.620524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區和煦里忠孝二路１０８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30804,
+                    22.620479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區福壽里福德三路２１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.327209,
+                    22.627289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區鼓中里自強三路１０７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.298635,
+                    22.61614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區意誠里新光路２８巷４９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.302685,
+                    22.613014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區永康里四維一路３７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.330215,
+                    22.625965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區日中里林森二路５６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307731,
+                    22.617642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區城東里仁義街２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.303042,
+                    22.614691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區苓洲里光明街７９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295098,
+                    22.620115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區正心里安樂路５６巷４之３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.333827,
+                    22.634008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市茂林區茂林里茂林巷１３之５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.663599,
+                    22.887307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市茄萣區嘉賜里茄萣路二段３８１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.183404,
+                    22.905678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市茄萣區崎漏里２９鄰建民街１０５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.194919,
+                    22.872256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市茄萣區嘉泰里１３鄰茄萣路２段５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.183214,
+                    22.89847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市路竹區竹東里４鄰中山路９３５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.259479,
+                    22.860319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市路竹區社西里００２鄰金平路３８６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.266642,
+                    22.869572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市路竹區社西里大社路５９―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.261034,
+                    22.862145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市阿蓮區南蓮里民族路１９巷１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.329776,
+                    22.8795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市阿蓮區清蓮里中正路６３８巷３７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.328871,
+                    22.881633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市阿蓮區和蓮里００２鄰忠孝路３２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.325453,
+                    22.878148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳥松區坔埔里松埔路１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.380311,
+                    22.660637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳥松區仁美里神農路５８２－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.386593,
+                    22.65388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳥松區仁美里美山路７０巷４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.384494,
+                    22.642643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳥松區仁美里美山路６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.377677,
+                    22.639771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳥松區大華里球場路６３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.336809,
+                    22.656134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳥松區華美里學堂路８４－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.389906,
+                    22.658297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區海光里瑞智街２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.369791,
+                    22.632565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區武漢里崗山北街１０６巷１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.335283,
+                    22.610351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區鎮北里鳳仁路９７－６９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.37152,
+                    22.639157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區忠孝里光復路２段２６４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.339991,
+                    22.629598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區三民里大東一路９０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.361695,
+                    22.623266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區老爺里０１６鄰老爺四街７５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.348949,
+                    22.611709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區鎮北里力行路２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.365207,
+                    22.63915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區文衡里文衡路４９５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.346548,
+                    22.641611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區縣口里三民路２９６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.358172,
+                    22.62599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區五福里００１鄰五甲三路１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.328262,
+                    22.593012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區武慶里００２鄰輜汽路２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.332545,
+                    22.615722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區文德里文清街１１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.352411,
+                    22.644998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區中和里青年路一段３７１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.349071,
+                    22.627285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區和德里大東二路１４９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.358551,
+                    22.618248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區文華里建國路三段６９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.355852,
+                    22.636244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區新樂里新康街１７１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.344357,
+                    22.609808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區誠義里誠愛路１００巷１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.359485,
+                    22.610976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區忠孝里青年路二段１３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.34996,
+                    22.632688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區文德里文濱路１２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.349215,
+                    22.64325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區協和里自由路２６１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.349541,
+                    22.625381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區文衡里文衡路４５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.347915,
+                    22.64129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區文德里青年路二段４６２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.351665,
+                    22.643982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區鎮北里北堤街２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.375269,
+                    22.645311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區二甲里五甲二路２５５、２５７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.336695,
+                    22.598471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區武松里經武路３５３之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.364442,
+                    22.639264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區五福里五甲三路１６３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.325333,
+                    22.590802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區天興里天興街３２－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.330153,
+                    22.59348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區忠義里中山西路３０６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.34395,
+                    22.628299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區誠義里凱旋路１９２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.357387,
+                    22.607484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區鳳崗里光復路１６１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.358057,
+                    22.628926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區文山里文龍東路６０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.357076,
+                    22.641508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區縣衙里光遠路３４８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.359063,
+                    22.626168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區南成里保安一街９９巷１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.337413,
+                    22.592261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區成功里中山路１１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.357946,
+                    22.623058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區文山里文智街４２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.355984,
+                    22.640574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區福祥里五甲三路１２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.325839,
+                    22.591712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區新甲里新康街５９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.344423,
+                    22.607925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區和德里大東二路１４３－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.358605,
+                    22.618433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區文華里和平路９１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.35817,
+                    22.631996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鹽埕區港都里五福四路２４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.281622,
+                    22.624337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鹽埕區壽星里建國四路２７６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.283485,
+                    22.631091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鹽埕區中山里新興街１３７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.282019,
+                    22.627481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鹽埕區教仁里大安街１２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.279652,
+                    22.626242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鹽埕區陸橋里建國四路２２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.281251,
+                    22.627721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鹽埕區陸橋里建國四路２５１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.281718,
+                    22.628519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鹽埕區沙地里五福四路２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.288319,
+                    22.621016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鹽埕區江西里五福四路３２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.279098,
+                    22.625581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鹽埕區港都里七賢三路６６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.280924,
+                    22.623241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鹽埕區光明里莒光街１７１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.284671,
+                    22.623735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鹽埕區新樂里大勇路１１１巷７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.284172,
+                    22.625233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鹽埕區中原里大公路７０巷６―３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.283375,
+                    22.627694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鼓山區龍水里青海路１６３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.287235,
+                    22.651236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鼓山區龍水里美術東二路３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.287758,
+                    22.651174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鼓山區龍子里龍德路４０９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.296944,
+                    22.657353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鼓山區建國里青雲街８５巷９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.276894,
+                    22.658624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鼓山區明誠里華榮路７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.297348,
+                    22.66291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鼓山區龍水里中華一路９７６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.291698,
+                    22.654924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鼓山區華榮路２９１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.296711,
+                    22.666243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鼓山區明誠里昌盛路３７９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.297414,
+                    22.663717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鼓山區龍子里龍德路３９１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.296869,
+                    22.657086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鼓山區龍水里中華一路３５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.29216,
+                    22.661608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鼓山區龍水里美術北三路１１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.288227,
+                    22.662634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鼓山區龍水里中華一路３１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.291878,
+                    22.665115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鼓山區明誠里文忠路７２－３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.299054,
+                    22.665299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鼓山區裕豐里慶豐街１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.29273,
+                    22.665807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鼓山區華豐里華豐街１２４巷１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293724,
+                    22.66925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鼓山區龍水里美術南二路３３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.284415,
+                    22.650376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鼓山區明誠里篤敬路３７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.302331,
+                    22.664363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鼓山區華豐里華榮路３８２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.29524,
+                    22.668612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鼓山區樹德里鼓山二路２３４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.279788,
+                    22.639654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鼓山區龍水里美賢街３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.289624,
+                    22.66626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鼓山區明誠里裕誠路１５５１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.294652,
+                    22.664221
+                ]
+            }
+        }
+    ]
+}

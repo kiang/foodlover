@@ -1,0 +1,27 @@
+{
+    "name": [
+        "西點麵包零售",
+        "咖啡館"
+    ],
+    "address": "臺北市南港區三重里三重路１９―４號",
+    "x": 121.614054,
+    "y": 25.055478,
+    "shops": [
+        {
+            "shop": "約瑟芬咖啡坊",
+            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money"
+        },
+        {
+            "shop": "約瑟芬咖啡坊",
+            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money"
+        },
+        {
+            "shop": "友泉企業社",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "麗州餐坊",
+            "pay_list": "台灣 PAY"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "博愛公有零售市場",
+    "address": "基隆市愛三路21號2樓",
+    "x": 121.741876,
+    "y": 25.127578,
+    "shops": [
+        {
+            "shop": "博愛公有零售市場 A11",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "博愛公有零售市場 B15",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "博愛公有零售市場 B7",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "博愛公有零售市場 B16",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "博愛公有零售市場 B56",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "博愛公有零售市場 B46",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "博愛公有零售市場 B47",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "博愛公有零售市場 B66",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ]
+}

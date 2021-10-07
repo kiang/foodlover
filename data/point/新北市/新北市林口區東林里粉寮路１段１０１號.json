@@ -1,0 +1,18 @@
+{
+    "name": [
+        "早餐店"
+    ],
+    "address": "新北市林口區東林里粉寮路１段１０１號",
+    "x": 121.396671,
+    "y": 25.080756,
+    "shops": [
+        {
+            "shop": "早餐咬一口",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "陳彥蓉",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

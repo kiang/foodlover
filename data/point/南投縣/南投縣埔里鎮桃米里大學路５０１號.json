@@ -1,0 +1,26 @@
+{
+    "name": [
+        "麵店、小吃店"
+    ],
+    "address": "南投縣埔里鎮桃米里大學路５０１號",
+    "x": 120.925895,
+    "y": 23.950256,
+    "shops": [
+        {
+            "shop": "台灣小吃店（暨大餐廳１樓）",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "稻承日式料理店（暨大餐廳１樓）",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "暨南早餐店（暨大餐廳１樓）",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "晨希企業社（暨大餐廳２樓）",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        }
+    ]
+}

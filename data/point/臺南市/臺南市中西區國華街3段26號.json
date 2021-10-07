@@ -1,0 +1,72 @@
+{
+    "name": "西門淺草公有零售市場",
+    "address": "臺南市中西區國華街3段26號",
+    "x": 120.197666,
+    "y": 22.993825,
+    "shops": [
+        {
+            "shop": "西門淺草公有零售市場 A002",
+            "pay_list": "街口支付"
+        },
+        {
+            "shop": "西門淺草公有零售市場 A006",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "西門淺草公有零售市場 A008",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "西門淺草公有零售市場 A009",
+            "pay_list": "街口支付 \/ 台灣 PAY"
+        },
+        {
+            "shop": "西門淺草公有零售市場 B012",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "西門淺草公有零售市場 D001",
+            "pay_list": "街口支付"
+        },
+        {
+            "shop": "西門淺草公有零售市場 D004",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "西門淺草公有零售市場 A002",
+            "pay_list": "街口支付"
+        },
+        {
+            "shop": "西門淺草公有零售市場 A006",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "西門淺草公有零售市場 A008",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "西門淺草公有零售市場 A009",
+            "pay_list": "街口支付 \/ 台灣 PAY"
+        },
+        {
+            "shop": "西門淺草公有零售市場 B012",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "西門淺草公有零售市場 B016",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "西門淺草公有零售市場 B037",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "西門淺草公有零售市場 D001",
+            "pay_list": "街口支付"
+        },
+        {
+            "shop": "西門淺草公有零售市場 D004",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

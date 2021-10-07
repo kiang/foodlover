@@ -1,0 +1,22 @@
+{
+    "name": [
+        "麵店、小吃店"
+    ],
+    "address": "新北市汐止區中興路１６８號社區開放空間",
+    "x": 121.632189,
+    "y": 25.065304,
+    "shops": [
+        {
+            "shop": "中興商圈李敖廣",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "中興商圈陳俊宇",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "中興商圈謝文彬",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

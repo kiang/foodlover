@@ -1,0 +1,48 @@
+{
+    "name": "冬山公有零售市場",
+    "address": "宜蘭縣冬山鄉冬山路186號",
+    "x": 121.789929,
+    "y": 24.634913,
+    "shops": [
+        {
+            "shop": "冬山公有零售市場 40",
+            "pay_list": "LINE Pay Money \/ 台灣 PAY"
+        },
+        {
+            "shop": "冬山公有零售市場 1",
+            "pay_list": "LINE Pay Money \/ 台灣 PAY"
+        },
+        {
+            "shop": "冬山公有零售市場 5",
+            "pay_list": "LINE Pay Money \/ 台灣 PAY"
+        },
+        {
+            "shop": "冬山公有零售市場 9",
+            "pay_list": "LINE Pay Money \/ 台灣 PAY"
+        },
+        {
+            "shop": "冬山公有零售市場 14\/飛魚食染冷飲",
+            "pay_list": "LINE Pay Money \/ 台灣 PAY"
+        },
+        {
+            "shop": "冬山公有零售市場 14\/飛魚食染冷飲",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "冬山公有零售市場 40",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "冬山公有零售市場 1",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "冬山公有零售市場 5",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "冬山公有零售市場 9",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ]
+}

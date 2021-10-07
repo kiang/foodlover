@@ -1,0 +1,928 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣古坑鄉東和村文化路62至78號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.569447,
+                    23.683335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣四湖鄉湖西村7鄰新市街102號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.225206,
+                    23.636725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市三民路82號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.545135,
+                    23.708836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市興北街78號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.541121,
+                    23.709613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣褒忠鄉中正路348號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308441,
+                    23.693987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣元長鄉下寮村０１６鄰東興路９２―３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.334339,
+                    23.618725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣北港鎮大同里大同路１２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.302665,
+                    23.571019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣北港鎮西勢里光明路１３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.301019,
+                    23.566801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣北港鎮共榮里中正路６３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.303016,
+                    23.568989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣北港鎮東陽里３鄰中山路４４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304328,
+                    23.565071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣北港鎮共榮里中山路１４９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304333,
+                    23.567547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣北港鎮共榮里中山路１４５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304424,
+                    23.567475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣北港鎮華勝里民享路３３―５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.301955,
+                    23.575097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣北港鎮共榮里中山路１６５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304213,
+                    23.567844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣古坑鄉永昌村０１６鄰永興路１８４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.549273,
+                    23.623712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣四湖鄉施湖村中山西路１６１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.222162,
+                    23.637447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣土庫鎮宮北里仁和街２―２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.393197,
+                    23.679552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣土庫鎮忠正里中山路１３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.391239,
+                    23.675695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣大埤鄉嘉興村嘉興６８－６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.456754,
+                    23.648188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣崙背鄉南陽村中山路２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.360398,
+                    23.759079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣崙背鄉南陽村７鄰建國路２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.354502,
+                    23.75963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市忠孝里中正路７３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.544618,
+                    23.708846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市成功里莊敬路２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.551074,
+                    23.704145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市榴中里石榴路２６２巷１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.591511,
+                    23.729025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市成功里成功三街１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.550856,
+                    23.704936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市鎮南里永昌西街１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538355,
+                    23.7029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市鎮西里中堅西路６９８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.532234,
+                    23.702259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市八德里文化路６３３巷２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.564525,
+                    23.717303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市中和里中華路１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.542114,
+                    23.709199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市長安里科加六路２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538421,
+                    23.739287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市三平里斗六六路１１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.535293,
+                    23.718495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市鎮南里民生南路２２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.536924,
+                    23.700195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市社口里中山路４２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538185,
+                    23.698561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市成功里民族街２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.551569,
+                    23.703202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市文化里大同路２７９巷１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.550186,
+                    23.710235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市鎮西里中堅西路２６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.533775,
+                    23.701539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市榴中里石榴路８５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.583457,
+                    23.722937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市榴中里中興路１１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.577741,
+                    23.725252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市鎮南里新昌街１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.539483,
+                    23.696504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市鎮南里中山路３９８之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538028,
+                    23.698678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市公誠里慶生路５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.539925,
+                    23.713104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市三平里西平路１８７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.534284,
+                    23.712686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市信義里鎮北路５５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.543135,
+                    23.712668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市溪洲里中南路２９０巷三十五弄５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.561401,
+                    23.733861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗南鎮阿丹里阿丹路１２之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.505878,
+                    23.649964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗南鎮明昌里延平路２段５３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.475938,
+                    23.672273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗南鎮小東里１７鄰公論路９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.477639,
+                    23.69647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗南鎮東仁里仁愛路１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.483423,
+                    23.674515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗南鎮明昌里０１６鄰南昌西路２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.475634,
+                    23.672588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗南鎮南昌里中山路３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.479964,
+                    23.673994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗南鎮僑真里南昌西路２１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.473135,
+                    23.670027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣林內鄉林南村中正路１８９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.615956,
+                    23.758702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣林內鄉烏塗村００１鄰鹽讚７８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.59381,
+                    23.768823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣臺西鄉臺西村中山路２３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.19634,
+                    23.700673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣虎尾鎮公安里林森路一段４３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.434978,
+                    23.710636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣虎尾鎮廉使里站前東路３０１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.416197,
+                    23.736533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣虎尾鎮東仁里３鄰光復路３３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.437918,
+                    23.710152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣虎尾鎮延平里下南１５－５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.408657,
+                    23.681049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣虎尾鎮安慶里中山路３―１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.436544,
+                    23.70388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣虎尾鎮安慶里民主路１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.435754,
+                    23.704011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣虎尾鎮廉使里廉使路３６１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.42352,
+                    23.719351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣虎尾鎮中山里仁愛路５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.434479,
+                    23.708473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣褒忠鄉中民村中正路８０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.315192,
+                    23.696113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣西螺鎮中興里新興路２５８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.452316,
+                    23.793816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣西螺鎮漢光里平和南路３０９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.455753,
+                    23.793623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣西螺鎮光華里平和路１８２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.458755,
+                    23.800443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣西螺鎮正興里源成路１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.460517,
+                    23.799249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣西螺鎮漢光里１鄰建興路１６５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.459155,
+                    23.798559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣麥寮鄉麥津村１３鄰中山路２７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.253866,
+                    23.749371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣麥寮鄉麥豐村２１鄰復興路９９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.252904,
+                    23.747467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣麥寮鄉麥津村０１７鄰中興路２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.251271,
+                    23.750892
+                ]
+            }
+        }
+    ]
+}

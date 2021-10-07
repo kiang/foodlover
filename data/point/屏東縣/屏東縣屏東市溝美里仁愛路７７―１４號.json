@@ -1,0 +1,19 @@
+{
+    "name": [
+        "便當、自助餐店",
+        "麵食品零售"
+    ],
+    "address": "屏東縣屏東市溝美里仁愛路７７―１４號",
+    "x": 120.494792,
+    "y": 22.677819,
+    "shops": [
+        {
+            "shop": "旭之坊",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "旭之坊",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

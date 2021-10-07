@@ -1,0 +1,412 @@
+{
+    "name": "秀豐公有市場(攤集區)",
+    "address": "汐止區復興路58巷8號一樓",
+    "x": 121.656417,
+    "y": 25.062218,
+    "shops": [
+        {
+            "shop": "秀豐公有市場(攤集區) 海鮮人家",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 姊妹菜園",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 明珠海鮮",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 蔥油餅 涼圓",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 錦精品屋",
+            "pay_list": "歐付寶 \/ LINE Pay Money \/ 街口支付 \/ 台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 珍鮮",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 人緣南北貨",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 功夫糕手",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 福安羊肉爐",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 廚師燒烤",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 台灣味手工水餃",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 東港生魚片",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 茄東放山雞",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 阿立拉拉山蔬果",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 芳群鮮花店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 榮蔬菜專賣店",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 榮蔬菜專賣店",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 鵝肉周",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 福哥現撈海鮮",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 尚青乾貨",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 基隆海鮮",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 得銘水果",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 蔥油餅專賣店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 雙胞胎 甜甜圈",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 梅艷內衣",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 貞霓水果",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 小籠包專賣店",
+            "pay_list": "歐付寶"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 姵君冰品",
+            "pay_list": "街口支付 \/ 台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 宜蘭黑豬肉",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 竹筍",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 新鮮蔬菜",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 黛夢都精品屋",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 繞 生魚片",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 素香齋食品",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 德記燒雞",
+            "pay_list": "街口支付 \/ 台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 阿芳什錦海鮮粥",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 吳郭魚",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 黑狗兄牛羊肉",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 生鮮豬肉",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 錢彌月油飯",
+            "pay_list": "歐付寶"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 綜合堅果",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 自種蔬菜? 草仔粿",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 炸蚵嗲 炸地瓜 蘿蔔糕",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 蛤 蚵 蜆專賣店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 純土雞 放山雞 玉米雞",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 林? 進口牛羊肉",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 寶島滷味",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 新鮮蔬菜",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 王廷子燒雞",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 4134夢想家",
+            "pay_list": "歐付寶"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 魯牛作坊",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 莠莠蔬果行",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 小欣生鮮蔬菜",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 古早雞",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 肉圓 大腸麵線",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 溫體豬肉行",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 81肉羹店",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 禎漁市",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 金鳳草仔粿",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 宜蘭黑豬肉",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 家農蔬菜",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 黃金雞",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 永強水果行",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 龜山島海鮮",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 錦發師日式疏食",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 蘇? 黑豬肉",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 汐止車輪餅",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 大雅哄炸雞",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 頡品燒烤",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 北港蒜頭",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 大甲芋頭",
+            "pay_list": "歐付寶 \/ 台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 品珍肉鬆行",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 依戀服飾",
+            "pay_list": "街口支付 \/ 台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) ?青蔬菜行",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 鉦正甜水果",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 山東手工水餃",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 香蕉龍",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 水果大亨",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 阿國生鮮蔬菜",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 正宗乾貨",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 肉乾先生",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 豪鮮蔬果",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 來成蔬菜",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 鳥哥甜不辣",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 台東放山雞",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 台蛋蛋品",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 阿宗生鮮豬肉",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 金瑞製麵",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 北山口羊肉爐",
+            "pay_list": "街口支付"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 山富手工饅頭",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 汐止紅龜粿",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 宜家疏園",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 包先生傳統美食",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 阿蘭魷魚羹",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 金樹海產",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 阿發燒餅店",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 連宗水果",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 三多力海鮮",
+            "pay_list": "街口支付 \/ 台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 許家雞鵝",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 米香寶寶廣東腸粉",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "秀豐公有市場(攤集區) 9998海鮮",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "清水第二公有零售市場",
+    "address": "臺中市清水區中社里鎮政路97號",
+    "x": 120.560349,
+    "y": 24.268229,
+    "shops": [
+        {
+            "shop": "清水第二公有零售市場 A007",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "清水第二公有零售市場 A024",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "清水第二公有零售市場 A028",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ]
+}

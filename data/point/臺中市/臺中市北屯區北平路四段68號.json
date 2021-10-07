@@ -1,0 +1,36 @@
+{
+    "name": "東光公有零售市場",
+    "address": "臺中市北屯區北平路四段68號",
+    "x": 120.691846,
+    "y": 24.170331,
+    "shops": [
+        {
+            "shop": "東光公有零售市場 姊妹豆漿",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "東光公有零售市場 波仔蔬菜",
+            "pay_list": "歐付寶 \/ LINE Pay Money"
+        },
+        {
+            "shop": "東光公有零售市場 波仔蔬菜",
+            "pay_list": "歐付寶 \/ LINE Pay Money"
+        },
+        {
+            "shop": "東光公有零售市場 波仔蔬菜",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "東光公有零售市場 波仔蔬菜",
+            "pay_list": "歐付寶 \/ LINE Pay Money"
+        },
+        {
+            "shop": "東光公有零售市場 玉印製麵",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "東光公有零售市場 榮甄大坑山產",
+            "pay_list": "台灣 PAY"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "name": [
+        "餐食攤販"
+    ],
+    "address": "新北市淡水區中正路１１５號（１７號攤位）",
+    "x": 121.439751,
+    "y": 25.170014,
+    "shops": [
+        {
+            "shop": "厝邊小吃",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "江淑玲",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "淡水傳統手工豆花",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "幸福咖啡",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "出羽屋",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "王記飲品",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "元氣鍋物丼飯",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "尚品蔬食坊",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "鐵板武士大阪人の大阪燒",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "豬豬可麗餅Ｘ食堂",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

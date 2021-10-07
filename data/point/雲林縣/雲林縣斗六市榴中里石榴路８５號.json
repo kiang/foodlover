@@ -1,0 +1,19 @@
+{
+    "name": [
+        "西點麵包零售",
+        "咖啡館"
+    ],
+    "address": "雲林縣斗六市榴中里石榴路８５號",
+    "x": 120.583457,
+    "y": 23.722937,
+    "shops": [
+        {
+            "shop": "品樂商行",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "品樂商行",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ]
+}

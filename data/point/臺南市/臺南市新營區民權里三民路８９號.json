@@ -1,0 +1,23 @@
+{
+    "name": [
+        "飲料零售",
+        "西點麵包零售"
+    ],
+    "address": "臺南市新營區民權里三民路８９號",
+    "x": 120.313822,
+    "y": 23.30688,
+    "shops": [
+        {
+            "shop": "春元麵包坊",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "双春食品有限公司",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "双春食品有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "name": "市五公有零售市場",
+    "address": "臺南市麻豆區中正路80號",
+    "x": 120.250071,
+    "y": 23.185703,
+    "shops": [
+        {
+            "shop": "市五公有零售市場 食品",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "市五公有零售市場 食品",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "市五公有零售市場 食品",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "市五公有零售市場 食品",
+            "pay_list": "街口支付 \/ LINE Pay Money \/ 台灣 PAY"
+        },
+        {
+            "shop": "市五公有零售市場 食品",
+            "pay_list": "街口支付 \/ LINE Pay Money \/ 台灣 PAY"
+        },
+        {
+            "shop": "市五公有零售市場 水產",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "市五公有零售市場 食品",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "市五公有零售市場 食品",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "市五公有零售市場 食品",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "市五公有零售市場 食品",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "市五公有零售市場 食品",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "市五公有零售市場 水產",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

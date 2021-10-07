@@ -1,0 +1,32 @@
+{
+    "name": "中華市場",
+    "address": "苗栗縣頭份市東庄里雙十街2巷83號",
+    "x": 120.892099,
+    "y": 24.685991,
+    "shops": [
+        {
+            "shop": "中華市場 A0011",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "中華市場 B0070",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "中華市場 B0071",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "中華市場 B0072",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "中華市場 B0088",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "中華市場 B0091",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "中央公有零售市場",
+    "address": "臺中市北區五權路176號",
+    "x": 120.675763,
+    "y": 24.14917,
+    "shops": [
+        {
+            "shop": "中央公有零售市場 287",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "中央公有零售市場 290",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "中央公有零售市場 292",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "中央公有零售市場 297",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

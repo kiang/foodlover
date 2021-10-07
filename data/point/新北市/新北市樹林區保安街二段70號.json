@@ -1,0 +1,32 @@
+{
+    "name": "興仁花園夜市",
+    "address": "新北市樹林區保安街二段70號",
+    "x": 121.415437,
+    "y": 25.002958,
+    "shops": [
+        {
+            "shop": "興仁花園夜市 葉仲華",
+            "pay_list": "歐付寶"
+        },
+        {
+            "shop": "興仁花園夜市 黃彥儒",
+            "pay_list": "歐付寶"
+        },
+        {
+            "shop": "興仁花園夜市 黃建榮",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "興仁花園夜市 曾耀輝",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "興仁花園夜市 曾婉婷",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "興仁花園夜市 黃秋雄",
+            "pay_list": "台灣 PAY"
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市東區中華路二段592號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.967076,
+                    24.799316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區頂福里中山路７７５巷５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.950267,
+                    24.792569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區大庄里香北一路１８９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.922355,
+                    24.791817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區大湖里南湖路２１５巷２５５弄１１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.931135,
+                    24.739132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區香山里大庄路９８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.926441,
+                    24.791024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區頂埔里牛埔路２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.955419,
+                    24.798271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區頂埔里中山路５５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95608,
+                    24.797905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區牛埔里中華路四段５６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.930116,
+                    24.789019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹市香山區頂埔里牛埔路１３５－９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.952248,
+                    24.799268
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "name": [
+        "西點麵包零售"
+    ],
+    "address": "臺北市大安區學府里基隆路４段４３號",
+    "x": 121.540623,
+    "y": 25.013743,
+    "shops": [
+        {
+            "shop": "稻富食品行",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "大井商行",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        },
+        {
+            "shop": "藝素佳素食店",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        },
+        {
+            "shop": "帝一味自助餐",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        }
+    ]
+}

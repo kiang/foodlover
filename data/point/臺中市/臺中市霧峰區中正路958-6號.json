@@ -1,0 +1,68 @@
+{
+    "name": "霧峰公有零售市場",
+    "address": "臺中市霧峰區中正路958-6號",
+    "x": 120.699169,
+    "y": 24.065674,
+    "shops": [
+        {
+            "shop": "霧峰公有零售市場 華容生鮮肉鋪",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "霧峰公有零售市場 金記肉鬆行",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "霧峰公有零售市場 華田壽司",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "霧峰公有零售市場 阿祥鮮魚行",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "霧峰公有零售市場 明德素料行",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "霧峰公有零售市場 富蛤專業海產",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "霧峰公有零售市場 台新土雞肉舖",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "霧峰公有零售市場 金星海鮮行",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "霧峰公有零售市場 許金蓮",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "霧峰公有零售市場 新鮮蔬菜行",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "霧峰公有零售市場 鑫寶山土雞",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "霧峰公有零售市場 香港蔡記燒臘",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "霧峰公有零售市場 鮮力蛋",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "霧峰公有零售市場 大禹嶺高山蔬果",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "霧峰公有零售市場 熟玉米",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

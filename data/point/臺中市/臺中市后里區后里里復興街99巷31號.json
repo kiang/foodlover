@@ -1,0 +1,32 @@
+{
+    "name": "后里第三公有零售市場",
+    "address": "臺中市后里區后里里復興街99巷31號",
+    "x": 120.720879,
+    "y": 24.308668,
+    "shops": [
+        {
+            "shop": "后里第三公有零售市場 A001",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "后里第三公有零售市場 A006",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "后里第三公有零售市場 A010",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "后里第三公有零售市場 A011",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "后里第三公有零售市場 37",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "后里第三公有零售市場 47",
+            "pay_list": "台灣 PAY"
+        }
+    ]
+}

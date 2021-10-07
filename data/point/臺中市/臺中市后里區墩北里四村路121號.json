@@ -1,0 +1,28 @@
+{
+    "name": "后里第一公有零售市場",
+    "address": "臺中市后里區墩北里四村路121號",
+    "x": 120.71322,
+    "y": 24.305979,
+    "shops": [
+        {
+            "shop": "后里第一公有零售市場 A006",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "后里第一公有零售市場 A023",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "后里第一公有零售市場 A025",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "后里第一公有零售市場 A027",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "后里第一公有零售市場 5",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ]
+}

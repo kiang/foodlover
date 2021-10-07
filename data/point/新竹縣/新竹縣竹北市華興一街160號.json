@@ -1,0 +1,28 @@
+{
+    "name": "新社公有零售市場",
+    "address": "新竹縣竹北市華興一街160號",
+    "x": 120.999065,
+    "y": 24.840873,
+    "shops": [
+        {
+            "shop": "新社公有零售市場 1棟01",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "新社公有零售市場 1棟07",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "新社攤販集中場 臨10",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "新社攤販集中場 臨16",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "新社攤販集中場 臨17",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

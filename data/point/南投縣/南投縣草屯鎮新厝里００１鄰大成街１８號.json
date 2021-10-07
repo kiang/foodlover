@@ -1,0 +1,18 @@
+{
+    "name": [
+        "餐館、餐廳"
+    ],
+    "address": "南投縣草屯鎮新厝里００１鄰大成街１８號一樓",
+    "x": 120.687817,
+    "y": 23.975248,
+    "shops": [
+        {
+            "shop": "浮水印餐館",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "皇馥館",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

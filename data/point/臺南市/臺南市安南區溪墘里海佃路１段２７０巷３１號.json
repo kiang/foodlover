@@ -1,0 +1,23 @@
+{
+    "name": [
+        "冰果店、冷（熱）飲店",
+        "糖果餅乾零售"
+    ],
+    "address": "臺南市安南區溪墘里海佃路１段２７０巷３１號１樓",
+    "x": 120.192522,
+    "y": 23.026402,
+    "shops": [
+        {
+            "shop": "泓品企業社",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "泓品企業社",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "有富企業社",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

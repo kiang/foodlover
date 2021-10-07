@@ -1,0 +1,18 @@
+{
+    "name": [
+        "西點麵包零售"
+    ],
+    "address": "高雄市左營區菜公里華夏路１１２３號",
+    "x": 120.308348,
+    "y": 22.683886,
+    "shops": [
+        {
+            "shop": "邦弘商行",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "樂點企業行",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

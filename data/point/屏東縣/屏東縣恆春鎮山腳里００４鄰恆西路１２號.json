@@ -1,0 +1,18 @@
+{
+    "name": [
+        "冰果店、冷（熱）飲店"
+    ],
+    "address": "屏東縣恆春鎮山腳里００４鄰恆西路１２號",
+    "x": 120.774911,
+    "y": 22.003214,
+    "shops": [
+        {
+            "shop": "樹夏飲事",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "嘎哩老叔",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

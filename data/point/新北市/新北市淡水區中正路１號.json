@@ -1,0 +1,18 @@
+{
+    "name": [
+        "麵店、小吃店"
+    ],
+    "address": "新北市淡水區中正路１號１樓（５號販賣店）",
+    "x": 121.445554,
+    "y": 25.168232,
+    "shops": [
+        {
+            "shop": "淡水水煎包店",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "捷運食品行",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

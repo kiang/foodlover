@@ -1,0 +1,372 @@
+{
+    "name": "直興市場",
+    "address": "臺北市萬華區康定路172巷1號",
+    "x": 121.501715,
+    "y": 25.039376,
+    "shops": [
+        {
+            "shop": "直興市場 臨固0041",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0010",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0043",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 本館0008",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 本館0009",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 本館0013",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 本館0014",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "直興市場 本館0023",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 本館0024",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 本館0025",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 本館0032",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 本館0033",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 本館0038",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 本館0039",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 一賣店0003",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 一賣店0014",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 一賣店0018",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 一賣店0019",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 一賣店0004",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 一賣店0007",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 一賣店0008",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 一賣店0012",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 一賣店0013",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 一賣店0017",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 二賣店0001",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 二賣店0002",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 二賣店0003",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 二賣店0004",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 二賣店0007",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 二賣店0009",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 二賣店0010",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0004",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0008",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0011",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0012",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0013",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0015",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0016",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0019",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0030",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0032",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0033",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0034",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0035",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0037",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0038",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0040",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0042",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0044",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0045",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0046",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0039",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 二賣店0008",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 一賣店0006",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 一賣店0015",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 一賣店0020",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0006",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0007",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 二賣店0005",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 二賣店0006",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 本館0021",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "直興市場 本館0028",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 本館0036",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 一賣店0011",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "直興市場 臨固0002",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0001",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0018",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 本館0031",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "直興市場 本館0015",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 本館0019",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨時康008",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨時貴018",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 本館0018",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 本館0030",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨時康027",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 本館0022",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "直興市場 臨時康004",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 本館0035",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 本館0040",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 本館0003",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 本館0020",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "直興市場 臨時康003",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨時貴012",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨時貴013",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0031",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "直興市場 本館0001",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 一賣店0009",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 臨固0014",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "直興市場 一賣店0002",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 本館0004",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "直興市場 一賣店0001",
+            "pay_list": "台灣 PAY"
+        }
+    ]
+}

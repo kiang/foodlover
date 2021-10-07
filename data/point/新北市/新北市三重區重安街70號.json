@@ -1,0 +1,24 @@
+{
+    "name": "光明公有零售市場",
+    "address": "新北市三重區重安街70號",
+    "x": 121.491359,
+    "y": 25.057122,
+    "shops": [
+        {
+            "shop": "光明公有零售市場 3 C 美容舒活館",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "光明公有零售市場 3 C 美容舒活館",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "光明公有零售市場 無",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "光明公有零售市場 妞麻小舖",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

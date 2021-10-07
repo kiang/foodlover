@@ -1,0 +1,18 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區國華街245號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44834,
+                    23.47923
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,416 @@
+{
+    "name": "建國公有零售市場",
+    "address": "臺中市東區建成路500號",
+    "x": 120.695437,
+    "y": 24.134452,
+    "shops": [
+        {
+            "shop": "建國公有零售市場 丸通鮮魚行",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 利輝鮮魚行",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 劉鮮魚行",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 香港城007專粿",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 鑽★購物",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 老丸日排骨酥",
+            "pay_list": "(悠遊付)"
+        },
+        {
+            "shop": "建國公有零售市場 源興行",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 丸卯鮮魚行",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 太平阿源",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 志清鮮魚行",
+            "pay_list": "街口支付 \/ (PI)"
+        },
+        {
+            "shop": "建國公有零售市場 柯秀村海產",
+            "pay_list": "街口支付 \/ (悠遊付、PI)"
+        },
+        {
+            "shop": "建國公有零售市場 七美商行",
+            "pay_list": "(悠遊付) \/ 街口支付 \/ 台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 信宏海產",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 阿倫牛羊肉專賣店",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 丸利鮮魚行",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 勝田商號",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 福山肉脯(台灣生鮮豬肉)",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 永春雞行",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 盈利生鮮豬肉",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 劉記食品行",
+            "pay_list": "街口支付 \/ (悠遊付、PI)"
+        },
+        {
+            "shop": "建國公有零售市場 聯寬商行",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 濟寧蔘藥行",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 丸富商行",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 民豐行",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 隆源米蛋行",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 丸鳳豆干商行",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 新大順商行",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 德利素食批發",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 台灣黃金G",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 大欣水果行",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 丸朝鮮魚行",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 丸日鮮魚加工行(丸日商行)",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 250衣舖",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 華哥水產",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 信鴻商行(魚師傅)",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 建馭水果行",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 阿義農產行",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 銘香肉脯行\/十方素食",
+            "pay_list": "街口支付 \/ (悠遊付、PI)"
+        },
+        {
+            "shop": "建國公有零售市場 嘉昇香腸店",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 秋福商號",
+            "pay_list": "街口支付"
+        },
+        {
+            "shop": "建國公有零售市場 秋福商號",
+            "pay_list": "街口支付"
+        },
+        {
+            "shop": "建國公有零售市場 秋福商號",
+            "pay_list": "街口支付"
+        },
+        {
+            "shop": "建國公有零售市場 鮮美行水果",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 鮮美行水果",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 古早味",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 賽德克伊那田園農產",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 伊那田園小舖",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 萬家香",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 濟生蔘藥行",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 阿鄉便當",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 源和冷凍食品行",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 建發素料行",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 信發菜行",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 銓發行",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 金品製麵",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 新隆發醬園",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 信發菜行",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 信發菜行",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 信發菜行",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 信發菜行",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 信發菜行",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 信發菜行",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 丸鐘鮮魚",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 劉記生薑行",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 劉記生薑行",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 劉記生薑行",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 劉記生薑行",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 田筍行",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 田筍行",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 筠宸食品",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 阿澤蔬菜行",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 軒  水果行",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 軒  水果行",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 茹蔬小鄭",
+            "pay_list": "歐付寶"
+        },
+        {
+            "shop": "建國公有零售市場 強弟雞肉行",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 振興海帶",
+            "pay_list": "台灣 PAY \/ 街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 丸貴蛋品",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 丸貴蛋品",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 丸貴蛋品",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 江   ?仔魚、丁香海帶",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 江   ?仔魚、丁香海帶",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 江   ?仔魚、丁香海帶",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 宏鼎商行",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 濟生蔘藥行",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 惠玉農場",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 新隆發醬園",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 九鋒菇園",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 洪記魷魚批發零售",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 新隆發醬園",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 阿助伯滷味王",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 九江水產行",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 助伯國際食品展示館",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 助伯國際食品展示館",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 新隆發醬園",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 九江水產行",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 新口味陸海空總匯",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 日照行",
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "建國公有零售市場 668蛋捲",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 金星車輪行",
+            "pay_list": "街口支付"
+        },
+        {
+            "shop": "建國公有零售市場 永華五金行",
+            "pay_list": "(悠遊付)"
+        },
+        {
+            "shop": "建國公有零售市場 668手工蛋捲",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        },
+        {
+            "shop": "建國公有零售市場 清葳五金行",
+            "pay_list": "街口支付 \/ (悠遊付、PI) \/ LINE Pay Money"
+        }
+    ]
+}

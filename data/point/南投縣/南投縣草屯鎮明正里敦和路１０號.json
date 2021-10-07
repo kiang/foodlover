@@ -1,0 +1,18 @@
+{
+    "name": [
+        "冰果店、冷（熱）飲店"
+    ],
+    "address": "南投縣草屯鎮明正里敦和路１０號",
+    "x": 120.682937,
+    "y": 23.98095,
+    "shops": [
+        {
+            "shop": "阿蓮飲料冰品",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "江威欣",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "保安公有零售市場",
+    "address": "臺南市中西區郡西路35號",
+    "x": 120.194166,
+    "y": 22.988486,
+    "shops": [
+        {
+            "shop": "保安公有零售市場 1103",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "保安公有零售市場 2230",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "保安公有零售市場 1103",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "保安公有零售市場 2230",
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        }
+    ]
+}

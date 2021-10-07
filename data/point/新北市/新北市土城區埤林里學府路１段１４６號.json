@@ -1,0 +1,18 @@
+{
+    "name": [
+        "麵店、小吃店"
+    ],
+    "address": "新北市土城區埤林里學府路１段１４６號１樓",
+    "x": 121.454813,
+    "y": 24.987178,
+    "shops": [
+        {
+            "shop": "竹田屋關東煮店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "學府人文商坊",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

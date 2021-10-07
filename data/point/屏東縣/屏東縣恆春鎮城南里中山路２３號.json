@@ -1,0 +1,18 @@
+{
+    "name": [
+        "餐食攤販"
+    ],
+    "address": "屏東縣恆春鎮城南里中山路２３號",
+    "x": 120.744697,
+    "y": 22.002161,
+    "shops": [
+        {
+            "shop": "恆春有一家紅豆餅",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "韓式海苔飯捲",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

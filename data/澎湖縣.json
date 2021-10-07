@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉青螺村５９之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.650316,
+                    23.598405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉隘門村４５－３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.637876,
+                    23.561814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市陽明里北辰街２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.571011,
+                    23.570782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市案山里文安路６０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.580225,
+                    23.561125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市長安里仁愛路３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.565157,
+                    23.565694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市前寮里３鄰１６―１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.587843,
+                    23.554821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市中央里中央街６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.564626,
+                    23.564304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市西文里中華路２９６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.579808,
+                    23.57105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市光榮里文光路１０８－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.570688,
+                    23.57441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市西文里西文澳９７―３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.581373,
+                    23.56475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市朝陽里朝陽路４１巷２之５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.57847,
+                    23.572603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市鎖港里９９９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.602134,
+                    23.524657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市重慶里民權路８４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.567886,
+                    23.56671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市光榮里民族路１４４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.567859,
+                    23.574987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市重慶里民生路５－２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.56729,
+                    23.567273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市長安里仁愛路４２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.565022,
+                    23.565725
+                ]
+            }
+        }
+    ]
+}

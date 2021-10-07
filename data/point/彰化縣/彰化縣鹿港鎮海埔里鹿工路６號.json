@@ -1,0 +1,24 @@
+{
+    "name": [
+        "冰果店、冷（熱）飲店",
+        "糕餅麵包製造",
+        "麵店、小吃店"
+    ],
+    "address": "彰化縣鹿港鎮海埔里鹿工路６號Ｂ００６",
+    "x": 120.41112,
+    "y": 24.078274,
+    "shops": [
+        {
+            "shop": "食龍廣東粥",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "食龍廣東粥",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "彰秀美食生活館",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        }
+    ]
+}

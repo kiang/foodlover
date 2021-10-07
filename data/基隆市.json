@@ -1,0 +1,7272 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區西定路230號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.732249,
+                    25.137118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區北寧路217號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.790295,
+                    25.142192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區愛三路21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741876,
+                    25.127578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區麥金路127巷8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.720653,
+                    25.120311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區永安里明德一路２１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.712293,
+                    25.09721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區百福里福二街２２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.696314,
+                    25.084374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區百福里百六街１０７巷１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.697079,
+                    25.086386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區福一街１２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.694652,
+                    25.083983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區百三街６３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.696067,
+                    25.081968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區百福里福五街９８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.698511,
+                    25.085373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區西榮里西定路２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.735204,
+                    25.132197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區和慶里中和路１６８巷５弄３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.716858,
+                    25.150257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區德義里信一路１７３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745159,
+                    25.130441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區砂子里北寧路３２７－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.795828,
+                    25.139706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區正義里義二路１２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.746832,
+                    25.133445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區中正里中正路３９３巷１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766993,
+                    25.151444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區港通里中正路３４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745016,
+                    25.133337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區新富里新豐街３６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.78604,
+                    25.135442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區港通里義一路３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74549,
+                    25.133035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區新富里新豐街３２５巷４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.785696,
+                    25.134744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區德義里信一路１７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745185,
+                    25.130433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區兆連里獅球路３７巷７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739012,
+                    25.12514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區和明里仁一路２９９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.746358,
+                    25.128961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區玉田里仁二路２０８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.744651,
+                    25.128928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區新店里忠三路２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.740433,
+                    25.128765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區和明里２鄰仁一路２６１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.748444,
+                    25.128195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區博愛里愛二路４２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74196,
+                    25.128637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁德里愛一路２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741442,
+                    25.129169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區明德里忠三路９９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738512,
+                    25.129573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁德里仁三路９２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741781,
+                    25.129249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區博愛里愛二路１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741445,
+                    25.127867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區龍門里南榮路１３４巷５６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.743118,
+                    25.116869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區和明里仁二路１５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745667,
+                    25.128112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區新店里孝二路１０９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.740692,
+                    25.130724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區信綠里東信路３１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.760498,
+                    25.128731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區仁壽里信二路２１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.749018,
+                    25.12968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區孝忠里深溪路５５巷５６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.781377,
+                    25.133224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區義昭里信一路６３之５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.752654,
+                    25.128672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區孝忠里深溪路１００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.782565,
+                    25.133419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區義幸里信二路１５４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75433,
+                    25.129375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區東安里東信路４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76787,
+                    25.127945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區義幸里信二路９１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.755116,
+                    25.129079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區四維里安和二街６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.722181,
+                    25.130153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區興寮里基金一路２之６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.724503,
+                    25.135764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區興寮里基金一路５４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.721408,
+                    25.135791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區慈仁里安一路１８０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.732547,
+                    25.132532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區武崙里基金一路１７２―５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.712673,
+                    25.140819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區嘉仁里安樂路一段６９巷４２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.733385,
+                    25.128354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區暖暖街２８１巷６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.735563,
+                    25.097546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區暖暖里暖暖街２３３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.734939,
+                    25.098061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區暖同里東勢街１―２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.736027,
+                    25.100031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區暖暖街１８２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.735657,
+                    25.099461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區八堵里水源路１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.735693,
+                    25.103421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區實踐里福二街７３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.696203,
+                    25.081327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區正明里開元路９２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.712723,
+                    25.095966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區永安里崇孝街２４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.710055,
+                    25.097905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區崇智街８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.714211,
+                    25.098243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區堵北里福一街１６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.694731,
+                    25.084883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區百三街４５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.695697,
+                    25.08199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區崇信街１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.712827,
+                    25.097975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區自強里自強路１４７－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.711113,
+                    25.116634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區正明里自治街１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.712582,
+                    25.096705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區崇智街２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.713992,
+                    25.098738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區正明里自治街２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.712788,
+                    25.096297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區開元路９６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.712671,
+                    25.095946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區百福里福五街３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.699192,
+                    25.083259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區正光里南興路１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.714667,
+                    25.097327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區光明路７４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.715027,
+                    25.096831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區正光里明德一路１２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.714644,
+                    25.097738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區六堵里工建路１２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.701448,
+                    25.090733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區堵北里福二街１３７、１３９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.695329,
+                    25.087275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區百三街８５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.696943,
+                    25.082008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區正光里自治街２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.713404,
+                    25.095506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區百福里百六街１３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.698541,
+                    25.08565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區正光里崇禮街６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.715554,
+                    25.097563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區堵北里實踐路２５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.694028,
+                    25.086535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區正光里開元路８４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.713267,
+                    25.096131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區堵北里福一街１３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.694981,
+                    25.083765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區堵北里福二街１７５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.695916,
+                    25.084854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區富民里明德一路１１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.715902,
+                    25.098564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區百福里百六街９５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.696485,
+                    25.085502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區百福里福五街１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.69922,
+                    25.082923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區正光里南興路１―５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.71507,
+                    25.097427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區永平里崇智街５４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.713774,
+                    25.099346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區正光里南興路６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.714995,
+                    25.097597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區百福里百五街４９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.696449,
+                    25.083971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區正明里開元路９４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.712723,
+                    25.095966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區正光里南興路８４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.712777,
+                    25.096786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區正明里自治街１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.712695,
+                    25.096515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區百福里福五街１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.69923,
+                    25.082875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區永平里永富路７７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.713876,
+                    25.099024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區正明里自治街４２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.713097,
+                    25.095497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區永平里永富路８１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.712576,
+                    25.098555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區永安里自治北街１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.71217,
+                    25.097545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區百福里福五街４８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.69898,
+                    25.083644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區正光里明德一路８７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.715932,
+                    25.098248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區正光里光明路１１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.713728,
+                    25.095644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區自強里大華一路１２５巷４８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.711462,
+                    25.100655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區正光里南興路２―５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.71507,
+                    25.097427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區泰安里泰和街２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.711098,
+                    25.086531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市七堵區明德一路６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.716089,
+                    25.098322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區通化里中華路３―３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738671,
+                    25.144651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區西榮里西定路２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.735487,
+                    25.131969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區西康里復興路３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.726893,
+                    25.141741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區協和里協和街１５０－２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.732176,
+                    25.157478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區德和里復興路１４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.726471,
+                    25.144876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區中興里中山二路３６巷５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.740703,
+                    25.138297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區西榮里西定路４８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.735429,
+                    25.132594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區和慶里中和路１６８巷５弄２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.716654,
+                    25.150175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區德和里復興路１５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.726518,
+                    25.144922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區安民里安一路４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.736573,
+                    25.131582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區中興里中山二路５１巷１３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739161,
+                    25.138528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區協和里湖海路１段３７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.725725,
+                    25.163288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區仁正里中山二路１０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739358,
+                    25.140298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區安民里安一路６６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.736328,
+                    25.131589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區安民里安一路３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.73675,
+                    25.131589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區通化里中華路５巷２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738625,
+                    25.145164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區德安里復興路３５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.728022,
+                    25.150936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區德和里復興路１２４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.726175,
+                    25.144542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區德和里復興路１３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.726327,
+                    25.144735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區和慶里中和路１６８巷７弄１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.71592,
+                    25.150172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區西康里復興路３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.726975,
+                    25.141615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區西榮里西定路８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.735371,
+                    25.133078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區仁正里中山二路１０５巷１０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.73813,
+                    25.139749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區通化里復旦路１７―５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738898,
+                    25.145419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區德和里復興路１６０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.726652,
+                    25.145067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區德安里復興路３１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.72744,
+                    25.150127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區西康里復興路４３－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.726414,
+                    25.142081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區復興路２４０－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.725845,
+                    25.147176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區西榮里西定路４５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.735142,
+                    25.132795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區通化里中華路５巷１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.73848,
+                    25.145047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區德和里復興路１５６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.726598,
+                    25.145011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區西康里西定路４６５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.727577,
+                    25.14055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區德和里復興路１０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.726085,
+                    25.144822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區德和里復興路１８９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.726333,
+                    25.146063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區和慶里中和路１６８巷１０弄２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.715252,
+                    25.150403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區中山里中山一路１１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738209,
+                    25.132441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區西華里西定路１１０巷３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.735281,
+                    25.133876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區德和里復興路２２４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.726376,
+                    25.146547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區中興里中山二路２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.740703,
+                    25.137419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區協和里文化路１０６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.734427,
+                    25.153703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區西康里復興路９５之６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.725851,
+                    25.144086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區安平里中山一路１１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738114,
+                    25.132285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區民治里中山一路２５７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.740149,
+                    25.135432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區西康里西定路４５１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.727864,
+                    25.140359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區德安里復興路２７５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.726241,
+                    25.149197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區正船里中船路市場１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75036,
+                    25.136984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區海濱里北寧路２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.772593,
+                    25.150839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區中砂里中正路２７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.760002,
+                    25.141528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區建國里立德路６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.767622,
+                    25.14442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區海濱里祥豐街８４１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.772069,
+                    25.150556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區新豐里新豐街３１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.786901,
+                    25.135869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區正濱里中正路５５９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76913,
+                    25.152353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區建國里祥豐街１７４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.767101,
+                    25.144228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區碧砂里北寧路３５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.792323,
+                    25.1403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區德義里義二路１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745232,
+                    25.130614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區港通里信一路１７７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.744727,
+                    25.130766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區正濱里中正路８１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.771666,
+                    25.151074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區德義里義二路１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745136,
+                    25.130855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區新豐里新豐街４１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.786696,
+                    25.135843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區正船里中船路８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.751257,
+                    25.137423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區海濱里北寧路７１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.783468,
+                    25.148375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區新豐里新豐街３００號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.787169,
+                    25.135926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區德義里義二路２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74521,
+                    25.131001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區平寮里平二路２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.764021,
+                    25.155781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區德義里義二路２巷９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745581,
+                    25.130633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區港通里義一路１６０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747621,
+                    25.135622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區港通里中正路６２之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.746177,
+                    25.135142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區碧砂里北寧路２７６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.789727,
+                    25.142115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區德義里信二路２８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74597,
+                    25.131259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區真砂里豐稔街２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.760953,
+                    25.141038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區德義里義二路２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745419,
+                    25.1309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區正濱里中正路８２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.771878,
+                    25.150877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區港通里義一路７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745074,
+                    25.132342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區長潭里北寧路３６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.801407,
+                    25.140135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區德義里信二路３１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745183,
+                    25.131322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區德義里信二路３１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745608,
+                    25.131233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區長潭里北寧路３６９巷４５―２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.799531,
+                    25.14101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區碧砂里北寧路２４２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.783272,
+                    25.146972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區德義里信二路２８４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.746098,
+                    25.131232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區正濱里中正路７９８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.771383,
+                    25.151209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區正濱里中正路７８２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.770687,
+                    25.151512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區港通里義一路２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745456,
+                    25.132887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區長潭里北寧路３６９巷４５―６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.799865,
+                    25.140937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區中船里中船路２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74992,
+                    25.136849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區德義里義二路９３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.746323,
+                    25.132663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區新富里新豐街３０３巷８弄２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.787757,
+                    25.134696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區德義里義二路８５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.746197,
+                    25.132477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區德義里義二路４２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745576,
+                    25.131133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區中正里中正路４２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766616,
+                    25.151053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區正濱里正濱路８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.769616,
+                    25.153158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區正濱里正濱路２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.770352,
+                    25.151895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區德義里義二路１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745296,
+                    25.130732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區正義里義二路１６０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747303,
+                    25.133711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區砂灣里祥豐街８３―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76339,
+                    25.14198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區正船里中船路７巷１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.750225,
+                    25.137384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區正濱里中正路７９４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.771265,
+                    25.151256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區港通里義一路２０巷２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745591,
+                    25.132079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區正濱里中正路７９２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.771202,
+                    25.151281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區海濱里祥豐街７７１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.771548,
+                    25.149487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區新豐里新豐街３０６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.787007,
+                    25.135888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區正濱里中正路８１２―５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76826,
+                    25.152785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區正濱里中正路７９０―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76826,
+                    25.152785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區正濱里中正路８１２之６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.771707,
+                    25.150971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區正義里義二路１４８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747145,
+                    25.133455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區正濱里中正路５７９―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76826,
+                    25.152785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區正船里中船路４２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.750463,
+                    25.137018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區德義里義二路２巷４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745358,
+                    25.130436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區砂灣里祥豐街８１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.763287,
+                    25.141936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區新富里新豐街２５１巷１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.788027,
+                    25.136018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區新富里新豐街２８５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.787532,
+                    25.135769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區港通里義一路２０巷３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745593,
+                    25.132159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區砂子里北寧路３９２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.796535,
+                    25.13959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區新豐街２５１巷４弄１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.788588,
+                    25.135991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區入船里中正路６２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.750975,
+                    25.138369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區正濱里中正路７７４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.770442,
+                    25.151565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區德義里信二路３０７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745755,
+                    25.131135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區新豐里新豐街４３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.786081,
+                    25.135691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區碧砂里環港街８２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.792465,
+                    25.141183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區港通里信三路２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74509,
+                    25.132747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區港通里義一路２０巷１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745554,
+                    25.132102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區港通里義一路６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.746022,
+                    25.133154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區新富里新豐街２２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.788509,
+                    25.136991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區新富里新豐街３７１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.785933,
+                    25.135424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區義二路１９０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747795,
+                    25.134447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區德義里義二路６３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745759,
+                    25.131824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區中正路２４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.744674,
+                    25.132871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區新豐街２３９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.788225,
+                    25.136647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區新富里新豐街２８１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.787586,
+                    25.135826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區德義里義二路１２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.746664,
+                    25.132826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區正義里義二路１２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.746948,
+                    25.133603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區新富里新豐街３６３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.786231,
+                    25.135472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區正濱里正濱路６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.769869,
+                    25.153003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區新富里新豐街２５１巷４弄３３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.788966,
+                    25.136161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區港通里信四路２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745673,
+                    25.133679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區正濱里中正路７５４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76976,
+                    25.151838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區新豐街３６９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.785979,
+                    25.135432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區新豐街３６１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.786272,
+                    25.135477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區新豐街２０９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.78864,
+                    25.137183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區德義里義二路５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745858,
+                    25.131605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區德義里義二路６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745195,
+                    25.130565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區新豐街２２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.788441,
+                    25.136903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區新豐街２５１巷２弄５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.788596,
+                    25.13627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中正區港通里信四路２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745757,
+                    25.13362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區愛四路３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.743834,
+                    25.128554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區愛四路３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74382,
+                    25.128874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁四路２４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742423,
+                    25.127607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區博愛零售市場飲食類第Ｂ７０、增２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747148,
+                    25.128257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區水錦里劉銘傳路６巷２５－３５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.750452,
+                    25.12789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁德里愛二路５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742191,
+                    25.129044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁德里仁三路７８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742462,
+                    25.128878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區博愛里仁四路５８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741116,
+                    25.128373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁德里愛一路３５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741761,
+                    25.129653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區新店里忠二路３９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739565,
+                    25.13024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區智仁里仁二路９９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7484,
+                    25.127419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁德里愛一路３７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741843,
+                    25.129764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區水錦里仁二路６６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.749303,
+                    25.127791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁德里仁三路８０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742282,
+                    25.128985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區水錦里仁二路７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75066,
+                    25.127441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區忠勇里仁二路１８２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745233,
+                    25.128587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁二路１３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.746114,
+                    25.128084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區博愛里孝一路１１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.740219,
+                    25.128084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區玉田里仁二路２１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.744311,
+                    25.128871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區文昌里港西街４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.740088,
+                    25.132622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區新店里孝二路８６―４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739897,
+                    25.12908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區文昌里忠二路４４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739448,
+                    25.130514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁德里仁三路２９巷２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742892,
+                    25.128208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區玉田里仁二路２２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.743949,
+                    25.129311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區博愛里愛二路３９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74189,
+                    25.128978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區博愛里愛三路１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741654,
+                    25.127106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區水錦里劉銘傳路５－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.751068,
+                    25.12764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁德里愛三路４９巷１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742223,
+                    25.128302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區新店里孝一路５４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741176,
+                    25.129935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區新店里孝三路７８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739818,
+                    25.13069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區玉田里仁二路２０４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.744787,
+                    25.128851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區和明里愛五路３４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.746,
+                    25.128855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區虹橋里劉銘傳路１１巷４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.751118,
+                    25.127492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁德里仁四路６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742902,
+                    25.12771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁德里愛三路３７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742262,
+                    25.128088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區和明里愛六路４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747405,
+                    25.127637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區和明里仁二路１５９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745547,
+                    25.128181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區文昌里忠二路５８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739035,
+                    25.130814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區文昌里忠二路５３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.73914,
+                    25.130469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區書院里獅球路４８巷１０９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.735622,
+                    25.123435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區明德里孝三路２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738518,
+                    25.129135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區文安里仁五路７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741405,
+                    25.126943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區同風里孝二路２８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739549,
+                    25.12855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區文昌里孝三路６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739112,
+                    25.129991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區文昌里孝四路１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738822,
+                    25.131105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區水錦里劉銘傳路６巷２５―２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.749371,
+                    25.127911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區明德里孝三路１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.73848,
+                    25.129038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區同風里忠三路２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739872,
+                    25.128799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區明德市場７７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742903,
+                    25.129127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區水錦里劉銘傳路５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.751093,
+                    25.127638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區博愛里愛三路４９巷３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741822,
+                    25.128316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區水錦里仁一路２４５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.749397,
+                    25.128112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁德里愛二路６５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742362,
+                    25.12965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁德里愛二路４７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742141,
+                    25.12927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區文昌里孝三路２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739079,
+                    25.1296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區明德里公園街３２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738041,
+                    25.129422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區和明里仁一路２９５―２４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74905,
+                    25.128132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區玉田里愛四路３４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.743807,
+                    25.128512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁德里愛二路６３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74233,
+                    25.129591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區福仁里南榮路３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742517,
+                    25.126767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區智仁里仁二路１２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74786,
+                    25.127324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區文昌里孝四路１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738791,
+                    25.13106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區文昌里孝三路３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.73922,
+                    25.129756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區曲水里龍安街２１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742209,
+                    25.122755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區新店里孝二路９３巷１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.740067,
+                    25.130727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區文昌里孝三路６３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739074,
+                    25.129909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區水錦里仁一路２０７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.750277,
+                    25.128028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區文昌里孝三路５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739375,
+                    25.129971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區和明里愛五路８之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74536,
+                    25.127998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區玉田里愛四路６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.743261,
+                    25.127718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區和明里仁一路２９３巷２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.746812,
+                    25.128506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區文昌里孝三路７５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739208,
+                    25.130122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區誠仁里南榮路１６９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.743046,
+                    25.124027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區玉田里仁三路４０－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.743697,
+                    25.128164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區和明里愛六路１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747302,
+                    25.12791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區新店里孝三路６０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739504,
+                    25.130253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區玉田里仁三路２４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.744248,
+                    25.128153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區忠二路３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739966,
+                    25.130243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區水錦里劉銘傳路１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.750747,
+                    25.127331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區曲水里龍安街２０７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742192,
+                    25.122921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區新店里孝一路６０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741308,
+                    25.130112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區文昌里孝三路５９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739006,
+                    25.129843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁德里愛三路７５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742879,
+                    25.129079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區文昌里孝三路９５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.73963,
+                    25.130773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區忠三路４０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739271,
+                    25.129372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區文昌里忠二路６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738699,
+                    25.130914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁德里孝一路６６之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7416,
+                    25.130237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區文昌里忠三路４４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739182,
+                    25.129414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁德里愛二路５７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742245,
+                    25.129439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區孝二路８２、８２之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.740883,
+                    25.130559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區愛二路２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741711,
+                    25.128699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區玉田里仁一路３１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.744888,
+                    25.129804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁德里愛三路３４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742334,
+                    25.127738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁德里愛二路６１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742306,
+                    25.12956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區愛一路６１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741418,
+                    25.129716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁德里愛二路５４巷２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742479,
+                    25.128999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區文昌里忠三路３４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739418,
+                    25.129283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區和明里仁二路１１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747609,
+                    25.127476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區新店里忠三路１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.740032,
+                    25.128933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區博愛里仁三路５７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742149,
+                    25.128798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區玉田里愛三路９８巷１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.743657,
+                    25.128972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區博愛里仁四路１７―３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.743009,
+                    25.127544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區文昌里孝三路５７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738984,
+                    25.129799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁德里愛一路４２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741922,
+                    25.129881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區新店里孝三路６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739715,
+                    25.130524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區和明里仁一路２９５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.746818,
+                    25.128715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區新店里孝一路６５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741429,
+                    25.130296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區和明里仁二路１４０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.746054,
+                    25.128117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區玉田里愛四路１―４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.743235,
+                    25.127676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區水錦里仁一路２１７巷１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.749668,
+                    25.127973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區玉田里愛三路９８巷１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.743466,
+                    25.128871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區新店里孝二路９３巷１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74005,
+                    25.130569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區文昌里忠三路６８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738438,
+                    25.129832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區同風里孝一路２３巷３弄１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739979,
+                    25.128581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區玉田里愛四路２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.743641,
+                    25.128252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區吉仁里南榮路１７９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74306,
+                    25.123816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區文昌里孝二路６３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739868,
+                    25.129525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區光華里成功一路１１８巷９弄２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.737413,
+                    25.12807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區水錦里仁二路３７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.750084,
+                    25.127538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區明德里忠三路５５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739349,
+                    25.1291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區吉仁里南榮路２０３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.743106,
+                    25.12328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區明德里忠三路７５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739031,
+                    25.129261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區文昌里港西街１５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.740038,
+                    25.133172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區新店里孝一路３４巷２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.740463,
+                    25.129141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區和明里仁一路２６９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747877,
+                    25.128214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區水錦里仁二路４３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.749923,
+                    25.127555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區新店里忠一路３巷７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741147,
+                    25.130268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區博愛里仁四路２１―１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74307,
+                    25.127556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區文昌里孝三路７９巷６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739061,
+                    25.130327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區博愛里孝一路１１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.740121,
+                    25.128029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區新店里孝三路９６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.740038,
+                    25.131025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區文昌里忠三路５８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738694,
+                    25.129691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁德里愛三路８７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.743069,
+                    25.129377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區忠勇里仁三路１１―３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.744889,
+                    25.127765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區和明里仁一路２７３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747765,
+                    25.128261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區新店里孝二路９８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.740733,
+                    25.130293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區文昌里孝三路７９巷３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739116,
+                    25.13016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區崇文里南榮路６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742003,
+                    25.126514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁德里愛一路５０之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741637,
+                    25.130072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區玉田里仁二路２０９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.744352,
+                    25.128844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區精一路９―５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741578,
+                    25.126577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁德里愛三路８３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742976,
+                    25.129242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區博愛里愛二路２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741711,
+                    25.128699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區和明里仁一路２９５―１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74905,
+                    25.128132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區新店里忠二路２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739797,
+                    25.130113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁德里仁四路２２之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742482,
+                    25.127624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區忠勇里仁二路１７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745423,
+                    25.128481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區玉田里仁二路２１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.744198,
+                    25.128937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區玉田里愛三路９８巷４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.743278,
+                    25.128899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區仁德里仁三路３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74296,
+                    25.12835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區博愛里仁四路１３之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742739,
+                    25.127462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市仁愛區博愛里愛一路１０３－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.740199,
+                    25.127921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區義昭里信義市場１之５４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.752609,
+                    25.12884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區仁壽里信一路１４１巷２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747491,
+                    25.130075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區東光里東信路８１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.764983,
+                    25.127822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區東光里東信路１５８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765037,
+                    25.128053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區孝忠里深溪路１１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.782619,
+                    25.133676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區孝忠里深溪路４９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.781978,
+                    25.132422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區孝忠里深溪路６２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.782373,
+                    25.132508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區東信里東信路１８４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.763668,
+                    25.128305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區義昭里信二路１８１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.751276,
+                    25.12948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區禮儀里東明路１７７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75936,
+                    25.127583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區孝忠里深溪路６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.782194,
+                    25.133006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區孝忠里深溪路７７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.782256,
+                    25.133417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區孝忠里深溪路１５６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.782719,
+                    25.134136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區仁壽里壽山路２１－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.752889,
+                    25.133772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區孝賢里教孝街８１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.776371,
+                    25.13745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區仁壽里信一路１４１巷１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747446,
+                    25.12965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區仁義里信一路１０２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.749979,
+                    25.128883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區孝忠里深溪路１１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.782428,
+                    25.134197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區東光里東信路８１－２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765086,
+                    25.127787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區東信里東信路２１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76312,
+                    25.128219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區義昭里信一路７１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75174,
+                    25.128603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區仁義里信二路２５６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.750138,
+                    25.129798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區義幸里義七路１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.752835,
+                    25.128737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區仁壽里義四路９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74787,
+                    25.129273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區義幸里信二路１３３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.753823,
+                    25.129223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區孝忠里深美街１２４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.780153,
+                    25.135719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區義幸里信二路１７４巷８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.753901,
+                    25.12956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區孝忠里深溪路８６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.782503,
+                    25.133136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區東明路２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.763586,
+                    25.127738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區義幸里信二路１７２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75388,
+                    25.129441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區義和里信二路２５―４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.757981,
+                    25.128927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區義和里信二路３７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.756494,
+                    25.128907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區孝忠里深溪路７３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.78224,
+                    25.13332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區東信里花源一街２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.763634,
+                    25.133447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區義幸里信二路１２４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.754879,
+                    25.129335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區義民里信二路９２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.755469,
+                    25.129321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區孝忠里深溪路７６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.782424,
+                    25.132784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區義民里信一路２６巷９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.755774,
+                    25.128698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區仁義里義六路２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75104,
+                    25.13004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區深溪路４２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.782302,
+                    25.132141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區深溪路８５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.782283,
+                    25.133583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區深溪路５１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.782022,
+                    25.132417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區義七路１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.752662,
+                    25.129149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區中興路１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.754335,
+                    25.128899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區深溪路５５巷９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.781863,
+                    25.132484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區義和里信二路２４―２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75793,
+                    25.128686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區仁壽里信一路１４１巷７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747196,
+                    25.129632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區義幸里信二路１０１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.754726,
+                    25.129116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區東安里培德路９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768812,
+                    25.12834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區仁義里義六路２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.751056,
+                    25.130144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區仁義里信一路９６巷１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75039,
+                    25.129228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區東信里東信路２６０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.762281,
+                    25.129367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區義昭里信二路２３４巷２－３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.751743,
+                    25.129776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區孝忠里教忠街９８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.778561,
+                    25.136168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區義和里信二路２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.756921,
+                    25.128931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區仁壽里義四路５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747836,
+                    25.129173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區禮東里東明路２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.763205,
+                    25.127952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區孝賢里深澳坑路２―３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.773884,
+                    25.136317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區孝忠里深溪路２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.781253,
+                    25.130966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區仁壽里義三路４巷２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747566,
+                    25.129598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區禮東里東明路６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76307,
+                    25.127911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區東明里東信路４１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766623,
+                    25.127317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區東安里東信路４２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.767921,
+                    25.127983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區孝忠里深溪路７９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.782263,
+                    25.133458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區義五路３３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.749227,
+                    25.129531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區教忠街１４１巷２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.779293,
+                    25.139942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區孝忠里深溪路３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.781358,
+                    25.131091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區信二路６３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.755577,
+                    25.129026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區仁義里信二路２５４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.750198,
+                    25.12979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區孝忠里深溪路１８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.782848,
+                    25.13483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區義幸里信二路１２９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.753913,
+                    25.129221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區武崙里基金一路１３５巷２１弄２之６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.709526,
+                    25.140426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區樂一路２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.734308,
+                    25.13135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區安一路４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.734838,
+                    25.131874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區七賢里安和一街２巷７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.723828,
+                    25.121986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區新崙里基金一路２１６－２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.707793,
+                    25.141953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區興寮里基金一路３５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.72373,
+                    25.135857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區外寮里武嶺街９１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.710887,
+                    25.139811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區內寮里基金三路７１－６、７１－７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.696785,
+                    25.153784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區外寮里基金一路１３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.711614,
+                    25.140158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區七賢里安和一街２巷６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.723966,
+                    25.121763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區鶯安里麥金路２３１－６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.721052,
+                    25.121775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區鶯安里麥金路２３１─５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.721387,
+                    25.120217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區武崙里基金一路１７４之４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.710885,
+                    25.141052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區內寮里武隆街１５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.695314,
+                    25.156576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區內寮里武隆街６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.695545,
+                    25.155888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區鶯歌里麥金路２、４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.726802,
+                    25.116174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區新崙里基金一路２１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.709723,
+                    25.142343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區七賢里安和一街２巷２３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.724386,
+                    25.122467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區外寮里武嶺街１３４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.710618,
+                    25.139849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區武崙里基金一路１３５巷２１弄２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.709605,
+                    25.140056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區七賢里安和一街２巷２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.724323,
+                    25.122406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區武崙里基金一路１９６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.710519,
+                    25.141359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區六合里樂利三街１１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.715005,
+                    25.126422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區武崙里基金一路１３５巷２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.709159,
+                    25.141766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區慈仁里安一路１８６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.732408,
+                    25.132562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區鶯歌里安樂路二段１５３－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.723691,
+                    25.120937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區外寮里基金一路１３１―１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.711783,
+                    25.140139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區壯觀里樂利二街６２巷２２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.717014,
+                    25.120981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區三民里麥金路４２４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.720082,
+                    25.124663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區外寮里武嶺街５８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.710626,
+                    25.140388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區七賢里安和一街２巷１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.724166,
+                    25.121931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區外寮里武嶺街１６１－５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.710517,
+                    25.138608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區鶯安里麥金路２３１－１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.721052,
+                    25.121775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區鶯歌里安樂路二段１６６巷３２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.722324,
+                    25.121621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區鶯歌里麥金路２０２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.723189,
+                    25.119626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區鶯歌里安樂路二段２０７、２０９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.723254,
+                    25.120346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區武崙里基金一路１３５巷５０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.70912,
+                    25.141382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區五福里樂利三街３２巷１０弄１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.712166,
+                    25.126111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區鶯歌里安樂路二段２０１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.723329,
+                    25.120464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區鶯歌里安樂路二段１８５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.723795,
+                    25.120819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區武崙里基金一路１１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.712673,
+                    25.140819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區鶯安里麥金路１４７―３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.721387,
+                    25.120217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區鶯安里麥金路２３１之８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.721052,
+                    25.121775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區基金一路１９４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.710544,
+                    25.141338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區鶯歌里麥金路１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.726451,
+                    25.116233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區新崙里基金一路３５６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.705096,
+                    25.141957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區定邦里安一路１２２－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.734264,
+                    25.132017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區武崙里基金一路１７２－７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.710958,
+                    25.140972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區六合里樂利三街８２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.714107,
+                    25.126646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區三民里麥金路４１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.720212,
+                    25.124486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區新崙里基金一路２０８巷１３８弄１８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.707573,
+                    25.14609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區內寮里湖海路二段１６６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.706363,
+                    25.166374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區長樂里樂利三街２１－１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.717112,
+                    25.129019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區武崙里基金一路１３５巷３３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.708761,
+                    25.140422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區武崙里基金一路１３５巷２１弄１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.709188,
+                    25.140236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區內寮里武隆街１４６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.695558,
+                    25.156385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區定邦里安一路１３０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.734086,
+                    25.132065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區嘉仁里安樂路一段２０８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.732482,
+                    25.127862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區新崙里基金一路２１６之２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.707793,
+                    25.141953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區武崙里基金一路１７６之１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.710601,
+                    25.141283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區碇內里碇內街６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.754529,
+                    25.098388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區碇安里源遠路２５１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.754816,
+                    25.098852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區暖暖街１５９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.736565,
+                    25.099936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區碇內里源遠路２３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.751903,
+                    25.098213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區暖東里東勢街２２１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.757499,
+                    25.080449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區暖暖里東勢街４―１０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.736525,
+                    25.099513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區暖暖里暖暖街８１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738617,
+                    25.10178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區暖暖里暖暖街２４１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.734904,
+                    25.097825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區暖同里東勢街２－２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.735855,
+                    25.100546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區暖同里東勢街１―２５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.736331,
+                    25.100062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區碇和里源遠路１８０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.749979,
+                    25.09814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區暖同里東勢街１―２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.736027,
+                    25.100031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區暖暖里暖暖街１９１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.735674,
+                    25.099018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區暖同里暖暖街２２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.734712,
+                    25.098163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區八南里八堵路１４１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.728498,
+                    25.107621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區暖暖里暖暖街２２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.735022,
+                    25.098251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區碇安里源遠路２７９―９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.754763,
+                    25.098846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區過港里過港路８６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.737129,
+                    25.105756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區暖暖里暖暖街２１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.735226,
+                    25.098579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區暖同里暖暖街１９２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.735489,
+                    25.099178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區碇內里源遠路２２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.751345,
+                    25.098161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區暖暖里暖暖街６７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738733,
+                    25.10198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區碇安里源遠路３４１―３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.754763,
+                    25.098846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區暖同里暖暖街２２０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.734778,
+                    25.098492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區東勢街１２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738845,
+                    25.094673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區碇和里源遠路１３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.748214,
+                    25.098165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區暖暖里暖暖街２４３―３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738614,
+                    25.102644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區暖暖里東勢街６―５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738321,
+                    25.098656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區碇內里源遠路２６０巷３６弄１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.754588,
+                    25.096394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區過港里過港路２６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7401,
+                    25.104019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區暖西里暖暖街３７９巷３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.73651,
+                    25.093294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市暖暖區暖同里暖暖街２１４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.734971,
+                    25.098687
+                ]
+            }
+        }
+    ]
+}

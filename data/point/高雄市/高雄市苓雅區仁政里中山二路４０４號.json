@@ -1,0 +1,28 @@
+{
+    "name": [
+        "糕餅麵包製造",
+        "冰果店、冷（熱）飲店",
+        "餐館、餐廳"
+    ],
+    "address": "高雄市苓雅區仁政里中山二路４０４號",
+    "x": 120.303191,
+    "y": 22.618272,
+    "shops": [
+        {
+            "shop": "永心鳳茶有限公司",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "心潮飯店有限公司",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "永心鳳茶有限公司",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "心潮飯店有限公司",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}

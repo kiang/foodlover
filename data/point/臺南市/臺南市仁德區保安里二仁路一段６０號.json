@@ -1,0 +1,39 @@
+{
+    "name": [
+        "飲料零售",
+        "西點麵包零售"
+    ],
+    "address": "臺南市仁德區保安里二仁路一段６０號（嘉南藥理大學學生活動中心１樓）",
+    "x": 120.225776,
+    "y": 22.920124,
+    "shops": [
+        {
+            "shop": "台唯商行",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "集鮮餐飲店",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        },
+        {
+            "shop": "御穀屋",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        },
+        {
+            "shop": "名??中式快餐",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        },
+        {
+            "shop": "蔡媽媽美食",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        },
+        {
+            "shop": "活力麵館",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        },
+        {
+            "shop": "喬照簡餐",
+            "pay_list": "一卡通 \/ LINE Pay Money"
+        }
+    ]
+}

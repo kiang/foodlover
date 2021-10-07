@@ -1,0 +1,18 @@
+{
+    "name": [
+        "麵店、小吃店"
+    ],
+    "address": "新北市汐止區中興路１６０號－１６８號之間",
+    "x": 121.632435,
+    "y": 25.065239,
+    "shops": [
+        {
+            "shop": "中興商圈　熱火麻辣燙",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "真美味食堂",
+            "pay_list": "LINE Pay Money"
+        }
+    ]
+}
