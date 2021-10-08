@@ -6,7 +6,7 @@
     "shops": [
         {
             "shop": "平安小吃",
-            "pay_list": "LINE PAY MONEY"
+            "pay_list": "LINE PAY"
         },
         {
             "shop": "聖果蔬食營養餐",
@@ -45,5 +45,5 @@
             "pay_list": ""
         }
     ],
-    "pay_list": "LINE PAY MONEY"
+    "pay_list": "LINE PAY"
 }

@@ -6,7 +6,7 @@
     "shops": [
         {
             "shop": "猫鼻頭３號店",
-            "pay_list": "LINE PAY MONEY"
+            "pay_list": "LINE PAY"
         },
         {
             "shop": "猫鼻頭公園店舖２號",
@@ -18,12 +18,12 @@
         },
         {
             "shop": "猫鼻頭公園店舖１８號",
-            "pay_list": "LINE PAY MONEY"
+            "pay_list": "LINE PAY"
         },
         {
             "shop": "猫鼻頭３號店",
-            "pay_list": "LINE PAY MONEY"
+            "pay_list": "LINE PAY"
         }
     ],
-    "pay_list": "LINE PAY MONEY"
+    "pay_list": "LINE PAY"
 }

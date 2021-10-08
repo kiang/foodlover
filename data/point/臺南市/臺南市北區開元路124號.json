@@ -158,7 +158,7 @@
         },
         {
             "shop": "開元公有零售市場-1044",
-            "pay_list": "LINE PAY MONEY"
+            "pay_list": "LINE PAY"
         },
         {
             "shop": "開元公有零售市場-1045",
@@ -450,7 +450,7 @@
         },
         {
             "shop": "開元公有零售市場 1044",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY"
         },
         {
             "shop": "開元公有零售市場 2030",
@@ -478,7 +478,7 @@
         },
         {
             "shop": "開元公有零售市場 1044",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY"
         },
         {
             "shop": "開元公有零售市場 2030",
@@ -501,5 +501,5 @@
             "pay_list": "街口支付"
         }
     ],
-    "pay_list": "街口支付\/LINE PAY MONEY\/LINE Pay Money"
+    "pay_list": "街口支付\/LINE PAY"
 }

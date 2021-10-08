@@ -6,7 +6,7 @@
     "shops": [
         {
             "shop": "木子甜飲店",
-            "pay_list": "LINE PAY MONEY \/ 一卡通"
+            "pay_list": "LINE PAY \/ 一卡通"
         },
         {
             "shop": "小柴餐廳",
@@ -14,7 +14,7 @@
         },
         {
             "shop": "夏光宇",
-            "pay_list": "LINE PAY MONEY \/ 一卡通"
+            "pay_list": "LINE PAY \/ 一卡通"
         },
         {
             "shop": "意麵王",
@@ -30,7 +30,7 @@
         },
         {
             "shop": "粵香港式燒腊",
-            "pay_list": "LINE PAY MONEY"
+            "pay_list": "LINE PAY"
         },
         {
             "shop": "蕭郁涵早餐店",
@@ -38,8 +38,8 @@
         },
         {
             "shop": "粵海自助餐",
-            "pay_list": "LINE PAY MONEY"
+            "pay_list": "LINE PAY"
         }
     ],
-    "pay_list": "LINE PAY MONEY\/一卡通"
+    "pay_list": "LINE PAY\/一卡通"
 }

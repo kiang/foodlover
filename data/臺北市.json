@@ -1643,7 +1643,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺北市中山區中山北路一段110號",
-                "pay_list": "街口支付\/LINE Pay Money\/台灣 PAY"
+                "pay_list": "街口支付\/LINE PAY\/台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1657,7 +1657,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺北市中正區市民大道三段8號",
-                "pay_list": "LINE Pay Money\/台灣 PAY\/街口支付\/PI\/玉山銀行"
+                "pay_list": "LINE PAY\/台灣 PAY\/街口支付\/PI\/玉山銀行"
             },
             "geometry": {
                 "type": "Point",
@@ -1671,7 +1671,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺北市中正區忠孝東路一段108號",
-                "pay_list": "台灣 PAY\/永豐銀行\/街口支付\/中國信託\/APPLE\/LINE Pay Money"
+                "pay_list": "台灣 PAY\/永豐銀行\/街口支付\/中國信託\/APPLE\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1685,7 +1685,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺北市中正區羅斯福路四段92號",
-                "pay_list": "台灣 PAY\/LINE Pay Money"
+                "pay_list": "台灣 PAY\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1741,7 +1741,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺北市內湖區西湖里內湖路１段２８５號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1755,7 +1755,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺北市內湖區內湖路一段285號",
-                "pay_list": "街口支付\/LINE Pay Money\/其他業者  若選此項者，請跳轉下一題\/台灣 PAY\/其他業者  永豐銀行"
+                "pay_list": "街口支付\/LINE PAY\/\/台灣 PAY\/永豐銀行"
             },
             "geometry": {
                 "type": "Point",
@@ -1769,7 +1769,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺北市內湖區五分街及安康路434巷至488號",
-                "pay_list": "街口支付\/LINE Pay Money\/悠遊卡\/玉山銀行"
+                "pay_list": "街口支付\/LINE PAY\/悠遊卡\/玉山銀行"
             },
             "geometry": {
                 "type": "Point",
@@ -1783,7 +1783,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺北市北投區新市街30號",
-                "pay_list": "LINE Pay Money\/台灣 PAY"
+                "pay_list": "LINE PAY\/台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1825,7 +1825,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺北市士林區士東路100號",
-                "pay_list": "街口支付\/台灣 PAY\/LINE Pay Money\/歐付寶"
+                "pay_list": "街口支付\/台灣 PAY\/LINE PAY\/歐付寶"
             },
             "geometry": {
                 "type": "Point",
@@ -1839,7 +1839,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺北市士林區基河路101 號",
-                "pay_list": "台灣 PAY\/街口支付\/富邦銀行\/LINE Pay Money\/玉山銀行\/支付寶"
+                "pay_list": "台灣 PAY\/街口支付\/富邦銀行\/LINE PAY\/玉山銀行\/支付寶"
             },
             "geometry": {
                 "type": "Point",
@@ -1867,7 +1867,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺北市大同區重慶北路3段347、349號",
-                "pay_list": "台灣 PAY\/LINE Pay Money\/悠遊卡\/悠遊付"
+                "pay_list": "台灣 PAY\/LINE PAY\/悠遊卡\/悠遊付"
             },
             "geometry": {
                 "type": "Point",
@@ -1881,7 +1881,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺北市大安區瑞安街75號",
-                "pay_list": "台灣 PAY\/街口支付\/LINE Pay Money"
+                "pay_list": "台灣 PAY\/街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1951,7 +1951,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺北市松山區八德路四段679號",
-                "pay_list": "台灣 PAY\/街口支付\/LINE Pay Money"
+                "pay_list": "台灣 PAY\/街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1965,7 +1965,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺北市松山區八德路三段76號",
-                "pay_list": "悠遊付\/台灣 PAY\/歐付寶\/街口支付\/LINE Pay Money\/多元支付"
+                "pay_list": "悠遊付\/台灣 PAY\/歐付寶\/街口支付\/LINE PAY\/多元支付"
             },
             "geometry": {
                 "type": "Point",
@@ -1993,7 +1993,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺北市萬華區成都路10巷33號",
-                "pay_list": "台灣 PAY\/街口支付\/LINE Pay Money\/悠遊卡\/APPLEPAY\/支付寶"
+                "pay_list": "台灣 PAY\/街口支付\/LINE PAY\/悠遊卡\/APPLEPAY\/支付寶"
             },
             "geometry": {
                 "type": "Point",
@@ -2007,7 +2007,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺北市萬華區康定路172巷1號",
-                "pay_list": "台灣 PAY\/LINE Pay Money"
+                "pay_list": "台灣 PAY\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",

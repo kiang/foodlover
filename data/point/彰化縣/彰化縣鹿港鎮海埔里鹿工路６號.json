@@ -6,7 +6,7 @@
     "shops": [
         {
             "shop": "食龍廣東粥",
-            "pay_list": "LINE PAY MONEY"
+            "pay_list": "LINE PAY"
         },
         {
             "shop": "湯屋養生館",
@@ -14,8 +14,8 @@
         },
         {
             "shop": "食龍廣東粥",
-            "pay_list": "LINE PAY MONEY"
+            "pay_list": "LINE PAY"
         }
     ],
-    "pay_list": "LINE PAY MONEY"
+    "pay_list": "LINE PAY"
 }

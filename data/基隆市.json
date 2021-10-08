@@ -397,7 +397,7 @@
             "type": "Feature",
             "properties": {
                 "k": "基隆市中山區西定路230號",
-                "pay_list": "台灣 PAY\/LINE Pay Money"
+                "pay_list": "台灣 PAY\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -425,7 +425,7 @@
             "type": "Feature",
             "properties": {
                 "k": "基隆市仁愛區愛三路21號",
-                "pay_list": "台灣 PAY\/街口支付\/LINE Pay Money"
+                "pay_list": "台灣 PAY\/街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",

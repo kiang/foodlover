@@ -6,11 +6,11 @@
     "shops": [
         {
             "shop": "龍華公有零售市場 甲字5號",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY"
         },
         {
             "shop": "龍華公有零售市場 甲字15號",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY"
         },
         {
             "shop": "龍華公有零售市場 乙字3號",
@@ -18,12 +18,12 @@
         },
         {
             "shop": "龍華公有零售市場 丙字57號",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY"
         },
         {
             "shop": "龍華公有零售市場 丁字43號",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY"
         }
     ],
-    "pay_list": "LINE Pay Money\/台灣 PAY"
+    "pay_list": "LINE PAY\/台灣 PAY"
 }

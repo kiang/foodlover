@@ -26,7 +26,7 @@
         },
         {
             "shop": "第一公有零售市場 早餐吧",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY"
         },
         {
             "shop": "第一公有零售市場 巨佳食品",
@@ -34,11 +34,11 @@
         },
         {
             "shop": "第一公有零售市場 佳鄉食品",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY"
         },
         {
             "shop": "第一公有零售市場 第二代姐妹店肉舖",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY"
         },
         {
             "shop": "第一公有零售市場 忙不來鮮魚舖",
@@ -46,8 +46,8 @@
         },
         {
             "shop": "第一公有零售市場 魚之鄉",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY"
         }
     ],
-    "pay_list": "歐付寶\/街口支付\/LINE Pay Money"
+    "pay_list": "歐付寶\/街口支付\/LINE PAY"
 }

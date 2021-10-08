@@ -6,7 +6,7 @@
     "shops": [
         {
             "shop": "古早茗飲",
-            "pay_list": "LINE PAY MONEY"
+            "pay_list": "LINE PAY"
         },
         {
             "shop": "大飽包",
@@ -14,8 +14,8 @@
         },
         {
             "shop": "林恭任",
-            "pay_list": "LINE PAY MONEY"
+            "pay_list": "LINE PAY"
         }
     ],
-    "pay_list": "LINE PAY MONEY"
+    "pay_list": "LINE PAY"
 }

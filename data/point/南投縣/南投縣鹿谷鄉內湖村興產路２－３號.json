@@ -6,7 +6,7 @@
     "shops": [
         {
             "shop": "避煞專家",
-            "pay_list": "LINE PAY MONEY"
+            "pay_list": "LINE PAY"
         },
         {
             "shop": "久保田烘焙坊",
@@ -14,7 +14,7 @@
         },
         {
             "shop": "妖怪喀麵",
-            "pay_list": "LINE PAY MONEY"
+            "pay_list": "LINE PAY"
         },
         {
             "shop": "黃金水餃",
@@ -34,8 +34,8 @@
         },
         {
             "shop": "丸太舍拉麵",
-            "pay_list": "LINE PAY MONEY"
+            "pay_list": "LINE PAY"
         }
     ],
-    "pay_list": "LINE PAY MONEY"
+    "pay_list": "LINE PAY"
 }

@@ -490,7 +490,7 @@
         },
         {
             "shop": "第五公有零售市場 A004",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY"
         },
         {
             "shop": "第五公有零售市場 1",
@@ -498,7 +498,7 @@
         },
         {
             "shop": "第五公有零售市場 13",
-            "pay_list": "台灣 PAY \/ LINE Pay Money"
+            "pay_list": "台灣 PAY \/ LINE PAY"
         },
         {
             "shop": "第五公有零售市場 17",
@@ -506,7 +506,7 @@
         },
         {
             "shop": "第五公有零售市場 21",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY"
         },
         {
             "shop": "第五公有零售市場 26",
@@ -526,12 +526,12 @@
         },
         {
             "shop": "第五公有零售市場 40",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY"
         },
         {
             "shop": "第五公有零售市場 C016",
             "pay_list": "台灣 PAY"
         }
     ],
-    "pay_list": "LINE Pay Money\/台灣 PAY\/玉山銀行"
+    "pay_list": "LINE PAY\/台灣 PAY\/玉山銀行"
 }

@@ -19,7 +19,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市北區錦南街50-2號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -33,7 +33,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市北區五權路176號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -75,7 +75,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市北屯區北平路四段68號",
-                "pay_list": "台灣 PAY\/LINE Pay Money\/歐付寶\/街口支付"
+                "pay_list": "台灣 PAY\/LINE PAY\/歐付寶\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -89,7 +89,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南區台中路90號",
-                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+                "pay_list": "台灣 PAY\/LINE PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +103,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南屯區大墩六街161號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -117,7 +117,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南屯區東興路三段125號",
-                "pay_list": "街口支付\/LINE Pay Money\/台灣 PAY"
+                "pay_list": "街口支付\/LINE PAY\/台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -145,7 +145,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南屯區南屯路2段595號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -383,7 +383,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南屯區春社里永春南路６７號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -397,7 +397,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南屯區文山里保安五街１６１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -523,7 +523,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南屯區三義里黎明路２段４０６號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -551,7 +551,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市后里區墩北里四村路121號",
-                "pay_list": "街口支付\/LINE Pay Money"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -565,7 +565,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市后里區后里里復興街99巷31號",
-                "pay_list": "街口支付\/LINE Pay Money\/台灣 PAY"
+                "pay_list": "街口支付\/LINE PAY\/台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -775,7 +775,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大甲區新政路38號",
-                "pay_list": "街口支付\/LINE Pay Money\/悠遊付\/PI錢包\/台灣 PAY"
+                "pay_list": "街口支付\/LINE PAY\/悠遊付\/PI錢包\/台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1279,7 +1279,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大里區東興里大明路１３１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1629,7 +1629,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大雅區大雅路50號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1797,7 +1797,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市太平區太平路446號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2105,7 +2105,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市太平區坪林里中山路１段２３５號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2175,7 +2175,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市太平區勤益里９鄰中山路１段２１５巷１２―１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2189,7 +2189,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市太平區永成里長億六街１４１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2525,7 +2525,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市東勢區上新里三民街88號",
-                "pay_list": "台灣 PAY\/街口支付\/LINE Pay Money\/歐付寶"
+                "pay_list": "台灣 PAY\/街口支付\/LINE PAY\/歐付寶"
             },
             "geometry": {
                 "type": "Point",
@@ -2679,7 +2679,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市東勢區延平里９鄰忠孝街３０號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2721,7 +2721,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市東勢區南平里豐勢路３６２號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2735,7 +2735,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市東勢區廣興里中山路１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2861,7 +2861,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市東區進化路230-3號",
-                "pay_list": "LINE Pay Money\/街口支付"
+                "pay_list": "LINE PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2875,7 +2875,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市東區建成路500號",
-                "pay_list": "LINE Pay Money\/街口支付\/悠遊付\/PI\/台灣 PAY\/歐付寶"
+                "pay_list": "LINE PAY\/街口支付\/悠遊付\/PI\/台灣 PAY\/歐付寶"
             },
             "geometry": {
                 "type": "Point",
@@ -3141,7 +3141,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市清水區鎮北街9號",
-                "pay_list": "台灣 PAY\/街口支付\/LINE Pay Money"
+                "pay_list": "台灣 PAY\/街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3561,7 +3561,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西區大明街9號",
-                "pay_list": "LINE Pay Money\/台灣 PAY\/玉山銀行"
+                "pay_list": "LINE PAY\/台灣 PAY\/玉山銀行"
             },
             "geometry": {
                 "type": "Point",
@@ -3575,7 +3575,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西區篤行路200號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3771,7 +3771,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西區公館里美村路２段１５號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4149,7 +4149,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市豐原區市前街88號",
-                "pay_list": "台灣 PAY\/街口支付\/LINE Pay Money"
+                "pay_list": "台灣 PAY\/街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4163,7 +4163,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市霧峰區中正路958-6號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4205,7 +4205,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市霧峰區中正里中正路９６４號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4219,7 +4219,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市霧峰區吉峰里吉峰東路１６８號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4233,7 +4233,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市霧峰區吉峰里１１鄰吉峰東路１６８號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4597,7 +4597,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市北區錦平里中華路二段143號",
-                "pay_list": "街口支付\/LINE Pay Money"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -4611,7 +4611,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市清水區中社里鎮政路97號",
-                "pay_list": "街口支付\/LINE Pay Money"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -5787,7 +5787,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市北區光大里太平路２３５號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -7313,7 +7313,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市北屯區平安里天津路４段３７號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -10785,7 +10785,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南屯區惠中里大光街１１４－１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -12983,7 +12983,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大安區海墘里大安港路１１７８號",
-                "pay_list": "LINE PAY MONEY\/一卡通"
+                "pay_list": "LINE PAY\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -18709,7 +18709,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市東區泉源里建成路５００號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -18737,7 +18737,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市東區東南里進化路２３０號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -19717,7 +19717,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市梧棲區中正里中興路９６號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -20935,7 +20935,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市清水區海濱里北堤路３０號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -21187,7 +21187,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市清水區中社里１鄰鎮政路６７號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -21789,7 +21789,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市烏日區烏日里日新街１１號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -22475,7 +22475,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市神岡區豐洲里００７鄰豐洲路５２５號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -23441,7 +23441,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西區公益里中美街２５７號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -25891,7 +25891,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西屯區何厝里青海路１段１４號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -28425,7 +28425,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市豐原區西安里成功路２６０號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -28579,7 +28579,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市豐原區豐西里豐西街３２號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -30693,7 +30693,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市龍井區龍津里中央路１段１８１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -30721,7 +30721,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市龍井區東海里８鄰國際街１６９號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -30735,7 +30735,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市龍井區新東里臺灣大道５段３巷６２弄２０號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -31379,7 +31379,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市中區公園里光復路８９號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -31603,7 +31603,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市中區繼光里公園路２―１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -32303,7 +32303,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市中區中華里中華路１段１３４號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -32625,7 +32625,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市中區大墩里三民路２段８１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -32681,7 +32681,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市中區綠川里臺灣大道一段８１巷１９號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -32695,7 +32695,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市中區民生路３６８巷２弄１２號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -32765,7 +32765,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市中區中華里中華路一段１０４號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -33017,7 +33017,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市中區中華里中華路１段４７號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -33675,7 +33675,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市北區賴村里梅亭街２９９號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -34109,7 +34109,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市北區頂厝里永興街３２６－６號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -34403,7 +34403,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市北區梅川里漢口路４段３４７號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -34417,7 +34417,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市北區賴村里五常街２００號",
-                "pay_list": "LINE PAY MONEY\/一卡通"
+                "pay_list": "LINE PAY\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -34599,7 +34599,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市北區新北里育才南街３３號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -34697,7 +34697,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市北區建興里永興街９５號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -34781,7 +34781,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市北區賴興里北平路二段１００號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -35439,7 +35439,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市北區明新里太原六街４號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -35467,7 +35467,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市北區長青里陜西路６號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -35663,7 +35663,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市北區長青里陜西路６６號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -35747,7 +35747,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市北區育德里大德街８２巷２號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -35789,7 +35789,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市北區賴旺里北平路二段２５―３號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -36419,7 +36419,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市北屯區平心里昌平路一段２７２號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -37203,7 +37203,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市北屯區四民里后庒路９０３號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -37329,7 +37329,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市北屯區陳平里中清路２段５４８號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -37399,7 +37399,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市北屯區松和里崇德六路１段１０６號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -37539,7 +37539,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市北屯區平田里興安路１段３１１號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -37651,7 +37651,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市北屯區平興里興安路２段４７號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -37833,7 +37833,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市北屯區和平里東山路１段３２８―３號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -38071,7 +38071,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市北屯區平心里旅順路二段１１６號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -38253,7 +38253,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市北屯區廍子里廍子路６６６號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -38939,7 +38939,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南區福興里福新街６５號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -39051,7 +39051,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南區樹義里大慶街２段７巷８號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -39163,7 +39163,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南區積善里興大路３８６號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -39191,7 +39191,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南區福平里美村路２段５１號",
-                "pay_list": "街口支付\/愛金卡\/LINE PAY MONEY\/一卡通"
+                "pay_list": "街口支付\/愛金卡\/LINE PAY\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -39317,7 +39317,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南區新榮里公理街４１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -39597,7 +39597,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南區工學里文心南十路１９６號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -39625,7 +39625,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南區德義里仁義街８３－１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -39709,7 +39709,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南區福順里忠明南路７５９巷１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -40227,7 +40227,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南區城隍里忠孝路１５４號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -40311,7 +40311,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南區新榮里學府路１７７號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -40507,7 +40507,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南區福順里美村路２段１７６號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -40717,7 +40717,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南區南門里南門路１８６號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -40731,7 +40731,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南區永興里高工路１８２號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -40857,7 +40857,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南區樹德里大慶街２段２３―１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -40885,7 +40885,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南區樹德里大慶街２段２３號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -41291,7 +41291,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南區福興里美村路２段３１３號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -41361,7 +41361,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南區南和里工學路１８６號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -41459,7 +41459,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南區德義里國光路１５６―２號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -41613,7 +41613,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南區福順里南陽街８１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -41795,7 +41795,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南屯區大誠里東興路２段１１３號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -41865,7 +41865,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南屯區大興里東興路２段５４號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -42285,7 +42285,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南屯區春安里建功路１０７－４０號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -42495,7 +42495,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南屯區文山里嶺東路７６４號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -42733,7 +42733,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南屯區春社里嶺東路２１―３號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -42999,7 +42999,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南屯區田心里南屯路４７８號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -43083,7 +43083,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南屯區南屯里南興巷２８弄２號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -43181,7 +43181,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南屯區大同里東興路２段３５４號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -43741,7 +43741,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市南屯區大業里東興路３段１２５號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -44567,7 +44567,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市后里區墩東里文明路１２５號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -45029,7 +45029,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市后里區眉山里７鄰甲后路２段４７１號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -45085,7 +45085,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市后里區后里里甲后路１段５１６號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -45659,7 +45659,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市后里區墩南里１１鄰三豐路３段１８１號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -45813,7 +45813,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市后里區墩南里三豐路６３號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -45883,7 +45883,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市后里區墩西里公安路７１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -46051,7 +46051,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市后里區廣福里寺山路１２號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -46765,7 +46765,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市后里區厚里里成功路３０３號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -47059,7 +47059,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市后里區后里里三豐路四段１４９號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -47073,7 +47073,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市和平區博愛里東關路１段分校巷２０－１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -48543,7 +48543,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市外埔區三崁里二崁路２２１巷３號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -49453,7 +49453,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大甲區中山里水源路１３６號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -49607,7 +49607,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大甲區薰風里光明路３－２號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -49649,7 +49649,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大甲區平安里６鄰民權路１５９號",
-                "pay_list": "LINE PAY MONEY\/一卡通"
+                "pay_list": "LINE PAY\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -49663,7 +49663,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大甲區孔門里１鄰順天路３２３號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -49761,7 +49761,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大甲區順天里０１５鄰孔雀路７５號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -50111,7 +50111,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大甲區順天里蔣公路１２０號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -50139,7 +50139,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大甲區順天里２鄰蔣公路１６５號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -50349,7 +50349,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大甲區文武里０２４鄰新政路２８８號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -50657,7 +50657,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大甲區順天里４鄰蔣公路１９９號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -50741,7 +50741,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大甲區平安里８鄰民權路８６號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -51021,7 +51021,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大甲區薰風里中山路１段８７５―１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -51035,7 +51035,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大甲區順天里復興路７０號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -51049,7 +51049,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大甲區順天里蔣公路１５３―２號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -51259,7 +51259,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大甲區順天里育德路５２號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -51399,7 +51399,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大甲區順天里蔣公路１７８號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -51707,7 +51707,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大甲區順天里蔣公路１６７號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -51959,7 +51959,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大甲區武曲里經國路５７３號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -52113,7 +52113,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大肚區新興里２７鄰溪洲路１９―１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -52253,7 +52253,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大肚區頂街里４３鄰大明二街１９０號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -52267,7 +52267,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大肚區自強里５鄰遊園路２段２０３巷１弄９４號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -52337,7 +52337,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大肚區自強里２１鄰遊園路２段１３８號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -52715,7 +52715,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大肚區蔗??里中蔗路２―１８號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -52785,7 +52785,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大肚區大肚里文昌路１段７７號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -52995,7 +52995,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大肚區頂街里沙田路２段７６６號",
-                "pay_list": "LINE PAY MONEY\/一卡通"
+                "pay_list": "LINE PAY\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -54899,7 +54899,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大里區東興里永興路２３５－６號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -54955,7 +54955,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大里區立仁里新仁路１段２１１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -54997,7 +54997,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大里區仁化里仁化路３９８號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -55193,7 +55193,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大里區東興里永興路１７２號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -55445,7 +55445,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大里區內新里德芳路１段２５號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -55473,7 +55473,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大里區內新里鐵路街５號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -55865,7 +55865,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大里區國光里文芳街２號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -56173,7 +56173,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大里區立德里立新街３１５號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -56901,7 +56901,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大里區仁德里成功二路１２號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -56971,7 +56971,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大里區長榮里大里路３５之３號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -57783,7 +57783,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大雅區六寶里中清路４段３３４－５號",
-                "pay_list": "LINE PAY MONEY\/一卡通"
+                "pay_list": "LINE PAY\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -58343,7 +58343,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大雅區上雅里民生路一段１３３巷１０號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -58945,7 +58945,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大雅區西寶里９鄰昌平路４段２８２巷３５號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -59169,7 +59169,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大雅區二和里學府路２４８號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -59197,7 +59197,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大雅區大雅里１鄰學府路２５０巷７３號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -59463,7 +59463,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大雅區大雅里永和路２３６號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -59589,7 +59589,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市大雅區大雅里０２２鄰永和路２５２號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -60849,7 +60849,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市太平區長億里１８鄰長億路１３―１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -61115,7 +61115,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市太平區福隆里光興路１６２８號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -61311,7 +61311,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市太平區新城里樹孝路１６８－１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -61857,7 +61857,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市太平區宜昌里宜昌路３８２號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -62067,7 +62067,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市太平區中政里中平路１２７號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -62655,7 +62655,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市新社區新社里３鄰興安路１８－４６號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -63383,7 +63383,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市新社區協成里協中街１５８號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -64573,7 +64573,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市東勢區延平里５鄰豐勢路１８３號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -65161,7 +65161,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市東勢區廣興里００５鄰三民街１４０號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -67135,7 +67135,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市東區新庄里復興路４段１１７號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -68339,7 +68339,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市東區東勢里進德路４２號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -68451,7 +68451,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市東區東英里樂業路５０１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -69375,7 +69375,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市東區東英里樂業路４０３號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -69907,7 +69907,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市梧棲區大庄里１６鄰中央路１段９１５號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -70649,7 +70649,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市梧棲區中正里文化路２段１２６號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -70733,7 +70733,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市梧棲區中正里中興路２３０號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -70999,7 +70999,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市梧棲區頂寮里大仁路２段７２號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -72721,7 +72721,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市沙鹿區北勢里３０鄰北勢東路５１５號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -72763,7 +72763,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市沙鹿區北勢里３０鄰北勢東路５１７－３號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -72973,7 +72973,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市沙鹿區三鹿里１０鄰向上路七段１１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -73057,7 +73057,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市沙鹿區鹿寮里０１４鄰光華路３６５號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -73309,7 +73309,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市沙鹿區洛泉里００８鄰中山路２５４號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -73337,7 +73337,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市沙鹿區洛泉里００８鄰中山路２６４號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -73407,7 +73407,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市沙鹿區洛泉里中山路２６３－１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -73673,7 +73673,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市沙鹿區北勢里２３鄰北勢東路５６１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -73799,7 +73799,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市沙鹿區竹林里２６鄰光華路５２８號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -73925,7 +73925,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市沙鹿區北勢里２８鄰英才路１０號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -73995,7 +73995,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市沙鹿區晉江里１４鄰臺灣大道七段２００號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -74387,7 +74387,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市沙鹿區鹿寮里中山路３８０―１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -74597,7 +74597,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市沙鹿區晉江里臺灣大道６段１０１８號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -74639,7 +74639,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市沙鹿區洛泉里和平街１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -74737,7 +74737,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市沙鹿區晉江里台灣大道６段１０１８號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -76081,7 +76081,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市清水區橋頭里五權路１８號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -76403,7 +76403,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市清水區清水里新興路２５２號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -76487,7 +76487,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市清水區菁埔里中央北路３―２０號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -76543,7 +76543,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市清水區高北里護岸路１１８號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -77607,7 +77607,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市烏日區溪埧里４鄰溪南路１段５７１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -78195,7 +78195,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市烏日區九德里興祥街８９－１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -78713,7 +78713,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市烏日區九德里長春街３２８號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -78727,7 +78727,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市烏日區九德里中山路１段５２６號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -78783,7 +78783,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市烏日區溪埧里溪南路１段３２６號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -78797,7 +78797,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市烏日區九德里中華路４７２號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -78923,7 +78923,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市烏日區九德里中華路５９１－１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -78937,7 +78937,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市烏日區九德里中華路２３９號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -79105,7 +79105,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市烏日區仁德里中山路１段５３７號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -79385,7 +79385,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市烏日區溪埧里溪南路１段２２３號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -79441,7 +79441,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市烏日區仁德里信義街１９０號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -79581,7 +79581,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市烏日區三和里中山路３段３２９號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -79917,7 +79917,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市石岡區龍興里萬仙街岡仙巷１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -80015,7 +80015,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市石岡區萬興里豐勢路７７２－６號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -80141,7 +80141,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市石岡區石岡里６鄰石岡街１１８號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -80309,7 +80309,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市石岡區九房里豐勢路山下巷３―３―２號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -80729,7 +80729,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市神岡區社南里民生路３０號",
-                "pay_list": "LINE PAY MONEY\/一卡通"
+                "pay_list": "LINE PAY\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -80911,7 +80911,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市神岡區北庄里１０鄰中山路１３９６號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -81191,7 +81191,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市神岡區社口里５鄰社口街１１６號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -81709,7 +81709,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市神岡區社口里００８鄰中山路７０４號",
-                "pay_list": "LINE PAY MONEY\/一卡通"
+                "pay_list": "LINE PAY\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -82255,7 +82255,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市神岡區北庄里１５鄰中山路１２６８號",
-                "pay_list": "LINE PAY MONEY\/一卡通"
+                "pay_list": "LINE PAY\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -82465,7 +82465,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市神岡區社口里社口街１２０巷６號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -82899,7 +82899,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市神岡區豐洲里豐洲路３７４號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -82927,7 +82927,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市神岡區豐洲里五權路７７號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -83221,7 +83221,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市神岡區圳堵里神清路１９４號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -83263,7 +83263,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市神岡區豐洲里豐洲路４６５號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -83697,7 +83697,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西區昇平里美村路１段４１６號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -83711,7 +83711,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西區安龍里林森路２４９號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -83767,7 +83767,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西區吉龍里美村路一段６１３號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -83865,7 +83865,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西區大忠里大忠南街４８號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -83893,7 +83893,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西區吉龍里五權七街１３５號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -84005,7 +84005,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西區中興里向上北路１９８號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -84411,7 +84411,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西區忠誠里長春街４５號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -84453,7 +84453,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西區公正里大墩七街１５０號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -84509,7 +84509,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西區安龍里民生路１６７號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -84551,7 +84551,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西區利民里四維街２―１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -84565,7 +84565,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西區忠明里健行路１０１３號",
-                "pay_list": "愛金卡\/LINE PAY MONEY"
+                "pay_list": "愛金卡\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -85377,7 +85377,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西區大忠里忠明南路４０２號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -85699,7 +85699,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西區藍興里五權路２―１９６號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -85993,7 +85993,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西區双龍里向上路１段３０號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -86567,7 +86567,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西屯區福雅里永福路３７―１５號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -86581,7 +86581,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西屯區大福里長安路２段２７３號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -86875,7 +86875,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西屯區何成里大墩路９２１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -86903,7 +86903,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西屯區福林里西屯路３段宏福５巷１１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -87225,7 +87225,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西屯區福聯里福順路８６５號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -87771,7 +87771,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西屯區西平里逢甲路２０巷２６之１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -87981,7 +87981,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西屯區福林里西屯路三段１７９－５號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -88037,7 +88037,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西屯區福林里西屯路三段宏福１巷６弄１４號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -88625,7 +88625,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西屯區永安里西屯路３段１６６－７號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -88667,7 +88667,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市西屯區逢甲里河南路２段３３３號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -89213,7 +89213,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市豐原區陽明里９鄰博愛街４９號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -90179,7 +90179,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市豐原區民生里１１鄰中興路５０號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -90669,7 +90669,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市豐原區中山里６鄰府前街５８號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -90711,7 +90711,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市豐原區中陽里圓環東路５０３號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -90893,7 +90893,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市豐原區豐西里瑞安街１８１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -90949,7 +90949,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市豐原區豐圳里中山路４９５號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -91229,7 +91229,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市豐原區頂街里博愛街１７巷７號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -92083,7 +92083,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市霧峰區甲寅里錦州路９６號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -92125,7 +92125,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市霧峰區本堂里樹仁路６２號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -92139,7 +92139,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市霧峰區本堂里樹仁路６９號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -92643,7 +92643,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市霧峰區南柳里柳豐路４８２號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -92979,7 +92979,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市霧峰區南柳里柳豐路５００號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -93217,7 +93217,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市霧峰區吉峰里吉峰東路６７號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -93315,7 +93315,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市霧峰區南柳里柳豐六街２０號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -93469,7 +93469,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市霧峰區南柳里中正路５１８號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -93553,7 +93553,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市霧峰區本堂里育智街２４號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -93581,7 +93581,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市霧峰區本堂里樹仁路７０號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -93637,7 +93637,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市霧峰區吉峰東路６７－２號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -93749,7 +93749,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市龍井區龍東里１２鄰茄投路一段２６６號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -94295,7 +94295,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市龍井區新東里新興路東興巷２號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -94785,7 +94785,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市龍井區新東里１９鄰新興路１巷１９號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -95695,7 +95695,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市龍井區新東里新興路東興巷５４號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -95723,7 +95723,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市龍井區新東里新興路２２巷１弄２―５號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -95877,7 +95877,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市龍井區新庄里遊園南路１１２號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -95975,7 +95975,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市龍井區忠和里中央路３段１１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -96045,7 +96045,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市龍井區龍津里中央路１段１９３號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -96115,7 +96115,7 @@
             "type": "Feature",
             "properties": {
                 "k": "臺中市龍井區新東里新興路５巷６號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",

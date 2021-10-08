@@ -182,11 +182,11 @@
         },
         {
             "shop": "后里第三公有零售市場 A001",
-            "pay_list": "街口支付 \/ LINE Pay Money"
+            "pay_list": "街口支付 \/ LINE PAY"
         },
         {
             "shop": "后里第三公有零售市場 A006",
-            "pay_list": "街口支付 \/ LINE Pay Money"
+            "pay_list": "街口支付 \/ LINE PAY"
         },
         {
             "shop": "后里第三公有零售市場 A010",
@@ -194,7 +194,7 @@
         },
         {
             "shop": "后里第三公有零售市場 A011",
-            "pay_list": "街口支付 \/ LINE Pay Money"
+            "pay_list": "街口支付 \/ LINE PAY"
         },
         {
             "shop": "后里第三公有零售市場 37",
@@ -205,5 +205,5 @@
             "pay_list": "台灣 PAY"
         }
     ],
-    "pay_list": "街口支付\/LINE Pay Money\/台灣 PAY"
+    "pay_list": "街口支付\/LINE PAY\/台灣 PAY"
 }

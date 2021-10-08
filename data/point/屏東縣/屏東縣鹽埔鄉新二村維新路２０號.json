@@ -6,11 +6,11 @@
     "shops": [
         {
             "shop": "路卡校園露天咖啡",
-            "pay_list": "LINE PAY MONEY"
+            "pay_list": "LINE PAY"
         },
         {
             "shop": "弘旺食堂",
-            "pay_list": "LINE PAY MONEY"
+            "pay_list": "LINE PAY"
         },
         {
             "shop": "薰香滷味",
@@ -21,5 +21,5 @@
             "pay_list": ""
         }
     ],
-    "pay_list": "LINE PAY MONEY"
+    "pay_list": "LINE PAY"
 }

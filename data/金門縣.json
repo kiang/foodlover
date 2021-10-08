@@ -1713,7 +1713,7 @@
             "type": "Feature",
             "properties": {
                 "k": "金門縣金城鎮西門里中興路３５號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1755,7 +1755,7 @@
             "type": "Feature",
             "properties": {
                 "k": "金門縣金城鎮西門里環島北路１７號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1923,7 +1923,7 @@
             "type": "Feature",
             "properties": {
                 "k": "金門縣金城鎮北門里民生路９－１３號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2021,7 +2021,7 @@
             "type": "Feature",
             "properties": {
                 "k": "金門縣金城鎮東門里北堤段５３３地號",
-                "pay_list": "LINE PAY MONEY\/街口支付"
+                "pay_list": "LINE PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -4317,7 +4317,7 @@
             "type": "Feature",
             "properties": {
                 "k": "金門縣金寧鄉盤山村伯玉路２段２８３號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",

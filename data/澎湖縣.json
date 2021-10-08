@@ -229,7 +229,7 @@
             "type": "Feature",
             "properties": {
                 "k": "澎湖縣馬公市陽明里北辰街２０號",
-                "pay_list": "街口支付\/LINE PAY MONEY"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1839,7 +1839,7 @@
             "type": "Feature",
             "properties": {
                 "k": "澎湖縣湖西鄉尖山村１６－１５號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -1867,7 +1867,7 @@
             "type": "Feature",
             "properties": {
                 "k": "澎湖縣湖西鄉龍門村１１９之４１號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3421,7 +3421,7 @@
             "type": "Feature",
             "properties": {
                 "k": "澎湖縣馬公市光復里漁隆路５０號",
-                "pay_list": "LINE PAY MONEY\/一卡通"
+                "pay_list": "LINE PAY\/一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -3449,7 +3449,7 @@
             "type": "Feature",
             "properties": {
                 "k": "澎湖縣馬公市朝陽里三多路３６－３號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3589,7 +3589,7 @@
             "type": "Feature",
             "properties": {
                 "k": "澎湖縣馬公市朝陽里三多路７５－２號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -3799,7 +3799,7 @@
             "type": "Feature",
             "properties": {
                 "k": "澎湖縣馬公市中央里中山路３２號",
-                "pay_list": "LINE PAY MONEY"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",

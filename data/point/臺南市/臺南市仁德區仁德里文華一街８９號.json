@@ -6,7 +6,7 @@
     "shops": [
         {
             "shop": "璦崨商號",
-            "pay_list": "LINE PAY MONEY"
+            "pay_list": "LINE PAY"
         },
         {
             "shop": "天香巧味屋",
@@ -14,11 +14,11 @@
         },
         {
             "shop": "御鮮屋",
-            "pay_list": "LINE PAY MONEY"
+            "pay_list": "LINE PAY"
         },
         {
             "shop": "中華鍋燒",
-            "pay_list": "LINE PAY MONEY"
+            "pay_list": "LINE PAY"
         },
         {
             "shop": "大禾捲壽司",
@@ -26,7 +26,7 @@
         },
         {
             "shop": "葉佳勲",
-            "pay_list": "LINE PAY MONEY"
+            "pay_list": "LINE PAY"
         },
         {
             "shop": "湯宏水餃店華醫店",
@@ -37,5 +37,5 @@
             "pay_list": ""
         }
     ],
-    "pay_list": "LINE PAY MONEY"
+    "pay_list": "LINE PAY"
 }

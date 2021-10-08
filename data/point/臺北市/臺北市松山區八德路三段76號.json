@@ -254,15 +254,15 @@
         },
         {
             "shop": "中崙市場 二樓02號",
-            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE PAY"
         },
         {
             "shop": "中崙市場 二樓03號",
-            "pay_list": "台灣 PAY \/ 悠遊付 \/ 街口支付 \/ LINE Pay Money"
+            "pay_list": "台灣 PAY \/ 悠遊付 \/ 街口支付 \/ LINE PAY"
         },
         {
             "shop": "中崙市場 二樓04號",
-            "pay_list": "街口支付 \/ LINE Pay Money"
+            "pay_list": "街口支付 \/ LINE PAY"
         },
         {
             "shop": "中崙市場 二樓05號",
@@ -270,7 +270,7 @@
         },
         {
             "shop": "中崙市場 二樓06號",
-            "pay_list": "街口支付 \/ LINE Pay Money"
+            "pay_list": "街口支付 \/ LINE PAY"
         },
         {
             "shop": "中崙市場 二樓07號",
@@ -406,7 +406,7 @@
         },
         {
             "shop": "中崙市場 二樓40號",
-            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money \/ 悠遊付 \/ 多元支付"
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE PAY \/ 悠遊付 \/ 多元支付"
         },
         {
             "shop": "中崙市場 二樓41號",
@@ -418,11 +418,11 @@
         },
         {
             "shop": "中崙市場 二樓43號",
-            "pay_list": "台灣 PAY \/ LINE Pay Money"
+            "pay_list": "台灣 PAY \/ LINE PAY"
         },
         {
             "shop": "中崙市場 二樓44號",
-            "pay_list": "台灣 PAY \/ 悠遊付 \/ 街口支付 \/ LINE Pay Money"
+            "pay_list": "台灣 PAY \/ 悠遊付 \/ 街口支付 \/ LINE PAY"
         },
         {
             "shop": "中崙市場 二樓45號",
@@ -430,7 +430,7 @@
         },
         {
             "shop": "中崙市場 二樓46號",
-            "pay_list": "街口支付 \/ LINE Pay Money"
+            "pay_list": "街口支付 \/ LINE PAY"
         },
         {
             "shop": "中崙市場 二樓47號",
@@ -438,11 +438,11 @@
         },
         {
             "shop": "中崙市場 二樓48號",
-            "pay_list": "悠遊付 \/ 街口支付 \/ LINE Pay Money"
+            "pay_list": "悠遊付 \/ 街口支付 \/ LINE PAY"
         },
         {
             "shop": "中崙市場 二樓49號",
-            "pay_list": "悠遊付 \/ 街口支付 \/ LINE Pay Money"
+            "pay_list": "悠遊付 \/ 街口支付 \/ LINE PAY"
         },
         {
             "shop": "中崙市場 二樓50號",
@@ -450,11 +450,11 @@
         },
         {
             "shop": "中崙市場 二樓51號",
-            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE PAY"
         },
         {
             "shop": "中崙市場 二樓52號",
-            "pay_list": "悠遊付 \/ LINE Pay Money"
+            "pay_list": "悠遊付 \/ LINE PAY"
         },
         {
             "shop": "中崙市場 二樓53號",
@@ -521,5 +521,5 @@
             "pay_list": "悠遊付"
         }
     ],
-    "pay_list": "悠遊付\/台灣 PAY\/歐付寶\/街口支付\/LINE Pay Money\/多元支付"
+    "pay_list": "悠遊付\/台灣 PAY\/歐付寶\/街口支付\/LINE PAY\/多元支付"
 }

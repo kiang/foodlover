@@ -2049,7 +2049,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市三峽區民生街186號",
-                "pay_list": "街口支付\/LINE Pay Money\/台灣 PAY"
+                "pay_list": "街口支付\/LINE PAY\/台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2063,7 +2063,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市三重區文化北路35-89號",
-                "pay_list": "街口支付\/LINE Pay Money\/台灣 PAY"
+                "pay_list": "街口支付\/LINE PAY\/台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2077,7 +2077,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市三重區中央北路26號",
-                "pay_list": "台灣 PAY\/街口支付\/LINE Pay Money"
+                "pay_list": "台灣 PAY\/街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2091,7 +2091,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市三重區重安街70號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2105,7 +2105,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市中和區和平街89號",
-                "pay_list": "台灣 PAY\/街口支付\/LINE Pay Money"
+                "pay_list": "台灣 PAY\/街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2119,7 +2119,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市中和區中和路76號",
-                "pay_list": "LINE Pay Money\/台灣 PAY"
+                "pay_list": "LINE PAY\/台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2147,7 +2147,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市土城區中正路18號",
-                "pay_list": "LINE Pay Money\/台灣 PAY\/街口支付"
+                "pay_list": "LINE PAY\/台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2161,7 +2161,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市土城區中山路21號",
-                "pay_list": "一卡通\/台灣 PAY\/LINE Pay Money\/街口支付"
+                "pay_list": "一卡通\/台灣 PAY\/LINE PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2175,7 +2175,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市新店區中央五街60號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2189,7 +2189,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市新店區新店路159號",
-                "pay_list": "街口支付\/LINE Pay Money"
+                "pay_list": "街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2203,7 +2203,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市新莊區新莊路315號",
-                "pay_list": "歐付寶\/街口支付\/LINE Pay Money"
+                "pay_list": "歐付寶\/街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2245,7 +2245,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市板橋區裕民街1號",
-                "pay_list": "台灣 PAY\/街口支付\/LINE Pay Money"
+                "pay_list": "台灣 PAY\/街口支付\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2259,7 +2259,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市林口區麗園一街35號",
-                "pay_list": "歐付寶\/街口支付\/台灣 PAY\/LINE Pay Money"
+                "pay_list": "歐付寶\/街口支付\/台灣 PAY\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2273,7 +2273,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市林口區林口路17號",
-                "pay_list": "街口支付\/台灣 PAY\/LINE Pay Money"
+                "pay_list": "街口支付\/台灣 PAY\/LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2287,7 +2287,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市樹林區保安街二段70號",
-                "pay_list": "歐付寶\/LINE Pay Money\/台灣 PAY"
+                "pay_list": "歐付寶\/LINE PAY\/台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2329,7 +2329,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市永和區永平路1號",
-                "pay_list": "台灣 PAY\/LINE Pay Money\/歐付寶"
+                "pay_list": "台灣 PAY\/LINE PAY\/歐付寶"
             },
             "geometry": {
                 "type": "Point",
@@ -2343,7 +2343,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市汐止區復興路58巷8號",
-                "pay_list": "台灣 PAY\/街口支付\/LINE Pay Money\/歐付寶"
+                "pay_list": "台灣 PAY\/街口支付\/LINE PAY\/歐付寶"
             },
             "geometry": {
                 "type": "Point",
@@ -2357,7 +2357,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市汐止區長江街67巷1弄2號",
-                "pay_list": "台灣 PAY\/LINE Pay Money\/歐付寶\/街口支付"
+                "pay_list": "台灣 PAY\/LINE PAY\/歐付寶\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2399,7 +2399,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市汐止區民權街二段97巷1號",
-                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+                "pay_list": "台灣 PAY\/LINE PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2413,7 +2413,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市汐止區中興路250號",
-                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+                "pay_list": "台灣 PAY\/LINE PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2427,7 +2427,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市泰山區全興路212號",
-                "pay_list": "台灣 PAY\/LINE Pay Money\/歐付寶\/玉山銀行\/悠遊付\/悠遊卡\/街口支付\/swipy\/UMEPOS UMEPay\/彰化銀行"
+                "pay_list": "台灣 PAY\/LINE PAY\/歐付寶\/玉山銀行\/悠遊付\/悠遊卡\/街口支付\/SWIPY\/UMEPOS UMEPAY\/彰化銀行"
             },
             "geometry": {
                 "type": "Point",
@@ -2441,7 +2441,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市淡水區中山路77號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2455,7 +2455,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市淡水區中正路115號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2469,7 +2469,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市淡水區英專路1-97號",
-                "pay_list": "LINE Pay Money\/街口支付\/台灣 PAY"
+                "pay_list": "LINE PAY\/街口支付\/台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2483,7 +2483,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市瑞芳區民生街35巷2號",
-                "pay_list": "台灣 PAY\/創科\/悠遊卡\/街口支付\/LINE Pay Money\/橘子"
+                "pay_list": "台灣 PAY\/創科\/悠遊卡\/街口支付\/LINE PAY\/橘子"
             },
             "geometry": {
                 "type": "Point",
@@ -2497,7 +2497,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市瑞芳區明燈路三段2號",
-                "pay_list": "創科\/LINE Pay Money\/台灣 PAY\/街口支付"
+                "pay_list": "創科\/LINE PAY\/台灣 PAY\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -2511,7 +2511,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市萬里區野柳里港東路攤販街2號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -2581,7 +2581,7 @@
             "type": "Feature",
             "properties": {
                 "k": "新北市鶯歌區建國路108號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE PAY"
             },
             "geometry": {
                 "type": "Point",

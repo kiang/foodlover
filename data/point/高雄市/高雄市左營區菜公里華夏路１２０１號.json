@@ -6,7 +6,7 @@
     "shops": [
         {
             "shop": "阿亮香雞排",
-            "pay_list": "LINE PAY MONEY"
+            "pay_list": "LINE PAY"
         },
         {
             "shop": "東海豆花",
@@ -17,5 +17,5 @@
             "pay_list": ""
         }
     ],
-    "pay_list": "LINE PAY MONEY"
+    "pay_list": "LINE PAY"
 }
