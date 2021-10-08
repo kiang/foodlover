@@ -158,7 +158,6 @@ map.on('singleclick', function (evt) {
       } else {
         currentFeature = feature;
         vectorPoints.getSource().refresh();
-        sidebar.close();
         $.getJSON(baseUrl + 'data/point/' + selectedCounty + '/' + p.k + '.json', function (c) {
           var currentP = currentFeature.getProperties();
           var lonLat = ol.proj.toLonLat(currentP.geometry.getCoordinates());
