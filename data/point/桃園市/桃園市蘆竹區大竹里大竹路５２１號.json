@@ -6,8 +6,12 @@
     "shops": [
         {
             "shop": "煒軒小舖",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "大竹小吃店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money\/台灣 PAY"
 }

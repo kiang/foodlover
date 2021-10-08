@@ -6,8 +6,12 @@
     "shops": [
         {
             "shop": "北大茶坊",
-            "pay_list": ""
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "鮮味天地食堂",
+            "pay_list": "台灣 PAY"
         }
     ],
-    "pay_list": ""
+    "pay_list": "街口支付\/LINE Pay Money\/台灣 PAY"
 }

@@ -1,13 +1,17 @@
 {
-    "name": "餐館、餐廳",
-    "address": "新竹市香山區大湖里南湖路２１５巷２５５弄１１５號１樓",
+    "name": "糖果餅乾零售\/未分類其他食品批發",
+    "address": "新竹市香山區大湖里南湖路２１５巷２５５弄１１５號",
     "x": 120.931135,
     "y": 24.739132,
     "shops": [
         {
+            "shop": "宏宗聯健康有限公司",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
             "shop": "古今車用中餐廳有限公司",
-            "pay_list": ""
+            "pay_list": "台灣 PAY"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

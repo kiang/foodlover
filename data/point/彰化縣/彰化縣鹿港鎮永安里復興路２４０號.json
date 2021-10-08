@@ -1,13 +1,13 @@
 {
-    "name": "麵店、小吃店\/餐食攤販",
+    "name": "飲料零售\/冰果店、冷（熱）飲店",
     "address": "彰化縣鹿港鎮永安里復興路２４０號",
     "x": 120.438244,
     "y": 24.055306,
     "shops": [
         {
-            "shop": "登雞入口店",
-            "pay_list": ""
+            "shop": "東和商行",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

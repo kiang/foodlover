@@ -1,13 +1,13 @@
 {
-    "name": "餐館、餐廳",
-    "address": "新北市樹林區南園里大雅路２７８號１樓",
+    "name": "便當、自助餐店",
+    "address": "新北市樹林區南園里大雅路２７８號",
     "x": 121.380005,
     "y": 24.947144,
     "shops": [
         {
-            "shop": "八方雲集餐飲股份有限公司御廚樹林大雅店",
-            "pay_list": ""
+            "shop": "大雅小吃店",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

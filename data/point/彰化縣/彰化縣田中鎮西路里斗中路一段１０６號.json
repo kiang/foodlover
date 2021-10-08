@@ -1,17 +1,17 @@
 {
-    "name": "西點麵包零售\/冰果店、冷（熱）飲店\/醫療耗材批發",
+    "name": "醫療耗材批發\/西點麵包零售\/冰果店、冷（熱）飲店",
     "address": "彰化縣田中鎮西路里斗中路一段１０６號１樓、１０８號１、２樓",
     "x": 120.582818,
     "y": 23.860713,
     "shops": [
         {
             "shop": "城原堂商行",
-            "pay_list": ""
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
         },
         {
             "shop": "城原堂商行",
-            "pay_list": ""
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

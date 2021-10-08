@@ -1,13 +1,13 @@
 {
-    "name": "西點麵包零售\/咖啡零售\/冰果店、冷（熱）飲店\/咖啡館",
+    "name": "餐館、餐廳",
     "address": "雲林縣斗六市社口里社口街２６１號",
     "x": 120.544231,
     "y": 23.700254,
     "shops": [
         {
-            "shop": "巨咖啡坊",
-            "pay_list": ""
+            "shop": "圓砌升降鍋物",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

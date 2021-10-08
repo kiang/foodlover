@@ -1,13 +1,13 @@
 {
-    "name": "冰果店、冷（熱）飲店\/早餐店",
+    "name": "早餐店\/冰果店、冷（熱）飲店",
     "address": "花蓮縣壽豐鄉志學村９鄰中正路１６１號１樓",
     "x": 121.59821353468,
     "y": 23.971400574074,
     "shops": [
         {
             "shop": "家樂早餐吧",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

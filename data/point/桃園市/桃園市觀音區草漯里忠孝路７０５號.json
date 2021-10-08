@@ -1,13 +1,13 @@
 {
-    "name": "麵店、小吃店",
-    "address": "桃園市觀音區草漯里忠孝路７０５號",
+    "name": "冰果店、冷（熱）飲店",
+    "address": "桃園市觀音區草漯里忠孝路７０５號１樓",
     "x": 121.13251077401,
     "y": 25.062411752727,
     "shops": [
         {
-            "shop": "阿績師生猛海鮮",
-            "pay_list": ""
+            "shop": "偉貞茶行",
+            "pay_list": "街口支付 \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "街口支付\/LINE Pay Money"
 }

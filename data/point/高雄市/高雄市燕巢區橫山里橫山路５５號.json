@@ -1,17 +1,13 @@
 {
-    "name": "麵店、小吃店",
-    "address": "高雄市燕巢區橫山里橫山路５５號１樓之１",
+    "name": "冰果店、冷（熱）飲店",
+    "address": "高雄市燕巢區橫山里橫山路５５號１樓",
     "x": 120.37633732138,
     "y": 22.76546291537,
     "shops": [
         {
-            "shop": "吳家小吃",
-            "pay_list": ""
-        },
-        {
             "shop": "華仁匯冷飲店",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

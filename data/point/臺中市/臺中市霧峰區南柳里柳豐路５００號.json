@@ -6,28 +6,40 @@
     "shops": [
         {
             "shop": "劉韶芸",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "鮮美食品行",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "佳佳香麵食館",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "劉曜誠",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "凡妮莎",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
-            "shop": "林修民",
-            "pay_list": ""
+            "shop": "哈拉哈拉贊",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "惠宇早餐店",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "八丼食堂",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "亞蒂菲企業社",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "巧巧早餐店",
+            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money\/台灣 PAY\/一卡通"
 }

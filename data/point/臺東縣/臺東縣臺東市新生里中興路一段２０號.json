@@ -1,13 +1,13 @@
 {
-    "name": "糕餅麵包製造\/飲料零售\/罐頭食品零售",
+    "name": "飲料零售\/罐頭食品零售\/糕餅麵包製造",
     "address": "臺東縣臺東市新生里中興路一段２０號１樓",
     "x": 121.147116,
     "y": 22.768094,
     "shops": [
         {
             "shop": "沐沐食坊",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

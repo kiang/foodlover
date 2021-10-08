@@ -1,13 +1,13 @@
 {
-    "name": "視唱中心（ＫＴＶ）\/麵店、小吃店",
+    "name": "麵店、小吃店\/視唱中心（ＫＴＶ）",
     "address": "臺中市石岡區萬興里豐勢路７７２－６號",
     "x": 120.79010880928,
     "y": 24.273582384867,
     "shops": [
         {
             "shop": "唐香珍自助餐",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

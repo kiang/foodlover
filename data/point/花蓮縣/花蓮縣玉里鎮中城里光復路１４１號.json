@@ -1,13 +1,13 @@
 {
-    "name": "清潔用品零售\/未分類其他零售攤販\/麵店、小吃店",
+    "name": "清潔用品零售\/麵店、小吃店\/未分類其他零售攤販",
     "address": "花蓮縣玉里鎮中城里光復路１４１號",
     "x": 121.31289817587,
     "y": 23.331320871568,
     "shops": [
         {
             "shop": "普食閣",
-            "pay_list": "街口支付 \/ LINE PAY"
+            "pay_list": "LINE Pay Money \/ 街口支付"
         }
     ],
-    "pay_list": "街口支付\/LINE PAY"
+    "pay_list": "LINE Pay Money\/街口支付"
 }

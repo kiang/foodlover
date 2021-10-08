@@ -1,13 +1,17 @@
 {
-    "name": "飲料零售\/西點麵包零售\/冰果店、冷（熱）飲店\/咖啡零售",
+    "name": "飲料零售\/西點麵包零售\/咖啡零售\/冰果店、冷（熱）飲店",
     "address": "臺南市中西區青年路２２８號",
     "x": 120.211249,
     "y": 22.991465,
     "shops": [
         {
             "shop": "金宏明食品有限公司",
-            "pay_list": ""
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        },
+        {
+            "shop": "金宏明食品有限公司",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

@@ -6,12 +6,8 @@
     "shops": [
         {
             "shop": "曜威有限公司",
-            "pay_list": ""
-        },
-        {
-            "shop": "國際餐廳",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

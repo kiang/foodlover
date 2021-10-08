@@ -1,13 +1,13 @@
 {
     "name": "早餐店",
-    "address": "桃園市蘆竹區內厝里長安路二段２２６號２樓",
+    "address": "桃園市蘆竹區內厝里長安路二段２２６號１樓",
     "x": 121.28059221502,
     "y": 25.063133517476,
     "shops": [
         {
-            "shop": "佐亨國際有限公司藝文分公司",
-            "pay_list": ""
+            "shop": "佐亨國際有限公司",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

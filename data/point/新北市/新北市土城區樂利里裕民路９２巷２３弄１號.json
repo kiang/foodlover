@@ -1,13 +1,13 @@
 {
-    "name": "早餐店",
-    "address": "新北市土城區樂利里裕民路９２巷２３弄１號（１樓）",
+    "name": "餐館、餐廳",
+    "address": "新北市土城區樂利里裕民路９２巷２３弄１號",
     "x": 121.4498,
     "y": 24.986239,
     "shops": [
         {
-            "shop": "喜晨早餐坊",
-            "pay_list": ""
+            "shop": "查爾斯兄弟健康餐飲",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

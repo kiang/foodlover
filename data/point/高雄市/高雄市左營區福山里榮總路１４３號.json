@@ -1,33 +1,13 @@
 {
-    "name": "餐食攤販",
-    "address": "高雄市左營區福山里榮總路１４３號Ｋ－８號",
-    "x": 120.321485,
-    "y": 22.680539,
+    "name": "冰果店、冷（熱）飲店",
+    "address": "高雄市左營區福山里榮總路１４３號Ｋ－１１攤位",
+    "x": 120.32148442944,
+    "y": 22.680538566618,
     "shops": [
         {
-            "shop": "珍享粥餅",
-            "pay_list": ""
-        },
-        {
-            "shop": "井松咖哩蓋飯屋",
-            "pay_list": ""
-        },
-        {
-            "shop": "諸羅山火鷄肉飯",
-            "pay_list": ""
-        },
-        {
-            "shop": "鴨肉飯焢肉",
-            "pay_list": ""
-        },
-        {
             "shop": "秀秀鮮果汁",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "林永翎",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

@@ -6,36 +6,20 @@
     "shops": [
         {
             "shop": "璦崨商號",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "天香巧味屋",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "御鮮屋",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "中華鍋燒",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "大禾捲壽司",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "葉佳勲",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "湯宏水餃店華醫店",
-            "pay_list": ""
-        },
-        {
-            "shop": "麥叔叔麵食館",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

@@ -5,17 +5,9 @@
     "y": 22.594613919866,
     "shops": [
         {
-            "shop": "咖哩飯",
-            "pay_list": ""
-        },
-        {
-            "shop": "達昆東山鴨頭",
-            "pay_list": ""
-        },
-        {
             "shop": "當歸土虱好媳婦臭豆腐",
-            "pay_list": "街口支付 \/ LINE PAY"
+            "pay_list": "LINE Pay Money \/ 街口支付"
         }
     ],
-    "pay_list": "街口支付\/LINE PAY"
+    "pay_list": "LINE Pay Money\/街口支付"
 }

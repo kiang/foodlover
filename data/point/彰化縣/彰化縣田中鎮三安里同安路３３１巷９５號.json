@@ -1,13 +1,13 @@
 {
-    "name": "西點麵包批發\/糖果餅乾批發",
+    "name": "糖果餅乾批發\/西點麵包批發",
     "address": "彰化縣田中鎮三安里同安路３３１巷９５號１樓",
     "x": 120.589274,
     "y": 23.842458,
     "shops": [
         {
             "shop": "耶呷呷食品有限公司",
-            "pay_list": ""
+            "pay_list": "街口支付 \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "街口支付\/LINE Pay Money"
 }

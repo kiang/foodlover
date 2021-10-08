@@ -1,17 +1,17 @@
 {
-    "name": "糕餅麵包製造\/西點麵包零售\/經營網路購物",
+    "name": "經營網路購物\/西點麵包零售\/糕餅麵包製造",
     "address": "南投縣南投市內興里光明一路４５５號",
     "x": 120.699181,
     "y": 23.931431,
     "shops": [
         {
             "shop": "萊緹蛋糕坊有限公司",
-            "pay_list": ""
+            "pay_list": "街口支付"
         },
         {
             "shop": "萊緹蛋糕坊",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "街口支付\/LINE Pay Money"
 }

@@ -1,13 +1,13 @@
 {
-    "name": "餐館、餐廳\/冰果店、冷（熱）飲店",
+    "name": "冰果店、冷（熱）飲店\/餐館、餐廳",
     "address": "屏東縣內埔鄉中林村中林路４０５號",
     "x": 120.596183,
     "y": 22.647183,
     "shops": [
         {
             "shop": "芊品優格工坊",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

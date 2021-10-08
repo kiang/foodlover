@@ -1,13 +1,13 @@
 {
-    "name": "冰果店、冷（熱）飲店\/麵店、小吃店",
+    "name": "麵店、小吃店\/冰果店、冷（熱）飲店",
     "address": "臺中市外埔區大東里甲后路５段１５９號１樓",
     "x": 120.635554,
     "y": 24.343578,
     "shops": [
         {
             "shop": "歡喜賺小吃店",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

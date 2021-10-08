@@ -6,8 +6,12 @@
     "shops": [
         {
             "shop": "立德鍋貼水餃店",
-            "pay_list": ""
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        },
+        {
+            "shop": "欣味餐坊",
+            "pay_list": "台灣 PAY"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

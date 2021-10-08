@@ -1,13 +1,13 @@
 {
-    "name": "麵店、小吃店",
+    "name": "餐食攤販",
     "address": "桃園市龜山區新路里龜山後街８６號",
     "x": 121.337149,
     "y": 24.993818,
     "shops": [
         {
-            "shop": "龜山后街鴨肉冬粉",
-            "pay_list": ""
+            "shop": "育陞食品",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

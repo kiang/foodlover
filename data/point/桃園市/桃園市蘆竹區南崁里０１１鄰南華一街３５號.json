@@ -1,13 +1,13 @@
 {
-    "name": "早餐店",
-    "address": "桃園市蘆竹區南崁里０１１鄰南華一街３５號１樓之１",
+    "name": "餐館、餐廳",
+    "address": "桃園市蘆竹區南崁里０１１鄰南華一街３５號１樓之３",
     "x": 121.29631887051,
     "y": 25.043673382327,
     "shops": [
         {
-            "shop": "美育早餐店",
-            "pay_list": ""
+            "shop": "好鑫鮮小吃店",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

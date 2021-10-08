@@ -1,49 +1,13 @@
 {
-    "name": "餐食攤販",
-    "address": "宜蘭縣羅東鎮集祥里民生路６號第６４號攤商",
+    "name": "麵食品零售",
+    "address": "宜蘭縣羅東鎮集祥里民生路６號第２７號攤商",
     "x": 121.770921,
     "y": 24.676705,
     "shops": [
         {
-            "shop": "黃景麟",
-            "pay_list": ""
-        },
-        {
-            "shop": "黃小芬",
-            "pay_list": ""
-        },
-        {
-            "shop": "美慧水餃",
-            "pay_list": ""
-        },
-        {
             "shop": "徐林鳳嬌",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "陳佳玲攤販",
-            "pay_list": ""
-        },
-        {
-            "shop": "林淑柔",
-            "pay_list": ""
-        },
-        {
-            "shop": "秀英號",
-            "pay_list": ""
-        },
-        {
-            "shop": "尚益麵行",
-            "pay_list": ""
-        },
-        {
-            "shop": "富美火鍋店",
-            "pay_list": ""
-        },
-        {
-            "shop": "富美鱻火鍋",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

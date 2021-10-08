@@ -1,25 +1,17 @@
 {
-    "name": "麵店、小吃店",
-    "address": "臺南市永康區崑山里崑大路１９５號１樓",
+    "name": "冰果店、冷（熱）飲店",
+    "address": "臺南市永康區崑山里崑大路１９５號",
     "x": 120.2528851364,
     "y": 22.998367658951,
     "shops": [
         {
-            "shop": "空中補給小吃店",
-            "pay_list": ""
-        },
-        {
-            "shop": "菩提門健康素食",
-            "pay_list": ""
-        },
-        {
-            "shop": "新新人類小吃店",
-            "pay_list": ""
-        },
-        {
             "shop": "尼克飲品企業社",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "梅鄉",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

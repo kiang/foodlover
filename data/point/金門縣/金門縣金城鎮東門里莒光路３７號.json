@@ -1,13 +1,13 @@
 {
-    "name": "麵店、小吃店\/菸酒零售",
+    "name": "菸酒零售\/麵店、小吃店",
     "address": "金門縣金城鎮東門里莒光路３７號",
     "x": 118.31793454078,
     "y": 24.431915255614,
     "shops": [
         {
             "shop": "楊家小館",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

@@ -1,13 +1,13 @@
 {
-    "name": "視唱中心（ＫＴＶ）\/麵店、小吃店",
+    "name": "麵店、小吃店\/視唱中心（ＫＴＶ）",
     "address": "花蓮縣花蓮市國慶里中山路１段３０６號",
     "x": 121.589518428,
     "y": 24.002774469447,
     "shops": [
         {
             "shop": "小龍女小吃",
-            "pay_list": "街口支付 \/ LINE PAY"
+            "pay_list": "LINE Pay Money \/ 街口支付"
         }
     ],
-    "pay_list": "街口支付\/LINE PAY"
+    "pay_list": "LINE Pay Money\/街口支付"
 }

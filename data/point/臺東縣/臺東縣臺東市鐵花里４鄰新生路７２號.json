@@ -1,13 +1,17 @@
 {
-    "name": "未分類其他食品批發\/西點麵包零售",
+    "name": "西點麵包零售\/未分類其他食品批發",
     "address": "臺東縣臺東市鐵花里４鄰新生路７２號一至二樓",
     "x": 121.149494,
     "y": 22.751632,
     "shops": [
         {
             "shop": "金莎烘焙坊",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "金塊冷飲部",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

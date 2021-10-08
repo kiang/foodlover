@@ -1,13 +1,13 @@
 {
-    "name": "糕餅麵包製造\/西點麵包零售",
+    "name": "西點麵包零售\/糕餅麵包製造",
     "address": "彰化縣二水鄉光化村員集路四段８６號",
     "x": 120.615294,
     "y": 23.813037,
     "shops": [
         {
             "shop": "美豐軒西點麵包",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

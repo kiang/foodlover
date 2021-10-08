@@ -1,13 +1,13 @@
 {
-    "name": "西點麵包零售\/冰果店、冷（熱）飲店\/麵店、小吃店",
+    "name": "西點麵包零售\/麵店、小吃店\/冰果店、冷（熱）飲店",
     "address": "花蓮縣花蓮市國風里林森路２０７號１樓",
     "x": 121.600731,
     "y": 23.978503,
     "shops": [
         {
             "shop": "康品廚房",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

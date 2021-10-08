@@ -1,17 +1,13 @@
 {
-    "name": "餐食攤販\/調理飲料攤販",
+    "name": "調理飲料攤販\/餐食攤販",
     "address": "屏東縣新園鄉鹽埔村２５鄰鹽洲路３９號",
     "x": 120.444475,
     "y": 22.47557,
     "shops": [
         {
             "shop": "芳鄰早餐店",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "芳鄰早餐店",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

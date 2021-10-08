@@ -6,44 +6,24 @@
     "shops": [
         {
             "shop": "平安小吃",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "聖果蔬食營養餐",
-            "pay_list": ""
-        },
-        {
-            "shop": "瓊林書苑",
-            "pay_list": ""
-        },
-        {
-            "shop": "角落商社",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "寧記商行",
-            "pay_list": ""
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
         },
         {
             "shop": "歐哈尼複合式餐飲",
-            "pay_list": ""
-        },
-        {
-            "shop": "福氣炒飯",
-            "pay_list": ""
-        },
-        {
-            "shop": "哎哎咖啡輕食館",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "專師速食店",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "大城小廚",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money\/台灣 PAY"
 }

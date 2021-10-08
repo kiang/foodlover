@@ -6,12 +6,8 @@
     "shops": [
         {
             "shop": "此時甜點店",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "竑森茶棧",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

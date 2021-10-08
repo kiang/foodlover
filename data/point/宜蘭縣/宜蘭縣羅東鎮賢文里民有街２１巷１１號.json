@@ -6,8 +6,12 @@
     "shops": [
         {
             "shop": "原麥森林烘焙輕食坊",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "原麥森林烘焙輕食坊",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

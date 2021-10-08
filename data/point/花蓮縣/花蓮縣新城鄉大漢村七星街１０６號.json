@@ -1,17 +1,17 @@
 {
-    "name": "西點麵包零售\/早餐店\/糖果餅乾零售",
+    "name": "早餐店\/西點麵包零售\/糖果餅乾零售",
     "address": "花蓮縣新城鄉大漢村七星街１０６號１樓",
     "x": 121.630624,
     "y": 24.026646,
     "shops": [
         {
             "shop": "莎莉經典美食有限公司",
-            "pay_list": ""
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 愛金卡 \/ 街口支付 \/ 一卡通"
         },
         {
             "shop": "莎莉經典美食有限公司",
-            "pay_list": ""
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 愛金卡 \/ 街口支付 \/ 一卡通"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money\/愛金卡\/街口支付\/一卡通"
 }

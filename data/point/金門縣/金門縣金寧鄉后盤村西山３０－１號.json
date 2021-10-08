@@ -1,13 +1,13 @@
 {
-    "name": "餐館、餐廳\/菸酒零售",
+    "name": "菸酒零售\/餐館、餐廳",
     "address": "金門縣金寧鄉后盤村西山３０－１號",
     "x": 118.3483953533,
     "y": 24.45485063779,
     "shops": [
         {
             "shop": "小叮噹小吃店",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

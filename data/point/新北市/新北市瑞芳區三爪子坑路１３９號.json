@@ -1,13 +1,13 @@
 {
-    "name": "飲料零售\/餐館、餐廳\/菸酒零售",
+    "name": "飲料零售\/菸酒零售\/餐館、餐廳",
     "address": "新北市瑞芳區三爪子坑路１３９號（１樓）",
     "x": 121.81049884851,
     "y": 25.106522522977,
     "shops": [
         {
             "shop": "啟平熱炒",
-            "pay_list": ""
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

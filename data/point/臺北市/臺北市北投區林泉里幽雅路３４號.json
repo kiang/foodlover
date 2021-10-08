@@ -1,13 +1,13 @@
 {
-    "name": "飲料零售\/三溫暖浴室\/餐館、餐廳",
+    "name": "三溫暖浴室\/飲料零售\/餐館、餐廳",
     "address": "臺北市北投區林泉里幽雅路３４號",
     "x": 121.51575276698,
     "y": 25.137456976268,
     "shops": [
         {
             "shop": "少帥禪園股份有限公司",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

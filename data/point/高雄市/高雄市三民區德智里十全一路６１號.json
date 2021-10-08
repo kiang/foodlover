@@ -1,17 +1,13 @@
 {
-    "name": "西點麵包零售",
+    "name": "飲料零售\/西點麵包零售\/西點麵包批發",
     "address": "高雄市三民區德智里十全一路６１號",
     "x": 120.311457,
     "y": 22.644705,
     "shops": [
         {
-            "shop": "馬荃麵包坊有限公司",
-            "pay_list": ""
-        },
-        {
             "shop": "馬可先生第五有限公司十全門市部",
-            "pay_list": ""
+            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money \/ 街口支付"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
 }

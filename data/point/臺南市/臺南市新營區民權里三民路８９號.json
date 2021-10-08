@@ -6,12 +6,16 @@
     "shops": [
         {
             "shop": "春元麵包坊",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "双春食品有限公司",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "双春食品有限公司",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

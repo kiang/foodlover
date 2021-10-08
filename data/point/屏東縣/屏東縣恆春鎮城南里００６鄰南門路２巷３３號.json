@@ -1,13 +1,13 @@
 {
-    "name": "調理飲料攤販\/餐食攤販",
+    "name": "餐食攤販\/調理飲料攤販",
     "address": "屏東縣恆春鎮城南里００６鄰南門路２巷３３號",
     "x": 120.745875,
     "y": 22.000419,
     "shops": [
         {
             "shop": "墾的雞科學麵雞排",
-            "pay_list": ""
+            "pay_list": "街口支付 \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "街口支付\/LINE Pay Money"
 }

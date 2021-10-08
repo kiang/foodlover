@@ -1,25 +1,17 @@
 {
-    "name": "其他外燴及團膳承包\/其他烘焙炊蒸食品製造\/外燴（辦桌）承包",
+    "name": "飲料零售\/其他外燴及團膳承包\/其他烘焙炊蒸食品製造\/糕餅麵包製造",
     "address": "高雄市鳥松區仁美里美山路６號",
     "x": 120.377677,
     "y": 22.639771,
     "shops": [
         {
-            "shop": "采新宴會服務有限公司",
-            "pay_list": ""
+            "shop": "米提食品有限公司",
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "米提食品有限公司",
-            "pay_list": ""
-        },
-        {
-            "shop": "采新宴會服務有限公司",
-            "pay_list": ""
-        },
-        {
-            "shop": "米提食品有限公司",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

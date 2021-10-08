@@ -6,12 +6,12 @@
     "shops": [
         {
             "shop": "哈燒商行",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         },
         {
-            "shop": "金鴻鐵板燒",
-            "pay_list": ""
+            "shop": "板橋百合花有限公司新營分公司",
+            "pay_list": "台灣 PAY"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money\/台灣 PAY"
 }

@@ -1,13 +1,13 @@
 {
-    "name": "冰品零售\/麵店、小吃店",
+    "name": "麵店、小吃店\/冰品零售",
     "address": "基隆市中山區中興里中山二路３６巷５號",
     "x": 121.740703,
     "y": 25.138297,
     "shops": [
         {
             "shop": "妮妮愛吃雞蛋糕店",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

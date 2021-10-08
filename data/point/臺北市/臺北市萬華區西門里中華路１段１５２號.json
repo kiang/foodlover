@@ -6,12 +6,12 @@
     "shops": [
         {
             "shop": "鑫鼎王餐飲股份有限公司台北成都分公司",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "小蒙牛西門有限公司",
-            "pay_list": ""
+            "pay_list": "街口支付"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money\/街口支付"
 }

@@ -1,13 +1,13 @@
 {
-    "name": "西點麵包零售\/麵店、小吃店\/冰果店、冷（熱）飲店\/糖果餅乾零售",
+    "name": "餐館、餐廳",
     "address": "屏東縣恆春鎮網紗里恆公路９６７號",
     "x": 120.740585,
     "y": 22.009114,
     "shops": [
         {
-            "shop": "藍色海遇風味餐廳",
-            "pay_list": ""
+            "shop": "蝦一跳企業社",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

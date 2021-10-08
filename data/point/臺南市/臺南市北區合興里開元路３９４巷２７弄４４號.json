@@ -1,13 +1,13 @@
 {
-    "name": "糖果餅乾零售\/經營網路購物",
+    "name": "經營網路購物\/糖果餅乾零售",
     "address": "臺南市北區合興里開元路３９４巷２７弄４４號１樓",
     "x": 120.22632248909,
     "y": 23.010530365381,
     "shops": [
         {
             "shop": "我們工作室",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

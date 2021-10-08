@@ -1,17 +1,13 @@
 {
-    "name": "餐館、餐廳\/菸酒零售",
+    "name": "飲料零售\/菸酒零售\/餐館、餐廳\/國產家用家具零售",
     "address": "連江縣南竿鄉馬祖村６８號",
     "x": 119.918942,
     "y": 26.159647,
     "shops": [
         {
-            "shop": "吃吃看餐廳",
-            "pay_list": ""
-        },
-        {
             "shop": "金姐餐飲家具企業社",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

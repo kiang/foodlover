@@ -6,12 +6,12 @@
     "shops": [
         {
             "shop": "津順商行",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "流金風華商行",
-            "pay_list": ""
+            "pay_list": "台灣 PAY"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money\/台灣 PAY"
 }

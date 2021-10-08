@@ -1,17 +1,13 @@
 {
-    "name": "餐食攤販",
+    "name": "麵店、小吃店",
     "address": "高雄市鹽埕區中山里七賢三路１２３號",
     "x": 120.28191808039,
     "y": 22.626180351695,
     "shops": [
         {
-            "shop": "千翔早點",
-            "pay_list": ""
-        },
-        {
-            "shop": "阿珠珠土雞廣場",
-            "pay_list": ""
+            "shop": "女子餃子",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

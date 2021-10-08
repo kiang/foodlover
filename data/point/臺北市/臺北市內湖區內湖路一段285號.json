@@ -6,7 +6,7 @@
     "shops": [
         {
             "shop": "西湖市場 027",
-            "pay_list": "街口支付 \/ LINE PAY"
+            "pay_list": "街口支付 \/ LINE Pay Money"
         },
         {
             "shop": "西湖市場 080",
@@ -18,7 +18,7 @@
         },
         {
             "shop": "西湖市場 014",
-            "pay_list": ""
+            "pay_list": "其他業者  若選此項者，請跳轉下一題"
         },
         {
             "shop": "西湖市場 022",
@@ -38,11 +38,11 @@
         },
         {
             "shop": "西湖市場 047",
-            "pay_list": "永豐銀行"
+            "pay_list": "其他業者  永豐銀行"
         },
         {
             "shop": "西湖市場 048",
-            "pay_list": "永豐銀行"
+            "pay_list": "其他業者  永豐銀行"
         },
         {
             "shop": "西湖市場 071",
@@ -70,15 +70,15 @@
         },
         {
             "shop": "西湖市場 083",
-            "pay_list": ""
+            "pay_list": "其他業者  若選此項者，請跳轉下一題"
         },
         {
             "shop": "西湖市場 084",
-            "pay_list": "街口支付 \/ LINE PAY"
+            "pay_list": "街口支付 \/ LINE Pay Money"
         },
         {
             "shop": "西湖市場 087",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "西湖市場 088",
@@ -90,7 +90,7 @@
         },
         {
             "shop": "西湖市場 091",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "西湖市場 096",
@@ -98,7 +98,7 @@
         },
         {
             "shop": "西湖市場 098",
-            "pay_list": "街口支付 \/ LINE PAY"
+            "pay_list": "街口支付 \/ LINE Pay Money"
         },
         {
             "shop": "西湖市場 100",
@@ -106,7 +106,7 @@
         },
         {
             "shop": "西湖市場 106",
-            "pay_list": "永豐銀行"
+            "pay_list": "其他業者  永豐銀行"
         },
         {
             "shop": "西湖市場 110",
@@ -114,8 +114,8 @@
         },
         {
             "shop": "西湖市場 111",
-            "pay_list": "街口支付 \/ LINE PAY"
+            "pay_list": "街口支付 \/ LINE Pay Money"
         }
     ],
-    "pay_list": "街口支付\/LINE PAY\/\/台灣 PAY\/永豐銀行"
+    "pay_list": "街口支付\/LINE Pay Money\/其他業者  若選此項者，請跳轉下一題\/台灣 PAY\/其他業者  永豐銀行"
 }

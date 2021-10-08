@@ -1,17 +1,17 @@
 {
-    "name": "冰果店、冷（熱）飲店\/餐館、餐廳\/菸酒零售",
+    "name": "菸酒零售\/餐館、餐廳\/冰果店、冷（熱）飲店",
     "address": "基隆市仁愛區和明里愛五路３４號２樓",
     "x": 121.746,
     "y": 25.128855,
     "shops": [
         {
             "shop": "漾漾好食餐廳",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "狸小路燒肉館",
-            "pay_list": ""
+            "pay_list": "街口支付 \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money\/街口支付"
 }

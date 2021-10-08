@@ -1,13 +1,17 @@
 {
-    "name": "西點麵包零售\/糕餅麵包製造\/冰果店、冷（熱）飲店\/飲料零售",
+    "name": "飲料零售\/西點麵包零售\/糕餅麵包製造\/冰果店、冷（熱）飲店",
     "address": "雲林縣斗六市三平里斗六六路１１６號１樓",
     "x": 120.535293,
     "y": 23.718495,
     "shops": [
         {
             "shop": "王御股份有限公司",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "王御股份有限公司",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

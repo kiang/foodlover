@@ -1,13 +1,13 @@
 {
-    "name": "早餐店\/便當、自助餐店",
+    "name": "便當、自助餐店\/早餐店",
     "address": "臺南市新化區護國里復興路２９０巷１－３號",
     "x": 120.3106828825,
     "y": 23.036247718451,
     "shops": [
         {
             "shop": "小甜甜漢堡",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

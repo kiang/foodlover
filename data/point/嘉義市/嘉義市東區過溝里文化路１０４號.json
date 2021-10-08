@@ -1,13 +1,13 @@
 {
-    "name": "冰果店、冷（熱）飲店",
-    "address": "嘉義市東區過溝里文化路１０４號",
+    "name": "餐食攤販",
+    "address": "嘉義市東區過溝里文化路１０４號前",
     "x": 120.45001000345,
     "y": 23.476850004756,
     "shops": [
         {
-            "shop": "王進興",
-            "pay_list": ""
+            "shop": "遇見貓掌燒",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

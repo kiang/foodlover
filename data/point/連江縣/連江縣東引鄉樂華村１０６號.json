@@ -1,13 +1,13 @@
 {
-    "name": "機車出租\/餐館、餐廳\/菸酒零售",
+    "name": "機車出租\/菸酒零售\/餐館、餐廳",
     "address": "連江縣東引鄉樂華村１０６號",
     "x": 120.487671,
     "y": 26.367069,
     "shops": [
         {
             "shop": "國境之北",
-            "pay_list": ""
+            "pay_list": "街口支付 \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "街口支付\/LINE Pay Money"
 }

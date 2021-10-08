@@ -1,13 +1,13 @@
 {
-    "name": "飲用淨水零售\/早餐店",
+    "name": "麵店、小吃店",
     "address": "高雄市大社區翠屏里中山路４１２號",
     "x": 120.35284952086,
     "y": 22.731042981372,
     "shops": [
         {
-            "shop": "觀音素食",
-            "pay_list": ""
+            "shop": "在地人塩水雞",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

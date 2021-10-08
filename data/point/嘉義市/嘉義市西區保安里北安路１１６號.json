@@ -1,13 +1,13 @@
 {
-    "name": "菸酒零售\/冰果店、冷（熱）飲店\/檳榔零售",
+    "name": "冰果店、冷（熱）飲店\/菸酒零售\/檳榔零售",
     "address": "嘉義市西區保安里北安路１１６號",
     "x": 120.43157999435,
     "y": 23.489130001895,
     "shops": [
         {
             "shop": "惠環冷飲店",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

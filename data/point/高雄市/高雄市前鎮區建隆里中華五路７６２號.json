@@ -1,13 +1,17 @@
 {
-    "name": "西點麵包批發\/早餐店",
+    "name": "早餐店\/西點麵包批發",
     "address": "高雄市前鎮區建隆里中華五路７６２號２５樓",
     "x": 120.305846,
     "y": 22.604958,
     "shops": [
         {
             "shop": "南方食在股份有限公司",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "南方食在股份有限公司",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

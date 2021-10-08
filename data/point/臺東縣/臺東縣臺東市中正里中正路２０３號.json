@@ -1,13 +1,17 @@
 {
-    "name": "冰果店、冷（熱）飲店\/糖果餅乾零售\/餐館、餐廳\/菸酒零售",
+    "name": "糖果餅乾零售\/菸酒零售\/餐館、餐廳\/冰果店、冷（熱）飲店",
     "address": "臺東縣臺東市中正里中正路２０３號",
     "x": 121.154469,
     "y": 22.754769,
     "shops": [
         {
             "shop": "七里坡有限公司",
-            "pay_list": ""
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        },
+        {
+            "shop": "七里坡有限公司",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

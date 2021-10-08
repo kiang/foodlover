@@ -1,13 +1,13 @@
 {
-    "name": "其他化粧品零售\/服裝批發\/糖果餅乾批發",
+    "name": "其他化粧品零售\/糖果餅乾批發\/服裝批發",
     "address": "南投縣南投市營南里１５鄰南營路６３６號１樓",
     "x": 120.679236,
     "y": 23.940989,
     "shops": [
         {
             "shop": "弘達事業有限公司",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

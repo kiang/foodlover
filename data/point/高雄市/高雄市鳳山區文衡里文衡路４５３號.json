@@ -1,13 +1,13 @@
 {
-    "name": "糕餅麵包製造\/西點麵包零售",
+    "name": "西點麵包零售\/糕餅麵包製造",
     "address": "高雄市鳳山區文衡里文衡路４５３號及４５５號",
     "x": 120.347915,
     "y": 22.64129,
     "shops": [
         {
             "shop": "天才食品股份有限公司",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

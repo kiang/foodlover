@@ -1,17 +1,21 @@
 {
-    "name": "糕餅麵包製造\/西點麵包批發\/咖啡館",
+    "name": "咖啡館\/糕餅麵包製造\/西點麵包批發",
     "address": "臺北市萬華區仁德里桂林路２６號８樓之２",
     "x": 121.505397,
     "y": 25.037604,
     "shops": [
         {
             "shop": "歐立食品股份有限公司",
-            "pay_list": ""
+            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money \/ 街口支付"
         },
         {
             "shop": "原准苑商行",
-            "pay_list": ""
+            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money"
+        },
+        {
+            "shop": "歐立食品股份有限公司",
+            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money \/ 街口支付"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
 }

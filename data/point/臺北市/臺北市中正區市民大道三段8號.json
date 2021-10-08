@@ -6,11 +6,11 @@
     "shops": [
         {
             "shop": "光華數位新天地 三樓026",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "光華數位新天地 五樓029",
-            "pay_list": "台灣 PAY \/ LINE PAY"
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
         },
         {
             "shop": "光華數位新天地 五樓014",
@@ -30,7 +30,7 @@
         },
         {
             "shop": "光華數位新天地 二樓037",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "光華數位新天地 三樓061",
@@ -61,5 +61,5 @@
             "pay_list": "玉山銀行"
         }
     ],
-    "pay_list": "LINE PAY\/台灣 PAY\/街口支付\/PI\/玉山銀行"
+    "pay_list": "LINE Pay Money\/台灣 PAY\/街口支付\/PI\/玉山銀行"
 }

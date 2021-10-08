@@ -1,13 +1,13 @@
 {
-    "name": "咖啡零售\/糖果餅乾零售\/咖啡館",
+    "name": "糖果餅乾零售\/咖啡零售\/咖啡館",
     "address": "桃園市中壢區五權里五族二街１１５號１樓",
     "x": 121.20607,
     "y": 24.959026,
     "shops": [
         {
             "shop": "安家咖啡",
-            "pay_list": ""
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

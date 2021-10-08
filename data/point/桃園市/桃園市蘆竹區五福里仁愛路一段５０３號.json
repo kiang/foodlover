@@ -1,21 +1,13 @@
 {
-    "name": "餐館、餐廳",
-    "address": "桃園市蘆竹區五福里仁愛路一段５０３號１樓旁",
+    "name": "早餐店",
+    "address": "桃園市蘆竹區五福里仁愛路一段５０３號之１",
     "x": 121.29677298483,
     "y": 25.051958600489,
     "shops": [
         {
-            "shop": "楓葉餐飲店",
-            "pay_list": ""
-        },
-        {
-            "shop": "美味自助餐",
-            "pay_list": ""
-        },
-        {
             "shop": "龍複合式早餐",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

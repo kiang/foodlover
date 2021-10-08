@@ -1,13 +1,13 @@
 {
-    "name": "菸酒零售\/視唱中心（ＫＴＶ）\/麵店、小吃店",
+    "name": "視唱中心（ＫＴＶ）\/麵店、小吃店\/菸酒零售",
     "address": "臺東縣東河鄉都蘭村都蘭路６９號",
     "x": 121.207618,
     "y": 22.879694,
     "shops": [
         {
             "shop": "煙囪下小吃店",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

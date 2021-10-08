@@ -6,12 +6,8 @@
     "shops": [
         {
             "shop": "五月雪茶舖",
-            "pay_list": ""
-        },
-        {
-            "shop": "星勢錸茶舖",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

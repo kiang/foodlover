@@ -1,13 +1,13 @@
 {
-    "name": "經營網路購物\/早餐店",
+    "name": "早餐店\/經營網路購物",
     "address": "新北市板橋區四維路２７２號",
     "x": 121.463275,
     "y": 25.028585,
     "shops": [
         {
             "shop": "世唯早餐店",
-            "pay_list": ""
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

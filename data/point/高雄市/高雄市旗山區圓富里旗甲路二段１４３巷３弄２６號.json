@@ -1,13 +1,13 @@
 {
-    "name": "西點麵包零售\/未分類其他食品、飲料及菸草製品零售\/飲料零售",
+    "name": "未分類其他食品、飲料及菸草製品零售\/西點麵包零售\/飲料零售",
     "address": "高雄市旗山區圓富里旗甲路二段１４３巷３弄２６號",
     "x": 120.494758,
     "y": 22.918002,
     "shops": [
         {
             "shop": "樂芙手作坊",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

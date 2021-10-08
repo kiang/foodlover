@@ -1,13 +1,13 @@
 {
-    "name": "糕餅麵包製造\/西點麵包零售",
+    "name": "西點麵包零售\/糕餅麵包製造",
     "address": "新北市淡水區濱海路１段３０６巷９弄５３號１０樓",
     "x": 121.439261,
     "y": 25.190535,
     "shops": [
         {
             "shop": "自做自受烘焙有限公司",
-            "pay_list": ""
+            "pay_list": "街口支付 \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "街口支付\/LINE Pay Money"
 }

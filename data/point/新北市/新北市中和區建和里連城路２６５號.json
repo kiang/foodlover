@@ -1,13 +1,13 @@
 {
-    "name": "糕餅麵包製造\/飲料零售",
+    "name": "飲料零售\/糕餅麵包製造",
     "address": "新北市中和區建和里連城路２６５號",
     "x": 121.491286,
     "y": 24.996288,
     "shops": [
         {
             "shop": "金蕎食品有限公司",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

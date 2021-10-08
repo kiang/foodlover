@@ -5,660 +5,120 @@
     "y": 24.93047,
     "shops": [
         {
-            "shop": "興仁花園夜市-E1.2-阿土伯-8元打香腸",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-E8-愛玉屋-天然手作",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-E10-脆皮甜甜圈",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "興仁花園夜市-E11.12-老牛豆花嫩仙草曉諭的店",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "興仁花園夜市-E17-奇米多雞蛋仔、冰淇淋",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-E18-炸肉餅薯條墨西哥脆餅",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-E22-乳酪餅法式吐司熱壓吐司",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-E23-牛五花",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-E24魷魚船",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "興仁花園夜市-E25鮮奶仙草凍茶類",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-E26花生冰淇淋",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-E37.38-北海道木瓜牛奶",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-FG1.2-貝蛤蛤蛤蜊專賣店",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-F3-開運屋地瓜球",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-F4-丹丹蔥油餅",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-FG5-10-花現烤物",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-F11-魔王G排",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-F12-麻辣串串香、黃金脆薯",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-F13-貝蛤蛤蛤蜊專賣店",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-F14-脆皮章魚燒",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-F15金桔檸檬",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-F16燒酒螺",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-F17泰式料理飯類、青木瓜絲",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "興仁花園夜市-FG18培根燒",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-FG19-21海的故鄉澎湖生蠔龍蝦大文蛤加拿大大生蠔快炒",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-FG29-34牛肉湯",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "興仁花園夜市-FG35-38鼎好蒙古烤肉鼎好小吃店",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-G11.12-海盜轟炸魷魚",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-G13-火焰牛",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-G14-手工煎餃",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-H1.2-鳥蛋達人",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-H3-北回木瓜牛奶",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-H6-10花現烤物",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-H11.12-水?、糖葫蘆、棉花糖 G翅包飯G腿捲串燒烤",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-H14荳荳貓手燒",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-H15-好了啦！超大杯",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-H18-旗魚黑輪",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-H19.20-西瓜汁、現打果汁",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "興仁花園夜市-H21-26-藥燉排骨、蚵仔煎土虱、青草茶",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "興仁花園夜市-H27烤玉米",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-H28甩丫切水果工坊",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-H29黑丸嫩仙草-鮮奶草凍飲",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-H32創始惡魔雞排",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-H37-戰鬥雞",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-H38-羊肉串",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-H39-微笑?子G蛋糕",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "興仁花園夜市-H40-檳榔興仁福利站",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-IJ-有GO讚牛排",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "興仁花園夜市-貨櫃-菿喫甘呷甘蔗茶飲雙子星",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-AB1-精油",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-A2-男裝",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-A3.4-手機殼e電訊商行",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-A5-十八豆",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-A6-手機保護貼、手機保護殼",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-A7.8-14洞洞樂",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-A9.10-米米嚴選女裝",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-A11.12-射汽球",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-A13壁貼彩色槍球",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-A14-妞妞、推筒子、十八豆",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-A15.16-彈珠台",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-A17.18-BB槍射氣球「就是要射」",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-A19.20-九宮格押寶",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-B2-推筒子、16豆",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-B3.4-爆破球",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-B5.6-樂翻天抽抽樂",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-B8-LS美飾館",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "興仁花園夜市-B9.10-小熊爸爸玩具店玩具積木袖珍屋",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-B11.12-亞蕎服飾",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-B13.14-彩色槍球抽紅包丟筒子",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-B15.16棒球九宮格俄羅斯輪盤",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-B17.18-推球王",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-B19.20-洞洞樂、十八豆、射弓箭",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-CD1.2-波爾球",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-C3-5 一元彈珠台",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-C9.10 美甲、衣服",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-C11.12 麻將彈珠台",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-CD13-16 選物販賣機(玩具總動員)",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-C17.18 文具飾品",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-C19.20 無厘頭小籃球",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-D3.4 BB槍",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-D5 童裝女裝",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-D6 美甲、美睫",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-D7 手機殼",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-D10 童裝飾品",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-D11.12 推筒子、手速極限、擲杯、敲鐵釘、戳汽球",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-D17-19 無厘頭麻將",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-D20 婚紗曼哈頓",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-E1.2 迷你保齡球",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-E3 DIY雪花泥畫",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-E5 客製化手機殼",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-E6 棒球九宮格",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-E7.8 野台套圈圈",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-E9.10 復古彈珠檯",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-E13.14爆爆球、撞球",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-E15.16 2人麻將、動力沙、大老二",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-E18-20 近距離射氣球",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-F1.2 手機配件1C",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-F3.4 彈珠台機器人",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-F5.6 彈珠台、十八豆、骰寶",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-F7.8 BB槍氣球射擊",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-F9.10 烤畫",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "興仁花園夜市-F11.12 娃娃G",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-F13.14 神槍手遊戲機",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-F15-20 手機殼辣價錢商行",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-G13.14 神槍手遊戲機",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "興仁花園夜市-G15.17 射汽球",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-G18 丟青蛙",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-G19.20 博杯",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-H13.14 電棒、乒乓球",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-H15.16 麻將賓果",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-H17.18 德州撲客",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-H19.20 手機配件",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-I13.14 愛的爆爆射氣球",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-J13.14 米米嚴選",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-J15.16 弓箭飛鏢射氣球",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-M1 丟棒球、丟籃球",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-M2 無厘頭飛鏢射氣球",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-M3 套圈圈",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-M4 手機殼",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-N1 輔大賓果",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-N2小鋼珠彈珠台",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-N3幸運丸",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-N3-1男女裝飾品",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-N4球球彈珠檯射汽球",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-N5.6撈魚釣蝦",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "興仁花園夜市-N7麻將賓果阿亮益智育樂社",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-N10手機殼",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-O1襪子、麻將連線、娃娃機",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-O2一元彈珠",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-O2-1大力藍球九宮格",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-O5套圈圈",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-O6雀神四人麻將",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-O7-0彈珠台",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-O7-1.8套圈圈",
-            "pay_list": ""
-        },
-        {
-            "shop": "興仁花園夜市-O9.O10大型設施A .B",
-            "pay_list": ""
-        },
-        {
             "shop": "興仁花園夜市 B8-LS美飾館",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 F9.10 烤畫",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 G13.14 神槍手遊戲機",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 N5.6撈魚釣蝦",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 A5.6-油飯瓜仔肉飯綜合丸湯甜不辣",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 A22-豪記御鮮G",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 A23-金G母G蛋仔",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 A27-黃金雞腿捲",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 A28-雞BOSS?水雞",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 A29-開心果樂園現切水果果汁果凍",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 A37.38-柚子奶奶力屋食堂炒泡麵",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 B1-小丑烤馬鈴薯",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 B13.14-何滿妹黑糖珍珠鮮奶",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 B15-豬桑豬血糕",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 B37.38-腸腸久久",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 C1-糖葫蘆西瓜汁棉花糖",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 C2-福氣狠贊芋泥球",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 C5-曾師父新疆羊肉串",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 C7-比利時鬆餅",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 C18-冰角公主茶飲",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 C25-木瓜牛奶果汁",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 C33-炒炒肉",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 D1.2-芙琳卡",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 DE3-7-文化牛排",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 D8菱角酥",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 D21-24-日式涼麵，魷魚拉麵饅頭",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 D25-大上海生煎包",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 DE33-36-御品香麻辣鍋",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 A5.6-油飯瓜仔肉飯綜合丸湯甜不辣",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 A19-激脆王子麵起司餅起司棒起司派",
@@ -666,39 +126,39 @@
         },
         {
             "shop": "興仁花園夜市 A22-豪記御鮮G",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 A23-金G母G蛋仔",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 A27-黃金雞腿捲",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 A28-雞BOSS?水雞",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 A29-開心果樂園現切水果果汁果凍",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 A37.38-柚子奶奶力屋食堂炒泡麵",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 B1-小丑烤馬鈴薯",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 B13.14-何滿妹黑糖珍珠鮮奶",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 B15-豬桑豬血糕",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 B31-棉花糖彩虹冰冰淇淋雞蛋仔爆米花",
@@ -706,23 +166,23 @@
         },
         {
             "shop": "興仁花園夜市 B37.38-腸腸久久",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 C1-糖葫蘆西瓜汁棉花糖",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 C2-福氣狠贊芋泥球",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 C5-曾師父新疆羊肉串",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 C7-比利時鬆餅",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 C16-拉絲起司熱狗特濃起司薯條、年糕、酥炸杏鮑菇",
@@ -730,92 +190,92 @@
         },
         {
             "shop": "興仁花園夜市 C18-冰角公主茶飲",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 C25-木瓜牛奶果汁",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 C33-炒炒肉",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 D1.2-芙琳卡",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 DE3-7-文化牛排",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 D8菱角酥",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 D21-24-日式涼麵\/魷魚拉麵饅頭",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 D25-大上海生煎包",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 DE33-36-御品香麻辣鍋",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 E10-脆皮甜甜圈",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 E11.12-老牛豆花嫩仙草曉諭的店",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 E24魷魚船",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 F17泰式料理飯類、青木瓜絲",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 FG29-34牛肉湯",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 H19.20-西瓜汁、現打果汁",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 H21-26-藥燉排骨、蚵仔煎土虱、青草茶",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 H39-微笑?子G蛋糕",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 IJ-有GO讚牛排",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 B8-LS美飾館",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 F9.10 烤畫",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 G13.14 神槍手遊戲機",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "興仁花園夜市 N5.6撈魚釣蝦",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY\/台灣 PAY"
+    "pay_list": "LINE Pay Money\/台灣 PAY"
 }

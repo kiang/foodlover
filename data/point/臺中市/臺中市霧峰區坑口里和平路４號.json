@@ -1,17 +1,17 @@
 {
-    "name": "糕餅麵包製造",
+    "name": "西點麵包零售\/文具零售\/冰果店、冷（熱）飲店",
     "address": "臺中市霧峰區坑口里和平路４號",
     "x": 120.695857,
     "y": 24.043344,
     "shops": [
         {
-            "shop": "老派散步甜食",
-            "pay_list": ""
+            "shop": "輪子設計工作室",
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "輪子設計工作室",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

@@ -1,13 +1,13 @@
 {
-    "name": "糕餅麵包製造\/西點麵包零售",
+    "name": "西點麵包零售\/糕餅麵包製造",
     "address": "屏東縣恆春鎮網紗里恆公路１０１２巷２弄２５號",
     "x": 120.742485,
     "y": 22.009222,
     "shops": [
         {
             "shop": "覓烘焙",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

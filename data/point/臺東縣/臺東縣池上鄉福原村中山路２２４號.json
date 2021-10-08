@@ -6,12 +6,8 @@
     "shops": [
         {
             "shop": "新榮美自助餐",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "好朋友肉包店",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

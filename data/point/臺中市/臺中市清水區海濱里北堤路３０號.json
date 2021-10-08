@@ -1,69 +1,25 @@
 {
-    "name": "糖果餅乾零售",
-    "address": "臺中市清水區海濱里北堤路３０號Ｆ２９",
+    "name": "冰果店、冷（熱）飲店\/麵店、小吃店",
+    "address": "臺中市清水區海濱里北堤路３０號Ｇ０３",
     "x": 120.521047,
     "y": 24.293067,
     "shops": [
         {
-            "shop": "周金章",
-            "pay_list": ""
-        },
-        {
-            "shop": "晶棧餐飲",
-            "pay_list": ""
-        },
-        {
-            "shop": "錢錢屋餐飲",
-            "pay_list": ""
-        },
-        {
-            "shop": "陳志遠",
-            "pay_list": ""
-        },
-        {
             "shop": "鼎煜餐飲",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
-            "shop": "阿三哥小吃店",
-            "pay_list": ""
+            "shop": "黃滿美",
+            "pay_list": "街口支付"
         },
         {
-            "shop": "鹿港海鮮總匯",
-            "pay_list": ""
-        },
-        {
-            "shop": "海中寶麒麟餐廳",
-            "pay_list": ""
-        },
-        {
-            "shop": "阿東的店海鮮餐廳",
-            "pay_list": ""
-        },
-        {
-            "shop": "溢鼎鱻海鮮館",
-            "pay_list": ""
-        },
-        {
-            "shop": "美周魷魚王",
-            "pay_list": ""
-        },
-        {
-            "shop": "中港好家海鮮餐廳",
-            "pay_list": ""
-        },
-        {
-            "shop": "林鈺儒",
-            "pay_list": ""
+            "shop": "臺中市臺中區漁會供銷部",
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "楊英信",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "漁港超市平價活海產清水店",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money\/街口支付"
 }

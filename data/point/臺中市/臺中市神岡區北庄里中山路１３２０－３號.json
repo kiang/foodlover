@@ -1,13 +1,13 @@
 {
-    "name": "麵店、小吃店",
+    "name": "冰果店、冷（熱）飲店",
     "address": "臺中市神岡區北庄里中山路１３２０－３號",
     "x": 120.66487722453,
     "y": 24.258215751094,
     "shops": [
         {
-            "shop": "陳祈賓",
-            "pay_list": ""
+            "shop": "利方飲舖",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

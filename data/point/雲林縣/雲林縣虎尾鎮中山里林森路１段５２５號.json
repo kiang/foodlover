@@ -1,13 +1,13 @@
 {
-    "name": "餐食攤販\/早餐店",
+    "name": "早餐店\/餐食攤販",
     "address": "雲林縣虎尾鎮中山里林森路１段５２５號",
     "x": 120.43216754009,
     "y": 23.708485433328,
     "shops": [
         {
             "shop": "巨林美而美漢堡",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

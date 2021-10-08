@@ -6,8 +6,12 @@
     "shops": [
         {
             "shop": "屏息甜點工坊",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "甜花窗雞蛋糕",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

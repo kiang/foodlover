@@ -1,13 +1,13 @@
 {
-    "name": "麵店、小吃店",
-    "address": "高雄市楠梓區翠屏里德賢路２５４號",
+    "name": "冰果店、冷（熱）飲店",
+    "address": "高雄市楠梓區翠屏里德賢路２５４號１樓",
     "x": 120.30519218796,
     "y": 22.72656162183,
     "shops": [
         {
-            "shop": "鳳味麵飯飽食館",
-            "pay_list": ""
+            "shop": "功夫茶楠梓茶飲專賣店",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

@@ -1,13 +1,13 @@
 {
-    "name": "電動玩具店\/冰果店、冷（熱）飲店",
+    "name": "冰果店、冷（熱）飲店\/電動玩具店",
     "address": "臺南市關廟區香洋里巡府路７０號",
     "x": 120.32758872922,
     "y": 22.960863264107,
     "shops": [
         {
             "shop": "真愛泡沬屋",
-            "pay_list": "愛金卡 \/ LINE PAY"
+            "pay_list": "LINE Pay Money \/ 愛金卡"
         }
     ],
-    "pay_list": "愛金卡\/LINE PAY"
+    "pay_list": "LINE Pay Money\/愛金卡"
 }

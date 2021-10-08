@@ -1,13 +1,13 @@
 {
-    "name": "餐食攤販\/團膳承包",
+    "name": "團膳承包\/餐食攤販",
     "address": "彰化縣彰化市東芳里永芳路５４０巷２２弄臨１２６號",
     "x": 120.512711,
     "y": 24.068183,
     "shops": [
         {
             "shop": "小青蛙蔬食庭園",
-            "pay_list": "LINE PAY \/ 一卡通"
+            "pay_list": "一卡通 \/ LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY\/一卡通"
+    "pay_list": "一卡通\/LINE Pay Money"
 }

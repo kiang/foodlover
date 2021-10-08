@@ -1,17 +1,13 @@
 {
-    "name": "糕餅麵包製造\/西點麵包零售",
+    "name": "西點麵包零售\/糕餅麵包製造",
     "address": "彰化縣鹿港鎮順興里親民路１８８號",
     "x": 120.433415,
     "y": 24.058681,
     "shops": [
         {
             "shop": "簡單美味工坊",
-            "pay_list": ""
-        },
-        {
-            "shop": "日木甜品店",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

@@ -1,13 +1,13 @@
 {
-    "name": "糕餅麵包製造\/西點麵包零售",
+    "name": "西點麵包零售\/糕餅麵包製造",
     "address": "臺北市大安區通化里信義路４段３７８巷１１號１樓",
     "x": 121.555815,
     "y": 25.032461,
     "shops": [
         {
             "shop": "鼎祿國際飲食行銷事業",
-            "pay_list": ""
+            "pay_list": "街口支付 \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "街口支付\/LINE Pay Money"
 }

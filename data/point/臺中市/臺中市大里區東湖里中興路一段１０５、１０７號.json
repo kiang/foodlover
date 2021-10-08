@@ -1,13 +1,17 @@
 {
-    "name": "西點麵包零售\/冰果店、冷（熱）飲店\/糖果餅乾零售\/咖啡館",
+    "name": "糖果餅乾零售\/西點麵包零售\/冰果店、冷（熱）飲店\/咖啡館",
     "address": "臺中市大里區東湖里中興路一段１０５、１０７號",
     "x": 120.690265,
     "y": 24.092489,
     "shops": [
         {
             "shop": "沁恬有限公司",
-            "pay_list": ""
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "沁恬有限公司",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

@@ -1,17 +1,13 @@
 {
-    "name": "麵店、小吃店",
+    "name": "冰果店、冷（熱）飲店",
     "address": "彰化縣芳苑鄉博愛村００１鄰芳漢路王功段６１５號",
     "x": 120.340993,
     "y": 23.965805,
     "shops": [
         {
-            "shop": "津味海產蚵仔炸",
-            "pay_list": ""
-        },
-        {
             "shop": "泉芳商行",
-            "pay_list": ""
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

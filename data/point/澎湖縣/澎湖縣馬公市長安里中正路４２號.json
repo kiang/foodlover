@@ -1,17 +1,13 @@
 {
-    "name": "麵店、小吃店",
-    "address": "澎湖縣馬公市長安里中正路４２號",
+    "name": "冰果店、冷（熱）飲店",
+    "address": "澎湖縣馬公市長安里中正路４２號１樓",
     "x": 119.56545875227,
     "y": 23.565809053768,
     "shops": [
         {
-            "shop": "瑞師父海菜煎餅",
-            "pay_list": ""
-        },
-        {
             "shop": "隆廷商行",
-            "pay_list": ""
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

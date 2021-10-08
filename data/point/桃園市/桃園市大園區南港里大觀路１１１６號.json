@@ -1,17 +1,13 @@
 {
-    "name": "餐館、餐廳",
-    "address": "桃園市大園區南港里大觀路１１１６號旁",
+    "name": "冰果店、冷（熱）飲店",
+    "address": "桃園市大園區南港里大觀路１１１６號旁前段",
     "x": 121.15890062213,
     "y": 25.055567694913,
     "shops": [
         {
-            "shop": "蒸食煮藝餐坊",
-            "pay_list": ""
-        },
-        {
             "shop": "盈瑞喫茶舖",
-            "pay_list": "街口支付 \/ LINE PAY"
+            "pay_list": "LINE Pay Money \/ 街口支付"
         }
     ],
-    "pay_list": "街口支付\/LINE PAY"
+    "pay_list": "LINE Pay Money\/街口支付"
 }

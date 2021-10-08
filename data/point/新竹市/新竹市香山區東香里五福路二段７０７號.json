@@ -1,25 +1,21 @@
 {
-    "name": "餐館、餐廳",
+    "name": "麵店、小吃店",
     "address": "新竹市香山區東香里五福路二段７０７號",
     "x": 120.952318,
     "y": 24.757337,
     "shops": [
         {
-            "shop": "晨揚商行",
-            "pay_list": ""
-        },
-        {
-            "shop": "金章廣式燒臘",
-            "pay_list": ""
-        },
-        {
-            "shop": "育成小吃店",
-            "pay_list": ""
-        },
-        {
             "shop": "慈馨美食",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "侑曼自助餐",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "帕森義大利麵",
+            "pay_list": "一卡通 \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money\/一卡通"
 }

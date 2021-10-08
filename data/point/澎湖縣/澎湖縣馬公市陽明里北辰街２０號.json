@@ -1,21 +1,13 @@
 {
-    "name": "其他未分類食品製造\/食品零售攤販\/其他烘焙炊蒸食品製造",
+    "name": "食品零售攤販\/其他未分類食品製造\/其他烘焙炊蒸食品製造",
     "address": "澎湖縣馬公市陽明里北辰街２０號（１Ａ３４號攤位）",
     "x": 119.571011,
     "y": 23.570782,
     "shops": [
         {
             "shop": "許家米食",
-            "pay_list": "街口支付 \/ LINE PAY"
-        },
-        {
-            "shop": "建興商號",
-            "pay_list": ""
-        },
-        {
-            "shop": "家香手扒雞店",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money \/ 街口支付"
         }
     ],
-    "pay_list": "街口支付\/LINE PAY"
+    "pay_list": "LINE Pay Money\/街口支付"
 }

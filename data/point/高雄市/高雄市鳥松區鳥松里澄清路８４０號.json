@@ -1,33 +1,21 @@
 {
-    "name": "麵店、小吃店",
+    "name": "便當、自助餐店",
     "address": "高雄市鳥松區鳥松里澄清路８４０號",
     "x": 120.34964815092,
     "y": 22.650779519075,
     "shops": [
         {
-            "shop": "韓信館麵食料理",
-            "pay_list": ""
-        },
-        {
             "shop": "臻點美食館",
-            "pay_list": "LINE PAY \/ 一卡通"
-        },
-        {
-            "shop": "義華紅茶店",
-            "pay_list": ""
+            "pay_list": "一卡通 \/ LINE Pay Money"
         },
         {
             "shop": "鑫筌有限公司",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "福隆商行",
-            "pay_list": ""
-        },
-        {
-            "shop": "媽媽美食館正修店",
-            "pay_list": ""
+            "pay_list": "台灣 PAY \/ 一卡通"
         }
     ],
-    "pay_list": "LINE PAY\/一卡通"
+    "pay_list": "一卡通\/LINE Pay Money\/台灣 PAY"
 }

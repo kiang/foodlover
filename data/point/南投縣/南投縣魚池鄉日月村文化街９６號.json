@@ -6,12 +6,8 @@
     "shops": [
         {
             "shop": "和樂商行",
-            "pay_list": ""
-        },
-        {
-            "shop": "何樂里商行",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

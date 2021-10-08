@@ -1,13 +1,13 @@
 {
-    "name": "冰果店、冷（熱）飲店\/菸酒零售",
+    "name": "菸酒零售\/冰果店、冷（熱）飲店",
     "address": "金門縣金湖鎮新湖里塔后２０８－６３號",
     "x": 118.41030063666,
     "y": 24.442403341104,
     "shops": [
         {
             "shop": "舊識咖啡",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

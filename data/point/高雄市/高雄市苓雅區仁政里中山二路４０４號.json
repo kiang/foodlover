@@ -6,12 +6,20 @@
     "shops": [
         {
             "shop": "永心鳳茶有限公司",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "心潮飯店有限公司",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "永心鳳茶有限公司",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "心潮飯店有限公司",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

@@ -1,13 +1,17 @@
 {
-    "name": "糖果餅乾零售\/麵店、小吃店",
+    "name": "麵店、小吃店\/糖果餅乾零售",
     "address": "屏東縣東港鎮興東里０２８鄰明德路９０號",
     "x": 120.456841,
     "y": 22.470942,
     "shops": [
         {
             "shop": "厚厚一片手作坊",
-            "pay_list": ""
+            "pay_list": "街口支付 \/ LINE Pay Money"
+        },
+        {
+            "shop": "厚厚一片手作坊",
+            "pay_list": "街口支付 \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "街口支付\/LINE Pay Money"
 }

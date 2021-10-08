@@ -6,7 +6,7 @@
     "shops": [
         {
             "shop": "枋寮公有零售市場 味佳新燒臘食品店",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "枋寮公有零售市場 福濱水果行",
@@ -17,5 +17,5 @@
             "pay_list": "台灣 PAY"
         }
     ],
-    "pay_list": "LINE PAY\/台灣 PAY"
+    "pay_list": "LINE Pay Money\/台灣 PAY"
 }

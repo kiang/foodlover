@@ -1,13 +1,13 @@
 {
-    "name": "冰果店、冷（熱）飲店\/餐館、餐廳",
+    "name": "餐館、餐廳\/冰果店、冷（熱）飲店",
     "address": "基隆市信義區孝忠里深溪路１５６號",
     "x": 121.782719,
     "y": 25.134136,
     "shops": [
         {
             "shop": "維晏稜實業有限公司",
-            "pay_list": ""
+            "pay_list": "街口支付 \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "街口支付\/LINE Pay Money"
 }

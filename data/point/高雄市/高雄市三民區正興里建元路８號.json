@@ -1,13 +1,13 @@
 {
-    "name": "西點麵包零售",
+    "name": "水果批發\/蔬菜批發\/餐館、餐廳\/未分類其他食品批發",
     "address": "高雄市三民區正興里建元路８號２１樓",
     "x": 120.31755046344,
     "y": 22.647410736964,
     "shops": [
         {
-            "shop": "拎果有限公司",
-            "pay_list": ""
+            "shop": "食金湯有限公司",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

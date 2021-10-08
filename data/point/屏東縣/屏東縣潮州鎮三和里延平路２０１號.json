@@ -1,17 +1,17 @@
 {
-    "name": "飲料零售\/西點麵包零售\/西點麵包批發\/非酒精飲料批發",
+    "name": "西點麵包零售\/冰果店、冷（熱）飲店\/咖啡館",
     "address": "屏東縣潮州鎮三和里延平路２０１號",
     "x": 120.540175,
     "y": 22.556401,
     "shops": [
         {
-            "shop": "香榭烘焙坊",
-            "pay_list": ""
+            "shop": "蕾貝卡咖啡蛋糕店",
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "蕾貝卡咖啡蛋糕店",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

@@ -1,17 +1,17 @@
 {
-    "name": "飲料零售\/經營網路購物\/餐館、餐廳",
+    "name": "未分類其他食品、飲料及菸草製品零售\/飲料零售\/冰果店、冷（熱）飲店",
     "address": "臺北市北投區福興里致遠一路二段１２７號１樓",
     "x": 121.512399,
     "y": 25.11355,
     "shops": [
         {
-            "shop": "喜臨咖啡屋",
-            "pay_list": ""
+            "shop": "喜品咖啡屋",
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "喜喜咖啡餐坊",
-            "pay_list": ""
+            "pay_list": "街口支付 \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money\/街口支付"
 }

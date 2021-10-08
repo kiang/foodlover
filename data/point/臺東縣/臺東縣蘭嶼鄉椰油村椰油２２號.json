@@ -1,13 +1,13 @@
 {
-    "name": "視唱中心（ＫＴＶ）\/麵店、小吃店",
+    "name": "麵店、小吃店\/視唱中心（ＫＴＶ）",
     "address": "臺東縣蘭嶼鄉椰油村椰油２２號",
     "x": 121.51299368311,
     "y": 22.049999489409,
     "shops": [
         {
             "shop": "二姊小吃部",
-            "pay_list": "街口支付 \/ LINE PAY"
+            "pay_list": "LINE Pay Money \/ 街口支付"
         }
     ],
-    "pay_list": "街口支付\/LINE PAY"
+    "pay_list": "LINE Pay Money\/街口支付"
 }

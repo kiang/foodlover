@@ -1,13 +1,13 @@
 {
-    "name": "糕餅麵包製造\/西點麵包零售",
+    "name": "西點麵包零售\/糕餅麵包製造",
     "address": "新竹市香山區頂埔里牛埔路２１號",
     "x": 120.955419,
     "y": 24.798271,
     "shops": [
         {
             "shop": "藏點子烘焙屋",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

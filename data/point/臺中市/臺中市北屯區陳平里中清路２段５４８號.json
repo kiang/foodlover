@@ -1,13 +1,13 @@
 {
-    "name": "餐食攤販\/麵店、小吃店",
+    "name": "麵店、小吃店\/餐食攤販",
     "address": "臺中市北屯區陳平里中清路２段５４８號",
     "x": 120.666281,
     "y": 24.182082,
     "shops": [
         {
             "shop": "鵝肉陳",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

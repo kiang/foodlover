@@ -1,17 +1,13 @@
 {
-    "name": "飲料零售\/西點麵包零售",
+    "name": "西點麵包零售\/經營網路購物",
     "address": "高雄市鼓山區明誠里文忠路７２－３號１樓",
     "x": 120.299054,
     "y": 22.665299,
     "shops": [
         {
-            "shop": "好好厚著吐司",
-            "pay_list": ""
-        },
-        {
             "shop": "撒姆爾餐飲股份有限公司",
-            "pay_list": ""
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

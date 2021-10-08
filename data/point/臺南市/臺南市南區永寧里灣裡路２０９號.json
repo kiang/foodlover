@@ -1,41 +1,13 @@
 {
-    "name": "西點麵包零售",
+    "name": "糖果餅乾零售",
     "address": "臺南市南區永寧里灣裡路２０９號",
     "x": 120.18146657362,
     "y": 22.928083805445,
     "shops": [
         {
-            "shop": "甲三號攤位",
-            "pay_list": ""
-        },
-        {
-            "shop": "乙３６號攤位",
-            "pay_list": ""
-        },
-        {
-            "shop": "乙１８號攤位",
-            "pay_list": ""
-        },
-        {
-            "shop": "丙３１號攤位",
-            "pay_list": ""
-        },
-        {
-            "shop": "店３號攤位",
-            "pay_list": ""
-        },
-        {
-            "shop": "店１３號攤位",
-            "pay_list": ""
-        },
-        {
             "shop": "店２２號攤位",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "灣裡市場店１０號",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

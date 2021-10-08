@@ -5,65 +5,25 @@
     "y": 24.149135,
     "shops": [
         {
-            "shop": "大新公有零售市場-Hoga廚具",
-            "pay_list": ""
-        },
-        {
-            "shop": "大新公有零售市場-新鑫安全帽",
-            "pay_list": ""
-        },
-        {
-            "shop": "大新公有零售市場-爆Q美式炸雞",
-            "pay_list": ""
-        },
-        {
-            "shop": "大新公有零售市場-天慈素食",
-            "pay_list": ""
-        },
-        {
-            "shop": "大新公有零售市場-天慈素食",
-            "pay_list": ""
-        },
-        {
-            "shop": "大新公有零售市場-雞優股鹹酥雞",
-            "pay_list": ""
-        },
-        {
-            "shop": "大新公有零售市場-欣興臭豆腐",
-            "pay_list": ""
-        },
-        {
-            "shop": "大新公有零售市場-詹家紅茶冰",
-            "pay_list": ""
-        },
-        {
-            "shop": "大新公有零售市場-馬蔥餅",
-            "pay_list": ""
-        },
-        {
-            "shop": "大新公有零售市場-嘉義香菇肉羹",
-            "pay_list": ""
-        },
-        {
             "shop": "大新公有零售市場 A001HOGA廚具",
-            "pay_list": "街口支付 \/ LINE PAY"
+            "pay_list": "街口支付 \/ LINE Pay Money"
         },
         {
             "shop": "大新公有零售市場 A006雞優股鹹酥雞",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "大新公有零售市場 A007欣興臭豆腐",
-            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE PAY"
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
         },
         {
             "shop": "大新公有零售市場 A008詹家紅茶冰",
-            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE PAY"
+            "pay_list": "台灣 PAY \/ 街口支付 \/ LINE Pay Money"
         },
         {
             "shop": "大新公有零售市場 A009馬蔥餅",
             "pay_list": "街口支付 \/ 台灣 PAY"
         }
     ],
-    "pay_list": "街口支付\/LINE PAY\/台灣 PAY"
+    "pay_list": "街口支付\/LINE Pay Money\/台灣 PAY"
 }

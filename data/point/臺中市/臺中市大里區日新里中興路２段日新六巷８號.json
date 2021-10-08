@@ -1,13 +1,13 @@
 {
-    "name": "糖果餅乾零售\/經營網路購物",
+    "name": "經營網路購物\/糖果餅乾零售",
     "address": "臺中市大里區日新里中興路２段日新六巷８號２樓",
     "x": 120.692984,
     "y": 24.120947,
     "shops": [
         {
             "shop": "果家輕烘培坊",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

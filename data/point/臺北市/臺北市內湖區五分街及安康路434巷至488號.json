@@ -6,7 +6,7 @@
     "shops": [
         {
             "shop": "五分街攤販聚集區(五分市場) 心美早餐店",
-            "pay_list": "街口支付 \/ LINE PAY"
+            "pay_list": "街口支付 \/ LINE Pay Money"
         },
         {
             "shop": "五分街攤販聚集區(五分市場) 1月22日",
@@ -26,24 +26,24 @@
         },
         {
             "shop": "五分街攤販聚集區(五分市場) 裕豐家禽批發零售",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "五分街攤販聚集區(五分市場) 許家雞肉",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "五分街攤販聚集區(五分市場) 阿英蔬果",
-            "pay_list": "玉山銀行 \/ 街口支付 \/ LINE PAY"
+            "pay_list": "玉山銀行 \/ 街口支付 \/ LINE Pay Money"
         },
         {
             "shop": "五分街攤販聚集區(五分市場) 阿英蔬果行",
-            "pay_list": "玉山銀行 \/ 街口支付 \/ LINE PAY"
+            "pay_list": "玉山銀行 \/ 街口支付 \/ LINE Pay Money"
         },
         {
             "shop": "五分街攤販聚集區(五分市場) 陳記水餃",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "街口支付\/LINE PAY\/悠遊卡\/玉山銀行"
+    "pay_list": "街口支付\/LINE Pay Money\/悠遊卡\/玉山銀行"
 }

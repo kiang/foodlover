@@ -1,13 +1,13 @@
 {
-    "name": "糕餅麵包製造\/菸酒零售",
+    "name": "菸酒零售\/糕餅麵包製造",
     "address": "新北市永和區福和里福和路２３５號",
     "x": 121.518477,
     "y": 25.007436,
     "shops": [
         {
             "shop": "媽咪里啦食品行",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

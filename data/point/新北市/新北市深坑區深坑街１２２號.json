@@ -1,13 +1,13 @@
 {
-    "name": "經營網路購物\/麵店、小吃店",
+    "name": "麵店、小吃店\/經營網路購物",
     "address": "新北市深坑區深坑街１２２號",
     "x": 121.61350913732,
     "y": 25.001325567841,
     "shops": [
         {
             "shop": "萬吉豆腐美食店",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

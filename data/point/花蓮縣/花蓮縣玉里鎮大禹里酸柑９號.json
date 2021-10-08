@@ -1,13 +1,13 @@
 {
-    "name": "視唱中心（ＫＴＶ）\/麵店、小吃店",
+    "name": "麵店、小吃店\/視唱中心（ＫＴＶ）",
     "address": "花蓮縣玉里鎮大禹里酸柑９號",
     "x": 121.32533377151,
     "y": 23.352286434156,
     "shops": [
         {
             "shop": "純柑養雞休閒站",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

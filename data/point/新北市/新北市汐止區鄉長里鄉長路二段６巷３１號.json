@@ -1,13 +1,13 @@
 {
-    "name": "糖果餅乾零售",
-    "address": "新北市汐止區鄉長里鄉長路二段６巷３１號５樓",
+    "name": "餐食攤販",
+    "address": "新北市汐止區鄉長里鄉長路二段６巷３１號",
     "x": 121.669375,
     "y": 25.080887,
     "shops": [
         {
-            "shop": "小牛手作舖",
-            "pay_list": ""
+            "shop": "汐止區觀光夜市第１１號攤位",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

@@ -6,24 +6,8 @@
     "shops": [
         {
             "shop": "沁茶飲食店",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "喜悅餐坊",
-            "pay_list": ""
-        },
-        {
-            "shop": "鍾記蔥抓餅",
-            "pay_list": ""
-        },
-        {
-            "shop": "金簡小吃店",
-            "pay_list": ""
-        },
-        {
-            "shop": "胡稼莊美食",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

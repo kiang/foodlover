@@ -6,8 +6,12 @@
     "shops": [
         {
             "shop": "舞吉商行",
-            "pay_list": ""
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "富秝汽車商行",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

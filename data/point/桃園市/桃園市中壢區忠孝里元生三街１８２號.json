@@ -1,13 +1,13 @@
 {
-    "name": "麵店、小吃店",
+    "name": "冰果店、冷（熱）飲店",
     "address": "桃園市中壢區忠孝里元生三街１８２號",
     "x": 121.25411150157,
     "y": 24.978017870619,
     "shops": [
         {
-            "shop": "四季興十元串烤",
-            "pay_list": ""
+            "shop": "辰記咖啡屋",
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

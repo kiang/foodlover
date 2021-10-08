@@ -1,13 +1,13 @@
 {
-    "name": "餐館、餐廳\/茶藝館",
+    "name": "茶藝館\/餐館、餐廳",
     "address": "臺中市新社區中興里０１３鄰中興嶺街一段１０７號",
     "x": 120.785692,
     "y": 24.208666,
     "shops": [
         {
             "shop": "又見一炊煙景觀餐廳",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

@@ -1,13 +1,13 @@
 {
-    "name": "飲料零售\/糕餅麵包製造\/西點麵包零售\/糖果餅乾零售",
+    "name": "飲料零售\/西點麵包零售\/糕餅麵包製造\/糖果餅乾零售",
     "address": "高雄市苓雅區福壽里福德三路２１８號",
     "x": 120.327209,
     "y": 22.627289,
     "shops": [
         {
             "shop": "多喜食品店",
-            "pay_list": ""
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

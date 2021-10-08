@@ -1,13 +1,13 @@
 {
-    "name": "麵店、小吃店\/未分類其他食品、飲料及菸草製品零售",
+    "name": "未分類其他食品、飲料及菸草製品零售\/麵店、小吃店",
     "address": "臺南市七股區永吉里３４－３號騎樓",
     "x": 120.12949,
     "y": 23.093909,
     "shops": [
         {
             "shop": "沅味巷口飯糰台南土城店",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

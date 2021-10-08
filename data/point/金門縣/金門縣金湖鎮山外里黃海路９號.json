@@ -6,12 +6,8 @@
     "shops": [
         {
             "shop": "雄峰冷飲店",
-            "pay_list": ""
-        },
-        {
-            "shop": "九九海陸餐廳",
-            "pay_list": ""
+            "pay_list": "街口支付 \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "街口支付\/LINE Pay Money"
 }

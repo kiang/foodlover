@@ -1,21 +1,13 @@
 {
-    "name": "餐食攤販",
-    "address": "高雄市左營區菜公里自由三路２６１號﹙黃昏市場Ｖ１﹚",
-    "x": 120.311522,
-    "y": 22.67324,
+    "name": "麵店、小吃店",
+    "address": "高雄市左營區菜公里自由三路２６１號Ｖ８區",
+    "x": 120.31189636337,
+    "y": 22.673209108302,
     "shops": [
         {
-            "shop": "蔡慧玲",
-            "pay_list": ""
-        },
-        {
             "shop": "美香肉粽",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "黃寶真",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

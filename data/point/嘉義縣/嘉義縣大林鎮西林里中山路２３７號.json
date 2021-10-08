@@ -1,17 +1,17 @@
 {
-    "name": "西點麵包零售\/冰果店、冷（熱）飲店\/其他未分類食品製造\/咖啡館",
+    "name": "西點麵包零售\/其他未分類食品製造\/冰果店、冷（熱）飲店\/咖啡館",
     "address": "嘉義縣大林鎮西林里中山路２３７號１樓",
     "x": 120.455924,
     "y": 23.606175,
     "shops": [
         {
             "shop": "禾田商行",
-            "pay_list": ""
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
         },
         {
             "shop": "禾田商行",
-            "pay_list": ""
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

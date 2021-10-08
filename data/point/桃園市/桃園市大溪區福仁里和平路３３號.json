@@ -1,13 +1,13 @@
 {
-    "name": "糕餅麵包製造\/飲料零售\/其他烘焙炊蒸食品製造",
+    "name": "糕餅麵包製造\/其他烘焙炊蒸食品製造\/飲料零售",
     "address": "桃園市大溪區福仁里和平路３３號",
     "x": 121.288149,
     "y": 24.884743,
     "shops": [
         {
             "shop": "布丁叔叔的美味甜點",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

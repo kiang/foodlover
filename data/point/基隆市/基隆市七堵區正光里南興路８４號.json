@@ -1,25 +1,17 @@
 {
-    "name": "麵食品零售",
+    "name": "早餐店",
     "address": "基隆市七堵區正光里南興路８４號",
     "x": 121.712777,
     "y": 25.096786,
     "shops": [
         {
-            "shop": "阿碧大腸麵線??（第七攤）",
-            "pay_list": ""
-        },
-        {
-            "shop": "大熯炸烤店",
-            "pay_list": ""
-        },
-        {
             "shop": "美香美早餐店",
-            "pay_list": ""
+            "pay_list": "台灣 PAY"
         },
         {
             "shop": "七堵豬肉餡餅",
-            "pay_list": ""
+            "pay_list": "台灣 PAY"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY"
 }

@@ -6,8 +6,12 @@
     "shops": [
         {
             "shop": "夏之亭烘焙坊",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "夏之亭烘焙坊",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

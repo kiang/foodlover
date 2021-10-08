@@ -1,25 +1,17 @@
 {
-    "name": "西點麵包零售\/其他攝影\/咖啡館",
+    "name": "其他攝影\/西點麵包零售\/咖啡館",
     "address": "屏東縣恆春鎮城南里中山路４８號２樓",
     "x": 120.744422,
     "y": 22.002621,
     "shops": [
         {
             "shop": "伯虎商行",
-            "pay_list": ""
+            "pay_list": "街口支付 \/ LINE Pay Money"
         },
         {
-            "shop": "甘味食堂",
-            "pay_list": ""
-        },
-        {
-            "shop": "老張鹹酥雞",
-            "pay_list": ""
-        },
-        {
-            "shop": "秋香麵店",
-            "pay_list": ""
+            "shop": "伯虎商行",
+            "pay_list": "街口支付 \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "街口支付\/LINE Pay Money"
 }

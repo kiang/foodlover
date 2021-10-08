@@ -1,13 +1,17 @@
 {
-    "name": "其他烘焙炊蒸食品製造\/冰果店、冷（熱）飲店\/餐館、餐廳\/菸酒零售",
+    "name": "菸酒零售\/餐館、餐廳\/其他烘焙炊蒸食品製造\/冰果店、冷（熱）飲店",
     "address": "臺北市北投區長安里中央北路１段９８號１樓",
     "x": 121.499692,
     "y": 25.134796,
     "shops": [
         {
             "shop": "成平美食屋",
-            "pay_list": ""
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        },
+        {
+            "shop": "成平美食屋",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

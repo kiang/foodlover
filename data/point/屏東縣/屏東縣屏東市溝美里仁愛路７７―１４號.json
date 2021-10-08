@@ -6,8 +6,12 @@
     "shops": [
         {
             "shop": "旭之坊",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "旭之坊",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

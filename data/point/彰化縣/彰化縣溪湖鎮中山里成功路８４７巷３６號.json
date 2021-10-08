@@ -1,17 +1,13 @@
 {
-    "name": "餐食攤販\/調理飲料攤販",
+    "name": "調理飲料攤販\/餐食攤販",
     "address": "彰化縣溪湖鎮中山里成功路８４７巷３６號",
     "x": 120.496376,
     "y": 23.966574,
     "shops": [
         {
             "shop": "阿林仔自助餐",
-            "pay_list": "街口支付 \/ LINE PAY"
-        },
-        {
-            "shop": "阿林仔自助餐",
-            "pay_list": "街口支付 \/ LINE PAY"
+            "pay_list": "LINE Pay Money \/ 街口支付"
         }
     ],
-    "pay_list": "街口支付\/LINE PAY"
+    "pay_list": "LINE Pay Money\/街口支付"
 }

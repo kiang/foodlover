@@ -1,13 +1,13 @@
 {
-    "name": "麵店、小吃店",
+    "name": "冰果店、冷（熱）飲店",
     "address": "彰化縣鹿港鎮大有里民族路１９６號",
     "x": 120.434014,
     "y": 24.053991,
     "shops": [
         {
-            "shop": "蔡漢澤",
-            "pay_list": ""
+            "shop": "黃五帝冷飲店",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

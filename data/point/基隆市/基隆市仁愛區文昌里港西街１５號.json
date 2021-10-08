@@ -1,13 +1,13 @@
 {
-    "name": "冰果店、冷（熱）飲店",
-    "address": "基隆市仁愛區文昌里港西街１５號",
+    "name": "早餐店",
+    "address": "基隆市仁愛區文昌里港西街１５號１樓",
     "x": 121.740038,
     "y": 25.133172,
     "shops": [
         {
-            "shop": "采裕企業社",
-            "pay_list": ""
+            "shop": "二九來吧創意料理店",
+            "pay_list": "街口支付 \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "街口支付\/LINE Pay Money"
 }

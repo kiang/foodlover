@@ -1,17 +1,13 @@
 {
-    "name": "麵店、小吃店",
-    "address": "宜蘭縣宜蘭市聖後街２８號前",
+    "name": "餐食攤販",
+    "address": "宜蘭縣宜蘭市聖後街２８號前面",
     "x": 121.758114,
     "y": 24.758248,
     "shops": [
         {
-            "shop": "鳥蛋達人",
-            "pay_list": ""
-        },
-        {
-            "shop": "小宋臭豆腐",
-            "pay_list": ""
+            "shop": "小宋東門夜市",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

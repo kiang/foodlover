@@ -1,13 +1,13 @@
 {
-    "name": "冰果店、冷（熱）飲店",
+    "name": "餐館、餐廳\/飲酒店",
     "address": "屏東縣恆春鎮南灣里南灣路２２３號",
     "x": 120.763054,
     "y": 21.960222,
     "shops": [
         {
-            "shop": "墾荒者企業社",
-            "pay_list": ""
+            "shop": "牛仔沙灘酒吧",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

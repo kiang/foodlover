@@ -1,41 +1,25 @@
 {
-    "name": "餐食攤販",
+    "name": "飲料零售\/西點麵包零售\/糕餅麵包製造",
     "address": "南投縣鹿谷鄉內湖村興產路２－３號",
     "x": 120.79607,
     "y": 23.674188,
     "shops": [
         {
-            "shop": "避煞專家",
-            "pay_list": "LINE PAY"
+            "shop": "久保田烘焙坊",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
         },
         {
-            "shop": "久保田烘焙坊",
-            "pay_list": ""
+            "shop": "避煞專家",
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "妖怪喀麵",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "黃金水餃",
-            "pay_list": ""
-        },
-        {
-            "shop": "廟街",
-            "pay_list": ""
-        },
-        {
-            "shop": "鑌鎭食堂",
-            "pay_list": ""
-        },
-        {
-            "shop": "黃文毅",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "丸太舍拉麵",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

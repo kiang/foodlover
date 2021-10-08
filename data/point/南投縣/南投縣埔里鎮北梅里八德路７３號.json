@@ -7,7 +7,11 @@
         {
             "shop": "蔡家村小吃部",
             "pay_list": "街口支付"
+        },
+        {
+            "shop": "梁家臭豆腐店",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "街口支付"
+    "pay_list": "街口支付\/LINE Pay Money"
 }

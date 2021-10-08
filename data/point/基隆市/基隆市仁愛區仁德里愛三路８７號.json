@@ -1,13 +1,13 @@
 {
-    "name": "餐館、餐廳",
-    "address": "基隆市仁愛區仁德里愛三路８７號２樓",
+    "name": "夾娃娃機店\/麵店、小吃店",
+    "address": "基隆市仁愛區仁德里愛三路８７號（１樓Ｓ３１）",
     "x": 121.743069,
     "y": 25.129377,
     "shops": [
         {
-            "shop": "龍鍋餐廳",
-            "pay_list": ""
+            "shop": "小絜魯味店",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

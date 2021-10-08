@@ -1,17 +1,13 @@
 {
-    "name": "麵店、小吃店",
-    "address": "南投縣草屯鎮玉峰里玉峰街４６號",
+    "name": "冰果店、冷（熱）飲店",
+    "address": "南投縣草屯鎮玉峰里玉峰街４６號前空地",
     "x": 120.68594,
     "y": 23.980485,
     "shops": [
         {
-            "shop": "肉圓小吃店",
-            "pay_list": ""
-        },
-        {
             "shop": "草屯圓環白面東楊桃汁",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

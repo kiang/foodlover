@@ -1,13 +1,13 @@
 {
-    "name": "糖果餅乾零售\/經營網路購物",
+    "name": "經營網路購物\/糖果餅乾零售",
     "address": "新北市淡水區北新路１２９號７樓",
     "x": 121.449125,
     "y": 25.178874,
     "shops": [
         {
             "shop": "松品豐餅舖",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

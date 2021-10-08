@@ -5,868 +5,68 @@
     "y": 23.161062,
     "shops": [
         {
-            "shop": "中山公有零售市場-25",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-26",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-27",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-28",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-29",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-30",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-31",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-32",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-33",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-34",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-35",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-36",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-37",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-38",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-39",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-40",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-41",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-42",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-43",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-44",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-45",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "中山公有零售市場-46",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-47",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-48",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-49",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-50",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-51",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-52",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-53",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "中山公有零售市場-54",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-55",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-56",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-57",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-58",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-59",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-60",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "中山公有零售市場-61",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-62",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-63",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "中山公有零售市場-64",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-65",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-66",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-67",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-68",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-69",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-70",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-71",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-72",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-73",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-74",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-75",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-76",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-77",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-78",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-79",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-80",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-81",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-83",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-84",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-85",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-86",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-87",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-88",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-89",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-90",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-91",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-92",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-93",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-94",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-95",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-96",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-97",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-98",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-99",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-00A1",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-00A2",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-00A3",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-00A4",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-00A5",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-00A6",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-00A7",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-00A8",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-00A9",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-100",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-101",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "中山公有零售市場-102",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-103",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-104",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-105",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-106",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-107",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-108",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-109",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-110",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-111",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-112",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-113",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-114",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "中山公有零售市場-115",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-116",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-117",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-118",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-119",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-120",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-121",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-122",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-123",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-124",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-125",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-126",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-127",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-128",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-129",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-130",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-131",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "中山公有零售市場-132",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-133",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "中山公有零售市場-134",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-135",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-136",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-137",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-138",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-139",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-140",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-141",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-142",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-143",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-144",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-145",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-146",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-147",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-148",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-149",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-150",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-152",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-153",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-154",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "中山公有零售市場-155",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-156",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-157",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-158",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-159",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-160",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-161",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-162",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-163",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-164",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-165",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-166",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-167",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-168",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-169",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-170",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-171",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "中山公有零售市場-172",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-173",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-174",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-175",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-176",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-177",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-178",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-179",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-180",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "中山公有零售市場-181",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-182",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-183",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-184",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-185",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-186",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-187",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-188",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-189",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-190",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-191",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-192",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-193",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-194",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-195",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-196",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-197",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-198",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-199",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-200",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-201",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-202",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-205",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-207",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-209",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-210",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-211",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-212",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-213",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-214",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-0A10",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-0A11",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-0A12",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-0A13",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-0A14",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-0A15",
-            "pay_list": ""
-        },
-        {
-            "shop": "中山公有零售市場-0A16",
-            "pay_list": ""
-        },
-        {
             "shop": "中山公有零售市場 45",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "中山公有零售市場 53",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "中山公有零售市場 60",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "中山公有零售市場 63",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "中山公有零售市場 101",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "中山公有零售市場 114",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "中山公有零售市場 131",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "中山公有零售市場 133",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "中山公有零售市場 154",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "中山公有零售市場 171",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "中山公有零售市場 180",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "中山公有零售市場 45",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "中山公有零售市場 48",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "中山公有零售市場 53",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "中山公有零售市場 60",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "中山公有零售市場 63",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "中山公有零售市場 90",
@@ -874,36 +74,36 @@
         },
         {
             "shop": "中山公有零售市場 101",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "中山公有零售市場 104",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "中山公有零售市場 114",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "中山公有零售市場 131",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "中山公有零售市場 133",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "中山公有零售市場 154",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "中山公有零售市場 171",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "中山公有零售市場 180",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY\/台灣 PAY"
+    "pay_list": "LINE Pay Money\/台灣 PAY"
 }

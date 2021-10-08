@@ -1,13 +1,13 @@
 {
-    "name": "冰果店、冷（熱）飲店",
-    "address": "臺北市南港區南港里南港路１段１４３號",
+    "name": "麵店、小吃店",
+    "address": "臺北市南港區南港里南港路１段１４３號１樓",
     "x": 121.61390062317,
     "y": 25.055021330743,
     "shops": [
         {
-            "shop": "少校茶舖",
-            "pay_list": ""
+            "shop": "春月商行",
+            "pay_list": "街口支付 \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "街口支付\/LINE Pay Money"
 }

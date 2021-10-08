@@ -1,25 +1,13 @@
 {
-    "name": "調理飲料攤販\/餐食攤販",
+    "name": "餐食攤販\/調理飲料攤販",
     "address": "臺東縣卑南鄉太平村太平路３５２號",
     "x": 121.08455073241,
     "y": 22.784089409792,
     "shops": [
         {
-            "shop": "古沙奈小米甜甜圈",
-            "pay_list": ""
-        },
-        {
             "shop": "想不起來霜淇淋",
-            "pay_list": ""
-        },
-        {
-            "shop": "古沙奈小米甜甜圈",
-            "pay_list": ""
-        },
-        {
-            "shop": "想不起來霜淇淋",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

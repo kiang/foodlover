@@ -1,13 +1,13 @@
 {
-    "name": "便當、自助餐店",
+    "name": "麵店、小吃店",
     "address": "高雄市小港區廈莊里孔鳳路５９８號",
     "x": 120.3590620588,
     "y": 22.583020740177,
     "shops": [
         {
-            "shop": "總舖師美味自助餐館",
-            "pay_list": ""
+            "shop": "一粒粒愛心美食坊",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

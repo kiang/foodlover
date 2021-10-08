@@ -1,45 +1,21 @@
 {
-    "name": "咖啡館",
-    "address": "新北市汐止區文化里新台五路一段９６號",
+    "name": "餐館、餐廳",
+    "address": "新北市汐止區文化里新台五路一段９６號１９樓",
     "x": 121.648487,
     "y": 25.060497,
     "shops": [
         {
-            "shop": "茹茹咖啡館",
-            "pay_list": ""
-        },
-        {
             "shop": "明水然水產有限公司",
-            "pay_list": ""
+            "pay_list": "台灣 PAY"
         },
         {
-            "shop": "超越中正水產有限公司",
-            "pay_list": ""
+            "shop": "榮星餐飲商行",
+            "pay_list": "LINE Pay Money"
         },
         {
-            "shop": "肉多多火鍋有限公司",
-            "pay_list": ""
-        },
-        {
-            "shop": "肉多多美食有限公司",
-            "pay_list": ""
-        },
-        {
-            "shop": "肉多多三多有限公司",
-            "pay_list": ""
-        },
-        {
-            "shop": "肉多多大墩有限公司",
-            "pay_list": ""
-        },
-        {
-            "shop": "肉多多全球股份有限公司",
-            "pay_list": ""
-        },
-        {
-            "shop": "樂多多世界股份有限公司",
-            "pay_list": ""
+            "shop": "軒林企業社",
+            "pay_list": "台灣 PAY"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

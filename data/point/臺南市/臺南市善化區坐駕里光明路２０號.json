@@ -1,13 +1,13 @@
 {
-    "name": "飲酒店\/冰果店、冷（熱）飲店\/餐館、餐廳",
+    "name": "飲酒店\/餐館、餐廳\/冰果店、冷（熱）飲店",
     "address": "臺南市善化區坐駕里光明路２０號",
     "x": 120.295509,
     "y": 23.131568,
     "shops": [
         {
             "shop": "天佳小吃店",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

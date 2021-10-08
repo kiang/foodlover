@@ -1,13 +1,13 @@
 {
-    "name": "糕餅麵包製造\/西點麵包零售",
+    "name": "西點麵包零售\/糕餅麵包製造",
     "address": "彰化縣秀水鄉鶴鳴村馬鳴路６２號",
     "x": 120.498609,
     "y": 24.058617,
     "shops": [
         {
             "shop": "蘭馨齋食品行",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

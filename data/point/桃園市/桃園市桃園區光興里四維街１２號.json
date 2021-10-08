@@ -1,13 +1,13 @@
 {
-    "name": "便當、自助餐店\/糖果餅乾零售\/冰果店、冷（熱）飲店",
+    "name": "便當、自助餐店\/冰果店、冷（熱）飲店\/糖果餅乾零售",
     "address": "桃園市桃園區光興里四維街１２號",
     "x": 121.303783,
     "y": 24.993051,
     "shops": [
         {
             "shop": "芙萊樂企業社",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

@@ -1,13 +1,13 @@
 {
-    "name": "冰果店、冷（熱）飲店\/咖啡館\/茶藝館",
+    "name": "茶藝館\/冰果店、冷（熱）飲店\/咖啡館",
     "address": "新北市瑞芳區福住里基山街１５０號",
     "x": 121.843829304,
     "y": 25.108098974398,
     "shops": [
         {
             "shop": "山海全觀茶坊",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

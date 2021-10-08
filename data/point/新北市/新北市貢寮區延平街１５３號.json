@@ -1,13 +1,13 @@
 {
     "name": "餐館、餐廳",
-    "address": "新北市貢寮區延平街１５３號１樓",
+    "address": "新北市貢寮區延平街１５３號對面",
     "x": 121.92496275577,
     "y": 25.058066714907,
     "shops": [
         {
-            "shop": "海王子餐廳",
-            "pay_list": ""
+            "shop": "金金小吃部",
+            "pay_list": "LINE Pay Money \/ 街口支付"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money\/街口支付"
 }

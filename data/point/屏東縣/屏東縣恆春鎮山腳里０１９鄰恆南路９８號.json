@@ -1,13 +1,13 @@
 {
-    "name": "餐館、餐廳\/冰果店、冷（熱）飲店",
+    "name": "冰果店、冷（熱）飲店\/餐館、餐廳",
     "address": "屏東縣恆春鎮山腳里０１９鄰恆南路９８號",
     "x": 120.745553,
     "y": 21.996151,
     "shops": [
         {
             "shop": "轉角９８",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

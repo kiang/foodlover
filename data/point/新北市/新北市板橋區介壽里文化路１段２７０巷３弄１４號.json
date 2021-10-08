@@ -1,13 +1,13 @@
 {
-    "name": "餐館、餐廳\/菸酒零售",
+    "name": "菸酒零售\/餐館、餐廳",
     "address": "新北市板橋區介壽里文化路１段２７０巷３弄１４號",
     "x": 121.467968,
     "y": 25.020797,
     "shops": [
         {
             "shop": "酒食人商行",
-            "pay_list": ""
+            "pay_list": "街口支付 \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "街口支付\/LINE Pay Money"
 }

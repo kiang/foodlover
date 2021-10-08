@@ -6,12 +6,8 @@
     "shops": [
         {
             "shop": "小倆口魯味",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "茶典子茶飲專賣店",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

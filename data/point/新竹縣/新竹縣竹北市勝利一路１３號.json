@@ -1,13 +1,13 @@
 {
-    "name": "早餐店",
-    "address": "新竹縣竹北市勝利一路１３號",
+    "name": "冰果店、冷（熱）飲店",
+    "address": "新竹縣竹北市勝利一路１３號１樓",
     "x": 121.02476322726,
     "y": 24.822259389635,
     "shops": [
         {
-            "shop": "拉亞漢堡竹北勝利店",
-            "pay_list": ""
+            "shop": "佑沅商行",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

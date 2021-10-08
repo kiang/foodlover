@@ -1,17 +1,13 @@
 {
-    "name": "調理飲料攤販",
-    "address": "高雄市路竹區竹南里中山路１８２１號（高苑科大第三宿舍１樓餐廳）",
-    "x": 120.266451,
-    "y": 22.841093,
+    "name": "便當、自助餐店",
+    "address": "高雄市路竹區竹南里中山路１８２１號（高苑科大校內三宿）",
+    "x": 120.26645076589,
+    "y": 22.841093281168,
     "shops": [
         {
-            "shop": "庭雨茶飲",
-            "pay_list": ""
-        },
-        {
             "shop": "開運團膳",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

@@ -6,8 +6,12 @@
     "shops": [
         {
             "shop": "竹田屋關東煮店",
-            "pay_list": ""
+            "pay_list": "台灣 PAY \/ LINE Pay Money"
+        },
+        {
+            "shop": "學府人文商坊",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

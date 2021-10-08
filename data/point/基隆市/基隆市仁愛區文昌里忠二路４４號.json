@@ -6,8 +6,12 @@
     "shops": [
         {
             "shop": "大間餐飲有限公司",
-            "pay_list": ""
+            "pay_list": "台灣 PAY"
+        },
+        {
+            "shop": "初沐咖啡專賣店",
+            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
 }

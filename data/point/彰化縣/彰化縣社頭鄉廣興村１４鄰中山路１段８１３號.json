@@ -1,17 +1,13 @@
 {
-    "name": "餐食攤販\/調理飲料攤販",
+    "name": "調理飲料攤販\/餐食攤販",
     "address": "彰化縣社頭鄉廣興村１４鄰中山路１段８１３號",
     "x": 120.582823,
     "y": 23.902104,
     "shops": [
         {
             "shop": "林姿含",
-            "pay_list": "街口支付 \/ LINE PAY"
-        },
-        {
-            "shop": "林姿含",
-            "pay_list": "街口支付 \/ LINE PAY"
+            "pay_list": "LINE Pay Money \/ 街口支付"
         }
     ],
-    "pay_list": "街口支付\/LINE PAY"
+    "pay_list": "LINE Pay Money\/街口支付"
 }

@@ -1,13 +1,13 @@
 {
-    "name": "餐食攤販\/畜肉零售",
+    "name": "畜肉零售\/餐食攤販",
     "address": "嘉義縣民雄鄉中樂村００５鄰復興路７０號１樓",
     "x": 120.429619,
     "y": 23.557441,
     "shops": [
         {
             "shop": "民雄炸雞王店",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

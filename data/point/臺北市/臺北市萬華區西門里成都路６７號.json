@@ -1,29 +1,13 @@
 {
-    "name": "餐館、餐廳",
-    "address": "臺北市萬華區西門里成都路６７號地下之１",
+    "name": "麵店、小吃店",
+    "address": "臺北市萬華區西門里成都路６７號４樓之１",
     "x": 121.50569305829,
     "y": 25.042911590049,
     "shops": [
         {
-            "shop": "展鴻小吃店",
-            "pay_list": ""
-        },
-        {
             "shop": "福氣餐館",
-            "pay_list": ""
-        },
-        {
-            "shop": "采佳興業有限公司",
-            "pay_list": ""
-        },
-        {
-            "shop": "福氣來企業有限公司",
-            "pay_list": ""
-        },
-        {
-            "shop": "元氣樂有限公司",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

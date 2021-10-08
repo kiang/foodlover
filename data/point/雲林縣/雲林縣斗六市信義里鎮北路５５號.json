@@ -6,8 +6,16 @@
     "shops": [
         {
             "shop": "翰億企業社",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "來就好企業社",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "翰億企業社",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

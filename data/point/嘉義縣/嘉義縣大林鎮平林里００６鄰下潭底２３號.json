@@ -1,17 +1,13 @@
 {
-    "name": "餐館、餐廳",
-    "address": "嘉義縣大林鎮平林里００６鄰下潭底２３號之５附１３",
+    "name": "麵店、小吃店",
+    "address": "嘉義縣大林鎮平林里００６鄰下潭底２３號之５附６",
     "x": 120.456785,
     "y": 23.597232,
     "shops": [
         {
-            "shop": "原健康素食店",
-            "pay_list": ""
-        },
-        {
             "shop": "拾捌號粥鋪",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

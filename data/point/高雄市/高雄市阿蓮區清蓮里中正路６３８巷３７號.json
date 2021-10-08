@@ -1,13 +1,13 @@
 {
-    "name": "糖果餅乾零售\/糖果餅乾批發",
+    "name": "糖果餅乾批發\/糖果餅乾零售",
     "address": "高雄市阿蓮區清蓮里中正路６３８巷３７號１樓",
     "x": 120.328871,
     "y": 22.881633,
     "shops": [
         {
             "shop": "惠昌食品有限公司",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

@@ -1,13 +1,17 @@
 {
-    "name": "其他烘焙炊蒸食品製造\/飲料零售\/餐館、餐廳\/咖啡零售",
+    "name": "飲料零售\/其他烘焙炊蒸食品製造\/咖啡零售\/餐館、餐廳",
     "address": "新北市樹林區和平里中華路６８號、６８號２樓",
     "x": 121.419966,
     "y": 24.981717,
     "shops": [
         {
             "shop": "成生美食屋",
-            "pay_list": ""
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+        },
+        {
+            "shop": "成生美食屋",
+            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
 }

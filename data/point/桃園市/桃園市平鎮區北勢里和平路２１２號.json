@@ -1,17 +1,13 @@
 {
     "name": "麵店、小吃店",
-    "address": "桃園市平鎮區北勢里和平路２１２號１樓",
+    "address": "桃園市平鎮區北勢里和平路２１２號後面",
     "x": 121.21924825998,
     "y": 24.945755110245,
     "shops": [
         {
-            "shop": "梅亭小吃店",
-            "pay_list": ""
-        },
-        {
             "shop": "劉秀珠",
-            "pay_list": "街口支付 \/ LINE PAY"
+            "pay_list": "LINE Pay Money \/ 街口支付"
         }
     ],
-    "pay_list": "街口支付\/LINE PAY"
+    "pay_list": "LINE Pay Money\/街口支付"
 }

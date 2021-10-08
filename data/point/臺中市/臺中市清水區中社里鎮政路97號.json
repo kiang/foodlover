@@ -6,16 +6,16 @@
     "shops": [
         {
             "shop": "清水第二公有零售市場 A007",
-            "pay_list": "街口支付 \/ LINE PAY"
+            "pay_list": "街口支付 \/ LINE Pay Money"
         },
         {
             "shop": "清水第二公有零售市場 A024",
-            "pay_list": "街口支付 \/ LINE PAY"
+            "pay_list": "街口支付 \/ LINE Pay Money"
         },
         {
             "shop": "清水第二公有零售市場 A028",
-            "pay_list": "街口支付 \/ LINE PAY"
+            "pay_list": "街口支付 \/ LINE Pay Money"
         }
     ],
-    "pay_list": "街口支付\/LINE PAY"
+    "pay_list": "街口支付\/LINE Pay Money"
 }

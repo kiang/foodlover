@@ -1,13 +1,17 @@
 {
-    "name": "西點麵包零售\/冰果店、冷（熱）飲店",
+    "name": "冰果店、冷（熱）飲店\/西點麵包零售",
     "address": "嘉義市東區過溝里成仁街１０９號１樓",
     "x": 120.4523599999,
     "y": 23.477470007666,
     "shops": [
         {
             "shop": "諦凡甜甜圈",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "諦凡甜甜圈",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

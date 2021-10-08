@@ -1,13 +1,13 @@
 {
-    "name": "西點麵包零售\/專營權出租",
+    "name": "專營權出租\/西點麵包零售",
     "address": "臺南市中西區民族路３段１２４號",
     "x": 120.196723,
     "y": 22.998718,
     "shops": [
         {
             "shop": "胡乃元",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

@@ -1,17 +1,17 @@
 {
-    "name": "糕餅麵包製造\/冰果店、冷（熱）飲店",
+    "name": "冰果店、冷（熱）飲店\/糕餅麵包製造",
     "address": "嘉義縣太保市安仁里０１０鄰祥和三路東段５號",
     "x": 120.293011,
     "y": 23.454808,
     "shops": [
         {
             "shop": "喬洵商行",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "喬洵商行",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

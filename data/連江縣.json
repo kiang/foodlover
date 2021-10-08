@@ -4,182 +4,28 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣南竿鄉介壽村３２５―２號",
-                "pay_list": ""
+                "k": "連江縣北竿鄉塘岐村２２９號",
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    119.952346,
-                    26.160595
+                    119.99836,
+                    26.22408
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣南竿鄉福沃村８４號",
-                "pay_list": ""
+                "k": "連江縣南竿鄉福沃村５７號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    119.943822,
-                    26.157394
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣北竿鄉塘岐村１４９號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.997294,
-                    26.222978
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉四維村７２號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.918036,
-                    26.16958
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村５１號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.952426,
-                    26.158508
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村５５號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.952431,
-                    26.158412
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村２１２號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.952129,
-                    26.15604
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村９６號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.952609,
-                    26.156953
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村２６號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.95167,
-                    26.159929
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉福沃村９０號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.94365,
-                    26.157308
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉馬祖村５４－１號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.918741,
-                    26.159358
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉馬祖村９３號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.919027,
-                    26.160354
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉馬祖村８３號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.918791,
-                    26.160164
+                    119.944444,
+                    26.157862
                 ]
             }
         },
@@ -187,7 +33,7 @@
             "type": "Feature",
             "properties": {
                 "k": "連江縣南竿鄉清水村８４－１１號",
-                "pay_list": ""
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
@@ -200,78 +46,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣南竿鄉仁愛村６９號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.924492,
-                    26.141625
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村３３６―４號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.951279,
-                    26.160485
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣東引鄉中柳村６７號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.487453,
-                    26.367896
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣東引鄉中柳村１２３號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.49044,
-                    26.367006
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣北竿鄉坂里村４７號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.97459,
-                    26.21599
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "k": "連江縣北竿鄉塘岐村２７３―８號",
-                "pay_list": ""
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -284,112 +60,56 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣北竿鄉塘岐村２８１－１號",
-                "pay_list": ""
+                "k": "連江縣北竿鄉坂里村４７號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    119.99924,
-                    26.225695
+                    119.97459,
+                    26.21599
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣北竿鄉橋仔村２０號",
-                "pay_list": ""
+                "k": "連江縣北竿鄉芹壁村２２－１號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    119.995258,
-                    26.234919
+                    119.983684,
+                    26.22474
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣北竿鄉橋仔村４鄰１６４號",
-                "pay_list": ""
+                "k": "連江縣北竿鄉芹壁村５４號",
+                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    119.995946,
-                    26.24358
+                    119.982316,
+                    26.224107
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣北竿鄉橋仔村１０２號",
-                "pay_list": ""
+                "k": "連江縣北竿鄉芹壁村６０號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    119.993472,
-                    26.234662
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣北竿鄉橋仔村１２１號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.993664,
-                    26.235178
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣北竿鄉芹壁村９５號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.983031,
-                    26.221751
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣北竿鄉坂里村８４號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.973546,
-                    26.215069
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣北竿鄉塘岐村２０２號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.998322,
-                    26.223437
+                    119.982139,
+                    26.224087
                 ]
             }
         },
@@ -397,7 +117,7 @@
             "type": "Feature",
             "properties": {
                 "k": "連江縣北竿鄉芹壁村１１號",
-                "pay_list": ""
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -410,78 +130,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣北竿鄉塘岐村２４９號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.997738,
-                    26.224858
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣北竿鄉塘岐村７５號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.99822,
-                    26.223811
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣北竿鄉塘岐村１８１號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.99773,
-                    26.223244
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣北竿鄉塘岐村２１９號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.998643,
-                    26.223935
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣北竿鄉塘岐村１７０號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.997547,
-                    26.223089
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "k": "連江縣北竿鄉塘岐村８８號",
-                "pay_list": ""
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -495,7 +145,7 @@
             "type": "Feature",
             "properties": {
                 "k": "連江縣北竿鄉塘岐村９０號",
-                "pay_list": ""
+                "pay_list": "台灣 PAY\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -508,22 +158,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣北竿鄉塘岐村２４２號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.997986,
-                    26.224547
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "k": "連江縣北竿鄉塘岐村８０號",
-                "pay_list": ""
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
@@ -536,196 +172,14 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣北竿鄉塘岐村１８０號",
-                "pay_list": ""
+                "k": "連江縣北竿鄉塘岐村２２５號",
+                "pay_list": "台灣 PAY"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    119.997932,
-                    26.223044
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣北竿鄉塘岐村１９８號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.998243,
-                    26.223382
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣北竿鄉塘岐村２４６號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.997828,
-                    26.224744
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣北竿鄉芹壁村４８號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.982384,
-                    26.224281
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣北竿鄉坂里村７１號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.973949,
-                    26.215249
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣北竿鄉芹壁村２５號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.983528,
-                    26.224667
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣北竿鄉坂里村２７－１號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.974438,
-                    26.216794
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣北竿鄉塘岐村２２１號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.998476,
-                    26.223897
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣北竿鄉芹壁村７５號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.981804,
-                    26.224105
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣北竿鄉塘岐村８２號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.997872,
-                    26.223883
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣北竿鄉塘岐村１９０號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.998091,
-                    26.223248
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉馬祖村５４號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.918738,
-                    26.159414
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉福沃村１４３之１號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.942612,
-                    26.157268
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村７２號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.952237,
-                    26.157855
+                    119.998424,
+                    26.22397
                 ]
             }
         },
@@ -733,7 +187,7 @@
             "type": "Feature",
             "properties": {
                 "k": "連江縣南竿鄉介壽村２０５號",
-                "pay_list": ""
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -746,106 +200,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣南竿鄉介壽村３４７號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.951689,
-                    26.155567
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村１鄰２３－１號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.952119,
-                    26.160364
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉清水村５鄰８４－２號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.939545,
-                    26.147881
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉福沃村１３９號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.940068,
-                    26.155933
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉福沃村９８號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.943552,
-                    26.157011
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村２２３號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.951712,
-                    26.15569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村１６２號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.952226,
-                    26.155584
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "k": "連江縣南竿鄉珠螺村４鄰５２號",
-                "pay_list": ""
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -858,154 +214,14 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣南竿鄉清水村８６－３號",
-                "pay_list": ""
+                "k": "連江縣南竿鄉福沃村５１號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    119.938687,
-                    26.149084
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉福沃村１１０―１號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.945361,
-                    26.158888
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉清水村９４號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.938104,
-                    26.152609
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村１９８之１號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.95246,
-                    26.156708
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉馬祖村５５號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.91853,
-                    26.159597
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村６７號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.95247,
-                    26.157886
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村３３６－２號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.951004,
-                    26.155346
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村４７號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.95231,
-                    26.160008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉清水村１１７―３號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.937316,
-                    26.146523
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村１９６號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.952298,
-                    26.156419
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉仁愛村４８號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.925462,
-                    26.142212
+                    119.944602,
+                    26.157968
                 ]
             }
         },
@@ -1013,7 +229,7 @@
             "type": "Feature",
             "properties": {
                 "k": "連江縣南竿鄉復興村１１０－１號",
-                "pay_list": ""
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1026,50 +242,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣南竿鄉介壽村２２２號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.951712,
-                    26.155638
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村１９９號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.952292,
-                    26.156562
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉津沙村６１號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.912882,
-                    26.1456
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "k": "連江縣南竿鄉津沙村９７號",
-                "pay_list": ""
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1082,36 +256,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣南竿鄉復興村９８號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.953042,
-                    26.16328
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉仁愛村１５－１號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.925163,
-                    26.142937
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "k": "連江縣南竿鄉福沃村６５號",
-                "pay_list": ""
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1124,294 +270,42 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣南竿鄉清水村１６１號",
-                "pay_list": ""
+                "k": "連江縣南竿鄉福沃村９０－３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    117.927573,
-                    26.147597
+                    119.943237,
+                    26.157164
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣南竿鄉清水村１０４號",
-                "pay_list": ""
+                "k": "連江縣南竿鄉福沃村６３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    119.938021,
-                    26.152626
+                    119.944334,
+                    26.157793
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣南竿鄉介壽村２８６號",
-                "pay_list": ""
+                "k": "連江縣南竿鄉馬祖村５３號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    119.951593,
-                    26.156089
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉清水村１２６－５號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.937243,
-                    26.152166
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉馬祖村８２號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.91904,
-                    26.159934
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉馬祖村１１３－１號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.918041,
-                    26.161543
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村２２７號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.951704,
-                    26.155889
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村２００號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.952231,
-                    26.156511
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村６４號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.95222,
-                    26.15801
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村１０７－４號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.952507,
-                    26.156545
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村２４６號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.951181,
-                    26.156417
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村２５０號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.951047,
-                    26.156392
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村２２４號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.951706,
-                    26.155746
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村２４７號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.951336,
-                    26.156307
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉復興村４８－１號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.953619,
-                    26.163405
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村２３９號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.951564,
-                    26.1565
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉福沃村８０號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.943895,
-                    26.157422
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉清水村１００號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.937554,
-                    26.152763
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉清水村１０７號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.938125,
-                    26.152775
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉馬祖村１１號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.91969,
-                    26.16025
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉馬祖村７０號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.918969,
-                    26.159683
+                    119.91849,
+                    26.15951
                 ]
             }
         },
@@ -1419,7 +313,7 @@
             "type": "Feature",
             "properties": {
                 "k": "連江縣南竿鄉馬祖村６８號",
-                "pay_list": ""
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -1432,708 +326,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣南竿鄉馬祖村３４號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.91882,
-                    26.159061
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉馬祖村５０號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.91909,
-                    26.159161
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉馬祖村８５號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.918819,
-                    26.160191
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉馬祖村８０號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.919062,
-                    26.159867
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉馬祖村６６號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.918882,
-                    26.159583
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉馬祖村６５號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.918617,
-                    26.159825
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉馬祖村９７號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.919071,
-                    26.160425
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉馬祖村７８號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.919039,
-                    26.159835
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉馬祖村３１號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.918796,
-                    26.159134
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉仁愛村８０號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.925068,
-                    26.141808
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉仁愛村１６號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.925281,
-                    26.142862
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉馬祖村８９號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.918882,
-                    26.160253
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村２３３號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.951707,
-                    26.156154
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉馬祖村９５號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.919043,
-                    26.160394
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村５８號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.952209,
-                    26.158179
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉馬祖村９８號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.919296,
-                    26.160246
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村１９８號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.952468,
-                    26.156745
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村１７６號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.952342,
-                    26.15595
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉福沃村４１號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.945027,
-                    26.158325
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉復興村７２－１號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.952931,
-                    26.163537
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村４７－２號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.95218,
-                    26.158761
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村５７號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.952433,
-                    26.158369
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村１０７―５號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.951255,
-                    26.160468
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉仁愛村６４號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.924536,
-                    26.141787
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村２０２號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.952196,
-                    26.156414
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉仁愛村１０號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.925316,
-                    26.142581
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉清水村９８號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.93778,
-                    26.152743
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉馬祖村１０２－６號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.918287,
-                    26.159783
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村２７５號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.951465,
-                    26.157506
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉清水村８８號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.93855,
-                    26.152342
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村８３號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.952516,
-                    26.157622
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村７３號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.952479,
-                    26.157796
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉清水村１１７－４號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.937729,
-                    26.152417
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村９５號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.952627,
-                    26.157043
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村１０７－３號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.952419,
-                    26.156489
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉仁愛村６６－１號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.924274,
-                    26.141643
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉津沙村３４號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.912688,
-                    26.146035
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉四維村５９號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.926091,
-                    26.1708
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村３５７號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.951115,
-                    26.155512
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉清水村１２６－６號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.936967,
-                    26.152096
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村４７－１６號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.952363,
-                    26.159229
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村２４５－１號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.951336,
-                    26.156307
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉清水村１１５號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.938019,
-                    26.152902
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村８８號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.952572,
-                    26.157145
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉介壽村２８４號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.951624,
-                    26.156036
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉復興村１４３號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.952817,
-                    26.163739
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉仁愛村４６號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.92556,
-                    26.142244
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣東引鄉中柳村９０號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.488555,
-                    26.367516
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣東引鄉樂華村１１３號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.488234,
-                    26.367127
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣東引鄉樂華村９０號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.489089,
-                    26.366945
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "k": "連江縣東引鄉樂華村９５號",
-                "pay_list": ""
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2146,78 +340,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣東引鄉中柳村６９號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.487588,
-                    26.367812
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣東引鄉樂華村１２３號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.488625,
-                    26.3673
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣東引鄉樂華村８０號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.488398,
-                    26.366831
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣東引鄉樂華村１１０號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.488155,
-                    26.367438
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣東引鄉中柳村４２號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.48792,
-                    26.367486
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "k": "連江縣東引鄉樂華村１２１號",
-                "pay_list": ""
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2230,92 +354,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣東引鄉樂華村１１４號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.48838,
-                    26.367156
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣東引鄉中柳村１０７號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.489228,
-                    26.367439
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣東引鄉中柳村８２號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.488172,
-                    26.367557
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣東引鄉中柳村１１０號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.489372,
-                    26.367443
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣東引鄉樂華村８２號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.488606,
-                    26.366833
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣東引鄉樂華村１９４號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.496004,
-                    26.365544
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "k": "連江縣東引鄉樂華村１０６號",
-                "pay_list": ""
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2328,126 +368,28 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣東引鄉樂華村９３號",
-                "pay_list": ""
+                "k": "連江縣東引鄉樂華村４７號",
+                "pay_list": "街口支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.48924,
-                    26.366975
+                    120.487396,
+                    26.367092
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣東引鄉中柳村４１號",
-                "pay_list": ""
+                "k": "連江縣東引鄉中柳村６７號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.487748,
-                    26.367395
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣東引鄉樂華村１３１號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.488614,
-                    26.367097
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣東引鄉樂華村１０２號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.487671,
-                    26.367069
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣東引鄉中柳村８７號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.488425,
-                    26.367532
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣東引鄉樂華村１４２號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.490196,
-                    26.362437
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣東引鄉樂華村４鄰６３之２號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.487475,
-                    26.366568
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣東引鄉樂華村４９號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.487441,
-                    26.366965
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣東引鄉樂華村８７號",
-                "pay_list": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.488913,
-                    26.366906
+                    120.487453,
+                    26.367896
                 ]
             }
         }

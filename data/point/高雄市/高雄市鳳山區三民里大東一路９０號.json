@@ -1,13 +1,13 @@
 {
-    "name": "糖果餅乾零售\/飲料零售",
+    "name": "飲料零售\/糖果餅乾零售",
     "address": "高雄市鳳山區三民里大東一路９０號１樓",
     "x": 120.361695,
     "y": 22.623266,
     "shops": [
         {
             "shop": "侑侑商行",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

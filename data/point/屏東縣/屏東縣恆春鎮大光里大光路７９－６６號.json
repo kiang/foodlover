@@ -5,17 +5,13 @@
     "y": 21.94525,
     "shops": [
         {
-            "shop": "阿興生魚片壹號",
-            "pay_list": ""
+            "shop": "阿福師平價海鮮生魚片",
+            "pay_list": "LINE Pay Money"
         },
         {
-            "shop": "上安活海鮮",
-            "pay_list": ""
-        },
-        {
-            "shop": "邱家生魚片二店",
-            "pay_list": ""
+            "shop": "亞發師小吃部",
+            "pay_list": "街口支付"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money\/街口支付"
 }

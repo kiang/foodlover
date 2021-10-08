@@ -1,13 +1,13 @@
 {
-    "name": "麵店、小吃店",
+    "name": "冰果店、冷（熱）飲店",
     "address": "嘉義縣朴子市文化里海通路５０號",
     "x": 120.244147,
     "y": 23.463856,
     "shops": [
         {
-            "shop": "韓星炸雞朴子店",
-            "pay_list": ""
+            "shop": "俐智茶行",
+            "pay_list": "一卡通 \/ LINE Pay Money \/ 愛金卡"
         }
     ],
-    "pay_list": ""
+    "pay_list": "一卡通\/LINE Pay Money\/愛金卡"
 }

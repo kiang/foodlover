@@ -1,21 +1,17 @@
 {
-    "name": "糕餅麵包製造\/西點麵包批發",
-    "address": "高雄市三民區正興里建元路５６號１９樓",
+    "name": "西點麵包零售",
+    "address": "高雄市三民區正興里建元路５６號１樓",
     "x": 120.317594,
     "y": 22.646844,
     "shops": [
         {
-            "shop": "安丞食品有限公司",
-            "pay_list": ""
-        },
-        {
             "shop": "我家是巴特李有限公司",
-            "pay_list": ""
+            "pay_list": "台灣 PAY"
         },
         {
             "shop": "金亞米企業行建元分店",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "台灣 PAY\/LINE Pay Money"
 }

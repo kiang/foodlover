@@ -1,17 +1,13 @@
 {
-    "name": "麵店、小吃店",
+    "name": "餐館、餐廳",
     "address": "新北市五股區成功里成泰路３段２１９號",
     "x": 121.446015,
     "y": 25.092967,
     "shops": [
         {
-            "shop": "英泰小吃店",
-            "pay_list": ""
-        },
-        {
             "shop": "國品小吃店",
-            "pay_list": ""
+            "pay_list": "街口支付 \/ LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "街口支付\/LINE Pay Money"
 }

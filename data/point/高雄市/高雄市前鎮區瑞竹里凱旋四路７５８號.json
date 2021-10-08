@@ -1,17 +1,45 @@
 {
-    "name": "糖果餅乾零售",
-    "address": "高雄市前鎮區瑞竹里凱旋四路７５８號",
+    "name": "麵店、小吃店",
+    "address": "高雄市前鎮區瑞竹里凱旋四路７５８號（凱旋夜市）",
     "x": 120.32034727658,
     "y": 22.59914000235,
     "shops": [
         {
-            "shop": "展邑１０元商店",
-            "pay_list": ""
+            "shop": "阿昇活海鮮",
+            "pay_list": "LINE Pay Money"
         },
         {
-            "shop": "糖果餅乾",
-            "pay_list": ""
+            "shop": "東港木瓜牛奶",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "阿明嫂滷味",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "超大杯紅茶冰",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "就是不一樣冷飲",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "春禧堂人文茶飲",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "茶詩集",
+            "pay_list": "LINE Pay Money \/ 街口支付"
+        },
+        {
+            "shop": "天然椰乳",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "慕尼德國豬腳",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money\/街口支付"
 }

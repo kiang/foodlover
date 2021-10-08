@@ -1,13 +1,13 @@
 {
-    "name": "旅館\/不動產租賃\/餐館、餐廳",
-    "address": "宜蘭縣羅東鎮東安里光榮路１５６號３樓",
+    "name": "早餐店",
+    "address": "宜蘭縣羅東鎮東安里光榮路１５６號１樓",
     "x": 121.777859,
     "y": 24.673349,
     "shops": [
         {
-            "shop": "勻川國際有限公司",
-            "pay_list": ""
+            "shop": "幸福如此簡單工作坊",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

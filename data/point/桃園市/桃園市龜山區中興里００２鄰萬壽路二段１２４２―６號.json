@@ -1,13 +1,13 @@
 {
-    "name": "麵店、小吃店\/調理飲料攤販",
+    "name": "調理飲料攤販\/麵店、小吃店",
     "address": "桃園市龜山區中興里００２鄰萬壽路二段１２４２―６號１樓",
     "x": 121.32891987763,
     "y": 24.993297041175,
     "shops": [
         {
             "shop": "謝百鮮鹽酥雞",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

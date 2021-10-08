@@ -1,13 +1,13 @@
 {
-    "name": "麵店、小吃店",
+    "name": "餐食攤販",
     "address": "高雄市新興區新田路１６８號旁",
     "x": 120.3021536984,
     "y": 22.622074721359,
     "shops": [
         {
-            "shop": "張元豪",
-            "pay_list": ""
+            "shop": "北回木瓜牛奶",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

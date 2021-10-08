@@ -6,8 +6,12 @@
     "shops": [
         {
             "shop": "米香哥蝦仁飯",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "弘雲餐飲店",
+            "pay_list": "台灣 PAY"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money\/台灣 PAY"
 }

@@ -5,321 +5,61 @@
     "y": 24.93178,
     "shops": [
         {
-            "shop": "八德公有零售市場-甲1 (相印時尚)",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "八德公有零售市場-甲2",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-甲3",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-甲4 (英雄堂企業社)",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙05",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "八德公有零售市場-乙06",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙07",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙08",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "八德公有零售市場-乙09",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙10",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙11 (森葉南北雜貨)",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙12",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙13",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙14",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙15",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙16 (佳瑪豆製坊)",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙17",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙18 (雞世家)",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "八德公有零售市場-乙19",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙20 (福來禽肉店)",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "八德公有零售市場-乙21 (益福禽肉店)",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙22",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-甲23 (阿益鄉下黑豬肉)",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-甲24 (百美商行)",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "八德公有零售市場-乙25 (水錦蔬菜水果行)",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙26 (自種蔬菜)",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙27 (上青行)",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙28 (阿清魚攤)",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙29",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙30 (阿珍生鮮蔬果)",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-甲31 (阿珠姐南北雜貨)",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-甲32 (好食在)",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-甲33",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-甲34",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-甲35 (阿松鄉下黑豬肉)",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-甲36",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-甲37 (秀玉自種蔬菜)",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-甲38",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-甲39 (袁媽自種蔬菜企業社)",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-甲40",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-甲41 (廣興蔬菜)",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-甲42 (玉環豬肉店)",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-甲43",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-甲44 (風鈴生活百貨)",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-甲45",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-甲46 (徐媽媽糕餅店)",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-甲47 (仁榮商行)",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-甲48 (阿福蔬果店)",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-甲49",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-甲50",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙51",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "八德公有零售市場-乙52 (琪琪蔬果店)",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙53 (佳味小吃)",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙54",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙55",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙56",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙57 (養樂多攤)",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙58",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙59 (福華生鮮土雞)",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙60",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙61",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙62",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙63",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙64 (八德雞場)",
-            "pay_list": ""
-        },
-        {
-            "shop": "八德公有零售市場-乙65",
-            "pay_list": ""
-        },
-        {
             "shop": "八德公有零售市場 甲1 (相印時尚)",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "八德公有零售市場 乙05",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "八德公有零售市場 乙08",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "八德公有零售市場 乙18 (雞世家)",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "八德公有零售市場 乙20 (福來禽肉店)",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "八德公有零售市場 甲24 (百美商行)",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "八德公有零售市場 乙51",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "八德公有零售市場 甲24 (百美商行)",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "八德公有零售市場 乙20 (福來禽肉店)",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "八德公有零售市場 乙18 (雞世家)",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "八德公有零售市場 甲1 (相印時尚)",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "八德公有零售市場 乙05",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "八德公有零售市場 乙08",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "八德公有零售市場 乙51",
-            "pay_list": "LINE PAY"
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

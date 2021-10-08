@@ -1,45 +1,17 @@
 {
-    "name": "麵店、小吃店",
-    "address": "高雄市大樹區三和里學城路１段１２號義大世界１２３廣場Ｂ１Ｆ５５",
+    "name": "冰果店、冷（熱）飲店",
+    "address": "高雄市大樹區三和里學城路１段１２號義大世界１２３廣場Ｂ１Ｆ５６",
     "x": 120.40661399107,
     "y": 22.729832530252,
     "shops": [
         {
-            "shop": "蚵仔包",
-            "pay_list": ""
-        },
-        {
-            "shop": "陳記山東美食",
-            "pay_list": ""
-        },
-        {
             "shop": "阿義冰品",
-            "pay_list": "LINE PAY"
-        },
-        {
-            "shop": "老灶腳",
-            "pay_list": ""
-        },
-        {
-            "shop": "祥記十元碳烤",
-            "pay_list": ""
-        },
-        {
-            "shop": "果優果汁吧",
-            "pay_list": ""
-        },
-        {
-            "shop": "大輪茶飲店",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         },
         {
             "shop": "金恆順行",
-            "pay_list": ""
-        },
-        {
-            "shop": "月坡食品",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "LINE PAY"
+    "pay_list": "LINE Pay Money"
 }

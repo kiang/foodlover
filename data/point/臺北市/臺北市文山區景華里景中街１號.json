@@ -1,13 +1,13 @@
 {
-    "name": "餐館、餐廳",
-    "address": "臺北市文山區景華里景中街１號２樓",
+    "name": "連鎖速食店\/飲料零售",
+    "address": "臺北市文山區景華里景中街１號",
     "x": 121.54148433251,
     "y": 24.993043263547,
     "shops": [
         {
-            "shop": "王品餐飲股份有限公司禾七台北捷運景美店",
-            "pay_list": ""
+            "shop": "膳百味有限公司",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

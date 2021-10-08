@@ -1,13 +1,13 @@
 {
-    "name": "麵店、小吃店\/早餐店",
+    "name": "早餐店\/麵店、小吃店",
     "address": "臺南市永康區尚頂里正南一街１４６號",
     "x": 120.22704686924,
     "y": 23.02553062127,
     "shops": [
         {
             "shop": "陳慧津",
-            "pay_list": "街口支付 \/ LINE PAY"
+            "pay_list": "LINE Pay Money \/ 街口支付"
         }
     ],
-    "pay_list": "街口支付\/LINE PAY"
+    "pay_list": "LINE Pay Money\/街口支付"
 }

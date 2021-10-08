@@ -1,13 +1,13 @@
 {
-    "name": "麵店、小吃店\/夾娃娃機店",
+    "name": "夾娃娃機店\/麵店、小吃店",
     "address": "新北市深坑區萬順里北深路３段２５７號１樓",
     "x": 121.5990828755,
     "y": 25.004340794759,
     "shops": [
         {
             "shop": "鮮芋企業社",
-            "pay_list": ""
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }

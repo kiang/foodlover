@@ -1,13 +1,21 @@
 {
-    "name": "餐食攤販",
-    "address": "臺北市內湖區西湖里內湖路一段２８５號２樓",
+    "name": "麵店、小吃店",
+    "address": "臺北市內湖區西湖里內湖路一段２８５號２樓８７攤",
     "x": 121.56659922784,
     "y": 25.082410703866,
     "shops": [
         {
-            "shop": "三姐美食坊",
-            "pay_list": ""
+            "shop": "二哥自製手感麵食",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "９５美食",
+            "pay_list": "LINE Pay Money"
+        },
+        {
+            "shop": "２８５大排檔餐飲＃９１",
+            "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": ""
+    "pay_list": "LINE Pay Money"
 }
