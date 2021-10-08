@@ -102,6 +102,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣湖西鄉隘門村１１８之７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.63368,
+                    23.560129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣湖西鄉城北村大城北５之１５號",
                 "pay_list": ""
             },
@@ -130,6 +144,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣湖西鄉隘門村１０鄰６２－２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.636947,
+                    23.560008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉湖西村１７３之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.663061,
+                    23.584674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣白沙鄉港子村港子１５３號",
                 "pay_list": ""
             },
@@ -138,6 +180,34 @@
                 "coordinates": [
                     119.60021036816,
                     23.656498667277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉鎮海村７１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.590843,
+                    23.644421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉通梁村國宅社區２８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.560481,
+                    23.660038
                 ]
             }
         },
@@ -166,6 +236,20 @@
                 "coordinates": [
                     119.571011,
                     23.570782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市鐵線里４之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.599332,
+                    23.533165
                 ]
             }
         },
@@ -368,6 +452,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣馬公市西衛里１６６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.58162,
+                    23.581599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市石泉里１之１６１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.597646,
+                    23.560936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣馬公市長安里光武街１５號",
                 "pay_list": ""
             },
@@ -460,6 +572,20 @@
                 "coordinates": [
                     119.57070330186,
                     23.57154234492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市安宅里９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.601874,
+                    23.5776
                 ]
             }
         },
@@ -732,6 +858,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣馬公市重慶里中興路４巷３弄３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.568285,
+                    23.566824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣馬公市西衛里五福路６１巷５弄１４號",
                 "pay_list": ""
             },
@@ -788,6 +928,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣馬公市東文里１８４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.591453,
+                    23.562619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市安宅里８９之２１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.602787,
+                    23.576782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣馬公市東衛里東衛１１５－３號",
                 "pay_list": ""
             },
@@ -810,6 +978,20 @@
                 "coordinates": [
                     119.602134,
                     23.524657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市五德里雞母塢１０２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.586457,
+                    23.527808
                 ]
             }
         },
@@ -852,6 +1034,20 @@
                 "coordinates": [
                     119.57526808217,
                     23.572007365526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市西衛里１９９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.579884,
+                    23.578237
                 ]
             }
         },
@@ -1068,6 +1264,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣馬公市烏崁里１０３之３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.618613,
+                    23.546879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣馬公市陽明里大仁街７０號",
                 "pay_list": ""
             },
@@ -1124,6 +1334,48 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣七美鄉南港村南滬頭２３－４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.425556,
+                    23.197555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣七美鄉南港村２６―９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.424525,
+                    23.195065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣七美鄉東湖村３鄰３９之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.437595,
+                    23.210998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣七美鄉南港村南滬崎頭２５號",
                 "pay_list": ""
             },
@@ -1138,6 +1390,90 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣七美鄉南港村４１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.419338,
+                    23.196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣七美鄉南港村２６之９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.419697,
+                    23.196221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣七美鄉南港村３５－４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.421745,
+                    23.197247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣七美鄉南港村２２―２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.422194,
+                    23.195508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣七美鄉南港村１１鄰３６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.422016,
+                    23.197141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣七美鄉南港村３２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.420167,
+                    23.196155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣七美鄉南港村南滬１０號",
                 "pay_list": ""
             },
@@ -1146,6 +1482,34 @@
                 "coordinates": [
                     119.42170378538,
                     23.19690341631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣七美鄉南港村１１之２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.421508,
+                    23.196449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣七美鄉平和村５２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.418844,
+                    23.208397
                 ]
             }
         },
@@ -1208,6 +1572,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣望安鄉將軍村２１－３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.521891,
+                    23.363589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣望安鄉西安村望安１２０－１號",
                 "pay_list": ""
             },
@@ -1236,6 +1614,62 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣望安鄉東安村００７鄰８１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.49911,
+                    23.356725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣望安鄉東安村２―５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.504572,
+                    23.35684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣望安鄉東坪村３１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.515006,
+                    23.259844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣望安鄉東安村４―５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.504572,
+                    23.35684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣望安鄉東安村望安２之８號",
                 "pay_list": ""
             },
@@ -1244,6 +1678,160 @@
                 "coordinates": [
                     119.50722472926,
                     23.361817576209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣望安鄉將軍村２１鄰１３６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.520543,
+                    23.363668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣望安鄉東安村２－５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.507194,
+                    23.361891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣望安鄉將軍村７鄰３６－４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.521462,
+                    23.364725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣望安鄉東吉村１０４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.66891,
+                    23.254394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣望安鄉東吉村６１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.668615,
+                    23.254183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣望安鄉西安村６３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.49647,
+                    23.358066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣望安鄉中社村６０－２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.508199,
+                    23.372885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣望安鄉東吉村４９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.668394,
+                    23.253399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉林投村８８－１８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.652064,
+                    23.564724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉尖山村３２之３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.663552,
+                    23.565194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉湖西村７５－９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.658883,
+                    23.584624
                 ]
             }
         },
@@ -1264,6 +1852,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣湖西鄉紅羅村５４－４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.64299,
+                    23.582422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣湖西鄉龍門村１１９之４１號",
                 "pay_list": "LINE PAY MONEY"
             },
@@ -1278,6 +1880,76 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣湖西鄉紅羅村５４之４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.64299,
+                    23.582422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉西溪村１３５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.642583,
+                    23.583234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉隘門村１２６－５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.629632,
+                    23.5608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉隘門村２０之４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.635333,
+                    23.562647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉湖西村１４５－３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.659952,
+                    23.584745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣湖西鄉隘門村隘門８６－１號",
                 "pay_list": ""
             },
@@ -1286,6 +1958,62 @@
                 "coordinates": [
                     119.63568208094,
                     23.562342192176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉隘門村９９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.635172,
+                    23.560115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉隘門村２９－１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.6362,
+                    23.562363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉湖西村７７－１２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.65663,
+                    23.584288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉湖西村１４３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.659707,
+                    23.584796
                 ]
             }
         },
@@ -1320,6 +2048,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣湖西鄉湖西村１４３－６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.659828,
+                    23.584768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣湖西鄉龍門村５８之２號",
                 "pay_list": ""
             },
@@ -1328,6 +2070,216 @@
                 "coordinates": [
                     119.673216,
                     23.564354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉湖西村７５之８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.658635,
+                    23.584548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉隘門村８５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.636007,
+                    23.562104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉隘門村５鄰８５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.636007,
+                    23.562104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉隘門村７５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.636989,
+                    23.561066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉湖西村６６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.659062,
+                    23.584761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉隘門村４１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.637193,
+                    23.561619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉湖西村７７之１９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.657672,
+                    23.584166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉湖西村７５之６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.658801,
+                    23.584467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉隘門村１２６之５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.629632,
+                    23.5608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉湖西村６２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.659077,
+                    23.58513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣湖西鄉湖西村１６１之４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.661131,
+                    23.584841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉吉貝村１８９－７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.597686,
+                    23.738835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉鳥嶼村４鄰９５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.658334,
+                    23.661245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉吉貝村１１鄰８０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.612735,
+                    23.742107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉吉貝村１―７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.613557,
+                    23.741759
                 ]
             }
         },
@@ -1348,6 +2300,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣白沙鄉吉貝村７２－２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.613826,
+                    23.742616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉大倉村３０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.568258,
+                    23.618169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣白沙鄉吉貝村吉貝１８３號",
                 "pay_list": ""
             },
@@ -1356,6 +2336,34 @@
                 "coordinates": [
                     119.60904356667,
                     23.739876994815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉吉貝村８－１１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.613288,
+                    23.740908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉吉貝村１８３之２２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.607491,
+                    23.738703
                 ]
             }
         },
@@ -1376,6 +2384,146 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣白沙鄉吉貝村１３６之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.613325,
+                    23.742902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉吉貝村１８２－７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.609302,
+                    23.739488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉講美村７６－１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.599464,
+                    23.632251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉吉貝村１８３之１１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.609181,
+                    23.739979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉吉貝村１８３之８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.609243,
+                    23.739778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉吉貝村１８３之２０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.608158,
+                    23.739215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉鳥嶼村９５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.658334,
+                    23.661245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉講美村００９鄰１０２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.598664,
+                    23.632766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉後寮村１０４－１８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.570736,
+                    23.671047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉赤崁村２１鄰３６７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.598771,
+                    23.666357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣白沙鄉瓦硐村１４－１號",
                 "pay_list": ""
             },
@@ -1384,6 +2532,62 @@
                 "coordinates": [
                     119.588888,
                     23.655282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉講美村４鄰３４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.600145,
+                    23.632701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉吉貝村１８３之１５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.608855,
+                    23.740141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉後寮村１０３－１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.575025,
+                    23.668232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉岐頭村１之６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.610234,
+                    23.649168
                 ]
             }
         },
@@ -1404,6 +2608,104 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣白沙鄉後寮村２１１－１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.577239,
+                    23.669264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉赤崁村３９２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.597064,
+                    23.664632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉通梁村國宅社區３６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.560997,
+                    23.660215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉赤崁村３６５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.598937,
+                    23.666523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉鳥嶼村２８９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.65628,
+                    23.660966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉通梁村４４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.557456,
+                    23.656707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉吉貝村８之４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.613709,
+                    23.741102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣白沙鄉赤崁村９之１號",
                 "pay_list": ""
             },
@@ -1412,6 +2714,90 @@
                 "coordinates": [
                     119.600126,
                     23.664912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉赤崁村３５之９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.60154,
+                    23.666955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉吉貝村１８３―１１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.613848,
+                    23.74162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉吉貝村５７之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.614127,
+                    23.742187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉港子村５４－５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.599397,
+                    23.648392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉赤崁村３５６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.598314,
+                    23.666965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉吉貝村８１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.612578,
+                    23.742152
                 ]
             }
         },
@@ -1432,6 +2818,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣白沙鄉通梁村１６１之２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.556568,
+                    23.656582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉赤崁村１４０之２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.599483,
+                    23.665637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣白沙鄉赤崁村大赤崁１１２號",
                 "pay_list": ""
             },
@@ -1440,6 +2854,62 @@
                 "coordinates": [
                     119.60066239267,
                     23.667864558827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉吉貝村３１之５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.614727,
+                    23.74088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉吉貝村１８３－２０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.608158,
+                    23.739215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉岐頭村１５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.610149,
+                    23.649777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉吉貝村１８２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.610193,
+                    23.741163
                 ]
             }
         },
@@ -1460,6 +2930,118 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣白沙鄉吉貝村２１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.556621,
+                    23.692547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉通梁村１７７之２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.555751,
+                    23.656973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉吉貝村４７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.613612,
+                    23.742166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣白沙鄉講美村１０２之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.598622,
+                    23.632784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣西嶼鄉池東村１３３―２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.510437,
+                    23.602632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣西嶼鄉大池村２３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.506715,
+                    23.61615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣西嶼鄉池東村２１３－１０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.510488,
+                    23.60145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣西嶼鄉池東村２１３－７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.51031,
+                    23.600998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣西嶼鄉竹灣村１５－１２號",
                 "pay_list": "街口支付"
             },
@@ -1474,6 +3056,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣西嶼鄉赤馬村６６－４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.506514,
+                    23.587361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣西嶼鄉竹灣村竹篙灣５１號",
                 "pay_list": ""
             },
@@ -1482,6 +3078,146 @@
                 "coordinates": [
                     119.52187161487,
                     23.632695799288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣西嶼鄉竹灣村８４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.521556,
+                    23.632383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣西嶼鄉池東村１３３之２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.505816,
+                    23.598963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣西嶼鄉外垵村８８之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.482752,
+                    23.564685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣西嶼鄉二崁村６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.519576,
+                    23.604576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣西嶼鄉池西村１７６之３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.505397,
+                    23.598607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣西嶼鄉外垵村１５４－１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.479084,
+                    23.563987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣西嶼鄉池東村２３之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.509562,
+                    23.602088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣西嶼鄉竹灣村１１之３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.52515,
+                    23.635085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣西嶼鄉外垵村１５３―１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.483527,
+                    23.565556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣西嶼鄉二崁村１２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.518361,
+                    23.603448
                 ]
             }
         },
@@ -1516,6 +3252,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣西嶼鄉二崁村８鄰３４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.518333,
+                    23.604377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣西嶼鄉池東村１４２之３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.505886,
+                    23.597894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣西嶼鄉池東村小池角４０之４號",
                 "pay_list": ""
             },
@@ -1538,6 +3302,104 @@
                 "coordinates": [
                     119.53502944238,
                     23.637470792291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣西嶼鄉二崁村２０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.519177,
+                    23.605039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣西嶼鄉二崁村４１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.518851,
+                    23.605288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣西嶼鄉二崁村２９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.519012,
+                    23.605184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣西嶼鄉小門村１１－３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.517425,
+                    23.653238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣西嶼鄉池東村１１３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.506593,
+                    23.599986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣西嶼鄉竹灣村７５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.522165,
+                    23.632332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市石泉里１５－７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.595629,
+                    23.556304
                 ]
             }
         },
@@ -1572,6 +3434,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣馬公市安宅里２７―２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.603082,
+                    23.577444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣馬公市朝陽里三多路３６－３號",
                 "pay_list": "LINE PAY MONEY"
             },
@@ -1594,6 +3470,20 @@
                 "coordinates": [
                     119.59371102187,
                     23.557762858869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市石泉里００１鄰１―７６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.592654,
+                    23.554753
                 ]
             }
         },
@@ -1754,6 +3644,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣馬公市東衛里１５０―３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.598051,
+                    23.569237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣馬公市東文里新店路５２９號",
                 "pay_list": ""
             },
@@ -1762,6 +3666,62 @@
                 "coordinates": [
                     119.58458563787,
                     23.56359465488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市東衛里３―１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.59841,
+                    23.56875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市鎖港里６８２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.602624,
+                    23.525707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市鎖港里１５０７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.599566,
+                    23.523819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市鎖港里９９７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.602161,
+                    23.524736
                 ]
             }
         },
@@ -1922,6 +3882,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣馬公市虎井里７５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.517536,
+                    23.486498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣馬公市光復里新生路４８號",
                 "pay_list": ""
             },
@@ -2006,6 +3980,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣馬公市西文里９９之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.585162,
+                    23.569526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣馬公市中興里１４鄰文化路７號",
                 "pay_list": ""
             },
@@ -2084,6 +4072,20 @@
                 "coordinates": [
                     119.56730249574,
                     23.567878582019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市東衛里光華段３８９－２地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.598196,
+                    23.568532
                 ]
             }
         },
@@ -2440,6 +4442,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣馬公市鎖港里吉港路２７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.600939,
+                    23.528827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣馬公市啓明里仁愛路５５號",
                 "pay_list": ""
             },
@@ -2622,6 +4638,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣馬公市西文里南澳段０１１２－０００４地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.581898,
+                    23.565708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市嵵裡里１６０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.567843,
+                    23.526289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣馬公市東文里東文澳１０４號",
                 "pay_list": ""
             },
@@ -2686,6 +4730,20 @@
                 "coordinates": [
                     119.569501,
                     23.570022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市嵵裡里２６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.56999,
+                    23.524864
                 ]
             }
         },
@@ -2846,6 +4904,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣馬公市東文里１７９之５０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.590374,
+                    23.563215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣馬公市山水里珠江８－６號",
                 "pay_list": ""
             },
@@ -2868,6 +4940,20 @@
                 "coordinates": [
                     119.57466665045,
                     23.575707424038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市案山里２２－６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.579673,
+                    23.557321
                 ]
             }
         },
@@ -3182,6 +5268,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "澎湖縣馬公市東文里４－２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.586744,
+                    23.564304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "澎湖縣馬公市朝陽里文昌街４巷３號",
                 "pay_list": ""
             },
@@ -3190,6 +5290,20 @@
                 "coordinates": [
                     119.57894372285,
                     23.573191164162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市東衛里１１－８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.599183,
+                    23.569209
                 ]
             }
         },
@@ -3232,6 +5346,20 @@
                 "coordinates": [
                     119.56813298274,
                     23.565569601922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市東衛里２０－３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.599825,
+                    23.568227
                 ]
             }
         },
@@ -3400,6 +5528,20 @@
                 "coordinates": [
                     119.56508907022,
                     23.564091900541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市鎖港里９３２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.601812,
+                    23.525635
                 ]
             }
         },
@@ -3708,6 +5850,20 @@
                 "coordinates": [
                     119.56454870544,
                     23.564251440444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "澎湖縣馬公市東衛里１１７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.601198,
+                    23.569421
                 ]
             }
         },

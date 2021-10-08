@@ -3882,6 +3882,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣北港鎮東華里中山路１５２、１５４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304985,
+                    23.567557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣北港鎮大同里復興路７２號",
                 "pay_list": ""
             },
@@ -4002,6 +4016,20 @@
                 "coordinates": [
                     120.30456018736,
                     23.565758254689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣北港鎮後溝里３７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.323701,
+                    23.586601
                 ]
             }
         },
@@ -4632,6 +4660,20 @@
                 "coordinates": [
                     120.301955,
                     23.575097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣北港鎮新街里慶華路３５巷２６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.303635,
+                    23.581856
                 ]
             }
         },
@@ -5422,6 +5464,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣崙背鄉羅厝村０１７鄰東興１８２─３２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.367458,
+                    23.757359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣崙背鄉羅厝村東興１７０－１號",
                 "pay_list": ""
             },
@@ -5500,6 +5556,20 @@
                 "coordinates": [
                     120.33393397481,
                     23.619402641004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣崙背鄉東明村中山路媽祖巷２８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.353573,
+                    23.761108
                 ]
             }
         },
@@ -5996,6 +6066,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣斗六市嘉東里嘉東中路２─２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.545867,
+                    23.68645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣斗六市成功里民族街２６號",
                 "pay_list": ""
             },
@@ -6290,6 +6374,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣斗六市光興里第二公有零售市場第６１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.540645,
+                    23.709869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣斗六市中和里愛國街１６９號",
                 "pay_list": ""
             },
@@ -6340,6 +6438,20 @@
                 "coordinates": [
                     120.54322782894,
                     23.711813939856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市三平里棒球１６街３３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538882,
+                    23.712391
                 ]
             }
         },
@@ -6424,6 +6536,20 @@
                 "coordinates": [
                     120.54764334597,
                     23.703433597216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市忠孝里大同路１３４巷１０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.545145,
+                    23.70953
                 ]
             }
         },
@@ -6948,6 +7074,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣斗南鎮南昌里攤販集中市場１０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.478544,
+                    23.675111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣斗南鎮明昌里３９鄰延平路２段５５２―２號",
                 "pay_list": ""
             },
@@ -7186,6 +7326,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣水林鄉山腳村尖山腳４５－１８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.217616,
+                    23.535343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣水林鄉水南村０１２鄰水林路３０５號",
                 "pay_list": ""
             },
@@ -7194,6 +7348,34 @@
                 "coordinates": [
                     120.24257668277,
                     23.571694744682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣水林鄉山腳村尖山腳１９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.224335,
+                    23.533301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣水林鄉萬興村７８－５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.236656,
+                    23.58762
                 ]
             }
         },
@@ -7348,6 +7530,20 @@
                 "coordinates": [
                     120.55201253381,
                     23.769332680944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣莿桐鄉莿桐村光復路民生巷３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.501469,
+                    23.757943
                 ]
             }
         },
@@ -7760,6 +7956,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣虎尾鎮墾地里虎興西十二街６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.417682,
+                    23.742072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣虎尾鎮興南里６鄰興南路２８－５號",
                 "pay_list": ""
             },
@@ -8110,6 +8320,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣西螺鎮永安里市後街２４巷３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.463587,
+                    23.802115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣西螺鎮福興里福興路１８５號",
                 "pay_list": ""
             },
@@ -8314,6 +8538,20 @@
                 "coordinates": [
                     120.252904,
                     23.747467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣麥寮鄉麥豐村新興路橫街巷８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.251628,
+                    23.745892
                 ]
             }
         },
@@ -9650,6 +9888,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣北港鎮扶朝里未編門牌（扶朝段１０００地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.28417,
+                    23.560763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣北港鎮華勝里２鄰文化路１５９號",
                 "pay_list": ""
             },
@@ -9924,6 +10176,34 @@
                 "coordinates": [
                     120.30236980482,
                     23.570527893467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣北港鎮劉厝里７鄰５３―１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.290306,
+                    23.585664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣北港鎮華勝里北港段１２８６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293199,
+                    23.574567
                 ]
             }
         },
@@ -10274,6 +10554,34 @@
                 "coordinates": [
                     120.30249603884,
                     23.57380850567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣北港鎮仁安里公民路嘉義客運北港站邊第１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.301649,
+                    23.570706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣北港鎮仁安里公民路嘉義客運邊第６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.302077,
+                    23.570741
                 ]
             }
         },
@@ -11862,6 +12170,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣口湖鄉港西村新港段６４０之１２地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.147586,
+                    23.574787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣口湖鄉水井村１４２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.170705,
+                    23.51981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣口湖鄉口湖村中正路一段２５３－３號",
                 "pay_list": "LINE PAY MONEY\/一卡通"
             },
@@ -11954,6 +12290,20 @@
                 "coordinates": [
                     120.16108741202,
                     23.618449714001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣口湖鄉臺子村６２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.140372,
+                    23.559149
                 ]
             }
         },
@@ -12178,6 +12528,20 @@
                 "coordinates": [
                     120.60264121538,
                     23.596635322012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣古坑鄉桂林村桃源路苦苓腳段１４３－１８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.598303,
+                    23.611813
                 ]
             }
         },
@@ -12576,6 +12940,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣古坑鄉綠色市集展售攤位車廂７８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.566793,
+                    23.64316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣古坑鄉古坑村００８鄰中正路４７號",
                 "pay_list": ""
             },
@@ -12696,6 +13074,20 @@
                 "coordinates": [
                     120.47876577403,
                     23.729129737314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣古坑鄉荷苞村荷包厝７８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.578166,
+                    23.667705
                 ]
             }
         },
@@ -14046,6 +14438,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣土庫鎮順天里００４鄰三民街６巷６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.388966,
+                    23.674133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣土庫鎮石廟里復興路２８１號",
                 "pay_list": ""
             },
@@ -15278,6 +15684,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣崙背鄉大有村２０６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30628,
+                    23.758628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣崙背鄉東明村０１１鄰中山路２９２號",
                 "pay_list": ""
             },
@@ -15314,6 +15734,20 @@
                 "coordinates": [
                     120.33064220435,
                     23.793134518868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣崙背鄉南陽村中山路文化巷４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.354966,
+                    23.760373
                 ]
             }
         },
@@ -15384,6 +15818,20 @@
                 "coordinates": [
                     120.53883408901,
                     23.703487423488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣崙背鄉南陽村中山路武昌巷２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.346521,
+                    23.761447
                 ]
             }
         },
@@ -16252,6 +16700,20 @@
                 "coordinates": [
                     120.53841385512,
                     23.701099613867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市鎮南里中山路臨時攤販市場雲林溪攤販集中場５０﹒５２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.539447,
+                    23.706047
                 ]
             }
         },
@@ -17252,6 +17714,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣斗六市鎮南里雲林溪攤販臨時集中場２６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.537698,
+                    23.702162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣斗六市林頭里大學路二段２７１－２號",
                 "pay_list": ""
             },
@@ -17274,6 +17750,20 @@
                 "coordinates": [
                     120.54914309444,
                     23.70361719528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市鎮南里雲林溪攤販臨時集中場第二期２３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.535689,
+                    23.699992
                 ]
             }
         },
@@ -17784,6 +18274,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣斗六市鎮南里雲林溪攤販臨時集中場（第２期）第１３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.537116,
+                    23.705739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣斗六市文化里文化路５５６－３號",
                 "pay_list": ""
             },
@@ -17798,6 +18302,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣斗六市鎮南里雲林溪攤販臨時集中場（第２期）第１０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538355,
+                    23.7029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣斗六市榴中里石榴路８９―３號",
                 "pay_list": ""
             },
@@ -17806,6 +18324,20 @@
                 "coordinates": [
                     120.58375871941,
                     23.72318466747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市鎮南里雲林溪攤販臨時集中市場（第２期）第６８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.534968,
+                    23.699795
                 ]
             }
         },
@@ -18058,6 +18590,20 @@
                 "coordinates": [
                     120.54049651676,
                     23.709768477585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣斗六市光興里西市１１８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.540398,
+                    23.710529
                 ]
             }
         },
@@ -21256,6 +21802,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣東勢鄉東北村東勢東路２９４、２９６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.267028,
+                    23.675386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣東勢鄉安南村００１鄰安南路３―１０號",
                 "pay_list": ""
             },
@@ -21670,6 +22230,20 @@
                 "coordinates": [
                     120.4805678205,
                     23.728634835782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣林內鄉第一公有零售市場攤位第１７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.61268,
+                    23.770916
                 ]
             }
         },
@@ -22096,6 +22670,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣水林鄉山腳村尖山腳３６―１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.224456,
+                    23.531172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣水林鄉水南村水林路１４９－３號",
                 "pay_list": ""
             },
@@ -22202,6 +22790,20 @@
                 "coordinates": [
                     120.20154440212,
                     23.716754406776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣臺西鄉臺西村台西公有零售市場（台西鄉海口段０３２２－１４地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.204551,
+                    23.698302
                 ]
             }
         },
@@ -22824,6 +23426,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣莿桐鄉莿桐村中山路莿桐市場１００５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.497043,
+                    23.760356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣莿桐鄉大美村大美路５０―２１號",
                 "pay_list": ""
             },
@@ -22958,6 +23574,20 @@
                 "coordinates": [
                     120.50110427835,
                     23.757206784957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣莿桐鄉莿桐村中山路１８６，１８８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.497108,
+                    23.760778
                 ]
             }
         },
@@ -23678,6 +24308,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣虎尾鎮墾地里００３鄰４８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.39641,
+                    23.730436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣虎尾鎮東仁里福民路６６號",
                 "pay_list": ""
             },
@@ -23770,6 +24414,20 @@
                 "coordinates": [
                     120.50386371698,
                     23.762949394466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣虎尾鎮立仁里忠孝路（立仁黃昏市場３３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.429339,
+                    23.705994
                 ]
             }
         },
@@ -24064,6 +24722,20 @@
                 "coordinates": [
                     120.4292009829,
                     23.704040887407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣虎尾鎮埒內里東興段１１地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.447154,
+                    23.724522
                 ]
             }
         },
@@ -24498,6 +25170,20 @@
                 "coordinates": [
                     120.47926411513,
                     23.728687789792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣虎尾鎮西屯里００８鄰２８４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.386188,
+                    23.703596
                 ]
             }
         },
@@ -25722,6 +26408,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣西螺鎮河南里７８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.440158,
+                    23.798893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣西螺鎮中和里００９鄰延平路１０６號",
                 "pay_list": ""
             },
@@ -26114,6 +26814,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣西螺鎮中興里００１鄰延平路３７４，３７６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.446963,
+                    23.799464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣西螺鎮漢光里平和南路３０３號",
                 "pay_list": ""
             },
@@ -26338,6 +27052,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣西螺鎮振興里１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.475498,
+                    23.792127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣西螺鎮漢光里西興南路１００號",
                 "pay_list": ""
             },
@@ -26416,6 +27144,20 @@
                 "coordinates": [
                     120.46222856804,
                     23.796082127847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣西螺鎮光華里中山路２３４，２３６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.456885,
+                    23.799627
                 ]
             }
         },
@@ -27262,6 +28004,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣西螺鎮福興里３鄰延平路２４０﹒２３８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.459357,
+                    23.801171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣西螺鎮正興里建興路２１４號",
                 "pay_list": ""
             },
@@ -28060,6 +28816,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣麥寮鄉橋頭村２２２―２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.268969,
+                    23.783294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣麥寮鄉橋頭村仁德路８９號",
                 "pay_list": ""
             },
@@ -28592,6 +29362,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣麥寮鄉後安村後安２０１─７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.239992,
+                    23.788561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣麥寮鄉麥津村中興路７８－１號",
                 "pay_list": ""
             },
@@ -28684,6 +29468,20 @@
                 "coordinates": [
                     120.25118597277,
                     23.749017863685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣麥寮鄉麥津村中興路７８─１１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.251191,
+                    23.75056
                 ]
             }
         },
@@ -28802,6 +29600,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣麥寮鄉麥豐村新興路橫街巷８―５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.249185,
+                    23.744415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣麥寮鄉中興村仁德西路二段８７號",
                 "pay_list": ""
             },
@@ -28844,6 +29656,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣麥寮鄉麥豐村新興路橫街巷８－１８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.252224,
+                    23.745908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣麥寮鄉橋頭村仁德路１７５號",
                 "pay_list": ""
             },
@@ -28866,6 +29692,20 @@
                 "coordinates": [
                     120.25119638173,
                     23.7489987719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣麥寮鄉麥豐村新興路橫街巷２１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.251037,
+                    23.74564
                 ]
             }
         },
@@ -28908,6 +29748,20 @@
                 "coordinates": [
                     120.57748355365,
                     23.725647616373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣麥寮鄉施厝村福聖街３３３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.282973,
+                    23.792179
                 ]
             }
         },
@@ -29096,6 +29950,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣麥寮鄉麥豐村華興路２０巷１弄３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.251253,
+                    23.748083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣麥寮鄉麥豐村０２６鄰華興路９９號",
                 "pay_list": ""
             },
@@ -29104,6 +29972,20 @@
                 "coordinates": [
                     120.25107131157,
                     23.750021208972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣麥寮鄉麥豐村新興路橫街巷８－２５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.251825,
+                    23.746251
                 ]
             }
         },
@@ -29146,6 +30028,20 @@
                 "coordinates": [
                     120.26201882838,
                     23.794535986805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣麥寮鄉瓦??村１鄰瓦??２０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.240296,
+                    23.787777
                 ]
             }
         },
@@ -29572,6 +30468,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "雲林縣麥寮鄉麥豐村華興路２０巷１弄２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.251354,
+                    23.747973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "雲林縣麥寮鄉麥豐村中山路４３５－１６號",
                 "pay_list": ""
             },
@@ -29650,6 +30560,20 @@
                 "coordinates": [
                     120.27681237894,
                     23.79620127731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣麥寮鄉橋頭村０１５鄰２２４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.274764,
+                    23.796899
                 ]
             }
         },
@@ -29804,6 +30728,20 @@
                 "coordinates": [
                     120.25193354381,
                     23.751915705835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "雲林縣麥寮鄉施厝村仁德東路４９５巷６０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.281542,
+                    23.794671
                 ]
             }
         },

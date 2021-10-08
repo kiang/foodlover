@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "新竹縣北埔鄉南坑村８鄰１８―５號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[新竹縣]\tT:1,V:1,R:-1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:0",
+      "OutTraceInfo": "[新竹縣]\t { 模糊比對 } (北埔鄉)\t找到符合的[鄉鎮市區]，(南坑村)\t找到符合的[村里]，(一八―)\t找不到符合的[地區]，轉換搜尋找不到符合的[地區]，(5號)\t找到符合的[門牌號碼]，進行[單號過濾]，(8鄰)\t找不到進行[忽略鄰]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "新竹縣北埔鄉南坑村1鄰九分子5號",
+      "COUNTY": "新竹縣",
+      "TOWN": "北埔鄉",
+      "VILLAGE": "南坑村",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "九分子",
+      "NUMBER": "5號",
+      "X": 121.054385,
+      "Y": 24.679722
+    },
+    {
+      "FULL_ADDR": "新竹縣北埔鄉南坑村3鄰小南坑5號",
+      "COUNTY": "新竹縣",
+      "TOWN": "北埔鄉",
+      "VILLAGE": "南坑村",
+      "NEIGHBORHOOD": "3鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "小南坑",
+      "NUMBER": "5號",
+      "X": 121.049875,
+      "Y": 24.668921
+    }
+  ]
+}

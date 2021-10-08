@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺南市安定區蘇林里蘇厝８―１０號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺南市]\tT:1,V:1,R:-1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[臺南市]\t { 模糊比對 } (安定區)\t找到符合的[鄉鎮市區]，(蘇林里)\t找到符合的[村里]，(蘇厝八―)\t找不到符合的[地區]，轉換搜尋找不到符合的[地區]，(10號)\t找到符合的[門牌號碼]，進行[雙號過濾]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "臺南市安定區蘇林里1鄰北園三路10號",
+      "COUNTY": "臺南市",
+      "TOWN": "安定區",
+      "VILLAGE": "蘇林里",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "北園三路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "10號",
+      "X": 120.262874,
+      "Y": 23.122947
+    },
+    {
+      "FULL_ADDR": "臺南市安定區蘇林里2鄰蘇厝10號",
+      "COUNTY": "臺南市",
+      "TOWN": "安定區",
+      "VILLAGE": "蘇林里",
+      "NEIGHBORHOOD": "2鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "蘇厝",
+      "NUMBER": "10號",
+      "X": 120.254403,
+      "Y": 23.127395
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "桃園市龍潭區富林里５鄰中正路三林段２０５，２０７號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "3",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[桃園市]\tT:1,V:1,R:1,S:1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(-204590),E:-1,N:0",
+      "OutTraceInfo": "[桃園市]\t { 模糊比對 } (龍潭區)\t找到符合的[鄉鎮市區]，(富林里)\t找到符合的[村里]，(中正路)\t找到符合的[路街名]，(三林段)\t找到符合的[路段]，(205207號)\t進行[單號過濾]，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -204590 號，進行[找最小門牌的號之、之號]，(5鄰)\t找不到進行[忽略鄰]，模糊比對找到 3 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "桃園市龍潭區富林里4鄰中正路三林段617之1號",
+      "COUNTY": "桃園市",
+      "TOWN": "龍潭區",
+      "VILLAGE": "富林里",
+      "NEIGHBORHOOD": "4鄰",
+      "ROAD": "中正路",
+      "SECTION": "三林段",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "617之1號",
+      "X": 121.236199,
+      "Y": 24.844861
+    },
+    {
+      "FULL_ADDR": "桃園市龍潭區富林里4鄰中正路三林段617之2號",
+      "COUNTY": "桃園市",
+      "TOWN": "龍潭區",
+      "VILLAGE": "富林里",
+      "NEIGHBORHOOD": "4鄰",
+      "ROAD": "中正路",
+      "SECTION": "三林段",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "617之2號",
+      "X": 121.236101,
+      "Y": 24.845003
+    },
+    {
+      "FULL_ADDR": "桃園市龍潭區富林里4鄰中正路三林段617之3號",
+      "COUNTY": "桃園市",
+      "TOWN": "龍潭區",
+      "VILLAGE": "富林里",
+      "NEIGHBORHOOD": "4鄰",
+      "ROAD": "中正路",
+      "SECTION": "三林段",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "617之3號",
+      "X": 121.236030,
+      "Y": 24.845106
+    }
+  ]
+}

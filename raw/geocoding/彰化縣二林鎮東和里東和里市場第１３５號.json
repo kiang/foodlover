@@ -1,0 +1,80 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "彰化縣二林鎮東和里東和里市場第１３５號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "3",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[彰化縣]\tT:1,V:1,R:-1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[彰化縣]\t { 模糊比對 } (二林鎮)\t找到符合的[鄉鎮市區]，(東和里)\t找到符合的[村里]，(東和里市場第)\t找不到符合的[地區]，轉換搜尋找不到符合的[地區]，(135號)\t找到符合的[門牌號碼]，進行[單號過濾]，模糊比對找到 3 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "彰化縣二林鎮東和里17鄰三和街135號",
+      "COUNTY": "彰化縣",
+      "TOWN": "二林鎮",
+      "VILLAGE": "東和里",
+      "NEIGHBORHOOD": "17鄰",
+      "ROAD": "三和街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "135號",
+      "X": 120.367397,
+      "Y": 23.902370
+    },
+    {
+      "FULL_ADDR": "彰化縣二林鎮東和里24鄰三和街135號",
+      "COUNTY": "彰化縣",
+      "TOWN": "二林鎮",
+      "VILLAGE": "東和里",
+      "NEIGHBORHOOD": "24鄰",
+      "ROAD": "三和街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "135號",
+      "X": 120.367397,
+      "Y": 23.902370
+    },
+    {
+      "FULL_ADDR": "彰化縣二林鎮東和里5鄰大成路一段135號",
+      "COUNTY": "彰化縣",
+      "TOWN": "二林鎮",
+      "VILLAGE": "東和里",
+      "NEIGHBORHOOD": "5鄰",
+      "ROAD": "大成路",
+      "SECTION": "1",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "135號",
+      "X": 120.372435,
+      "Y": 23.898886
+    }
+  ]
+}

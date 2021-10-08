@@ -1,0 +1,80 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺中市大甲區日南里青山三路１０巷１號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "3",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺中市]\tT:1,V:1,R:0,S:-1,L:1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[臺中市]\t { 模糊比對 } (大甲區)\t找到符合的[鄉鎮市區]，(日南里)\t找到符合的[村里]，(青山三路)\t找不到符合的[路街名]，進行轉換搜尋[街變成路，路變成街]，進行轉換搜尋[路變成地區名]，轉換搜尋找不到符合的[路街名]，(10巷)\t找到符合的[巷]，(1號)\t找到符合的[門牌號碼]，進行[單號過濾]，模糊比對找到 3 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "臺中市大甲區日南里7鄰青一路10巷1號",
+      "COUNTY": "臺中市",
+      "TOWN": "大甲區",
+      "VILLAGE": "日南里",
+      "NEIGHBORHOOD": "7鄰",
+      "ROAD": "青一路",
+      "SECTION": "",
+      "LANE": "10巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "1號",
+      "X": 120.643649,
+      "Y": 24.407527
+    },
+    {
+      "FULL_ADDR": "臺中市大甲區日南里7鄰青二路10巷1號",
+      "COUNTY": "臺中市",
+      "TOWN": "大甲區",
+      "VILLAGE": "日南里",
+      "NEIGHBORHOOD": "7鄰",
+      "ROAD": "青二路",
+      "SECTION": "",
+      "LANE": "10巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "1號",
+      "X": 120.644977,
+      "Y": 24.406877
+    },
+    {
+      "FULL_ADDR": "臺中市大甲區日南里7鄰青三路10巷1號",
+      "COUNTY": "臺中市",
+      "TOWN": "大甲區",
+      "VILLAGE": "日南里",
+      "NEIGHBORHOOD": "7鄰",
+      "ROAD": "青三路",
+      "SECTION": "",
+      "LANE": "10巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "1號",
+      "X": 120.646046,
+      "Y": 24.406369
+    }
+  ]
+}

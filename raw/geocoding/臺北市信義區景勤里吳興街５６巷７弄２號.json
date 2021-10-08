@@ -1,0 +1,80 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺北市信義區景勤里吳興街５６巷７弄２號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "3",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺北市]\tT:1,V:1,R:1,S:-1,L:0,A:-1,SA:-1,T:-1,AR:-1,NO:2(-49),E:-1,N:-1",
+      "OutTraceInfo": "[臺北市]\t { 模糊比對 } (信義區)\t找到符合的[鄉鎮市區]，(景勤里)\t找到符合的[村里]，(吳興街)\t找到符合的[路街名]，(56巷)\t找不到符合的[巷]，(56)\t找不到符合的[門牌號碼]，進行轉換搜尋[弄視為號]，轉換搜尋找到符合的[門牌號碼]，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -49 號，模糊比對找到 3 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "臺北市信義區景勤里2鄰吳興街184巷7號",
+      "COUNTY": "臺北市",
+      "TOWN": "信義區",
+      "VILLAGE": "景勤里",
+      "NEIGHBORHOOD": "2鄰",
+      "ROAD": "吳興街",
+      "SECTION": "",
+      "LANE": "184巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "7號",
+      "X": 121.562107,
+      "Y": 25.028366
+    },
+    {
+      "FULL_ADDR": "臺北市信義區景勤里3鄰吳興街190巷7號",
+      "COUNTY": "臺北市",
+      "TOWN": "信義區",
+      "VILLAGE": "景勤里",
+      "NEIGHBORHOOD": "3鄰",
+      "ROAD": "吳興街",
+      "SECTION": "",
+      "LANE": "190巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "7號",
+      "X": 121.562223,
+      "Y": 25.028161
+    },
+    {
+      "FULL_ADDR": "臺北市信義區景勤里4鄰吳興街220巷7號",
+      "COUNTY": "臺北市",
+      "TOWN": "信義區",
+      "VILLAGE": "景勤里",
+      "NEIGHBORHOOD": "4鄰",
+      "ROAD": "吳興街",
+      "SECTION": "",
+      "LANE": "220巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "7號",
+      "X": 121.562798,
+      "Y": 25.027584
+    }
+  ]
+}

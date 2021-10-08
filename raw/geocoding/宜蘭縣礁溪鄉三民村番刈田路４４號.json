@@ -1,0 +1,80 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "宜蘭縣礁溪鄉三民村番刈田路４４號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "3",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[宜蘭縣]\tT:1,V:1,R:0,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[宜蘭縣]\t { 模糊比對 } (礁溪鄉)\t找到符合的[鄉鎮市區]，(三民村)\t找到符合的[村里]，(番刈田路)\t找不到符合的[路街名]，進行轉換搜尋[街變成路，路變成街]，進行轉換搜尋[路變成地區名]，轉換搜尋找不到符合的[路街名]，(44號)\t找到符合的[門牌號碼]，進行[雙號過濾]，模糊比對找到 3 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "宜蘭縣礁溪鄉三民村22鄰番割田路44號",
+      "COUNTY": "宜蘭縣",
+      "TOWN": "礁溪鄉",
+      "VILLAGE": "三民村",
+      "NEIGHBORHOOD": "22鄰",
+      "ROAD": "番割田路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "44號",
+      "X": 121.768508,
+      "Y": 24.802076
+    },
+    {
+      "FULL_ADDR": "宜蘭縣礁溪鄉三民村5鄰十六結路44號",
+      "COUNTY": "宜蘭縣",
+      "TOWN": "礁溪鄉",
+      "VILLAGE": "三民村",
+      "NEIGHBORHOOD": "5鄰",
+      "ROAD": "十六結路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "44號",
+      "X": 121.755342,
+      "Y": 24.813319
+    },
+    {
+      "FULL_ADDR": "宜蘭縣礁溪鄉三民村15鄰七結路44號",
+      "COUNTY": "宜蘭縣",
+      "TOWN": "礁溪鄉",
+      "VILLAGE": "三民村",
+      "NEIGHBORHOOD": "15鄰",
+      "ROAD": "七結路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "44號",
+      "X": 121.767509,
+      "Y": 24.808319
+    }
+  ]
+}

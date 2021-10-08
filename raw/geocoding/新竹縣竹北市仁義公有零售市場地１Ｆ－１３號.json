@@ -1,0 +1,80 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "新竹縣竹北市仁義公有零售市場地１Ｆ－１３號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "3",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[新竹縣]\tT:1,V:-1,R:-1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:0,NO:0(+1),E:-1,N:-1",
+      "OutTraceInfo": "[新竹縣]\t { 模糊比對 } (竹北市)\t找到符合的[鄉鎮市區]，(仁義公有零售市場地一F)\t找不到符合的[地區]，轉換搜尋找不到符合的[地區]，(－13號)\t進行[找大於且最接近門牌的號之、之號]，找到大於輸入的門牌的號之、之號 1 號，模糊比對找到 3 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "新竹縣竹北市竹義里21鄰中華路331之14號",
+      "COUNTY": "新竹縣",
+      "TOWN": "竹北市",
+      "VILLAGE": "竹義里",
+      "NEIGHBORHOOD": "21鄰",
+      "ROAD": "中華路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "331之14號",
+      "X": 121.004307,
+      "Y": 24.835705
+    },
+    {
+      "FULL_ADDR": "新竹縣竹北市竹義里21鄰中華路331號之14",
+      "COUNTY": "新竹縣",
+      "TOWN": "竹北市",
+      "VILLAGE": "竹義里",
+      "NEIGHBORHOOD": "21鄰",
+      "ROAD": "中華路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "331號之14",
+      "X": 121.004302,
+      "Y": 24.835699
+    },
+    {
+      "FULL_ADDR": "新竹縣竹北市新崙里9鄰中華路340之14號",
+      "COUNTY": "新竹縣",
+      "TOWN": "竹北市",
+      "VILLAGE": "新崙里",
+      "NEIGHBORHOOD": "9鄰",
+      "ROAD": "中華路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "340之14號",
+      "X": 121.004566,
+      "Y": 24.833808
+    }
+  ]
+}

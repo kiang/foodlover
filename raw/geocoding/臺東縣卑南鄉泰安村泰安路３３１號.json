@@ -1,0 +1,28 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺東縣卑南鄉泰安村泰安路３３１號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "0",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺東縣]\tT:1,V:1,R:2,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0,E:-1,N:-1",
+      "OutTraceInfo": "[臺東縣]\t { 模糊比對 } (卑南鄉)\t找到符合的[鄉鎮市區]，(泰安村)\t找到符合的[村里]，(泰安路)\t找不到符合的[路街名]，進行轉換搜尋[街變成路，路變成街]，轉換搜尋找到符合的[路街名]，(331號)\t模糊比對找不到符合的門牌地址。"
+    }
+  ],
+  "AddressList": []
+}

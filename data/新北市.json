@@ -20850,6 +20850,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市萬里區瑪鋉路１２７之５、６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.688486,
+                    25.178405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市萬里區公館崙５２―２號",
                 "pay_list": ""
             },
@@ -21068,6 +21082,20 @@
                 "coordinates": [
                     121.465237,
                     25.089704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市蘆洲區中原里長樂路２之１７、１８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.464932,
+                    25.083831
                 ]
             }
         },
@@ -22740,6 +22768,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市三峽區永舘里復興路３７、４３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.36842,
+                    24.938734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市三峽區龍恩里國學街２號",
                 "pay_list": ""
             },
@@ -23532,6 +23574,20 @@
                 "coordinates": [
                     121.37444406917,
                     24.936171678766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市三峽區龍恩里１６鄰學成路２２７、２２９、２３１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.375033,
+                    24.942616
                 ]
             }
         },
@@ -25358,6 +25414,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市三峽區礁溪里中正路１段１６．１８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.374671,
+                    24.930149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市三峽區中正里光明路６４號",
                 "pay_list": ""
             },
@@ -26122,6 +26192,20 @@
                 "coordinates": [
                     121.50352764782,
                     25.258261215309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市三芝區新庄里新庄子９５之９、９５之１０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.513632,
+                    25.27408
                 ]
             }
         },
@@ -27024,6 +27108,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市三重區三安里龍門路８、１０、１２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.494851,
+                    25.071466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市三重區永清里三和路４段４０８號",
                 "pay_list": ""
             },
@@ -27808,6 +27906,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市三重區忠孝路３段５３、５５、５７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.479776,
+                    25.06349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市三重區中央里正義北路１４５號",
                 "pay_list": ""
             },
@@ -27886,6 +27998,20 @@
                 "coordinates": [
                     121.483203,
                     25.078792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市三重區五谷里五谷王北街４５巷１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.475885,
+                    25.049167
                 ]
             }
         },
@@ -28326,6 +28452,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市三重區長元里三和路二段５５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.500449,
+                    25.067703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市三重區福祉里重新路４段９３巷７號",
                 "pay_list": ""
             },
@@ -28460,6 +28600,20 @@
                 "coordinates": [
                     121.48725947531,
                     25.07124007705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市三重區長元里三和路二段４９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.500595,
+                    25.067619
                 ]
             }
         },
@@ -29208,6 +29362,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市中和區中山路２段５８３，５８５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.480194,
+                    25.005759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市中和區景平里安樂路８－１號",
                 "pay_list": ""
             },
@@ -29370,6 +29538,20 @@
                 "coordinates": [
                     121.48361945122,
                     25.00809828365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市中和區興南里景新街４３０及４３２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51299,
+                    24.988544
                 ]
             }
         },
@@ -29692,6 +29874,20 @@
                 "coordinates": [
                     121.50445950081,
                     25.00519773055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市中和區秀福里自立路１５巷１、３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.522876,
+                    24.996103
                 ]
             }
         },
@@ -31078,6 +31274,20 @@
                 "coordinates": [
                     121.51155943437,
                     25.002141252065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市中和區立業路１０１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.490675,
+                    25.007342
                 ]
             }
         },
@@ -32764,6 +32974,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市五股區成泰里新五路二段２２３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4419,
+                    25.08475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市五股區成州里凌雲路１段９９號",
                 "pay_list": ""
             },
@@ -32884,6 +33108,20 @@
                 "coordinates": [
                     121.448691,
                     25.06447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市五股區成泰里新五路二段３９１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.444092,
+                    25.088927
                 ]
             }
         },
@@ -34500,6 +34738,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市八里區荖阡里荖阡坑４之４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.398386,
+                    25.143733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市八里區頂罟里１１鄰中山路２段３１６號",
                 "pay_list": ""
             },
@@ -34718,6 +34970,20 @@
                 "coordinates": [
                     121.45079059575,
                     25.124000762722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市八里區荖阡里００１鄰荖阡坑１５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.40128,
+                    25.1399
                 ]
             }
         },
@@ -35292,6 +35558,20 @@
                 "coordinates": [
                     121.44185190326,
                     24.974936253752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市土城區學府里裕民路１８０，１８２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.453461,
+                    24.984235
                 ]
             }
         },
@@ -37846,6 +38126,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市坪林區水德里水聳淒坑路２９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.711299,
+                    24.93373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市坪林區坪林里北宜路８段２１８號",
                 "pay_list": ""
             },
@@ -37874,6 +38168,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市坪林區水德里水聳淒坑路３４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.711537,
+                    24.934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市坪林區水德里水聳淒坑３３號",
                 "pay_list": ""
             },
@@ -37882,6 +38190,20 @@
                 "coordinates": [
                     121.71170503999,
                     24.932513277785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市坪林區坪林里水柳腳路９７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.712011,
+                    24.936402
                 ]
             }
         },
@@ -38106,6 +38428,20 @@
                 "coordinates": [
                     121.72165473529,
                     25.021760720012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市平溪區東勢里芉蓁林２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.752233,
+                    25.020388
                 ]
             }
         },
@@ -38574,6 +38910,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市新店區復興里建國路２５７，２５９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.537169,
+                    24.986643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市新店區中正里中正路２３３號",
                 "pay_list": ""
             },
@@ -38624,6 +38974,20 @@
                 "coordinates": [
                     121.46006509229,
                     25.136123273561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市新店區復興里中正路四維巷２弄５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.534183,
+                    24.984953
                 ]
             }
         },
@@ -41052,6 +41416,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市新莊區中原里中平路３４６及３４８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.444962,
+                    25.05298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市新莊區思源里思源路１３９號",
                 "pay_list": ""
             },
@@ -41060,6 +41438,20 @@
                 "coordinates": [
                     121.45966803679,
                     25.043931958408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市新莊區福營里中正路６１７、６１９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.422856,
+                    25.028863
                 ]
             }
         },
@@ -42648,6 +43040,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市新莊區中原里中港路中慶巷１８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.450175,
+                    25.053815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市新莊區西盛里新樹路２８７號",
                 "pay_list": ""
             },
@@ -43404,6 +43810,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市板橋區中山路２段２５９，２５７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.485502,
+                    25.022523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市板橋區忠翠里雙十路２段１８７號",
                 "pay_list": ""
             },
@@ -43936,6 +44356,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市板橋區東丘里中山路２段１１８、１２０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.477196,
+                    25.01724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市板橋區福丘里中山路１段１１７之１號",
                 "pay_list": ""
             },
@@ -44056,6 +44490,20 @@
                 "coordinates": [
                     121.46161177366,
                     25.011898681017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市板橋區重慶路２３、２５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.464811,
+                    24.997807
                 ]
             }
         },
@@ -44448,6 +44896,20 @@
                 "coordinates": [
                     121.47463617359,
                     25.032829616755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市板橋區松柏里雙十路２段１３２、１３４、１３６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.473754,
+                    25.029084
                 ]
             }
         },
@@ -45756,6 +46218,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市板橋區廣福里和平路安樂巷４４弄２６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.461977,
+                    24.992628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市板橋區華貴里貴興路３０號",
                 "pay_list": ""
             },
@@ -45840,6 +46316,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市林口區麗園里文化一路一段４０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.371195,
+                    25.069336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市林口區南勢里文化三路一段３５９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.364907,
+                    25.072814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市林口區湖南里文化二路１段５５１號",
                 "pay_list": ""
             },
@@ -45890,6 +46394,20 @@
                 "coordinates": [
                     121.37441605236,
                     25.077209153711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市林口區南勢里文化三路一段３５６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.363547,
+                    25.071241
                 ]
             }
         },
@@ -46008,6 +46526,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市林口區南勢里文化三路一段４６０、４６２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.372139,
+                    25.077276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市林口區東林里中山路６號",
                 "pay_list": ""
             },
@@ -46016,6 +46548,20 @@
                 "coordinates": [
                     121.396518,
                     25.078637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市林口區仁愛里文化一路一段５５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.371239,
+                    25.06992
                 ]
             }
         },
@@ -46072,6 +46618,48 @@
                 "coordinates": [
                     121.389993,
                     25.077618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市林口區南勢里文化三路一段３０９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.363907,
+                    25.072022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市林口區湖南里文化三路二段１８５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.375848,
+                    25.082502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市林口區仁愛里文化二路一段３８４―４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.369243,
+                    25.072042
                 ]
             }
         },
@@ -46176,6 +46764,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市林口區湖南里仁愛路２段６００、６０２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.369415,
+                    25.080867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市林口區湖南里富貴路７１號",
                 "pay_list": ""
             },
@@ -46218,6 +46820,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市林口區南勢里文化三路一段２４９巷３２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.362977,
+                    25.072312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市林口區西林里興林二街１５號",
                 "pay_list": ""
             },
@@ -46226,6 +46842,20 @@
                 "coordinates": [
                     121.38966,
                     25.072948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市林口區西林里文化一路一段２１０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.379259,
+                    25.075506
                 ]
             }
         },
@@ -46274,6 +46904,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市林口區湖南里文化二路一段３９０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.375176,
+                    25.077162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市林口區湖南里文化北路２段８０號",
                 "pay_list": ""
             },
@@ -46282,6 +46926,20 @@
                 "coordinates": [
                     121.37065960553,
                     25.082316822192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市林口區湖南里文化三路二段６３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.373954,
+                    25.079991
                 ]
             }
         },
@@ -46310,6 +46968,20 @@
                 "coordinates": [
                     121.370009,
                     25.074497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市林口區麗林里文化二路一段５８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.365303,
+                    25.068038
                 ]
             }
         },
@@ -46394,6 +47066,48 @@
                 "coordinates": [
                     121.38373,
                     25.082485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市林口區南勢里文化三路一段５７７巷２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.370673,
+                    25.076819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市林口區湖南里文化二路一段５５７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.374398,
+                    25.077487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市林口區湖南里文化二路一段５６１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.374725,
+                    25.078029
                 ]
             }
         },
@@ -46554,6 +47268,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市林口區湖南里文化三路二段２５１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.377641,
+                    25.084987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市林口區仁愛里文化二路一段３５８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.373546,
+                    25.075659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市林口區麗林里文化二路一段１１６號",
                 "pay_list": ""
             },
@@ -46666,6 +47408,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市林口區湖南里文化一路二段１３１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.381964,
+                    25.079688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市林口區南勢里文化三路一段１９１巷３２號",
                 "pay_list": ""
             },
@@ -46750,6 +47506,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市林口區南勢里文化三路一段４８４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.370014,
+                    25.07552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市林口區南勢里仁愛路二段２５９號",
                 "pay_list": ""
             },
@@ -46778,6 +47548,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市林口區南勢里文化三路一段３９９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.366819,
+                    25.073961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市林口區西林里東湖路１７３號",
                 "pay_list": ""
             },
@@ -46786,6 +47570,34 @@
                 "coordinates": [
                     121.382462,
                     25.074242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市林口區湖南里文化二路二段７２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.378427,
+                    25.080753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市林口區湖南里文化二路二段１７９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.38023,
+                    25.084056
                 ]
             }
         },
@@ -46828,6 +47640,20 @@
                 "coordinates": [
                     121.381829,
                     25.081688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市林口區南勢里文化三路一段４５０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.368883,
+                    25.074752
                 ]
             }
         },
@@ -46918,6 +47744,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市林口區南勢里文化三路一段１９１巷１４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.361155,
+                    25.070259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市林口區南勢里民富街９１號",
                 "pay_list": ""
             },
@@ -46974,6 +47814,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市林口區湖南里文化三路二段６７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.373988,
+                    25.080036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市林口區南勢里三民路１０８號",
                 "pay_list": ""
             },
@@ -46996,6 +47850,20 @@
                 "coordinates": [
                     121.374326,
                     25.076322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市林口區西林里文化一路一段１８８之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.378939,
+                    25.075036
                 ]
             }
         },
@@ -47030,6 +47898,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市林口區湖南里文化三路二段２３８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.376599,
+                    25.082844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市林口區文化二路１段３９０號",
                 "pay_list": ""
             },
@@ -47038,6 +47920,20 @@
                 "coordinates": [
                     121.375176,
                     25.077162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市林口區麗林里文化二路一段１８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.364855,
+                    25.067162
                 ]
             }
         },
@@ -47122,6 +48018,20 @@
                 "coordinates": [
                     121.375023,
                     25.070677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市林口區南勢里文化三路一段３９巷１８５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.35929,
+                    25.067864
                 ]
             }
         },
@@ -47226,6 +48136,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市林口區中湖里文化一路二段２８５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.385071,
+                    25.085239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市林口區湖南里文化二路１段５５９號",
                 "pay_list": ""
             },
@@ -47310,6 +48234,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市林口區湖南里仁愛路２段５００、５００之１、５００之２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.369415,
+                    25.080867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市林口區南勢里文化北路１段３３２號",
                 "pay_list": ""
             },
@@ -47332,6 +48270,20 @@
                 "coordinates": [
                     121.390893,
                     25.078927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市林口區仁愛里文化二路一段２３８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.370132,
+                    25.072738
                 ]
             }
         },
@@ -47388,6 +48340,20 @@
                 "coordinates": [
                     121.36941785188,
                     25.074871870912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市林口區湖南里文化二路二段８８巷５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.379566,
+                    25.081182
                 ]
             }
         },
@@ -47472,6 +48438,20 @@
                 "coordinates": [
                     121.379973,
                     25.076232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市林口區西林里文化一路一段２５８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.380103,
+                    25.076298
                 ]
             }
         },
@@ -47584,6 +48564,20 @@
                 "coordinates": [
                     121.37050748513,
                     25.068748179821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市林口區東勢里麗園二街１０之３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.378028,
+                    25.069393
                 ]
             }
         },
@@ -47920,6 +48914,20 @@
                 "coordinates": [
                     121.38771852218,
                     25.078204039887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市樹林區中山路１段１１５－４及１１５－５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.42287,
+                    24.990333
                 ]
             }
         },
@@ -49676,6 +50684,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市樹林區太平街１１８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.418447,
+                    24.978507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市樹林區彭厝里太順街３９號",
                 "pay_list": ""
             },
@@ -50622,6 +51644,20 @@
                 "coordinates": [
                     121.51002792372,
                     25.001651795592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市永和區後溪里永和路２段１８１、１８３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.515268,
+                    25.013456
                 ]
             }
         },
@@ -52084,6 +53120,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市永和區水源里保平路１２９、１３１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.508314,
+                    25.004518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市永和區和平里中山路１段２１３號",
                 "pay_list": ""
             },
@@ -52798,6 +53848,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市永和區保順里仁愛路３５２巷９２弄９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.501247,
+                    25.008346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市永和區前溪里中山路１段９號",
                 "pay_list": ""
             },
@@ -52918,6 +53982,20 @@
                 "coordinates": [
                     121.520647,
                     25.008429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市永和區民權里民生路４６巷２６、２８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.521347,
+                    24.996576
                 ]
             }
         },
@@ -53050,6 +54128,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市永和區水源里永和路１段４９巷１９弄６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.512032,
+                    25.00711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市汐止區大同路２段２４２號",
                 "pay_list": ""
             },
@@ -53078,6 +54170,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市汐止區禮門里大同路２段４１１、４１３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.659237,
+                    25.067536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市汐止區湖光里湖前街７８號",
                 "pay_list": ""
             },
@@ -53086,6 +54192,20 @@
                 "coordinates": [
                     121.6317569392,
                     25.070989047859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市汐止區復興里新台五路一段１３７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.652795,
+                    25.062118
                 ]
             }
         },
@@ -53128,6 +54248,34 @@
                 "coordinates": [
                     121.65300735305,
                     25.06221050621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市汐止區南昌街４５、４７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.663422,
+                    25.068268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市汐止區復興里新台五路一段９９之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.648275,
+                    25.061616
                 ]
             }
         },
@@ -53198,6 +54346,20 @@
                 "coordinates": [
                     121.629186,
                     25.068339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市汐止區秀峰里新台五路二段１２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.660397,
+                    25.064971
                 ]
             }
         },
@@ -53540,6 +54702,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市汐止區文化里新台五路一段１４０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.653125,
+                    25.061813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市汐止區中興里中興路１２３號",
                 "pay_list": ""
             },
@@ -53786,6 +54962,20 @@
                 "coordinates": [
                     121.63328614122,
                     25.065242384898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市汐止區復興里新台五路一段９７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.648092,
+                    25.06162
                 ]
             }
         },
@@ -54170,6 +55360,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市汐止區復興里新台五路一段１４５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.653205,
+                    25.062273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市汐止區湖光里湖前街３２號",
                 "pay_list": ""
             },
@@ -54290,6 +55494,20 @@
                 "coordinates": [
                     121.63287420664,
                     25.064771031696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市汐止區復興里新台五路一段１４３巷２弄２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.653125,
+                    25.062429
                 ]
             }
         },
@@ -55312,6 +56530,20 @@
                 "coordinates": [
                     121.6474701035,
                     25.060320010002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市泰山區泰林路２段１９４，１９６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.421762,
+                    25.063594
                 ]
             }
         },
@@ -58552,6 +59784,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市淡水區中山北路１段１４９巷２５及２７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.442975,
+                    25.177844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市淡水區中正路３３２之１號",
                 "pay_list": ""
             },
@@ -59392,6 +60638,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市淡水區紅樹林路６８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.458178,
+                    25.161935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市淡水區新市一路三段１０１巷１１２號",
                 "pay_list": ""
             },
@@ -59462,6 +60722,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市淡水區沙崙路１段１４３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.428441,
+                    25.188886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市淡水區新市五路３段３０８號",
                 "pay_list": ""
             },
@@ -59498,6 +60772,20 @@
                 "coordinates": [
                     121.44574383474,
                     25.168679011472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區新市三路２段２６９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.437956,
+                    25.195968
                 ]
             }
         },
@@ -59882,6 +61170,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市淡水區北新路１８２巷５２、５４及５８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.448684,
+                    25.177893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市淡水區重建街２００號",
                 "pay_list": ""
             },
@@ -59988,6 +61290,20 @@
                 "coordinates": [
                     121.45954004874,
                     25.157114276307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市淡水區新市一路三段１０１巷１２０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.445598,
+                    25.18578
                 ]
             }
         },
@@ -62724,6 +64040,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市瑞芳區侯硐號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.808746,
+                    25.108264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市瑞芳區１１鄰中正路６７號",
                 "pay_list": ""
             },
@@ -62914,6 +64244,20 @@
                 "coordinates": [
                     121.84367686702,
                     25.107884325373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市瑞芳區福住里豎崎路３１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.843376,
+                    25.108419
                 ]
             }
         },
@@ -63284,6 +64628,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市瑞芳區吉安里大埔路頂埔巷１弄３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766214,
+                    25.102312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市瑞芳區永慶里崙頂路２－２號",
                 "pay_list": ""
             },
@@ -63396,6 +64754,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市瑞芳區傑魚里??魚坑路９９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.785324,
+                    25.097275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市石碇區潭邊里碇坪路１段２２６號",
                 "pay_list": ""
             },
@@ -63404,6 +64776,20 @@
                 "coordinates": [
                     121.67469144011,
                     24.98089279175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市石碇區永定里靜安路１段２９２巷２、６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.692064,
+                    25.005675
                 ]
             }
         },
@@ -63564,6 +64950,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市石碇區北宜路５段潭腰巷１５－３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.635067,
+                    24.936471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市石碇區潭邊里碇坪路１段１１６號",
                 "pay_list": ""
             },
@@ -63572,6 +64972,20 @@
                 "coordinates": [
                     121.65847984703,
                     24.991260580729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市石碇區光明里碇南路２段鹿窟巷１５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.665958,
+                    25.030745
                 ]
             }
         },
@@ -63838,6 +65252,20 @@
                 "coordinates": [
                     121.52571355291,
                     25.284760441221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市石門區崁子脚５８之１１、５８之１２、５８之１３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.529849,
+                    25.285981
                 ]
             }
         },
@@ -67652,6 +69080,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市貢寮區真理里新港街６７，６９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.926451,
+                    25.056425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市貢寮區福隆里桂安街５號",
                 "pay_list": ""
             },
@@ -68870,6 +70312,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新北市金山區中正路９９、１０１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.631209,
+                    25.221156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新北市金山區民生路１４號",
                 "pay_list": ""
             },
@@ -69620,6 +71076,20 @@
                 "coordinates": [
                     121.82520669778,
                     25.02693727746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市雙溪區朝陽路３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.866425,
+                    25.038378
                 ]
             }
         },
@@ -70418,6 +71888,20 @@
                 "coordinates": [
                     121.35216692629,
                     24.955015226334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新北市鶯歌區尖山里尖山路２７６之２、之３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.341382,
+                    24.94528
                 ]
             }
         },

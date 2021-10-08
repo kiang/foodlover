@@ -1152,6 +1152,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣北埔鄉南埔村３鄰３０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.040823,
+                    24.696297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣北埔鄉南興村１３鄰北埔街９１號",
                 "pay_list": ""
             },
@@ -1390,6 +1404,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣寶山鄉雙溪村９鄰三峰路１２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.994674,
+                    24.76217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣尖石鄉義興村４鄰北角３８號",
                 "pay_list": ""
             },
@@ -1460,6 +1488,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣新埔鎮內立里００８鄰關埔路內立段３２８巷２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.084886,
+                    24.815512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣新埔鎮田新里田新路４３６號",
                 "pay_list": ""
             },
@@ -1468,6 +1510,20 @@
                 "coordinates": [
                     121.0769251846,
                     24.82506959008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣新埔鎮文山里０２２鄰文山路犂頭山段８５５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.028962,
+                    24.833012
                 ]
             }
         },
@@ -2412,6 +2468,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣竹北市仁義公有零售市場地１Ｆ－１３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.004307,
+                    24.835705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣竹北市隘口里高鐵七路６號",
                 "pay_list": ""
             },
@@ -2510,6 +2580,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣竹北市中興里嘉豐六路一段２７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.032017,
+                    24.813572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣竹北市文化里４２鄰文平路３０２號",
                 "pay_list": ""
             },
@@ -2518,6 +2602,20 @@
                 "coordinates": [
                     121.00978336257,
                     24.831262382684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市十興里０１１鄰光明六路東一段２４７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.026844,
+                    24.820746
                 ]
             }
         },
@@ -2622,6 +2720,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣竹北市北興里０２５鄰勝利八街一段３２３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.029075,
+                    24.824967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣竹北市自強南路２１０號",
                 "pay_list": ""
             },
@@ -2650,6 +2762,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣竹北市東平里嘉豐五路二段３７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.026673,
+                    24.809888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣竹北市文化里４１鄰縣政九路１８８號",
                 "pay_list": ""
             },
@@ -2658,6 +2784,20 @@
                 "coordinates": [
                     121.012179,
                     24.831686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市中興里嘉豐五路一段１８８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.028398,
+                    24.812507
                 ]
             }
         },
@@ -2902,6 +3042,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣竹北市東平里嘉豐五路二段２８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02654,
+                    24.810348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣竹北市泰和里中華路５９４－１號",
                 "pay_list": ""
             },
@@ -3008,6 +3162,20 @@
                 "coordinates": [
                     121.03214236064,
                     24.807867950262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市東平里嘉豐五路二段１８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.026867,
+                    24.810773
                 ]
             }
         },
@@ -3280,6 +3448,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣竹北市斗崙里光明十街一段１７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.010013,
+                    24.823518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣竹北市福德里中正東路３３８號",
                 "pay_list": ""
             },
@@ -3302,6 +3484,20 @@
                 "coordinates": [
                     121.00931694948,
                     24.834722193264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市北興里勝利八街一段２０１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.025785,
+                    24.826505
                 ]
             }
         },
@@ -3484,6 +3680,20 @@
                 "coordinates": [
                     121.00315111388,
                     24.847849700304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市東平里六家一路一段１３３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.028319,
+                    24.809871
                 ]
             }
         },
@@ -4652,6 +4862,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣五峰鄉桃山村６鄰１１１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.104538,
+                    24.580124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣五峰鄉大隘村０１４鄰２７０－１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.092207,
+                    24.63246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣五峰鄉桃山村０１３鄰清泉２０９號",
                 "pay_list": ""
             },
@@ -4666,6 +4904,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣五峰鄉竹林村００５鄰１６１－１５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.111196,
+                    24.620269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣五峰鄉竹林段７２２地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.145533,
+                    24.636192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣五峰鄉大隘村１９鄰茅圃３７０號",
                 "pay_list": ""
             },
@@ -4674,6 +4940,20 @@
                 "coordinates": [
                     121.10240945781,
                     24.619699984526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣五峰鄉桃山村七鄰１１３之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.103499,
+                    24.579545
                 ]
             }
         },
@@ -4702,6 +4982,34 @@
                 "coordinates": [
                     121.10558610123,
                     24.574271731045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣五峰鄉桃山村１６鄰２６２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.105808,
+                    24.573931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣五峰鄉桃山村２１５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.107347,
+                    24.579435
                 ]
             }
         },
@@ -4758,6 +5066,34 @@
                 "coordinates": [
                     121.12176161048,
                     24.530213383599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣五峰鄉大隘村００７鄰１２７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.120231,
+                    24.63209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣五峰鄉大隘村１鄰１２－３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.124055,
+                    24.636469
                 ]
             }
         },
@@ -4862,6 +5198,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣五峰鄉花園村５鄰８９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.150867,
+                    24.646128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣五峰鄉大隘村０１２鄰五峰２４６之８號",
                 "pay_list": ""
             },
@@ -4904,6 +5254,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣北埔鄉水磜村８鄰１０―３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.048338,
+                    24.712019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣北埔鄉外坪村６鄰??寮坪３―１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.065451,
+                    24.645035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣北埔鄉南興村６鄰廟前街３１號",
                 "pay_list": ""
             },
@@ -4940,6 +5318,20 @@
                 "coordinates": [
                     121.05357887341,
                     24.701355952607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣北埔鄉南埔村４鄰３８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.041675,
+                    24.692211
                 ]
             }
         },
@@ -5030,6 +5422,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣北埔鄉南興村五鄰北埔街３巷１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.057839,
+                    24.699656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣北埔鄉北埔村７鄰南興街１０８號",
                 "pay_list": ""
             },
@@ -5066,6 +5472,20 @@
                 "coordinates": [
                     121.05790955962,
                     24.69958779856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣北埔鄉南坑村８鄰１８―５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.054385,
+                    24.679722
                 ]
             }
         },
@@ -5184,6 +5604,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣北埔鄉北埔公有市場圓樓固定攤位６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.063104,
+                    24.694185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣北埔鄉北埔村中正路４３號",
                 "pay_list": ""
             },
@@ -5276,6 +5710,20 @@
                 "coordinates": [
                     121.09316842065,
                     24.731208913998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣北埔鄉大湖村７鄰２１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.072525,
+                    24.699646
                 ]
             }
         },
@@ -5520,6 +5968,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣北埔鄉南坑村００９鄰大南坑７─７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.059591,
+                    24.670877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣北埔鄉水磜村麻布樹排５０號",
                 "pay_list": ""
             },
@@ -5542,6 +6004,20 @@
                 "coordinates": [
                     121.02067091912,
                     24.835558374162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣北埔鄉北埔村９鄰１０４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.054962,
+                    24.700612
                 ]
             }
         },
@@ -5786,6 +6262,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣寶山鄉雙新村寶新路一段４５９巷（雙高段６８３地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.981787,
+                    24.754352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣寶山鄉雙新村１２鄰明湖路１５號",
                 "pay_list": ""
             },
@@ -6010,6 +6500,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣寶山鄉大雅段０１７０地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.018253,
+                    24.75364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣寶山鄉大崎村雙園路二段１７９－４號",
                 "pay_list": ""
             },
@@ -6172,6 +6676,20 @@
                 "coordinates": [
                     121.00394300678,
                     24.765867370624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣寶山鄉雙溪村雙園路１０２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.999394,
+                    24.76848
                 ]
             }
         },
@@ -6346,6 +6864,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣寶山鄉三峰村三峰路一段２４９巷５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.997663,
+                    24.725943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣寶山鄉雙溪村雙園一街１號",
                 "pay_list": ""
             },
@@ -6416,6 +6948,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣寶山鄉大崎村雙園路一段２巷１７弄１衖２０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.004971,
+                    24.770336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣寶山鄉大崎村大雅路二段１１６號",
                 "pay_list": ""
             },
@@ -6458,6 +7004,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣寶山鄉大崎村雙園路一段２巷１８弄２衖７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.004903,
+                    24.77108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣尖石鄉嘉樂村２鄰６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.199564,
+                    24.704037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣尖石鄉嘉樂村３鄰麥樹仁６６―５號",
                 "pay_list": ""
             },
@@ -6494,6 +7068,62 @@
                 "coordinates": [
                     121.21370267189,
                     24.70206193271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣尖石鄉新樂村１１鄰拉號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.250461,
+                    24.726762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣尖石鄉義興村１鄰砂坪１７，１８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.167107,
+                    24.673577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣尖石鄉嘉樂村４鄰２３０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.213002,
+                    24.718388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣尖石鄉義興村１鄰１６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.212789,
+                    24.703168
                 ]
             }
         },
@@ -6654,6 +7284,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣尖石鄉秀巒村斯馬庫斯８鄰２２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.30342,
+                    24.57925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣尖石鄉玉峰村宇抬５－１號",
                 "pay_list": ""
             },
@@ -6662,6 +7306,20 @@
                 "coordinates": [
                     121.3052798456,
                     24.654730110059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣尖石鄉玉峰村１４鄰司馬庫斯２９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.336037,
+                    24.576768
                 ]
             }
         },
@@ -6724,6 +7382,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣尖石鄉新樂村拉號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.281874,
+                    24.7241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣尖石鄉錦屏村７鄰那羅１２號",
                 "pay_list": ""
             },
@@ -6732,6 +7404,20 @@
                 "coordinates": [
                     121.23660377035,
                     24.679805240477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣尖石鄉新樂村１０鄰１４５－１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.283103,
+                    24.706461
                 ]
             }
         },
@@ -6920,6 +7606,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣尖石鄉嘉樂村９鄰７１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.22953,
+                    24.728044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣尖石鄉義興村００１鄰尖石３７號",
                 "pay_list": ""
             },
@@ -7046,6 +7746,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣峨眉鄉石井村４鄰２７－３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.002546,
+                    24.697513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣峨眉鄉湖光村１２鄰十二寮７―８號",
                 "pay_list": ""
             },
@@ -7068,6 +7782,20 @@
                 "coordinates": [
                     121.03198956471,
                     24.696049909088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣峨眉鄉石井村１鄰１－４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.995013,
+                    24.700616
                 ]
             }
         },
@@ -7102,6 +7830,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣峨眉鄉石井村１鄰１―１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.994322,
+                    24.701885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣峨眉鄉湖光村１２鄰十二寮６號",
                 "pay_list": ""
             },
@@ -7110,6 +7852,20 @@
                 "coordinates": [
                     120.99209084306,
                     24.673195810205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣峨眉鄉峨眉村１０鄰８８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.016009,
+                    24.68939
                 ]
             }
         },
@@ -7186,6 +7942,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣峨眉鄉湖光村１３鄰２１－１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.986031,
+                    24.675063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣峨眉鄉七星村７鄰４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.019109,
+                    24.665748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣峨眉鄉湖光村００８鄰快樂路７號",
                 "pay_list": ""
             },
@@ -7228,6 +8012,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣峨眉鄉石井村６鄰６０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.004848,
+                    24.710048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣峨眉鄉湖光村１３鄰十二寮２１―８號",
                 "pay_list": ""
             },
@@ -7250,6 +8048,20 @@
                 "coordinates": [
                     121.0876899462,
                     24.738193178934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣峨眉鄉石井村００１鄰１―４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.995245,
+                    24.705933
                 ]
             }
         },
@@ -7536,6 +8348,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣新埔鎮文山里２２０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.039169,
+                    24.829305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣新埔鎮新生里２鄰中正路５２０號",
                 "pay_list": ""
             },
@@ -7558,6 +8384,48 @@
                 "coordinates": [
                     121.07794470955,
                     24.817909938352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣新埔鎮下寮里１０３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.029642,
+                    24.850299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣新埔鎮巨埔里１３鄰７０―６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.100457,
+                    24.839499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣新埔鎮文山里文山路犂頭山段８５３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.029,
+                    24.832996
                 ]
             }
         },
@@ -7656,6 +8524,20 @@
                 "coordinates": [
                     121.07465497097,
                     24.827712297889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣新埔鎮文山里亞東段６３５地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.064999,
+                    24.825133
                 ]
             }
         },
@@ -7830,6 +8712,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣新埔鎮五埔里新關路五埔段６００號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.101637,
+                    24.81818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣新埔鎮下寮里義民路３段３５７號",
                 "pay_list": ""
             },
@@ -7984,6 +8880,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣新埔鎮文山里文山路亞東段５８９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.053372,
+                    24.826031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣新埔鎮新生里成功街９９號",
                 "pay_list": ""
             },
@@ -8096,6 +9006,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣新埔鎮文山里００４鄰文山路亞東段２４６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.061578,
+                    24.824677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣新埔鎮文山里５鄰文山路亞東段１２７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.061859,
+                    24.824401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣新埔鎮田新里田新路２７５號",
                 "pay_list": ""
             },
@@ -8174,6 +9112,20 @@
                 "coordinates": [
                     121.07366453628,
                     24.827955017071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣新埔鎮內立里關埔路雲東段１１０２巷１弄９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.090931,
+                    24.815878
                 ]
             }
         },
@@ -8334,6 +9286,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣新埔鎮文山里文山路犁頭山段９１９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.027537,
+                    24.833739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣新埔鎮文德路三段６７號",
                 "pay_list": ""
             },
@@ -8398,6 +9364,20 @@
                 "coordinates": [
                     121.08810002364,
                     24.831722681191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣新埔鎮內立里關埔路內立段８０巷２０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.089426,
+                    24.814952
                 ]
             }
         },
@@ -8572,6 +9552,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣新埔鎮巨埔里新龍路８５１巷１９弄３９之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.136145,
+                    24.844069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣新埔鎮下寮里７鄰３５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.037347,
+                    24.849214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣新埔鎮新民里中正路５６５號",
                 "pay_list": ""
             },
@@ -8594,6 +9602,20 @@
                 "coordinates": [
                     121.01839990326,
                     24.853190187742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣新埔鎮五埔里新關路五埔段１４９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.109651,
+                    24.816382
                 ]
             }
         },
@@ -8888,6 +9910,20 @@
                 "coordinates": [
                     121.0828470349,
                     24.824853441977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣新埔鎮文山里文山路亞東段８４９巷４６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.047683,
+                    24.82693
                 ]
             }
         },
@@ -9308,6 +10344,20 @@
                 "coordinates": [
                     120.99295779717,
                     24.867036773445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣新豐鄉後湖村４鄰８０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.013588,
+                    24.93973
                 ]
             }
         },
@@ -9804,6 +10854,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣新豐鄉後湖村００６鄰１１４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.008022,
+                    24.93231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣新豐鄉成功路４９６巷８號",
                 "pay_list": ""
             },
@@ -9840,6 +10904,20 @@
                 "coordinates": [
                     120.99634611636,
                     24.875763446696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣新豐鄉坡頭村１鄰２之５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97756,
+                    24.921419
                 ]
             }
         },
@@ -10246,6 +11324,20 @@
                 "coordinates": [
                     120.99491272661,
                     24.868874251542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣新豐鄉山崎村泰安街２１２．２１６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99439,
+                    24.872796
                 ]
             }
         },
@@ -10722,6 +11814,20 @@
                 "coordinates": [
                     120.97997521742,
                     24.898491427363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣新豐鄉鳳坑村３鄰５９８－６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.970828,
+                    24.901878
                 ]
             }
         },
@@ -11624,6 +12730,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣橫山鄉橫山村２３鄰２４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.135737,
+                    24.703257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣橫山鄉內灣村４鄰中正路１６號",
                 "pay_list": "街口支付\/LINE PAY MONEY"
             },
@@ -11652,6 +12772,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣橫山鄉南河段２０４－７﹒２０４－４４地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.159474,
+                    24.743418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣橫山鄉橫山村６鄰橫山街１段１５４號",
                 "pay_list": ""
             },
@@ -11660,6 +12794,20 @@
                 "coordinates": [
                     121.11214851309,
                     24.719711346054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣橫山鄉南昌村６鄰４２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1311,
+                    24.671603
                 ]
             }
         },
@@ -11778,6 +12926,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣橫山鄉大肚村２５之７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.134863,
+                    24.722172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣橫山鄉大肚村１鄰大肚３７－１號",
                 "pay_list": ""
             },
@@ -11884,6 +13046,34 @@
                 "coordinates": [
                     121.18158875906,
                     24.705756167111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣橫山鄉內灣村１５鄰４５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.181715,
+                    24.701633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣橫山鄉橫山村１７鄰蔗蔀１７８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.126289,
+                    24.702435
                 ]
             }
         },
@@ -12388,6 +13578,20 @@
                 "coordinates": [
                     121.04563791467,
                     24.902012721556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣湖口鄉信勢村成功路臨時市場水菓類８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.043819,
+                    24.90602
                 ]
             }
         },
@@ -13150,6 +14354,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣湖口鄉湖鏡村八德路二段７１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.057588,
+                    24.878748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣湖口鄉中興村勝利路一段１７號",
                 "pay_list": ""
             },
@@ -13298,6 +14516,20 @@
                 "coordinates": [
                     121.04600061798,
                     24.902340146065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣湖口鄉八德路三段３５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.088791,
+                    24.888739
                 ]
             }
         },
@@ -13598,6 +14830,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣湖口鄉湖口村三元段１２５６地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.071472,
+                    24.887004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣湖口鄉中山路二段１１５號",
                 "pay_list": "街口支付\/LINE PAY MONEY"
             },
@@ -13746,6 +14992,20 @@
                 "coordinates": [
                     121.02318044608,
                     24.866556293666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣湖口鄉祥湖段６１４－３２地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.07416,
+                    24.891884
                 ]
             }
         },
@@ -14340,6 +15600,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣湖口鄉湖鏡村八德路一段７９９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.052845,
+                    24.878148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣湖口鄉仁勢村中山路２段１９８號",
                 "pay_list": ""
             },
@@ -14656,6 +15930,20 @@
                 "coordinates": [
                     121.01454365002,
                     24.871172151826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣湖口鄉湖口村八德路二段４８６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.070429,
+                    24.881442
                 ]
             }
         },
@@ -15502,6 +16790,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣竹北市竹北里文釆街１４７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.018821,
+                    24.834206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣竹北市竹北里４鄰中山路２６８號",
                 "pay_list": ""
             },
@@ -15978,6 +17280,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣竹北市竹義里華興段３９７地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.999887,
+                    24.836518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣竹北市新崙里光明六路５４６號",
                 "pay_list": ""
             },
@@ -16118,6 +17434,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣竹北市光明六路東１段２３５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.026208,
+                    24.820875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣竹北市聯興里８鄰中正西路９４３―１號",
                 "pay_list": ""
             },
@@ -16182,6 +17512,20 @@
                 "coordinates": [
                     120.99896002607,
                     24.841773456743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市東興里光明六路東２段２１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.029287,
+                    24.819513
                 ]
             }
         },
@@ -16434,6 +17778,20 @@
                 "coordinates": [
                     121.00249570125,
                     24.828315660303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市嘉豐六路二段７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.029055,
+                    24.809811
                 ]
             }
         },
@@ -16986,6 +18344,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣竹北市台元一街一號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.018996,
+                    24.840973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣竹北市四維街１８號",
                 "pay_list": ""
             },
@@ -17196,6 +18568,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣竹北市北興里勝利八街一段１８５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.025733,
+                    24.826526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣竹北市環北路五段１５５號",
                 "pay_list": ""
             },
@@ -17218,6 +18604,34 @@
                 "coordinates": [
                     121.02026804677,
                     24.84048657956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市六家五路一段１３３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.025705,
+                    24.80945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市勝利八街一段３１５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.028854,
+                    24.825057
                 ]
             }
         },
@@ -17302,6 +18716,20 @@
                 "coordinates": [
                     121.03568569252,
                     24.824968794219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹北市生醫路一段２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.044019,
+                    24.805399
                 ]
             }
         },
@@ -17406,6 +18834,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣竹東鎮二重里中興路３段２４５巷４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.054818,
+                    24.768194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣竹東鎮員崠里０１５鄰東峰路３０８之１５號",
                 "pay_list": ""
             },
@@ -17414,6 +18856,20 @@
                 "coordinates": [
                     121.09775778211,
                     24.713802098321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹東鎮東林攤販甲２８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.087363,
+                    24.73843
                 ]
             }
         },
@@ -17588,6 +19044,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣竹東鎮軟橋里１鄰５５―１６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.103489,
+                    24.692149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣竹東鎮頭重里中興路４段９４０號",
                 "pay_list": ""
             },
@@ -17624,6 +19094,20 @@
                 "coordinates": [
                     121.05706901903,
                     24.766440064801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹東鎮忠孝里竹榮路２３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.085898,
+                    24.740539
                 ]
             }
         },
@@ -17918,6 +19402,20 @@
                 "coordinates": [
                     121.05379819004,
                     24.76917253546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹東鎮瑞峰里一鄰５之８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.11656,
+                    24.666305
                 ]
             }
         },
@@ -18394,6 +19892,20 @@
                 "coordinates": [
                     121.08867214566,
                     24.733443588897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹東鎮東寧里２鄰沿河街９１巷３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.100607,
+                    24.719234
                 ]
             }
         },
@@ -19072,6 +20584,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣竹東鎮東林路東林市場６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.088704,
+                    24.736585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣竹東鎮榮華里竹榮街２９號",
                 "pay_list": ""
             },
@@ -19108,6 +20634,20 @@
                 "coordinates": [
                     121.09143331006,
                     24.737289653422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹東鎮瑞峰里１鄰５－１０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.116395,
+                    24.666283
                 ]
             }
         },
@@ -19394,6 +20934,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣竹東鎮東華里上公館段地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.088417,
+                    24.735762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣竹東鎮東寧里００８鄰東榮路１０３號",
                 "pay_list": ""
             },
@@ -19402,6 +20956,20 @@
                 "coordinates": [
                     121.09880321761,
                     24.720156618286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹東鎮上公館段３－６６地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.088489,
+                    24.733124
                 ]
             }
         },
@@ -19842,6 +21410,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣竹東鎮東林攤販甲１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.091931,
+                    24.72969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣竹東鎮東林攤販２９號",
                 "pay_list": "歐付寶"
             },
@@ -19850,6 +21432,48 @@
                 "coordinates": [
                     121.088925,
                     24.742592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹東鎮東林路攤販１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.088714,
+                    24.736795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹東鎮育樂迴廊６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.085364,
+                    24.739988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣竹東鎮東林路回廊２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.088704,
+                    24.736585
                 ]
             }
         },
@@ -20522,6 +22146,20 @@
                 "coordinates": [
                     121.08288183361,
                     24.772764479039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣芎林鄉水坑村００８鄰２２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.088783,
+                    24.776174
                 ]
             }
         },
@@ -21452,6 +23090,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "新竹縣關西鎮玉山里２鄰１２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.206827,
+                    24.759699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "新竹縣關西鎮西安里正義路４１號",
                 "pay_list": ""
             },
@@ -22132,6 +23784,34 @@
                 "coordinates": [
                     121.18087302209,
                     24.786093284857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣關西鎮北山里２０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.160453,
+                    24.808485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "新竹縣關西鎮石光里８鄰３５８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.129177,
+                    24.813319
                 ]
             }
         },

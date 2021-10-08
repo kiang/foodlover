@@ -1,0 +1,80 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "南投縣南投市漳和里０２５鄰南崗２路３２２號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "3",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[南投縣]\tT:1,V:1,R:0,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:0",
+      "OutTraceInfo": "[南投縣]\t { 模糊比對 } (南投市)\t找到符合的[鄉鎮市區]，(漳和里)\t找到符合的[村里]，(南崗2路)\t找不到符合的[路街名]，進行轉換搜尋[街變成路，路變成街]，進行轉換搜尋[路變成地區名]，轉換搜尋找不到符合的[路街名]，(322號)\t找到符合的[門牌號碼]，進行[雙號過濾]，(25鄰)\t找不到進行[忽略鄰]，模糊比對找到 3 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "南投縣南投市漳和里19鄰文化路322號",
+      "COUNTY": "南投縣",
+      "TOWN": "南投市",
+      "VILLAGE": "漳和里",
+      "NEIGHBORHOOD": "19鄰",
+      "ROAD": "文化路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "322號",
+      "X": 120.675462,
+      "Y": 23.910236
+    },
+    {
+      "FULL_ADDR": "南投縣南投市漳和里27鄰祖祠路322號",
+      "COUNTY": "南投縣",
+      "TOWN": "南投市",
+      "VILLAGE": "漳和里",
+      "NEIGHBORHOOD": "27鄰",
+      "ROAD": "祖祠路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "322號",
+      "X": 120.676671,
+      "Y": 23.913958
+    },
+    {
+      "FULL_ADDR": "南投縣南投市漳和里4鄰南崗二路322號",
+      "COUNTY": "南投縣",
+      "TOWN": "南投市",
+      "VILLAGE": "漳和里",
+      "NEIGHBORHOOD": "4鄰",
+      "ROAD": "南崗二路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "322號",
+      "X": 120.678006,
+      "Y": 23.913699
+    }
+  ]
+}

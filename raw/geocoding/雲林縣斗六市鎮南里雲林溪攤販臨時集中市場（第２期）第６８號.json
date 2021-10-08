@@ -1,0 +1,80 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "雲林縣斗六市鎮南里雲林溪攤販臨時集中市場（第２期）第６８號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "3",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[雲林縣]\tT:1,V:1,R:-1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[雲林縣]\t { 模糊比對 } (斗六市)\t找到符合的[鄉鎮市區]，(鎮南里)\t找到符合的[村里]，(雲林溪攤販臨時集中市場（第二期）第)\t找不到符合的[地區]，轉換搜尋找不到符合的[地區]，(68號)\t找到符合的[門牌號碼]，進行[雙號過濾]，模糊比對找到 3 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "雲林縣斗六市鎮南里20鄰武陵街68號",
+      "COUNTY": "雲林縣",
+      "TOWN": "斗六市",
+      "VILLAGE": "鎮南里",
+      "NEIGHBORHOOD": "20鄰",
+      "ROAD": "武陵街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "68號",
+      "X": 120.534968,
+      "Y": 23.699795
+    },
+    {
+      "FULL_ADDR": "雲林縣斗六市鎮南里4鄰九如街68號",
+      "COUNTY": "雲林縣",
+      "TOWN": "斗六市",
+      "VILLAGE": "鎮南里",
+      "NEIGHBORHOOD": "4鄰",
+      "ROAD": "九如街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "68號",
+      "X": 120.538124,
+      "Y": 23.704310
+    },
+    {
+      "FULL_ADDR": "雲林縣斗六市鎮南里4鄰三和街68號",
+      "COUNTY": "雲林縣",
+      "TOWN": "斗六市",
+      "VILLAGE": "鎮南里",
+      "NEIGHBORHOOD": "4鄰",
+      "ROAD": "三和街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "68號",
+      "X": 120.537334,
+      "Y": 23.704705
+    }
+  ]
+}

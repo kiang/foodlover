@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺南市永康區大灣里大灣路３７０號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺南市]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+4)(-2),E:-1,N:-1",
+      "OutTraceInfo": "[臺南市]\t { 模糊比對 } (永康區)\t找到符合的[鄉鎮市區]，(大灣里)\t找到符合的[村里]，(大灣路)\t找到符合的[路街名]，(370號)\t進行[雙號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +4 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -2 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "臺南市永康區大灣里12鄰大灣路368號",
+      "COUNTY": "臺南市",
+      "TOWN": "永康區",
+      "VILLAGE": "大灣里",
+      "NEIGHBORHOOD": "12鄰",
+      "ROAD": "大灣路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "368號",
+      "X": 120.266677,
+      "Y": 23.005659
+    },
+    {
+      "FULL_ADDR": "臺南市永康區大灣里12鄰大灣路374號",
+      "COUNTY": "臺南市",
+      "TOWN": "永康區",
+      "VILLAGE": "大灣里",
+      "NEIGHBORHOOD": "12鄰",
+      "ROAD": "大灣路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "374號",
+      "X": 120.266625,
+      "Y": 23.005579
+    }
+  ]
+}

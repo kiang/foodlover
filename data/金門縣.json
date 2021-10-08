@@ -116,6 +116,132 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "金門縣烈嶼鄉上岐村楊厝４－２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.23178,
+                    24.419295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣烈嶼鄉林湖村東林街２９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.248611,
+                    24.428446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣烈嶼鄉林湖村東林３４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.249296,
+                    24.428301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣烈嶼鄉西宅７－３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.247632,
+                    24.429448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金城鎮光前路８４之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.315006,
+                    24.433109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金城鎮西門里民權路１１９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.315877,
+                    24.434291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金城鎮西門里金城新莊３巷１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.315138,
+                    24.433188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金城鎮東門里莒光路２６巷２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.31822,
+                    24.43192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金城鎮西門里民生路１４５－１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.317364,
+                    24.439019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "金門縣金城鎮北門里中興路１４６巷２２號",
                 "pay_list": ""
             },
@@ -130,6 +256,90 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "金門縣金城鎮北門里中興路８８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.317792,
+                    24.433294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金城鎮北門里中興路１５６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.319374,
+                    24.434125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金城鎮西門里環島北路２６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.321757,
+                    24.440176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金城鎮西門里光前路８９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.314374,
+                    24.433627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金城鎮南門里民族路１５２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.317618,
+                    24.43023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金城鎮賢庵里夏墅３８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.310573,
+                    24.42603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "金門縣金城鎮東門里莒光路５號",
                 "pay_list": ""
             },
@@ -138,6 +348,20 @@
                 "coordinates": [
                     118.3184,
                     24.431585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金城鎮中興路３３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.316653,
+                    24.432569
                 ]
             }
         },
@@ -1264,6 +1488,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "金門縣烈嶼鄉東林７１，７３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.248258,
+                    24.426939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "金門縣烈嶼鄉林湖村西宅７６號",
                 "pay_list": ""
             },
@@ -2020,6 +2258,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "金門縣金城鎮東門里模範街２２、２４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.318991,
+                    24.431616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "金門縣金城鎮西門里民權路２２８號",
                 "pay_list": ""
             },
@@ -2028,6 +2280,20 @@
                 "coordinates": [
                     118.32041090296,
                     24.439477300203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金城鎮西門里民權路２２６巷１弄１２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.319678,
+                    24.439211
                 ]
             }
         },
@@ -2406,6 +2672,20 @@
                 "coordinates": [
                     118.31962564888,
                     24.433615296384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金城鎮西門里環島北路１５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.322141,
+                    24.44104
                 ]
             }
         },
@@ -3154,6 +3434,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "金門縣金城鎮西門里環島北路３８―１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.321526,
+                    24.440519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "金門縣金城鎮東門里莒光路２６巷１６號",
                 "pay_list": ""
             },
@@ -3400,6 +3694,20 @@
                 "coordinates": [
                     118.31971359661,
                     24.433251317091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金城鎮東門里浯江北堤路９巷７弄１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.320853,
+                    24.429935
                 ]
             }
         },
@@ -4876,6 +5184,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "金門縣金寧鄉湖埔村慈湖路三段１８巷８－８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.303912,
+                    24.456202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "金門縣金寧鄉盤山村頂堡１６８號",
                 "pay_list": ""
             },
@@ -5506,6 +5828,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "金門縣金沙鎮汶沙里榮光新邨４１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.412408,
+                    24.490217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "金門縣金沙鎮何斗里高坑３８號",
                 "pay_list": ""
             },
@@ -5640,6 +5976,20 @@
                 "coordinates": [
                     118.40770023351,
                     24.509700801789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金沙鎮光前里陽翟９６─２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.415611,
+                    24.484729
                 ]
             }
         },
@@ -5842,6 +6192,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "金門縣金沙鎮光前里陽宅４６―１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.417416,
+                    24.47363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "金門縣金沙鎮光前里陽宅新興街７號",
                 "pay_list": ""
             },
@@ -5906,6 +6270,20 @@
                 "coordinates": [
                     118.41359641774,
                     24.489371249043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金沙鎮光前里陽宅４５－３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.427712,
+                    24.479884
                 ]
             }
         },
@@ -7284,6 +7662,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "金門縣金湖鎮新湖里環島南路塔后段２２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.408325,
+                    24.437131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "金門縣金湖鎮山外里下莊新生街３２號",
                 "pay_list": ""
             },
@@ -7480,6 +7872,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "金門縣金湖鎮山外里黃海路１─６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.414634,
+                    24.442585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "金門縣金湖鎮瓊林里環島北路三段３０３號",
                 "pay_list": ""
             },
@@ -7614,6 +8020,20 @@
                 "coordinates": [
                     118.40798649383,
                     24.436899291835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金湖鎮新湖里環島南路塔后段１巷１９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.40835,
+                    24.437303
                 ]
             }
         },
@@ -8482,6 +8902,20 @@
                 "coordinates": [
                     118.41629119353,
                     24.438784033559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "金門縣金湖鎮新湖里市港六路２３１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.411418,
+                    24.440003
                 ]
             }
         },

@@ -4064,6 +4064,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市小港區順苓里大鵬路７７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.358227,
+                    22.567346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市小港區順苓里大鵬路６９號",
                 "pay_list": ""
             },
@@ -13794,6 +13808,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市三民區寶中里建興橫巷５―１６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32465,
+                    22.643523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市三民區鳳北里建國三路１６８號",
                 "pay_list": ""
             },
@@ -15628,6 +15656,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市仁武區仁武里仁德巷３１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.351265,
+                    22.701001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市仁武區仁和里仁雄路３７之１５號",
                 "pay_list": ""
             },
@@ -15796,6 +15838,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市仁武區後安里後庄巷４０―２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3467,
+                    22.70735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市仁武區赤山里仁雄路８３號",
                 "pay_list": ""
             },
@@ -15818,6 +15874,20 @@
                 "coordinates": [
                     120.32897443789,
                     22.68215699845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市仁武區烏林里南昌巷２１３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.37773,
+                    22.694386
                 ]
             }
         },
@@ -15916,6 +15986,20 @@
                 "coordinates": [
                     120.35453696906,
                     22.681094061286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市仁武區後安里３鄰後庄巷６１－４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.342395,
+                    22.711568
                 ]
             }
         },
@@ -17168,6 +17252,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市前鎮區良和里中山二路民營市場巷３８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307194,
+                    22.608198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市前鎮區瑞西里武德街１３５巷２８號",
                 "pay_list": ""
             },
@@ -17574,6 +17672,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市大寮區琉球里和業五路８０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.425871,
+                    22.615538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市大寮區中庄里０１７鄰鳳屏一路４９２號",
                 "pay_list": ""
             },
@@ -17840,6 +17952,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市大寮區琉球里光明路三段２２０巷１９２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.418277,
+                    22.616188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市大寮區中庄里１３鄰八德路６４號",
                 "pay_list": ""
             },
@@ -17974,6 +18100,20 @@
                 "coordinates": [
                     120.42022068148,
                     22.589908843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市大寮區新厝里新厝路６—１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.41132,
+                    22.56105
                 ]
             }
         },
@@ -18498,6 +18638,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市大樹區井腳里井脚里１９鄰井脚路１９４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.410557,
+                    22.669664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市大樹區大樹里大樹路１２７號",
                 "pay_list": ""
             },
@@ -18758,6 +18912,20 @@
                 "coordinates": [
                     120.35279503163,
                     22.700397784334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市大社區保社里萬金巷１１之１５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.343141,
+                    22.747954
                 ]
             }
         },
@@ -20430,6 +20598,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市左營區埤北里勝利路１１７、１１７之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.289813,
+                    22.680356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市左營區菜公里華夏路１１２３號",
                 "pay_list": ""
             },
@@ -20788,6 +20970,20 @@
                 "coordinates": [
                     120.320469,
                     22.68773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市左營區菜公里高鐵左營車站地上二樓大廳編號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.305241,
+                    22.672378
                 ]
             }
         },
@@ -21368,6 +21564,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市彌陀區舊港里舊港路東段４６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.231474,
+                    22.796707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市彌陀區鹽埕里鹽埕大路８０號",
                 "pay_list": ""
             },
@@ -21558,6 +21768,20 @@
                 "coordinates": [
                     120.31273076829,
                     22.628843734613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市新興區五福二路３１、３３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.301435,
+                    22.623069
                 ]
             }
         },
@@ -22278,6 +22502,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市旗山區南勝里２８鄰得勝巷４９之６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.438199,
+                    22.797253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市旗山區大德里中山路９號",
                 "pay_list": ""
             },
@@ -22496,6 +22734,20 @@
                 "coordinates": [
                     120.29713269234,
                     22.573922281361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市旗津區中洲里永興巷９３―１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.299792,
+                    22.572977
                 ]
             }
         },
@@ -22978,6 +23230,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市桃源區建山里建山巷１１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.68397,
+                    23.10722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市桃源區梅山里梅山巷１０之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.82535,
+                    23.274245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市梓官區梓和里２鄰梓官路２２５號",
                 "pay_list": ""
             },
@@ -23000,6 +23280,20 @@
                 "coordinates": [
                     120.25573096942,
                     22.727391146851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市梓官區中崙路市場巷７８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.268259,
+                    22.760566
                 ]
             }
         },
@@ -23084,6 +23378,20 @@
                 "coordinates": [
                     120.24856,
                     22.735731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市梓官區赤西里４鄰赤崁南路樹人巷８１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.247933,
+                    22.734967
                 ]
             }
         },
@@ -23854,6 +24162,20 @@
                 "coordinates": [
                     120.33734116526,
                     22.743007669776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市楠梓區大昌里右昌忠義五巷１９弄９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.287786,
+                    22.706472
                 ]
             }
         },
@@ -24728,6 +25050,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市燕巢區東燕里００４鄰後角巷１４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.36541,
+                    22.794391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市燕巢區西燕里中民路５２６之３號",
                 "pay_list": ""
             },
@@ -24736,6 +25072,20 @@
                 "coordinates": [
                     120.36358700834,
                     22.793550577294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市燕巢區鳳雄里鳳西巷１８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.354195,
+                    22.753166
                 ]
             }
         },
@@ -24778,6 +25128,34 @@
                 "coordinates": [
                     120.38841493898,
                     22.772034543462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市田寮區崇德里０１２鄰崇德路興德巷４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.379682,
+                    22.877635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市甲仙區小林里東阿里關段７７１地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.665075,
+                    23.16821
                 ]
             }
         },
@@ -26786,6 +27164,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市那瑪夏區瑪雅里２鄰平和巷４１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.697513,
+                    23.238755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市那瑪夏區瑪雅里平和巷１５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.697541,
+                    23.237549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市阿蓮區和蓮里中正路６６３號",
                 "pay_list": ""
             },
@@ -27066,6 +27472,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市鳥松區坔埔里神農路２７３巷３７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.374787,
+                    22.661048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市鳥松區仁美里美德二街１８號",
                 "pay_list": ""
             },
@@ -27074,6 +27494,20 @@
                 "coordinates": [
                     120.39042925481,
                     22.651637788894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳥松區大華里本舘路１４４巷１弄９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.337536,
+                    22.655069
                 ]
             }
         },
@@ -27172,6 +27606,20 @@
                 "coordinates": [
                     120.39620515912,
                     22.649850515915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳥松區大華里本舘路３７９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.337193,
+                    22.654323
                 ]
             }
         },
@@ -27438,6 +27886,20 @@
                 "coordinates": [
                     120.36138899169,
                     22.632872974028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區海光里海光４村臨時固定棚架攤位１２．１３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.369878,
+                    22.631228
                 ]
             }
         },
@@ -28606,6 +29068,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市鳳山區埤頂里勝利路顯惠１巷２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.37408,
+                    22.628249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市鳳山區過埤里頂茂街２９號",
                 "pay_list": ""
             },
@@ -28726,6 +29202,20 @@
                 "coordinates": [
                     120.33984074927,
                     22.610722453535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區一甲里南華路１２１﹒１２３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.338303,
+                    22.602201
                 ]
             }
         },
@@ -31700,6 +32190,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市三民區鼎盛里鼎盛段１５７﹒１５９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.325035,
+                    22.675279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市三民區鼎盛里鼎貴路５７號",
                 "pay_list": ""
             },
@@ -31806,6 +32310,20 @@
                 "coordinates": [
                     120.33491068414,
                     22.637101095866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市三民區安邦里哈爾濱街２７８、２８０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.300101,
+                    22.647637
                 ]
             }
         },
@@ -34388,6 +34906,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市仁武區仁武里仁德巷６８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.351099,
+                    22.700154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市仁武區竹後里２０鄰竹門巷１０３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.33533,
+                    22.708705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市仁武區竹後里竹東路１７９－２號",
                 "pay_list": ""
             },
@@ -36110,6 +36656,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市仁武區仁武里仁信巷２０１弄２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.345453,
+                    22.702059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市仁武區八卦里八德西路５０６號",
                 "pay_list": ""
             },
@@ -37202,6 +37762,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市內門區內門里墩子脚５之２０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.467696,
+                    22.939924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市內門區內興里石內２５號",
                 "pay_list": ""
             },
@@ -37322,6 +37896,20 @@
                 "coordinates": [
                     120.70053172157,
                     23.10939363443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市六龜區大津里大津路１１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.649416,
+                    22.879918
                 ]
             }
         },
@@ -37468,6 +38056,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市六龜區文武里舊庄巷３９－２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.639641,
+                    22.974778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市六龜區義寶里維新街６８號",
                 "pay_list": ""
             },
@@ -37560,6 +38162,20 @@
                 "coordinates": [
                     120.64148269094,
                     22.996438471039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市六龜區文武里復興巷６６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.641811,
+                    22.949348
                 ]
             }
         },
@@ -37734,6 +38350,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市六龜區文武里復興巷４５之６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.642663,
+                    22.953703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市六龜區寶來里中正路１１２之１號",
                 "pay_list": ""
             },
@@ -37770,6 +38400,20 @@
                 "coordinates": [
                     120.35934761157,
                     22.625437215877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市六龜區寶來里寶來路２巷３６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.698961,
+                    23.107241
                 ]
             }
         },
@@ -38112,6 +38756,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市六龜區義寶里太平街２０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.635568,
+                    22.995497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市六龜區義寶里光復路１７７號",
                 "pay_list": ""
             },
@@ -38162,6 +38820,20 @@
                 "coordinates": [
                     120.29490493432,
                     22.621749531705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前金區長生里光復一街跟文武二街路口（光復一街１４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.297381,
+                    22.623594
                 ]
             }
         },
@@ -39134,6 +39806,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市前金區文東里仁義街２７３、２７５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.300262,
+                    22.622146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市前金區榮復里五福三路７９號",
                 "pay_list": ""
             },
@@ -40072,6 +40758,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市前金區長生里文武二街８８、９０、９２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.296657,
+                    22.62533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市前金區文東里青年二路８２號",
                 "pay_list": ""
             },
@@ -40178,6 +40878,20 @@
                 "coordinates": [
                     120.29536920493,
                     22.627251344556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前金區草江里中華三路１９０、１９２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.294845,
+                    22.632586
                 ]
             }
         },
@@ -41220,6 +41934,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市前鎮區建隆里中華五路臨時市場６８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307047,
+                    22.601217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市前鎮區鎮榮里鎮榮街７號",
                 "pay_list": ""
             },
@@ -41808,6 +42536,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市前鎮區明孝里漁港中二街４８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.319515,
+                    22.570376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市前鎮區盛豐里復興三路４３９號",
                 "pay_list": ""
             },
@@ -42082,6 +42824,34 @@
                 "coordinates": [
                     120.30659492902,
                     22.610739133416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前鎮區西甲里西甲中巷３５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307233,
+                    22.610565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市前鎮區西甲里林森三路６１、６３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3078,
+                    22.612119
                 ]
             }
         },
@@ -43656,6 +44426,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市大寮區大寮里大寮段地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.420692,
+                    22.583237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市大寮區山頂里山頂路８７號",
                 "pay_list": ""
             },
@@ -43846,6 +44630,20 @@
                 "coordinates": [
                     120.39486309881,
                     22.636848169823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市大寮區中庄里地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.399986,
+                    22.636448
                 ]
             }
         },
@@ -44070,6 +44868,20 @@
                 "coordinates": [
                     120.4052100137,
                     22.614296294806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市大寮區中興里３７鄰中華北巷２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.384953,
+                    22.618269
                 ]
             }
         },
@@ -45630,6 +46442,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市大樹區大樹里大樹路北巷１４―１５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.429773,
+                    22.687667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市大樹區九曲里九大路８３號",
                 "pay_list": ""
             },
@@ -45778,6 +46604,20 @@
                 "coordinates": [
                     120.42433714144,
                     22.654805006292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市大樹區井腳里井脚路１９３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.409929,
+                    22.669709
                 ]
             }
         },
@@ -45938,6 +46778,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市大樹區久堂里１２鄰久堂路博愛巷１弄６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.418691,
+                    22.65846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市大樹區大坑里大坑路５０―１號",
                 "pay_list": ""
             },
@@ -45980,6 +46834,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市大樹區檨腳里義大世界中央花園廣場一樓Ｂ１Ｆ６３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.432306,
+                    22.692018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市大樹區三和里學城路１段１２號",
                 "pay_list": "LINE PAY MONEY"
             },
@@ -45988,6 +46856,34 @@
                 "coordinates": [
                     120.40661399107,
                     22.729832530252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市大樹區三和里義大世界中央花園廣場一樓Ｂ１Ｆ２８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.403565,
+                    22.728513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市大樹區檨腳里義大世界中央花園廣場一樓Ｂ１Ｆ２５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.433479,
+                    22.690135
                 ]
             }
         },
@@ -46582,6 +47478,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市大樹區久堂里久堂路博愛巷１弄１９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.419096,
+                    22.658657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市大樹區水寮里中山路１４８號",
                 "pay_list": ""
             },
@@ -46618,6 +47528,20 @@
                 "coordinates": [
                     120.43295667682,
                     22.692204438641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市大樹區久堂里久堂路城隍巷１５―８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.421197,
+                    22.661066
                 ]
             }
         },
@@ -47276,6 +48200,20 @@
                 "coordinates": [
                     120.42118648068,
                     22.647954267936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市大樹區大樹里中興南路新立巷１３弄１９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.433057,
+                    22.687546
                 ]
             }
         },
@@ -51090,6 +52028,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市小港區二苓里二苓路２９３﹒２９５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.346604,
+                    22.565407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市小港區二苓里二苓路１８７號",
                 "pay_list": ""
             },
@@ -52364,6 +53316,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市小港區孔宅里孔宅段７０８－３地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.36921,
+                    22.585528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市小港區店鎮里大鵬路２３號",
                 "pay_list": ""
             },
@@ -52890,6 +53856,20 @@
                 "coordinates": [
                     120.35661091858,
                     22.563534093076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市小港區桂林里桂林段二十八之五、一六之一四號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.35861,
+                    22.581385
                 ]
             }
         },
@@ -53526,6 +54506,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市岡山區大莊里大莊路拕子段３１９２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.317283,
+                    22.806518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市岡山區前峰里前峰路１０９－３號",
                 "pay_list": ""
             },
@@ -53534,6 +54528,20 @@
                 "coordinates": [
                     120.28510674685,
                     22.797023122452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市岡山區華崗里拕子南街１０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.321353,
+                    22.824753
                 ]
             }
         },
@@ -54646,6 +55654,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市岡山區後協里大義二路８２．８４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.286124,
+                    22.786897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市岡山區台上里嘉新東路１２２―１９號",
                 "pay_list": ""
             },
@@ -55178,6 +56200,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市岡山區前峰里公園西路三段５８─１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.285867,
+                    22.796301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市岡山區仁壽里民族路２號",
                 "pay_list": ""
             },
@@ -55424,6 +56460,20 @@
                 "coordinates": [
                     120.30173203767,
                     22.792192949896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市岡山區壽天里警悟巷１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.291358,
+                    22.795669
                 ]
             }
         },
@@ -56718,6 +57768,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市左營區菜公里文自路５２２樓號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307254,
+                    22.672127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市左營區新上里至聖路１５０號",
                 "pay_list": ""
             },
@@ -57964,6 +59028,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市左營區??北里海平路５８巷１４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.28827,
+                    22.685694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市左營區新光里立道路１１號",
                 "pay_list": ""
             },
@@ -58048,6 +59126,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市左營區自由黃昏市場第Ｂ１２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.310982,
+                    22.681436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市左營區福山里榮成三街７８號",
                 "pay_list": ""
             },
@@ -58070,6 +59162,20 @@
                 "coordinates": [
                     120.28746210029,
                     22.69646903402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市左營區新下里至真路（新華段２地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.299677,
+                    22.67313
                 ]
             }
         },
@@ -58566,6 +59672,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市彌陀區文安里文安路東段２０４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.239276,
+                    22.794419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市彌陀區彌靖里００６鄰中正路１９８號",
                 "pay_list": ""
             },
@@ -58972,6 +60092,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市彌陀區南寮里南寮路３巷１６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.236047,
+                    22.760769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市彌陀區鹽埕里中正東路２７０―５號",
                 "pay_list": ""
             },
@@ -59008,6 +60142,20 @@
                 "coordinates": [
                     120.24509146895,
                     22.791952278998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市彌陀區彌壽里中正西路廟後巷４７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.245739,
+                    22.778115
                 ]
             }
         },
@@ -61800,6 +62948,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市旗山區南勝里龍文巷４４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.444727,
+                    22.782447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市旗山區瑞吉里民權三街３３號",
                 "pay_list": ""
             },
@@ -61808,6 +62970,20 @@
                 "coordinates": [
                     120.48439271732,
                     22.891170729499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市旗山區南勝里龍文巷４６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.444509,
+                    22.783491
                 ]
             }
         },
@@ -62206,6 +63382,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市旗山區永福街４４，４２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.481745,
+                    22.887243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市旗山區太平里旗南一路１３６之１號",
                 "pay_list": ""
             },
@@ -62248,6 +63438,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市旗山區東昌里南寮巷３７之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.490234,
+                    22.867721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市旗山區竹峰里中山路１９４號",
                 "pay_list": ""
             },
@@ -62256,6 +63460,20 @@
                 "coordinates": [
                     120.48205156301,
                     22.890903399036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市旗山區瑞吉里延平一路３９５巷７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.48456,
+                    22.890533
                 ]
             }
         },
@@ -63180,6 +64398,20 @@
                 "coordinates": [
                     120.46843307691,
                     22.86093869758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市旗山區大山里文和巷８３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.474587,
+                    22.847608
                 ]
             }
         },
@@ -64474,6 +65706,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市旗津區復興里中洲三路５６３﹒５６５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.272921,
+                    22.607075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市旗津區振興里廟前路９４號",
                 "pay_list": ""
             },
@@ -64502,6 +65748,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市旗津區慈愛里安樂巷２１５－９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.270032,
+                    22.609438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市旗津區慈愛里中洲三路５０８號",
                 "pay_list": ""
             },
@@ -64510,6 +65770,20 @@
                 "coordinates": [
                     120.27186984977,
                     22.608886149705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市旗津區上竹里上竹巷９２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.292771,
+                    22.581624
                 ]
             }
         },
@@ -64600,6 +65874,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市旗津區南汕里北汕巷１０之８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.288048,
+                    22.586127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市旗津區中興里旗津二路２５７之５號",
                 "pay_list": "LINE PAY MONEY"
             },
@@ -64664,6 +65952,20 @@
                 "coordinates": [
                     120.27065172801,
                     22.607643328462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市旗津區上竹里上竹巷７―１３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.296986,
+                    22.576765
                 ]
             }
         },
@@ -64894,6 +66196,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市旗津區南汕里北汕巷５０―６０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.290195,
+                    22.58742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市旗津區旗津段７５９－２地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.269613,
+                    22.609824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市旗津區上竹里中洲二路１８６－３號",
                 "pay_list": ""
             },
@@ -64930,6 +66260,20 @@
                 "coordinates": [
                     120.36140936586,
                     22.626209800015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市旗津區上竹里上竹巷７７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293796,
+                    22.579308
                 ]
             }
         },
@@ -65188,6 +66532,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市旗津區中洲里中洲巷６８―２２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.299499,
+                    22.573225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市旗津區實踐里中洲三路４５０號",
                 "pay_list": ""
             },
@@ -65336,6 +66694,20 @@
                 "coordinates": [
                     120.26839757118,
                     22.613611545158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市旗津區慈愛里安樂巷２３２－４附１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.269323,
+                    22.6094
                 ]
             }
         },
@@ -65532,6 +66904,20 @@
                 "coordinates": [
                     120.5713470372,
                     22.9947503319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市杉林區月眉里清水路朝雲巷２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.534223,
+                    22.967293
                 ]
             }
         },
@@ -65784,6 +67170,20 @@
                 "coordinates": [
                     120.39729960103,
                     22.526262778062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市林園區溪州里溪洲一路１２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.405496,
+                    22.513627
                 ]
             }
         },
@@ -66246,6 +67646,20 @@
                 "coordinates": [
                     120.39494871603,
                     22.503901422227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市林園區中厝里中厝路９鄰１７９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.399061,
+                    22.530967
                 ]
             }
         },
@@ -67358,6 +68772,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市林園區東林里林園北路１，３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.395685,
+                    22.503937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市林園區林園里３４鄰文化街１６２號",
                 "pay_list": ""
             },
@@ -67660,6 +69088,20 @@
                 "coordinates": [
                     120.39340343241,
                     22.505394204778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市林園區林園里福興街１１９至１２１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.394341,
+                    22.505611
                 ]
             }
         },
@@ -68086,6 +69528,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市桃源區寶山里寶山巷８４－２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.7195,
+                    23.050927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市桃源區勤和里南橫公路３段１９號",
                 "pay_list": ""
             },
@@ -68094,6 +69550,104 @@
                 "coordinates": [
                     120.77573408802,
                     23.16789167703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市桃源區建山里建山巷７３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.683907,
+                    23.107023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市桃源區勤和里南橫公路３段勤和巷７３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.77466,
+                    23.171813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市桃源區梅山里梅山巷５７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.826077,
+                    23.264536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市桃源區桃源里北進巷９３之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.766364,
+                    23.159742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市桃源區桃源里北進巷４１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.765407,
+                    23.159552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市桃源區建山里建山巷３０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.683929,
+                    23.107738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市桃源區建山里建山巷５４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.683485,
+                    23.107745
                 ]
             }
         },
@@ -68114,6 +69668,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市桃源區寶山里寶山巷１０１－１０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.728478,
+                    23.058319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市桃源區復興里愛玉路９３號",
                 "pay_list": ""
             },
@@ -68122,6 +69690,62 @@
                 "coordinates": [
                     120.80485501144,
                     23.218979476949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市桃源區桃源里北進巷８４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.765844,
+                    23.159656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市桃源區梅山里梅山巷５０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.826268,
+                    23.262944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市桃源區梅山里梅山巷５９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.826066,
+                    23.264641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市桃源區桃源里北進巷８３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.765763,
+                    23.159627
                 ]
             }
         },
@@ -68142,6 +69766,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市桃源區高中里３鄰興中巷６１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.717463,
+                    23.129784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市桃源區桃源里北進巷２８號",
                 "pay_list": ""
             },
@@ -68150,6 +69788,34 @@
                 "coordinates": [
                     120.764799,
                     23.159437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市桃源區寶山里寶山巷９６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.722251,
+                    23.055323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市桃源區梅山里樟山段００１８之０００１地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.825232,
+                    23.273637
                 ]
             }
         },
@@ -69696,6 +71362,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市梓官區梓和里４鄰梓官路城隍巷６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.267388,
+                    22.759809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市梓官區禮蚵里１１鄰光明路１５０號",
                 "pay_list": ""
             },
@@ -70236,6 +71916,20 @@
                 "coordinates": [
                     120.29634291149,
                     22.720002754595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市楠梓區建昌里右昌街１巷１－１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.291855,
+                    22.709823
                 ]
             }
         },
@@ -72090,6 +73784,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市楠梓區中陽里朝明路１０４﹒１０６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32778,
+                    22.724166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市楠梓區加昌里德民路６６９號",
                 "pay_list": ""
             },
@@ -72944,6 +74652,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市橋頭區德松里鉄路北路３８－６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304306,
+                    22.766072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市橋頭區仕隆里４鄰仕隆路１５號",
                 "pay_list": ""
             },
@@ -72986,6 +74708,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市橋頭區筆秀里筆秀路廟前巷１１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.311865,
+                    22.768025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市橋頭區東林里五林路１０８號",
                 "pay_list": ""
             },
@@ -73008,6 +74744,20 @@
                 "coordinates": [
                     120.31644783072,
                     22.752601685247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市橋頭區白樹里長壽巷６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.303803,
+                    22.759184
                 ]
             }
         },
@@ -73392,6 +75142,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市橋頭區白樹里隆豐北路１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.306563,
+                    22.758704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市橋頭區橋南里創新路９３號",
                 "pay_list": ""
             },
@@ -73414,6 +75178,20 @@
                 "coordinates": [
                     120.3078984707,
                     22.753293905126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市橋頭區橋頭里第一公有零售市場第６８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.309822,
+                    22.759599
                 ]
             }
         },
@@ -73512,6 +75290,34 @@
                 "coordinates": [
                     120.31161462838,
                     22.754342970199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市橋頭區橋南里橋南路舊市巷１４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.311601,
+                    22.755479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市橋頭區仕和里仕豐路仁愛巷２３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308331,
+                    22.752127
                 ]
             }
         },
@@ -73638,6 +75444,20 @@
                 "coordinates": [
                     120.30714317421,
                     22.754164968361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市橋頭區橋南里舊市巷１４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.311276,
+                    22.755901
                 ]
             }
         },
@@ -73812,6 +75632,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市橋頭區舊市巷１４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.299373,
+                    22.75787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市橋頭區橋南里成功南路１２８號",
                 "pay_list": ""
             },
@@ -73924,6 +75758,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市橋頭區仕興段１３４地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.306406,
+                    22.751629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市橋頭區橋頭里成功路１６６號",
                 "pay_list": ""
             },
@@ -74022,6 +75870,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市橋頭區仕和里仕豐路公館巷６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308668,
+                    22.751859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市橋頭區白樹里樹德路３６號",
                 "pay_list": ""
             },
@@ -74100,6 +75962,20 @@
                 "coordinates": [
                     120.31146643725,
                     22.754614060822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市橋頭區甲南里鹽南路１７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.292748,
+                    22.742235
                 ]
             }
         },
@@ -74218,6 +76094,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市橋頭區糖廠路廠區１巷２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.312054,
+                    22.754363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市橋頭區成功北路５２０號",
                 "pay_list": ""
             },
@@ -74246,6 +76136,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市橋頭區甲北里１９鄰甲昌路通山巷２－４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295535,
+                    22.740006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市橋頭區白樹里樹德路６６號",
                 "pay_list": ""
             },
@@ -74268,6 +76172,20 @@
                 "coordinates": [
                     120.31258336062,
                     22.752551054919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市橋頭區白樹里０３４鄰建樹路中興巷１０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.303903,
+                    22.762602
                 ]
             }
         },
@@ -74470,6 +76388,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市橋頭區新莊里橋新一路５０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31658,
+                    22.737884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市橋頭區橋南里橋南路１６８號",
                 "pay_list": ""
             },
@@ -74554,6 +76486,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市橋頭區頂鹽里鹽田路建豐巷４２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.285481,
+                    22.746858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市橋頭區橋南里成功南路６－１號",
                 "pay_list": ""
             },
@@ -74576,6 +76522,20 @@
                 "coordinates": [
                     120.30906048336,
                     22.751392405487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市橋頭區新莊里後壁田段１１３地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.29786,
+                    22.733111
                 ]
             }
         },
@@ -76318,6 +78278,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市湖內區公舘里００３鄰中華街１１２巷１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.224014,
+                    22.906434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市湖內區大湖里１３鄰民權路４９號",
                 "pay_list": ""
             },
@@ -77522,6 +79496,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市燕巢區橫山里大山巷１之２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.377402,
+                    22.764126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市燕巢區西燕里１鄰中興北路３４號",
                 "pay_list": ""
             },
@@ -77676,6 +79664,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市燕巢區金山里麒麟巷１０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.401796,
+                    22.810082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市燕巢區南燕里２４鄰中民路５７７號",
                 "pay_list": ""
             },
@@ -77746,6 +79748,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市燕巢區深水里湖內巷１５８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.369986,
+                    22.773857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市燕巢區深水里深興路１０６號",
                 "pay_list": ""
             },
@@ -77796,6 +79812,20 @@
                 "coordinates": [
                     120.35504317012,
                     22.753041240624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市燕巢區安招里安東路７７之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.344226,
+                    22.785437
                 ]
             }
         },
@@ -77978,6 +80008,20 @@
                 "coordinates": [
                     120.33861693775,
                     22.790503497495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市燕巢區南燕里２４鄰下市場３﹒４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.360733,
+                    22.792994
                 ]
             }
         },
@@ -78180,6 +80224,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市燕巢區南燕里中生巷９－２０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.364621,
+                    22.789549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市燕巢區角宿里義大路８號",
                 "pay_list": ""
             },
@@ -78272,6 +80330,20 @@
                 "coordinates": [
                     120.3628034224,
                     22.79340873917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市燕巢區深水里０１４鄰臥牛巷７―７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.385329,
+                    22.775753
                 ]
             }
         },
@@ -78398,6 +80470,20 @@
                 "coordinates": [
                     120.35766974962,
                     22.755923470438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市燕巢區興龍段３地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.340802,
+                    22.786232
                 ]
             }
         },
@@ -78614,6 +80700,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市燕巢區尖山里紅山巷１４０之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.366668,
+                    22.807075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市燕巢區安招里安東街３７１號",
                 "pay_list": ""
             },
@@ -78678,6 +80778,20 @@
                 "coordinates": [
                     120.36257987691,
                     22.791652662694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市燕巢區燕西段１１３２地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.340118,
+                    22.790469
                 ]
             }
         },
@@ -78860,6 +80974,20 @@
                 "coordinates": [
                     120.36196632571,
                     22.793150188737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市燕巢區金山里麒麟巷３５之５１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.40371,
+                    22.8102
                 ]
             }
         },
@@ -79076,6 +81204,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市燕巢區中民路下市場巷１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.354636,
+                    22.791833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市燕巢區南燕里中民路６０７號",
                 "pay_list": ""
             },
@@ -79258,6 +81400,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市燕巢區深水里烏山巷２００號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.407619,
+                    22.796779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市燕巢區鳳雄里３鄰鳳旗路１４４號",
                 "pay_list": ""
             },
@@ -79426,6 +81582,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市田寮區崇德里崇德路山頂巷３０－２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.380647,
+                    22.881609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市田寮區南安里２１鄰崗北路８５號",
                 "pay_list": ""
             },
@@ -79434,6 +81604,20 @@
                 "coordinates": [
                     120.35935989877,
                     22.872545188305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市田寮區水蛙潭段４１９－５８地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.390581,
+                    22.839858
                 ]
             }
         },
@@ -79720,6 +81904,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市田寮區西德里００７鄰新廍巷１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.378392,
+                    22.878297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市田寮區西德里西德路山脚巷１－６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.376918,
+                    22.881205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市田寮區西德里西德路６８－１號",
                 "pay_list": ""
             },
@@ -79770,6 +81982,20 @@
                 "coordinates": [
                     120.39093229656,
                     22.885819173798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市田寮區西德里西德路山脚巷１－５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.375165,
+                    22.880385
                 ]
             }
         },
@@ -79896,6 +82122,20 @@
                 "coordinates": [
                     120.21117265407,
                     22.816089916797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市甲仙區大田里田寮巷２０之７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.572559,
+                    23.063027
                 ]
             }
         },
@@ -80182,6 +82422,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市甲仙區大田里新榮巷１之６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.577872,
+                    23.069315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市甲仙區西安里中正路１１號",
                 "pay_list": ""
             },
@@ -80316,6 +82570,20 @@
                 "coordinates": [
                     120.53915688196,
                     22.90082796052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市美濃區廣林里雙溪街５２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.595566,
+                    22.932279
                 ]
             }
         },
@@ -80686,6 +82954,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市美濃區祿興里忠孝光明路口１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.54154,
+                    22.893045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市美濃區合和里美中路６８巷３號",
                 "pay_list": ""
             },
@@ -80750,6 +83032,20 @@
                 "coordinates": [
                     120.54261639315,
                     22.89652825748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市美濃區泰安里双峰街１之１０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.541282,
+                    22.902798
                 ]
             }
         },
@@ -81428,6 +83724,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市美濃區廣林里廣興段０２５１－００００、０２５２－００００地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.579547,
+                    22.908434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市美濃區廣林里朝元１７０號",
                 "pay_list": ""
             },
@@ -81520,6 +83830,34 @@
                 "coordinates": [
                     120.54110612671,
                     22.902416492476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市美濃區泰安里双峰街１－３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.541169,
+                    22.90249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市美濃區泰安里双峰街１－４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.541197,
+                    22.902529
                 ]
             }
         },
@@ -82576,6 +84914,104 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市苓雅區福祥里林靖攤販集中場１３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.330527,
+                    22.623591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區福西里林靖攤販集中場３０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.332019,
+                    22.623795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區福西里林靖攤販集中場２２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.332069,
+                    22.623669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區福祥里林靖攤販集中場２３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.330219,
+                    22.623987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區福祥里林靖攤販集中場１９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.330239,
+                    22.623923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區福祥里林靖攤販集中場７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.330789,
+                    22.623075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區福祥里林靖攤販集中場１１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.33067,
+                    22.623301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市苓雅區和煦里青年一路１６３號",
                 "pay_list": ""
             },
@@ -82976,6 +85412,20 @@
                 "coordinates": [
                     120.31049195145,
                     22.62028187445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市苓雅區林榮里林聖段３８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.326359,
+                    22.614288
                 ]
             }
         },
@@ -84102,6 +86552,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市苓雅區林圍里厦門街２１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.314134,
+                    22.62565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市苓雅區正文里福德二路４３號",
                 "pay_list": ""
             },
@@ -84970,6 +87434,174 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市茂林區多納里２鄰多納巷３０之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.716852,
+                    22.911172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市茂林區多納里６鄰多納巷９３－１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.714637,
+                    22.909489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市茂林區茂林里茂林巷１１３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.666376,
+                    22.886763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市茂林區茂林里茂林巷７０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.665222,
+                    22.887588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市茂林區多納里多納巷１６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.71683,
+                    22.910969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市茂林區多納里多納巷１２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.716457,
+                    22.910623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市茂林區多納里多納巷６－１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.714204,
+                    22.909894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市茂林區萬山里萬山巷７２－３６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.687903,
+                    22.905491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市茂林區多納里多納巷６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.717316,
+                    22.911017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市茂林區茂林里８２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.665705,
+                    22.886915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市茂林區多納里多納巷４１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.716517,
+                    22.91113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市茂林區茂林里茂林巷８３之２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.665595,
+                    22.886996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市茂林區茂林里茂林巷１２之４號",
                 "pay_list": ""
             },
@@ -84978,6 +87610,48 @@
                 "coordinates": [
                     120.649883,
                     22.880089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市茂林區萬山里萬山巷１６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.680466,
+                    22.908428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市茂林區多納里多納巷３６之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.716196,
+                    22.910867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市茂林區多納里多納巷４４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.715798,
+                    22.910799
                 ]
             }
         },
@@ -85160,6 +87834,20 @@
                 "coordinates": [
                     120.18412037891,
                     22.895278305014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市茄萣區保定里新庄巷４１弄２３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.19556,
+                    22.902398
                 ]
             }
         },
@@ -85908,6 +88596,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市茄萣區大定里仁愛路一段１０２－９、１０２－１０、１０２－１１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.186421,
+                    22.893024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市茄萣區大定里仁愛路１段１１６－２號",
                 "pay_list": ""
             },
@@ -86280,6 +88982,20 @@
                 "coordinates": [
                     120.19068035822,
                     22.875481086203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市茄萣區嘉樂里２９６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.183882,
+                    22.900278
                 ]
             }
         },
@@ -88750,6 +91466,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市路竹區竹東里中興路１２６．１２８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.261362,
+                    22.857368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市路竹區文南里中華路１２６號",
                 "pay_list": ""
             },
@@ -88848,6 +91578,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市那瑪夏區瑪雅里平和巷９１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.696817,
+                    23.237729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市那瑪夏區達卡努瓦秀嶺巷２２５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.700079,
+                    23.260518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市那瑪夏區達卡努瓦大光巷５７號",
                 "pay_list": "LINE PAY MONEY\/一卡通"
             },
@@ -88862,6 +91620,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市那瑪夏區達卡努瓦秀嶺巷１７５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.695634,
+                    23.245546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市那瑪夏區達卡努瓦秀嶺巷１６１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.72017,
+                    23.268533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市那瑪夏區達卡努瓦里大光巷１８８號",
                 "pay_list": "LINE PAY MONEY"
             },
@@ -88870,6 +91656,34 @@
                 "coordinates": [
                     120.719202,
                     23.273917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市那瑪夏區達卡努瓦里達卡努瓦段００６１－００００地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.688498,
+                    23.281708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市那瑪夏區瑪雅里平和巷１４１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.696442,
+                    23.23843
                 ]
             }
         },
@@ -88904,6 +91718,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市那瑪夏區達卡努瓦里達卡努瓦段８６４地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.688498,
+                    23.281708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市那瑪夏區南沙魯里鞍山巷８２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.693123,
+                    23.218333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市那瑪夏區達卡努瓦秀嶺巷１９６號",
                 "pay_list": ""
             },
@@ -88912,6 +91754,48 @@
                 "coordinates": [
                     120.717348,
                     23.27004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市那瑪夏區瑪雅里００１鄰平和巷１７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.697546,
+                    23.237624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市那瑪夏區達卡努瓦里大光巷３２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.718569,
+                    23.278352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市阿蓮區青旗里１４鄰青旗路１３７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32358,
+                    22.887253
                 ]
             }
         },
@@ -89520,6 +92404,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市阿蓮區峰山里峰南３４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.355966,
+                    22.87496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市阿蓮區和蓮里忠孝路４０８―２號",
                 "pay_list": ""
             },
@@ -89556,6 +92454,20 @@
                 "coordinates": [
                     120.3292860692,
                     22.880930523794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市阿蓮區復安里０１５鄰７６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.323915,
+                    22.845509
                 ]
             }
         },
@@ -90052,6 +92964,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市阿蓮區復安里復安路１０４之２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.324457,
+                    22.848776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市阿蓮區阿蓮里０１２鄰民族路８２號",
                 "pay_list": "LINE PAY MONEY"
             },
@@ -90088,6 +93014,20 @@
                 "coordinates": [
                     120.35968888829,
                     22.621945208256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市阿蓮區峰山里峰北６６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.355417,
+                    22.875126
                 ]
             }
         },
@@ -90374,6 +93314,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市阿蓮區復安里復安街７８－２０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.329617,
+                    22.843475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市阿蓮區阿蓮里中正路４６２號",
                 "pay_list": ""
             },
@@ -90424,6 +93378,20 @@
                 "coordinates": [
                     120.33429371922,
                     22.880671982684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市阿蓮區南蓮里００９鄰忠孝路１１７．１１９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.328644,
+                    22.878625
                 ]
             }
         },
@@ -90780,6 +93748,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市阿蓮區南蓮里忠孝路８２及８４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.332336,
+                    22.879287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市阿蓮區南蓮里０２６鄰中正路５３５號",
                 "pay_list": ""
             },
@@ -90956,6 +93938,20 @@
                 "coordinates": [
                     120.3583665563,
                     22.631997209735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市阿蓮區復安里１９鄰復安街１４６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.325033,
+                    22.850503
                 ]
             }
         },
@@ -91214,6 +94210,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市鳥松區大華里２０鄰本舘路１６６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.336771,
+                    22.655142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳥松區大華里１６鄰本舘路２７２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.334521,
+                    22.657139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市鳥松區夢裡里中正路３５４之１號",
                 "pay_list": ""
             },
@@ -91326,6 +94350,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市鳥松區大華里本舘路１８８－１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.336251,
+                    22.655526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市鳥松區仁美里介壽路４３號",
                 "pay_list": ""
             },
@@ -91404,6 +94442,20 @@
                 "coordinates": [
                     120.36339849496,
                     22.6623581151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳥松區大華里１４鄰本舘路３５５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.338301,
+                    22.653466
                 ]
             }
         },
@@ -91858,6 +94910,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市鳥松區鳥松里松埔北巷１０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.384429,
+                    22.675083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市鳥松區鳥松里０１２鄰中正路６９號",
                 "pay_list": ""
             },
@@ -91900,6 +94966,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市鳥松區鳥松里文前路文北巷７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.36278,
+                    22.662973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市鳥松區鳥松里大埤路２４號",
                 "pay_list": ""
             },
@@ -91908,6 +94988,20 @@
                 "coordinates": [
                     120.36067274573,
                     22.657789726213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳥松區大華里本舘路３７１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.338059,
+                    22.653641
                 ]
             }
         },
@@ -91992,6 +95086,20 @@
                 "coordinates": [
                     120.36285782691,
                     22.662620385555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳥松區大華里本舘路２１１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.34178,
+                    22.65088
                 ]
             }
         },
@@ -92222,6 +95330,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市鳥松區大華里本舘路１７４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.336609,
+                    22.655284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市鳥松區仁美里美山路２１之１號",
                 "pay_list": ""
             },
@@ -92362,6 +95484,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市鳥松區大華里１９鄰山脚路２５６巷２５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.336466,
+                    22.661086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳥松區大華里本舘路文明巷１７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.33761,
+                    22.653953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市鳥松區華美里學堂路３７號",
                 "pay_list": ""
             },
@@ -92370,6 +95520,20 @@
                 "coordinates": [
                     120.39397551162,
                     22.65796473848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳥松區大華里本舘路１５６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.337093,
+                    22.654899
                 ]
             }
         },
@@ -92488,6 +95652,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市鳥松區大華里１６鄰本舘路１９２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.336012,
+                    22.655809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市鳥松區仁美里學堂路８７號",
                 "pay_list": ""
             },
@@ -92552,6 +95730,20 @@
                 "coordinates": [
                     120.35004101409,
                     22.745391000028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳥松區大華里本舘路文明巷４７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.337352,
+                    22.652726
                 ]
             }
         },
@@ -92650,6 +95842,20 @@
                 "coordinates": [
                     120.36262829838,
                     22.662027508668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳥松區大華里本舘路３―２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.346905,
+                    22.647801
                 ]
             }
         },
@@ -92768,6 +95974,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市鳥松區坔埔里同富街１２９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.385245,
+                    22.655104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市鳥松區坔埔里神農路３２０號",
                 "pay_list": ""
             },
@@ -92810,6 +96030,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市鳥松區大華里本舘路３―３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.346436,
+                    22.647725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市鳥松區汾陽路１１０號",
                 "pay_list": ""
             },
@@ -92832,6 +96066,20 @@
                 "coordinates": [
                     120.37045907925,
                     22.659828870403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳥松區大華里本舘路４４―３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.346436,
+                    22.647725
                 ]
             }
         },
@@ -93168,6 +96416,20 @@
                 "coordinates": [
                     120.36447786714,
                     22.637714169545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鳳山區南興里中山路６４﹒６４之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3598,
+                    22.621849
                 ]
             }
         },
@@ -96198,6 +99460,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市鹽埕區教仁里第一公有市場２１３之３５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.281885,
+                    22.624582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市鹽埕區藍橋里北斗街３６―１號",
                 "pay_list": ""
             },
@@ -96276,6 +99552,20 @@
                 "coordinates": [
                     120.28708692049,
                     22.622771662172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鹽埕區大仁攤販集中場第１６３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.282805,
+                    22.62585
                 ]
             }
         },
@@ -97738,6 +101028,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市鹽埕區河濱里五福四路１４５，１４３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.283792,
+                    22.623272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市鹽埕區瀨南里瀨南街２０６號",
                 "pay_list": ""
             },
@@ -98410,6 +101714,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "高雄市鼓山區桃源里柴山路９１－１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.253001,
+                    22.644967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "高雄市鼓山區忠正里西藏街３４４號",
                 "pay_list": "LINE PAY MONEY"
             },
@@ -98796,6 +102114,20 @@
                 "coordinates": [
                     120.29815318905,
                     22.666259010535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "高雄市鼓山區桃源里柴山路２６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.253676,
+                    22.646432
                 ]
             }
         },

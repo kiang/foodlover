@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "高雄市前鎮區西甲里西甲中巷３５號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[高雄市]\tT:1,V:1,R:-1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:1,NO:0(+6)(-10),E:-1,N:-1",
+      "OutTraceInfo": "[高雄市]\t { 模糊比對 } (前鎮區)\t找到符合的[鄉鎮市區]，(西甲里)\t找到符合的[村里]，(西甲中巷)\t找到符合的[地區]，(35號)\t進行[單號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +6 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -10 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "高雄市前鎮區西甲里1鄰西甲中巷25號",
+      "COUNTY": "高雄市",
+      "TOWN": "前鎮區",
+      "VILLAGE": "西甲里",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "西甲中巷",
+      "NUMBER": "25號",
+      "X": 120.307233,
+      "Y": 22.610565
+    },
+    {
+      "FULL_ADDR": "高雄市前鎮區西甲里15鄰西甲中巷41號",
+      "COUNTY": "高雄市",
+      "TOWN": "前鎮區",
+      "VILLAGE": "西甲里",
+      "NEIGHBORHOOD": "15鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "西甲中巷",
+      "NUMBER": "41號",
+      "X": 120.306965,
+      "Y": 22.609918
+    }
+  ]
+}

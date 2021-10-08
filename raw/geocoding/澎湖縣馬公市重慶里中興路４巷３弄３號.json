@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "澎湖縣馬公市重慶里中興路４巷３弄３號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[澎湖縣]\tT:1,V:1,R:1,S:-1,L:1,A:0,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[澎湖縣]\t { 模糊比對 } (馬公市)\t找到符合的[鄉鎮市區]，(重慶里)\t找到符合的[村里]，(中興路)\t找到符合的[路街名]，(4巷)\t找到符合的[巷]，(3弄)\t找不到符合的[弄]，(3號)\t找到符合的[門牌號碼]，進行[單號過濾]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "澎湖縣馬公市重慶里27鄰中興路4巷13弄3號",
+      "COUNTY": "澎湖縣",
+      "TOWN": "馬公市",
+      "VILLAGE": "重慶里",
+      "NEIGHBORHOOD": "27鄰",
+      "ROAD": "中興路",
+      "SECTION": "",
+      "LANE": "4巷",
+      "ALLEY": "13弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "3號",
+      "X": 119.568285,
+      "Y": 23.566824
+    },
+    {
+      "FULL_ADDR": "澎湖縣馬公市重慶里27鄰中興路4巷3號",
+      "COUNTY": "澎湖縣",
+      "TOWN": "馬公市",
+      "VILLAGE": "重慶里",
+      "NEIGHBORHOOD": "27鄰",
+      "ROAD": "中興路",
+      "SECTION": "",
+      "LANE": "4巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "3號",
+      "X": 119.568258,
+      "Y": 23.566658
+    }
+  ]
+}

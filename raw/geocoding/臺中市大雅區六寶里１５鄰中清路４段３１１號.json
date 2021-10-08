@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺中市大雅區六寶里１５鄰中清路４段３１１號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺中市]\tT:1,V:1,R:1,S:1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+110)(-174),E:-1,N:0",
+      "OutTraceInfo": "[臺中市]\t { 模糊比對 } (大雅區)\t找到符合的[鄉鎮市區]，(六寶里)\t找到符合的[村里]，(中清路)\t找到符合的[路街名]，(4)\t找到符合的[路段]，(311號)\t進行[單號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +110 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -174 號，(15鄰)\t找不到進行[忽略鄰]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "臺中市大雅區六寶里2鄰中清路四段137號",
+      "COUNTY": "臺中市",
+      "TOWN": "大雅區",
+      "VILLAGE": "六寶里",
+      "NEIGHBORHOOD": "2鄰",
+      "ROAD": "中清路",
+      "SECTION": "4",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "137號",
+      "X": 120.643457,
+      "Y": 24.227826
+    },
+    {
+      "FULL_ADDR": "臺中市大雅區六寶里1鄰中清路四段421號",
+      "COUNTY": "臺中市",
+      "TOWN": "大雅區",
+      "VILLAGE": "六寶里",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "中清路",
+      "SECTION": "4",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "421號",
+      "X": 120.638686,
+      "Y": 24.232485
+    }
+  ]
+}

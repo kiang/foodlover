@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "桃園市大園區沙崙里００１鄰港口路４６巷１５號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[桃園市]\tT:1,V:1,R:0,S:-1,L:0,A:-1,SA:-1,T:-1,AR:-1,NO:0(+2)(-2),E:-1,N:0",
+      "OutTraceInfo": "[桃園市]\t { 模糊比對 } (大園區)\t找到符合的[鄉鎮市區]，(沙崙里)\t找到符合的[村里]，(港口路)\t找不到符合的[路街名]，進行轉換搜尋[街變成路，路變成街]，進行轉換搜尋[路變成地區名]，轉換搜尋找不到符合的[路街名]，(46巷)\t找不到符合的[巷]，(46)\t找不到符合的[門牌號碼]，進行轉換搜尋[巷視為號]，進行[雙號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +2 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -2 號，進行[找最小門牌的號之、之號]，(1鄰)\t找不到進行[忽略鄰]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "桃園市大園區沙崙里11鄰沙崙44之1號",
+      "COUNTY": "桃園市",
+      "TOWN": "大園區",
+      "VILLAGE": "沙崙里",
+      "NEIGHBORHOOD": "11鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "沙崙",
+      "NUMBER": "44之1號",
+      "X": 121.223114,
+      "Y": 25.094394
+    },
+    {
+      "FULL_ADDR": "桃園市大園區沙崙里11鄰沙崙44之2號",
+      "COUNTY": "桃園市",
+      "TOWN": "大園區",
+      "VILLAGE": "沙崙里",
+      "NEIGHBORHOOD": "11鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "沙崙",
+      "NUMBER": "44之2號",
+      "X": 121.223168,
+      "Y": 25.094432
+    }
+  ]
+}

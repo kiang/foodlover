@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "花蓮縣新城鄉嘉里村０２５鄰嘉里路６０號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[花蓮縣]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+4)(-4),E:-1,N:1",
+      "OutTraceInfo": "[花蓮縣]\t { 模糊比對 } (新城鄉)\t找到符合的[鄉鎮市區]，(嘉里村)\t找到符合的[村里]，(嘉里路)\t找到符合的[路街名]，(60號)\t進行[雙號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +4 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -4 號，(25鄰)\t找到符合的[鄰]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "花蓮縣新城鄉嘉里村25鄰嘉里路56號",
+      "COUNTY": "花蓮縣",
+      "TOWN": "新城鄉",
+      "VILLAGE": "嘉里村",
+      "NEIGHBORHOOD": "25鄰",
+      "ROAD": "嘉里路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "56號",
+      "X": 121.609798,
+      "Y": 24.019200
+    },
+    {
+      "FULL_ADDR": "花蓮縣新城鄉嘉里村25鄰嘉里路64號",
+      "COUNTY": "花蓮縣",
+      "TOWN": "新城鄉",
+      "VILLAGE": "嘉里村",
+      "NEIGHBORHOOD": "25鄰",
+      "ROAD": "嘉里路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "64號",
+      "X": 121.609747,
+      "Y": 24.019338
+    }
+  ]
+}

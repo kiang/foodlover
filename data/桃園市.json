@@ -2566,6 +2566,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市中壢區金華里九和二街１７、１９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.225351,
+                    24.963031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市中壢區興南里延平路４６６號",
                 "pay_list": ""
             },
@@ -3560,6 +3574,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市中壢區復興里長春路１９、２１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.24462,
+                    24.976095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市中壢區明德里長沙路１３２號",
                 "pay_list": ""
             },
@@ -3952,6 +3980,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市中壢區龍昌里中山東路３段文化新村５８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.250382,
+                    24.937208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市中壢區普義里溪洲街２６７巷２３號",
                 "pay_list": ""
             },
@@ -4232,6 +4274,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市中壢區仁德里興仁路３段６０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.264165,
+                    24.954599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市中壢區文化里吉林二路３１巷３４號",
                 "pay_list": ""
             },
@@ -4400,6 +4456,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市中壢區永興里永嘉街９５－１、９５－３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.220074,
+                    24.959237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市中壢區普仁里日新路６３巷３號",
                 "pay_list": ""
             },
@@ -4464,6 +4534,20 @@
                 "coordinates": [
                     121.21413667066,
                     24.957079102661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市中壢區青埔里青昇１街８９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.220344,
+                    25.007071
                 ]
             }
         },
@@ -5660,6 +5744,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市大園區菓林里０１５鄰崁下４９－３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.257341,
+                    25.078143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市大園區五權里０２５鄰大竹南路７７７巷１７８號",
                 "pay_list": ""
             },
@@ -5702,6 +5800,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市大園區北港里大觀路１６鄰５２６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.182945,
+                    25.065342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市大園區大園里０１７鄰中山北路１０４號",
                 "pay_list": ""
             },
@@ -5738,6 +5850,20 @@
                 "coordinates": [
                     121.1976252604,
                     25.06525225204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市大園區海口里６鄰４６－６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.243719,
+                    25.105757
                 ]
             }
         },
@@ -6192,6 +6318,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市大溪區復興里大灣坪路５之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.311436,
+                    24.825521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市大溪區田心里１１鄰東一路６０號",
                 "pay_list": ""
             },
@@ -6214,6 +6354,20 @@
                 "coordinates": [
                     121.27869798959,
                     24.897012873282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市大溪區興和里中央路看台下３０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.287884,
+                    24.879275
                 ]
             }
         },
@@ -6374,6 +6528,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市大溪區南興里００９鄰興昌路一段２９６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2556,
+                    24.902628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市大溪區美華里復興路一段１２２號",
                 "pay_list": ""
             },
@@ -6396,6 +6564,20 @@
                 "coordinates": [
                     121.28062228292,
                     24.86547341114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市大溪區仁善里新光東路７６巷３６之２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.28784,
+                    24.919554
                 ]
             }
         },
@@ -7116,6 +7298,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市平鎮區新勢里９鄰３３４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.213758,
+                    24.946591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市平鎮區廣興里義民路２３９號",
                 "pay_list": ""
             },
@@ -7200,6 +7396,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市平鎮區鎮興里中興路平鎮段３５５巷１２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.192905,
+                    24.90388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市平鎮區山峰里山福路１９５巷９弄１５號",
                 "pay_list": ""
             },
@@ -7208,6 +7418,20 @@
                 "coordinates": [
                     121.2159638198,
                     24.893692270972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市平鎮區雙連里民族路雙連１段１４２巷１７弄３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.187342,
+                    24.960927
                 ]
             }
         },
@@ -7382,6 +7606,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市平鎮區平鎮里６鄰新光路３段安居巷３６弄２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.20506,
+                    24.92481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市平鎮區復旦里文化街１７６號",
                 "pay_list": ""
             },
@@ -7410,6 +7648,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市平鎮區平南里中豐路南勢２段４６０巷１０２﹒１０２－１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.206727,
+                    24.907404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市平鎮區華安里平東路２６０號",
                 "pay_list": ""
             },
@@ -7418,6 +7670,20 @@
                 "coordinates": [
                     121.24836229421,
                     24.915640571505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市平鎮區廣仁里廣豐街福壽１１巷１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.207866,
+                    24.937767
                 ]
             }
         },
@@ -7852,6 +8118,20 @@
                 "coordinates": [
                     121.23208967754,
                     24.930941890196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市平鎮區雙連里民族路雙連１段２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.185714,
+                    24.959897
                 ]
             }
         },
@@ -8544,6 +8824,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市桃園區龍壽里龍壽街２０６巷１２之４弄２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.269896,
+                    24.986179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市桃園區武陵里８鄰民生路１２４號",
                 "pay_list": ""
             },
@@ -8748,6 +9042,20 @@
                 "coordinates": [
                     121.30271887627,
                     25.013719318087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市桃園區汴洲里８鄰鹽務路２２之１巷１１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.311944,
+                    25.0239
                 ]
             }
         },
@@ -9336,6 +9644,20 @@
                 "coordinates": [
                     121.303873,
                     24.991032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市桃園區三民里０１６鄰三民路一段８８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.321325,
+                    24.998007
                 ]
             }
         },
@@ -10784,6 +11106,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市楊梅區光華里中興路０８０巷００１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.184582,
+                    24.917586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市楊梅區裕新里裕成南路３１９號",
                 "pay_list": ""
             },
@@ -10862,6 +11198,20 @@
                 "coordinates": [
                     121.178044,
                     24.909075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市楊梅區中山里中山北路一段１９９巷９８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.154561,
+                    24.906217
                 ]
             }
         },
@@ -11638,6 +11988,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市觀音區富源里富源七路１２５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.131124,
+                    24.99321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市觀音區崙坪里８鄰忠愛路１５９號",
                 "pay_list": ""
             },
@@ -11786,6 +12150,20 @@
                 "coordinates": [
                     121.15888758191,
                     25.011437914683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市觀音區富源里富源二路４２６巷３０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.149218,
+                    24.971239
                 ]
             }
         },
@@ -11988,6 +12366,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市龍潭區龍星里００２鄰龍潭公有零售市場Ｂ棟３９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.21603,
+                    24.863264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市龍潭區中山里大昌路二段１００－１號",
                 "pay_list": ""
             },
@@ -12044,6 +12436,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市龍潭區富林里５鄰中正路三林段２２９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.229341,
+                    24.849782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市龍潭區龍潭里龍興路７８巷１６號",
                 "pay_list": ""
             },
@@ -12066,6 +12472,20 @@
                 "coordinates": [
                     121.215405,
                     24.86672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市龍潭區三和里龍新路三和段１０６０巷４３１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.170464,
+                    24.851918
                 ]
             }
         },
@@ -12374,6 +12794,20 @@
                 "coordinates": [
                     121.2207804968,
                     24.859634007271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市龍潭區龍祥里１２鄰富樂新村３９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.210429,
+                    24.873258
                 ]
             }
         },
@@ -12716,6 +13150,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市龍潭區三和里０１４鄰龍新路三和段１７７１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.159278,
+                    24.844878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市龍潭區龍潭里２１鄰中正路１６０巷７號",
                 "pay_list": ""
             },
@@ -13046,6 +13494,20 @@
                 "coordinates": [
                     121.36222507027,
                     25.051698390687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市龜山區樂善里樂善二路１９７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.384355,
+                    25.046683
                 ]
             }
         },
@@ -13654,6 +14116,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市龜山區迴龍里龍鳯街２７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.406158,
+                    25.019894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市龜山區山德里山鶯路１７號",
                 "pay_list": ""
             },
@@ -13774,6 +14250,20 @@
                 "coordinates": [
                     121.33705741516,
                     24.99379299095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市八德區瑞興里4鄰巧克力街177號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.290411,
+                    24.941952
                 ]
             }
         },
@@ -14936,6 +15426,20 @@
                 "coordinates": [
                     121.22398689492,
                     24.949039817468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市中壢區中山里榮安十三街２６３、２６５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.257506,
+                    24.960531
                 ]
             }
         },
@@ -17490,6 +17994,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市八德區大仁里桃鶯路宏福巷１弄２衖２０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.32642,
+                    24.970569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市八德區大慶里介壽路一段８３０號",
                 "pay_list": ""
             },
@@ -18268,6 +18786,20 @@
                 "coordinates": [
                     121.32138170441,
                     24.962718532762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市八德區瑞豊里建國路４４２巷７３弄３衖３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.28916,
+                    24.94299
                 ]
             }
         },
@@ -19268,6 +19800,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市大園區溪海里１６鄰２３―５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.190217,
+                    25.046603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市大園區大園里中華路９１巷２，４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.198995,
+                    25.067731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市大園區五權里中正東路３段４０號",
                 "pay_list": ""
             },
@@ -19332,6 +19892,20 @@
                 "coordinates": [
                     121.19671664501,
                     25.065081650638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市大園區大園里新生街６２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.199558,
+                    25.065048
                 ]
             }
         },
@@ -19450,6 +20024,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市大園區沙崙里１鄰４２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.222604,
+                    25.094235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市大園區後厝里國際路二段７４６號",
                 "pay_list": ""
             },
@@ -19486,6 +20074,48 @@
                 "coordinates": [
                     121.20160860806,
                     25.062272714172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市大園區菓林里００１鄰菓林路２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.259932,
+                    25.073903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市大園區菓林里００９鄰菓林路３８６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.256497,
+                    25.080031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市大園區埔心里１３鄰１８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.224386,
+                    25.053498
                 ]
             }
         },
@@ -19646,6 +20276,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市大園區菓林里０１９鄰三民路二段１６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.252759,
+                    25.088403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市大園區大園里中山北路９６號",
                 "pay_list": ""
             },
@@ -19682,6 +20326,20 @@
                 "coordinates": [
                     121.3030484133,
                     24.997365426645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市大園區大園里０１３鄰新生街１９之４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.199083,
+                    25.066398
                 ]
             }
         },
@@ -19758,6 +20416,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市大園區菓林里００２鄰菓林路１３２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.258368,
+                    25.075928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市大園區菓林里０１９鄰三民路二段８１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.254537,
+                    25.087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市大園區大園里０１２鄰中華路５７號",
                 "pay_list": ""
             },
@@ -19822,6 +20508,20 @@
                 "coordinates": [
                     121.1980699392,
                     25.057128109257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市大園區菓林里０１９鄰三民路二段７９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.254513,
+                    25.08704
                 ]
             }
         },
@@ -19940,6 +20640,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市大園區菓林里００２鄰菓林路１１８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.258435,
+                    25.075714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市大園區菓林里００２鄰菓林路６２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.259199,
+                    25.074905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市大園區大園里０２４鄰中華路４２號",
                 "pay_list": ""
             },
@@ -19962,6 +20690,20 @@
                 "coordinates": [
                     121.19892639541,
                     25.048291434878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市大園區沙崙里００１鄰漁港路４５１巷２５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.244932,
+                    25.1169
                 ]
             }
         },
@@ -19996,6 +20738,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市大園區溪海里０１８鄰田溪路３０２巷１１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.193077,
+                    25.033918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市大園區埔心里０１３鄰埔心街４４號",
                 "pay_list": ""
             },
@@ -20010,6 +20766,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市大園區菓林里００９鄰菓林路１５８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.258235,
+                    25.076315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市大園區橫峰里大成路二段５３號",
                 "pay_list": ""
             },
@@ -20018,6 +20788,20 @@
                 "coordinates": [
                     121.2202259266,
                     25.020775275678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市大園區菓林里００２鄰菓林路１４２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.258331,
+                    25.076084
                 ]
             }
         },
@@ -20144,6 +20928,20 @@
                 "coordinates": [
                     121.31038603077,
                     24.990864185076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市大園區沙崙里１鄰港口路４７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.225526,
+                    25.104828
                 ]
             }
         },
@@ -20290,6 +21088,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市大園區沙崙里００１鄰漁港路５００號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.246714,
+                    25.117889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市大園區橫峰里新生路四段２４９號",
                 "pay_list": ""
             },
@@ -20326,6 +21138,20 @@
                 "coordinates": [
                     121.21361194211,
                     25.008311573117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市大園區菓林里００８鄰三民路二段５３４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.259618,
+                    25.077338
                 ]
             }
         },
@@ -20430,6 +21256,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市大園區沙崙里０１８鄰漁港路３５３巷１７６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.240391,
+                    25.115002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市大園區菓林里０１５鄰菓林路２１５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.257302,
+                    25.078461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市大園區北港里大觀路５３８號",
                 "pay_list": ""
             },
@@ -20438,6 +21292,20 @@
                 "coordinates": [
                     121.18192148939,
                     25.064943603409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市大園區沙崙里００１鄰港口路７―３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.241994,
+                    25.113343
                 ]
             }
         },
@@ -20556,6 +21424,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市大園區菓林里００２鄰三民路二段６２６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.260069,
+                    25.074874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市大園區大園里中山北路２４號",
                 "pay_list": ""
             },
@@ -20592,6 +21474,20 @@
                 "coordinates": [
                     121.23940712721,
                     25.082490951445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市大園區五權里０１４鄰中正東路二段４９７丶４９９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.23085,
+                    25.025344
                 ]
             }
         },
@@ -20710,6 +21606,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市大園區沙崙里００１鄰港口路４８―５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.241994,
+                    25.113343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市大園區田心里８鄰大興路６０號",
                 "pay_list": ""
             },
@@ -20774,6 +21684,20 @@
                 "coordinates": [
                     121.1805194087,
                     25.066147609885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市大園區沙崙里００１鄰港口路４６巷１５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.223114,
+                    25.094394
                 ]
             }
         },
@@ -21256,6 +22180,48 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市大園區菓林里０１３鄰菓林路５１６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.257026,
+                    25.081298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市大園區菓林里００１鄰菓林路１０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.259874,
+                    25.074037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市大園區沙崙里１鄰漁港路４５１巷４５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.244607,
+                    25.116354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市大園區橫峰里橫湳路２０６號",
                 "pay_list": ""
             },
@@ -21404,6 +22370,20 @@
                 "coordinates": [
                     121.28498568431,
                     24.821464666409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市大溪區復興里６鄰湳仔溝７－３，７－４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.311436,
+                    24.825521
                 ]
             }
         },
@@ -22278,6 +23258,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市大溪區福安里１鄰頭寮店２４之８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.295604,
+                    24.858321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市大溪區一心里民權東路８２號",
                 "pay_list": ""
             },
@@ -22440,6 +23434,20 @@
                 "coordinates": [
                     121.27136968238,
                     24.885780094174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市大溪區仁愛里１０鄰儲蓄新村１５巷１０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.272496,
+                    24.906058
                 ]
             }
         },
@@ -23412,6 +24420,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市大溪區三層段柑坪小段２－８地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.285928,
+                    24.881661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市大溪區光明里０１５鄰員林路二段２８９號",
                 "pay_list": ""
             },
@@ -24224,6 +25246,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市平鎮區山峰里中豐路山頂段４６５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.211679,
+                    24.89432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市平鎮區華安里平東路２８８號",
                 "pay_list": ""
             },
@@ -24274,6 +25310,20 @@
                 "coordinates": [
                     121.20327000086,
                     24.908923697721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市平鎮區湧光里中豐路山頂段２３８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.210753,
+                    24.898543
                 ]
             }
         },
@@ -25022,6 +26072,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市平鎮區金星里中豐路南勢２段１２０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.21052,
+                    24.916181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市平鎮區復興里育達路２段８８號",
                 "pay_list": ""
             },
@@ -25134,6 +26198,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市平鎮區湧豐里中豐路山頂段１５８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.210898,
+                    24.900471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市平鎮區東社里圳南路１―９號",
                 "pay_list": ""
             },
@@ -25170,6 +26248,34 @@
                 "coordinates": [
                     121.20636858949,
                     24.951341685277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市平鎮區福林里中豐路山頂段２５３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.211052,
+                    24.898648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市平鎮區湧光里中豐路山頂段２２６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.210731,
+                    24.898758
                 ]
             }
         },
@@ -25218,6 +26324,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市平鎮區山峰里中豐路山頂段３５１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.211346,
+                    24.896664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市平鎮區湧豐里南豐路１１６號",
                 "pay_list": ""
             },
@@ -25226,6 +26346,20 @@
                 "coordinates": [
                     121.20775157337,
                     24.900259591369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市平鎮區湧光里中豐路山頂段２６０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.210802,
+                    24.898071
                 ]
             }
         },
@@ -25268,6 +26402,34 @@
                 "coordinates": [
                     121.21010382187,
                     24.913695695935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市平鎮區鎮興里中興路平鎮段３６３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.191798,
+                    24.902128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市平鎮區湧光里中豐路山頂段２２２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.210666,
+                    24.898831
                 ]
             }
         },
@@ -25338,6 +26500,20 @@
                 "coordinates": [
                     121.25110407846,
                     24.921928611725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市平鎮區東社里龍南路８０，８２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.251251,
+                    24.921824
                 ]
             }
         },
@@ -25554,6 +26730,90 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市平鎮區平南里中豐路南勢２段２３６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.210461,
+                    24.912799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市平鎮區南勢里中豐路南勢２段４７１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.211558,
+                    24.90913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市平鎮區南勢里中豐路南勢２段３５１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.211613,
+                    24.910225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市平鎮區南勢里中豐路南勢２段３６７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.211656,
+                    24.909883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市平鎮區平南里中豐路南勢２段２８２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.210796,
+                    24.911716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市平鎮區平南里中豐路南勢２段２４８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.210572,
+                    24.912516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市平鎮區南勢里南東路２４８號",
                 "pay_list": ""
             },
@@ -25568,6 +26828,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市平鎮區金星里中豐路南勢２段１３２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.210487,
+                    24.915927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市平鎮區復興里民族路２段１２９號",
                 "pay_list": ""
             },
@@ -25576,6 +26850,20 @@
                 "coordinates": [
                     121.20526922281,
                     24.957050868739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市平鎮區南勢里中豐路南勢２段３７５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.211686,
+                    24.909704
                 ]
             }
         },
@@ -25716,6 +27004,20 @@
                 "coordinates": [
                     121.20670309247,
                     24.900025494964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市平鎮區新勢里延平後段６７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.219817,
+                    24.951692
                 ]
             }
         },
@@ -26002,6 +27304,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市平鎮區南勢里中豐路南勢１段９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.212281,
+                    24.924492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市平鎮區龍興里龍南路１１號",
                 "pay_list": ""
             },
@@ -26030,6 +27346,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市平鎮區南勢里中豐路南勢２段１３５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.210819,
+                    24.915548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市平鎮區新英里新富五街４５號",
                 "pay_list": ""
             },
@@ -26038,6 +27368,20 @@
                 "coordinates": [
                     121.21369703952,
                     24.939162413124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市平鎮區雙連里民族路雙連１段１６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.185458,
+                    24.959845
                 ]
             }
         },
@@ -26080,6 +27424,20 @@
                 "coordinates": [
                     121.20468621312,
                     24.895829044327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市平鎮區湧光里中豐路山頂段２３６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.210753,
+                    24.898579
                 ]
             }
         },
@@ -26150,6 +27508,20 @@
                 "coordinates": [
                     121.24806745338,
                     24.915186661341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市平鎮區山峰里中豐路山頂段３６７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.211386,
+                    24.896324
                 ]
             }
         },
@@ -26318,6 +27690,20 @@
                 "coordinates": [
                     121.21946047551,
                     24.944807988881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市平鎮區平興里延平路２段４３０巷居易二弄２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.206003,
+                    24.94365
                 ]
             }
         },
@@ -26660,6 +28046,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市復興區三民里１鄰４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.35211,
+                    24.823998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市復興區華陵里９鄰６３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.398464,
+                    24.68568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市復興區羅浮里２鄰合流３３號",
                 "pay_list": ""
             },
@@ -26724,6 +28138,20 @@
                 "coordinates": [
                     121.34687412975,
                     24.814495468545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市復興區華陵里１０鄰１３５之６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.405426,
+                    24.689737
                 ]
             }
         },
@@ -26920,6 +28348,20 @@
                 "coordinates": [
                     121.3507744031,
                     24.82379637243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市復興區長興里８鄰上高遶八鄰五號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.275232,
+                    24.796151
                 ]
             }
         },
@@ -27388,6 +28830,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市復興區華陵里００８鄰３３－５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.397335,
+                    24.67864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市復興區澤仁里中正路６６號",
                 "pay_list": ""
             },
@@ -27396,6 +28852,20 @@
                 "coordinates": [
                     121.35133344121,
                     24.8160103348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市復興區三民里０１２鄰三民路一段４８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.330589,
+                    24.834723
                 ]
             }
         },
@@ -27508,6 +28978,20 @@
                 "coordinates": [
                     121.10735975541,
                     24.98115104122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市新屋區永安里１２鄰２３０―１２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.028368,
+                    24.98972
                 ]
             }
         },
@@ -27724,6 +29208,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市新屋區石磊里１鄰新華路１１７巷３６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.106166,
+                    24.988641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市新屋區新屋里５鄰中山路３０８號",
                 "pay_list": ""
             },
@@ -27928,6 +29426,20 @@
                 "coordinates": [
                     121.10690840013,
                     24.983364496323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市新屋區蚵間里００６鄰蚵殼港５５―３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.004551,
+                    24.948001
                 ]
             }
         },
@@ -28802,6 +30314,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市新屋區蚵間里００６鄰５６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.989876,
+                    24.940434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市新屋區新生里中山路３３４號",
                 "pay_list": "LINE PAY MONEY"
             },
@@ -29264,6 +30790,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市新屋區蚵間里４鄰蚵殼港３０－１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.995149,
+                    24.947997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市新屋區蚵間里蚵殼港５５－５號",
                 "pay_list": ""
             },
@@ -29580,6 +31120,34 @@
                 "coordinates": [
                     121.10716247158,
                     24.973070042891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市新屋區大坡里５鄰１３―１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.039798,
+                    24.957995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市桃園區西門里００５鄰三民路三段２３９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.306044,
+                    24.994862
                 ]
             }
         },
@@ -30636,6 +32204,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市桃園區福安里介壽路１９，１９之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.309152,
+                    24.982804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市桃園區福安里１６鄰建新街９２號",
                 "pay_list": ""
             },
@@ -31588,6 +33170,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市桃園區三民里自強路１１鄰１０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.320359,
+                    24.998055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市桃園區南華里南華街１００號",
                 "pay_list": "LINE PAY MONEY"
             },
@@ -32134,6 +33730,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市桃園區豐林里三民路三段５０８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.307348,
+                    24.983295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市桃園區永興里００２鄰中正路２６５號",
                 "pay_list": "LINE PAY MONEY"
             },
@@ -32366,6 +33976,20 @@
                 "coordinates": [
                     121.0810761849,
                     24.936388125749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市楊梅區光華里中興路０８０巷００３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.184582,
+                    24.917586
                 ]
             }
         },
@@ -32792,6 +34416,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市楊梅區青山里青山一街２４７，２４９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.17042,
+                    24.92165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市楊梅區楊梅里梅山西街４２號",
                 "pay_list": ""
             },
@@ -32954,6 +34592,20 @@
                 "coordinates": [
                     121.1456929891,
                     24.912566503597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市楊梅區高山里梅高路梅岡巷１５弄１１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.143338,
+                    24.937058
                 ]
             }
         },
@@ -33766,6 +35418,20 @@
                 "coordinates": [
                     121.14536072322,
                     24.907643421022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市楊梅區楊梅里光復北路５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.146276,
+                    24.912102
                 ]
             }
         },
@@ -35018,6 +36684,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市蘆竹區海湖里１鄰海湖東路８﹒１０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.261444,
+                    25.100733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市蘆竹區坑口里１９鄰海山路１段３４５號",
                 "pay_list": ""
             },
@@ -35026,6 +36706,20 @@
                 "coordinates": [
                     121.26320152109,
                     25.09734450082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市蘆竹區新興里４鄰二支七號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.273775,
+                    24.993621
                 ]
             }
         },
@@ -35418,6 +37112,20 @@
                 "coordinates": [
                     121.2886885714,
                     25.085392328143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市蘆竹區坑子里０１１鄰山林路三段９３２巷６０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.334912,
+                    25.078316
                 ]
             }
         },
@@ -37230,6 +38938,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市蘆竹區興榮里中正路２９１及２９３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.291754,
+                    25.047564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市蘆竹區內厝里長安路二段２２６號",
                 "pay_list": ""
             },
@@ -37734,6 +39456,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市觀音區上大里２鄰１５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.136868,
+                    24.991752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市觀音區坑尾里文化路坑尾段２６７巷８０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.092603,
+                    25.022278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市觀音區草新里四維路３７號",
                 "pay_list": ""
             },
@@ -37924,6 +39674,20 @@
                 "coordinates": [
                     121.16033516611,
                     24.998355449932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市觀音區富源里富信路１１７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.146317,
+                    24.975279
                 ]
             }
         },
@@ -38308,6 +40072,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市觀音區武威里塘背段３５－２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.074251,
+                    25.022445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市觀音區觀音里信義路６３號",
                 "pay_list": ""
             },
@@ -38316,6 +40094,20 @@
                 "coordinates": [
                     121.0795154598,
                     25.036331207381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市觀音區新興里文化路石橋段５４５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.097941,
+                    25.003931
                 ]
             }
         },
@@ -38560,6 +40352,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市觀音區坑尾里濱海路廣興段６３３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.092298,
+                    25.026271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市觀音區大同里中山路２段８０９號",
                 "pay_list": ""
             },
@@ -38610,6 +40416,20 @@
                 "coordinates": [
                     121.11923635989,
                     25.050593311862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市觀音區樹林里１６２之２６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.121123,
+                    25.051791
                 ]
             }
         },
@@ -38700,6 +40520,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市觀音區保生里保興路３段４５８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.061381,
+                    25.014461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市觀音區樹林里１０鄰仁德街７１號",
                 "pay_list": ""
             },
@@ -38708,6 +40542,20 @@
                 "coordinates": [
                     121.25263077408,
                     24.942828963531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市觀音區大同里中山路２段９６７、９６９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1497,
+                    25.004937
                 ]
             }
         },
@@ -38750,6 +40598,20 @@
                 "coordinates": [
                     121.13873994536,
                     25.044147949906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市觀音區坑尾里快速路８段６８０巷７６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.103746,
+                    24.999113
                 ]
             }
         },
@@ -38820,6 +40682,20 @@
                 "coordinates": [
                     121.161158,
                     24.997738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市觀音區大潭里桃大一街１２０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.056298,
+                    25.031537
                 ]
             }
         },
@@ -40184,6 +42060,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市龍潭區佳安里１０鄰十一份５７―１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.236271,
+                    24.836957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市龍潭區九龍里中興路３９１號",
                 "pay_list": ""
             },
@@ -40324,6 +42214,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市龍潭區上林里中豐路上林段３２２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.204066,
+                    24.860261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市龍潭區建林里建國路１７號",
                 "pay_list": ""
             },
@@ -40380,6 +42284,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市龍潭區佳安里３鄰３３之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.235325,
+                    24.832386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市龍潭區上林里中豐路上林段３７７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.202995,
+                    24.858879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市龍潭區高原里中原路２段５７５號",
                 "pay_list": ""
             },
@@ -40402,6 +42334,20 @@
                 "coordinates": [
                     121.2106084649,
                     24.864173152479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市龍潭區富林里５鄰中正路三林段１６７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.22832,
+                    24.850432
                 ]
             }
         },
@@ -40668,6 +42614,20 @@
                 "coordinates": [
                     121.21190120852,
                     24.879456841633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市龍潭區高平里１３鄰中豐路高平段１６２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.209137,
+                    24.838073
                 ]
             }
         },
@@ -41374,6 +43334,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市龍潭區富林里４０鄰中正路三林段２０２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.228827,
+                    24.849813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市龍潭區建林里３鄰民族路３１６號",
                 "pay_list": ""
             },
@@ -41486,6 +43460,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市龍潭區大平里００６鄰龍源路大平段６８５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.247426,
+                    24.825486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市龍潭區大平里００６鄰龍源路大平段６９０巷５１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.248656,
+                    24.82476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市龍潭區高平里龍源路１號",
                 "pay_list": ""
             },
@@ -41494,6 +43496,20 @@
                 "coordinates": [
                     121.20587958785,
                     24.82746693815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市龍潭區高平里中豐路高平段５３２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.206496,
+                    24.829159
                 ]
             }
         },
@@ -41584,6 +43600,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市龍潭區上華里０２８鄰中正路上華段８１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.223034,
+                    24.85323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市龍潭區東興里０１５鄰中興路２８７號",
                 "pay_list": ""
             },
@@ -41620,6 +43650,34 @@
                 "coordinates": [
                     121.21959772323,
                     24.869410008749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市龍潭區上華里０２８鄰中正路上華段５９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.222511,
+                    24.85338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市龍潭區三和里三洽水段１０２０－４地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.177013,
+                    24.868843
                 ]
             }
         },
@@ -41710,6 +43768,48 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市龍潭區佳安里十一份６２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.240713,
+                    24.839274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市龍潭區富林里３２鄰中正路三林段１７３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.228343,
+                    24.850421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市龍潭區佳安里十一份路２０８－１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.240731,
+                    24.842717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市龍潭區上林里龍元路１１３號",
                 "pay_list": ""
             },
@@ -41732,6 +43832,20 @@
                 "coordinates": [
                     121.23517917472,
                     24.816521932011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市龍潭區三坑里中正路三坑段６８８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.244731,
+                    24.832787
                 ]
             }
         },
@@ -41794,6 +43908,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市龍潭區三林里３４鄰中正路三林段６１６－５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.242012,
+                    24.82963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市龍潭區中山里北龍路１４３號",
                 "pay_list": ""
             },
@@ -41822,6 +43950,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市龍潭區高平里中豐路高平段１５１－１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.209024,
+                    24.838512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市龍潭區中山里０３０鄰五福街３號",
                 "pay_list": ""
             },
@@ -41844,6 +43986,20 @@
                 "coordinates": [
                     121.21997261822,
                     24.869309240672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市龍潭區八德里梅龍路５１５巷１２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.191379,
+                    24.876362
                 ]
             }
         },
@@ -41886,6 +44042,20 @@
                 "coordinates": [
                     121.24882810075,
                     24.824146122388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市龍潭區中山里２６鄰中正路１６１巷１弄２─１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.217305,
+                    24.866226
                 ]
             }
         },
@@ -42130,6 +44300,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市龍潭區上華里雙連街９０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.223159,
+                    24.85086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市龍潭區建林里民族路１８２號",
                 "pay_list": ""
             },
@@ -42242,6 +44426,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市龍潭區上林里中豐路上林段３０６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.204348,
+                    24.860372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市龍潭區黃唐里中興路４７８號",
                 "pay_list": ""
             },
@@ -42312,6 +44510,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市龍潭區富林里００４鄰中正路三林段２７５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.230048,
+                    24.849267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市龍潭區龍潭里龍元路４５號",
                 "pay_list": ""
             },
@@ -42334,6 +44546,20 @@
                 "coordinates": [
                     121.23756130971,
                     24.820775219778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市龍潭區富林里５鄰中正路三林段２０５，２０７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.236199,
+                    24.844861
                 ]
             }
         },
@@ -42432,6 +44658,20 @@
                 "coordinates": [
                     121.21856669976,
                     24.868668656447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市龍潭區高平里中豐路高平段１６５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.208806,
+                    24.838208
                 ]
             }
         },
@@ -42578,6 +44818,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市龜山區文化里復興二路２７、２９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.373848,
+                    25.056774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市龜山區新路里中興路３３７－１號",
                 "pay_list": ""
             },
@@ -42620,6 +44874,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市龜山區楓福里２１鄰光峯路２０６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.34481,
+                    25.006858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市龜山區兔坑里１１鄰福源街６０號",
                 "pay_list": ""
             },
@@ -42628,6 +44896,20 @@
                 "coordinates": [
                     121.35681138496,
                     24.988403723573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市龜山區龜山里１鄰光峯路３９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.34035,
+                    24.998328
                 ]
             }
         },
@@ -43012,6 +45294,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市龜山區龍壽里大菁坑３０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.395163,
+                    25.002783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市龜山區文化里文化二路７９―２號",
                 "pay_list": ""
             },
@@ -43272,6 +45568,20 @@
                 "coordinates": [
                     121.3437042826,
                     24.99164196351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市龜山區樂善里文善路１７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.379974,
+                    25.056356
                 ]
             }
         },
@@ -43894,6 +46204,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "桃園市龜山區龍壽里大菁坑１２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.402953,
+                    24.999103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "桃園市龜山區新路里中興路３６６―８號",
                 "pay_list": ""
             },
@@ -43986,6 +46310,20 @@
                 "coordinates": [
                     121.3692175575,
                     25.052179079486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市龜山區新興里自強段７４３－１地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.337969,
+                    24.990877
                 ]
             }
         },
@@ -44798,6 +47136,20 @@
                 "coordinates": [
                     121.40229053755,
                     25.017400265964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "桃園市龜山區樂善里文桃路４２６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.393229,
+                    25.04712
                 ]
             }
         },

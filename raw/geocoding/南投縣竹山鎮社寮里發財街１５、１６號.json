@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "南投縣竹山鎮社寮里發財街１５、１６號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[南投縣]\tT:1,V:1,R:0,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+74)(-56),E:-1,N:-1",
+      "OutTraceInfo": "[南投縣]\t { 模糊比對 } (竹山鎮)\t找到符合的[鄉鎮市區]，(社寮里)\t找到符合的[村里]，(發財街)\t找不到符合的[路街名]，進行轉換搜尋[街變成路，路變成街]，進行轉換搜尋[路變成地區名]，轉換搜尋找不到符合的[路街名]，(1516號)\t進行[雙號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +74 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -56 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "南投縣竹山鎮社寮里5鄰集山路一段1460號",
+      "COUNTY": "南投縣",
+      "TOWN": "竹山鎮",
+      "VILLAGE": "社寮里",
+      "NEIGHBORHOOD": "5鄰",
+      "ROAD": "集山路",
+      "SECTION": "1",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "1460號",
+      "X": 120.726732,
+      "Y": 23.814824
+    },
+    {
+      "FULL_ADDR": "南投縣竹山鎮社寮里5鄰集山路一段1590號",
+      "COUNTY": "南投縣",
+      "TOWN": "竹山鎮",
+      "VILLAGE": "社寮里",
+      "NEIGHBORHOOD": "5鄰",
+      "ROAD": "集山路",
+      "SECTION": "1",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "1590號",
+      "X": 120.724440,
+      "Y": 23.815359
+    }
+  ]
+}

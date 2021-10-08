@@ -7410,6 +7410,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "南投縣仁愛鄉大同村仁和路２２４附２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.167886,
+                    24.067413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "南投縣仁愛鄉法治村武安路１３附２號",
                 "pay_list": "LINE PAY MONEY"
             },
@@ -7418,6 +7432,20 @@
                 "coordinates": [
                     121.046792,
                     23.911158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "南投縣仁愛鄉大同村博望巷９附１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1692,
+                    24.070546
                 ]
             }
         },
@@ -7522,6 +7550,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "南投縣仁愛鄉精英村榮華路９之２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.185609,
+                    24.02257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "南投縣仁愛鄉精英村榮華巷２１號",
                 "pay_list": ""
             },
@@ -7544,6 +7586,20 @@
                 "coordinates": [
                     121.18685090534,
                     24.023085054911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "南投縣仁愛鄉互助村中華路１２８附１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.967172,
+                    24.06558
                 ]
             }
         },
@@ -7586,6 +7642,20 @@
                 "coordinates": [
                     121.143944,
                     24.030318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "南投縣仁愛鄉法治村武安路１３附１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.046242,
+                    23.910757
                 ]
             }
         },
@@ -7648,6 +7718,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "南投縣仁愛鄉發祥村溪門巷１９附３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.179694,
+                    24.151931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "南投縣仁愛鄉發祥村仁盛路４８號",
                 "pay_list": ""
             },
@@ -7656,6 +7740,34 @@
                 "coordinates": [
                     121.17696862717,
                     24.160068807665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "南投縣仁愛鄉新生村山林巷１５９附１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.982147,
+                    24.071971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "南投縣仁愛鄉南豐村松原巷１０附２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.088333,
+                    24.005994
                 ]
             }
         },
@@ -7684,6 +7796,20 @@
                 "coordinates": [
                     121.152522,
                     24.036384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "南投縣仁愛鄉大同村仁和路２１０－２－１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.169298,
+                    24.07259
                 ]
             }
         },
@@ -7760,6 +7886,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "南投縣仁愛鄉大同村仁和路２１０之４附１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.168522,
+                    24.073508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "南投縣仁愛鄉精英村榮華巷２２，２４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.190156,
+                    24.018604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "南投縣仁愛鄉大同村仁和路４１號",
                 "pay_list": ""
             },
@@ -7810,6 +7964,20 @@
                 "coordinates": [
                     121.04404722129,
                     23.913655944551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "南投縣仁愛鄉大同村信義巷３６－１附１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.145142,
+                    24.036593
                 ]
             }
         },
@@ -7886,6 +8054,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "南投縣仁愛鄉大同村仁和路２２４附３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.168424,
+                    24.067409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "南投縣仁愛鄉互助村清風路６號",
                 "pay_list": ""
             },
@@ -7894,6 +8076,20 @@
                 "coordinates": [
                     120.95359050314,
                     24.069159354811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "南投縣仁愛鄉大同村博望巷３６附２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.169302,
+                    24.074303
                 ]
             }
         },
@@ -7936,6 +8132,20 @@
                 "coordinates": [
                     121.06927523971,
                     23.999354944973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "南投縣仁愛鄉春陽村虎門巷１００附１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.16367,
+                    24.024578
                 ]
             }
         },
@@ -8398,6 +8608,20 @@
                 "coordinates": [
                     120.88866600117,
                     23.593149203797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "南投縣信義鄉羅娜村羅娜段２０３３－０００地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.850059,
+                    23.618409
                 ]
             }
         },
@@ -10476,6 +10700,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "南投縣南投市漳和里０２５鄰南崗２路３２２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.675462,
+                    23.910236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "南投縣南投市三興里民族路４６５巷２號",
                 "pay_list": ""
             },
@@ -11904,6 +12142,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "南投縣名間鄉中山村彰南路名山段５９２、５９８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.69716,
+                    23.848934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "南投縣名間鄉三崙村０１６鄰弓鞋巷３―２號",
                 "pay_list": ""
             },
@@ -12430,6 +12682,20 @@
                 "coordinates": [
                     120.70259570129,
                     23.835152621451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "南投縣名間鄉中山村頂??巷１―３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.689429,
+                    23.841667
                 ]
             }
         },
@@ -13024,6 +13290,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "南投縣國姓鄉成功段３８６地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.868649,
+                    23.926386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "南投縣國姓鄉石門村中興路６８號",
                 "pay_list": ""
             },
@@ -13088,6 +13368,20 @@
                 "coordinates": [
                     120.69805142964,
                     23.940224065372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "南投縣國姓鄉福龜村中正路―段２之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.831168,
+                    24.0261
                 ]
             }
         },
@@ -13872,6 +14166,20 @@
                 "coordinates": [
                     120.96272744807,
                     23.967533485315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "南投縣埔里鎮北門里１８鄰北環路１１１﹒１１３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.969948,
+                    23.968288
                 ]
             }
         },
@@ -18008,6 +18316,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "南投縣竹山鎮山崇里集山路―段２０２７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.715877,
+                    23.804939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "南投縣竹山鎮雲林里大明路５５９號",
                 "pay_list": ""
             },
@@ -18862,6 +19184,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "南投縣竹山鎮中山里２４鄰頂林路東巷８７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.682642,
+                    23.750415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "南投縣竹山鎮延和里大明路１２４號",
                 "pay_list": ""
             },
@@ -18988,6 +19324,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "南投縣竹山鎮社寮里發財街２３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.723348,
+                    23.815923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "南投縣竹山鎮延和里集山路３段７０７號",
                 "pay_list": ""
             },
@@ -18996,6 +19346,20 @@
                 "coordinates": [
                     120.68791117961,
                     23.759838797522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "南投縣竹山鎮社寮里發財街１５、１６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.726732,
+                    23.814824
                 ]
             }
         },
@@ -19094,6 +19458,20 @@
                 "coordinates": [
                     120.68511885549,
                     23.755324658116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "南投縣竹山鎮下坪里下坪路７－９巷１００號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.675708,
+                    23.770433
                 ]
             }
         },
@@ -19262,6 +19640,20 @@
                 "coordinates": [
                     120.68396294561,
                     23.756895735929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "南投縣竹山鎮雲林里林圮街９之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.681231,
+                    23.754586
                 ]
             }
         },
@@ -19548,6 +19940,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "南投縣竹山鎮山崇里南雲段８７２地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.716449,
+                    23.805274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "南投縣竹山鎮山崇里集山路二段４６０號",
                 "pay_list": ""
             },
@@ -19738,6 +20144,20 @@
                 "coordinates": [
                     120.682339,
                     23.75391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "南投縣竹山鎮桂林里竹山路１－６－１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.687582,
+                    23.758078
                 ]
             }
         },
@@ -19982,6 +20402,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "南投縣竹山鎮桂林里桂林段０７４９－００３８地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.687334,
+                    23.754038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "南投縣竹山鎮中正里下橫街１３號",
                 "pay_list": ""
             },
@@ -20080,6 +20514,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "南投縣竹山鎮延和里吉祥新村１１６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.690447,
+                    23.76272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "南投縣竹山鎮中山里仙公巷６０號",
                 "pay_list": ""
             },
@@ -20130,6 +20578,20 @@
                 "coordinates": [
                     120.67608792595,
                     23.760041651466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "南投縣竹山鎮竹圍里０１４鄰雲林新村２５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.675082,
+                    23.760674
                 ]
             }
         },
@@ -20934,6 +21396,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "南投縣草屯鎮新豐里墩煌路３００巷１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.675907,
+                    24.00488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "南投縣草屯鎮中山里中興路９３號",
                 "pay_list": ""
             },
@@ -21012,6 +21488,20 @@
                 "coordinates": [
                     120.68374916518,
                     23.985218869151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "南投縣草屯鎮碧峰里碧山路陳平巷１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.653002,
+                    23.972977
                 ]
             }
         },
@@ -21718,6 +22208,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "南投縣草屯鎮中山里１２鄰敦和路敦成巷４３弄１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.681374,
+                    23.980404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "南投縣草屯鎮新庄里芬草路２段４６９號",
                 "pay_list": ""
             },
@@ -22082,6 +22586,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "南投縣草屯鎮山腳里中興段０７９２地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.683639,
+                    23.960011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "南投縣草屯鎮敦和里仁愛街１０號",
                 "pay_list": ""
             },
@@ -22440,6 +22958,20 @@
                 "coordinates": [
                     120.68289826186,
                     23.978808691475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "南投縣草屯鎮南埔里中正路２５４之８６之５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.728871,
+                    23.981611
                 ]
             }
         },
@@ -22824,6 +23356,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "南投縣草屯鎮中正里中山街２５６﹒２５８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.683234,
+                    23.979448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "南投縣草屯鎮新庄里芬草路１４８－１號",
                 "pay_list": ""
             },
@@ -22846,6 +23392,20 @@
                 "coordinates": [
                     120.6876040037,
                     23.976433108085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "南投縣草屯鎮上林里保安段１２８地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.682345,
+                    23.968278
                 ]
             }
         },
@@ -24168,6 +24728,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "南投縣魚池鄉魚池村魚池路３３７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.93773,
+                    23.896504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "南投縣魚池鄉日月村文化街１０５號",
                 "pay_list": ""
             },
@@ -24960,6 +25534,20 @@
                 "coordinates": [
                     120.93106743268,
                     23.847881408076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "南投縣魚池鄉日月村中正路２７８、２８０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.917146,
+                    23.843388
                 ]
             }
         },
@@ -25918,6 +26506,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "南投縣鹿谷鄉竹林村小半天段０１４０－００００地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.757035,
+                    23.725164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "南投縣鹿谷鄉彰雅村中正路一段２０６號",
                 "pay_list": ""
             },
@@ -26066,6 +26668,20 @@
                 "coordinates": [
                     120.73525328377,
                     23.765709219423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "南投縣鹿谷鄉內湖村興產路觀湖巷１－３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.791141,
+                    23.681166
                 ]
             }
         },

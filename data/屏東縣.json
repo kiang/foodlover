@@ -10406,6 +10406,48 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣三地門鄉三地村（三地段５８０地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.653575,
+                    22.7146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣三地門鄉賽嘉村賽嘉段１０５９－１地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.639444,
+                    22.743069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣三地門鄉三地村三地段２０４３地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.653575,
+                    22.7146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣三地門鄉青山村民族巷４５號",
                 "pay_list": ""
             },
@@ -10854,6 +10896,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣九如鄉九清村１鄰九如路２段２３５及２３５－１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.489126,
+                    22.735462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣九如鄉後庄村三民路８號",
                 "pay_list": ""
             },
@@ -10904,6 +10960,20 @@
                 "coordinates": [
                     120.49331678237,
                     22.76555949834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣九如鄉耆老村九如路三段５９８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.49321,
+                    22.764896
                 ]
             }
         },
@@ -10994,6 +11064,76 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣九如鄉東寧村九如路二段２０４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.489178,
+                    22.732558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣九如鄉東寧村九如路一段４２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.488861,
+                    22.723745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣九如鄉九清村九如路二段１１６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.489044,
+                    22.730768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣九如鄉九清村九如路二段２２５―１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.486469,
+                    22.726282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣九如鄉東寧村九如路二段４１０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.49015,
+                    22.739799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣九如鄉九清村００３鄰九清街１７―６號",
                 "pay_list": ""
             },
@@ -11078,6 +11218,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣九如鄉九清村九如路二段３１３―１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.486469,
+                    22.726282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣九如鄉東寧村東寧路１８１號",
                 "pay_list": ""
             },
@@ -11086,6 +11240,20 @@
                 "coordinates": [
                     120.49162719875,
                     22.733596128064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣九如鄉九清村九如路二段１３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.488631,
+                    22.728921
                 ]
             }
         },
@@ -11134,6 +11302,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣九如鄉耆老村九如路三段２４８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.491314,
+                    22.749216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣九如鄉九清村九如路二段１４９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.488866,
+                    22.732364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣九如鄉九清村九如路二段１６５―１號",
                 "pay_list": "LINE PAY MONEY"
             },
@@ -11142,6 +11338,20 @@
                 "coordinates": [
                     120.486469,
                     22.726282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣九如鄉九清村九如路二段１７３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.488821,
+                    22.733108
                 ]
             }
         },
@@ -11190,6 +11400,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣九如鄉耆老村九如路三段３３３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.490926,
+                    22.748839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣九如鄉九塊村維新街１０４－１號",
                 "pay_list": ""
             },
@@ -11218,6 +11442,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣九如鄉東寧村九平段７１８地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.498369,
+                    22.724153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣九如鄉九明村光復街５７巷３１號",
                 "pay_list": ""
             },
@@ -11240,6 +11478,34 @@
                 "coordinates": [
                     120.4867156433,
                     22.73313069744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣九如鄉九清村九如路二段２２５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.489108,
+                    22.735102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣九如鄉大坵村九如段２３１３地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.47944,
+                    22.743518
                 ]
             }
         },
@@ -11282,6 +11548,20 @@
                 "coordinates": [
                     120.505955,
                     22.725034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣九如鄉九如路二段１６５－１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.488898,
+                    22.732852
                 ]
             }
         },
@@ -11414,6 +11694,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣九如鄉耆老村九如路三段５６６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.49305,
+                    22.763244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣九如鄉三塊村三富街９９號",
                 "pay_list": ""
             },
@@ -11422,6 +11716,20 @@
                 "coordinates": [
                     120.48187760465,
                     22.752819771488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣九如鄉東寧村００１鄰九如路二段２４６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.489255,
+                    22.733454
                 ]
             }
         },
@@ -11478,6 +11786,20 @@
                 "coordinates": [
                     120.49143067605,
                     22.733558928174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣九如鄉耆老村九如路三段５２７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.492245,
+                    22.760316
                 ]
             }
         },
@@ -12276,6 +12598,20 @@
                 "coordinates": [
                     120.63028835249,
                     22.524840826244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣來義鄉丹林村丹林段２１７７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.636126,
+                    22.519625
                 ]
             }
         },
@@ -13088,6 +13424,20 @@
                 "coordinates": [
                     120.57046103413,
                     22.615820685623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣內埔鄉內田村仁和路未編號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.565916,
+                    22.611933
                 ]
             }
         },
@@ -14376,6 +14726,20 @@
                 "coordinates": [
                     120.56636896271,
                     22.613815457602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣內埔鄉黎明村犛頭標段０９８４－００００地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.603166,
+                    22.688516
                 ]
             }
         },
@@ -17994,6 +18358,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣屏東市豐源里００３鄰民學路東段８２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.508574,
+                    22.671868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣屏東市崇蘭里廣東路１１０７號",
                 "pay_list": ""
             },
@@ -18400,6 +18778,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣恆春鎮鵝鑾里鵝鑾停車場１９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.853696,
+                    21.917417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣恆春鎮南灣里南灣路１３４號",
                 "pay_list": "街口支付\/LINE PAY MONEY"
             },
@@ -18436,6 +18828,20 @@
                 "coordinates": [
                     120.80010237433,
                     21.944542689972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣恆春鎮山腳里山脚里恆南路１２５巷３５弄８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.743549,
+                    21.996376
                 ]
             }
         },
@@ -19604,6 +20010,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣恆春鎮山腳里恆南路２巷８６弄４９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.747966,
+                    21.99499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣恆春鎮山海里恒春鎮山海里紅柴路１１―２號",
                 "pay_list": ""
             },
@@ -19710,6 +20130,20 @@
                 "coordinates": [
                     120.74334408297,
                     22.006756751784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣恆春鎮山腳里恆南路１２５巷３０弄１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.743861,
+                    21.99677
                 ]
             }
         },
@@ -19892,6 +20326,20 @@
                 "coordinates": [
                     120.7394098589,
                     21.94572979404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣恆春鎮墾丁里００３鄰墾丁路２４５、２４７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.778315,
+                    21.949663
                 ]
             }
         },
@@ -20116,6 +20564,20 @@
                 "coordinates": [
                     120.74808865333,
                     22.008862735291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣恆春鎮山腳里０１９鄰恆南路２巷２８弄１２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.746759,
+                    21.995011
                 ]
             }
         },
@@ -20360,6 +20822,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣恆春鎮網紗里省北路４１巷１３、１５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.743477,
+                    22.012837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣恆春鎮城北里中正路１２９－６號",
                 "pay_list": ""
             },
@@ -20584,6 +21060,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣恆春鎮山腳里恆西路３１─５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.748397,
+                    21.988045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣恆春鎮山海里００７鄰山海路３５號",
                 "pay_list": ""
             },
@@ -20620,6 +21110,20 @@
                 "coordinates": [
                     120.47441205081,
                     22.671790325923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣恆春鎮山腳里恆南路１４６、１４８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.740084,
+                    22.003444
                 ]
             }
         },
@@ -21732,6 +22236,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣新園鄉五房村五房段６５２及６５３地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.439117,
+                    22.492649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣新園鄉仙吉村仙吉路２０－６號",
                 "pay_list": ""
             },
@@ -22418,6 +22936,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣新埤鄉新埤村中正路７１、７３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.544568,
+                    22.469023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣新埤鄉新埤村中正路７５號",
                 "pay_list": ""
             },
@@ -22572,6 +23104,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣新埤鄉新埤村新華段８３３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.550192,
+                    22.473139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣新埤鄉新埤村１２鄰新民路１１－５號",
                 "pay_list": ""
             },
@@ -22678,6 +23224,20 @@
                 "coordinates": [
                     120.61372502598,
                     22.475960364455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣春日鄉春日村春日段落地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.623535,
+                    22.370183
                 ]
             }
         },
@@ -22846,6 +23406,20 @@
                 "coordinates": [
                     120.623399,
                     22.370187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣春日鄉春日村舊部落１３５３地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.623535,
+                    22.370183
                 ]
             }
         },
@@ -23286,6 +23860,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣東港鎮興和里三隆段９２２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.476561,
+                    22.487701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣東港鎮朝安里１鄰延平路７８號",
                 "pay_list": ""
             },
@@ -23546,6 +24134,20 @@
                 "coordinates": [
                     120.45876651016,
                     22.474422073657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣東港鎮新勝里中正路第２市場１６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.450089,
+                    22.466999
                 ]
             }
         },
@@ -24364,6 +24966,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣東港鎮朝安里東港區漁會直銷中心Ａ區４７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.444661,
+                    22.466632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣東港鎮朝安里東港區漁會直銷中心Ｂ區攤號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.445451,
+                    22.465084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣東港鎮朝安里東港區漁會直銷中心Ａ區９號",
                 "pay_list": "LINE PAY MONEY"
             },
@@ -24372,6 +25002,62 @@
                 "coordinates": [
                     120.445868,
                     22.465244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣東港鎮朝安里東港區漁會直銷中心Ａ區４６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44656,
+                    22.465684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣東港鎮朝安里東港區漁會直銷中心Ａ區３０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.445232,
+                    22.468245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣東港鎮朝安里東港區漁會直銷中心Ｂ區２６８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.444649,
+                    22.467836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣東港鎮朝安里東港漁會直銷中心Ａ區２３－２６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.445483,
+                    22.467282
                 ]
             }
         },
@@ -24434,6 +25120,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣東港鎮朝安里東港區漁會直銷中心Ａ區３１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.446363,
+                    22.465959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣東港鎮朝安里東港區漁會直銷中心Ａ區４１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.445539,
+                    22.465751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣東港鎮興東里２０鄰中正路１段７０號",
                 "pay_list": "LINE PAY MONEY"
             },
@@ -24442,6 +25156,34 @@
                 "coordinates": [
                     120.456537,
                     22.472424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣東港鎮朝安里東港區漁會直銷中心Ａ區４２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44634,
+                    22.465674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣東港鎮朝安里東港區漁會直銷中心Ｂ區６３，６４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.444649,
+                    22.467836
                 ]
             }
         },
@@ -24694,6 +25436,20 @@
                 "coordinates": [
                     120.44833767012,
                     22.46785332368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣東港鎮興東里中正路一段２２５，２２７，２２９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.460814,
+                    22.476035
                 ]
             }
         },
@@ -26226,6 +26982,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣枋寮鄉中山段８５９－２地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.583712,
+                    22.413132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣枋寮鄉人和村建興路２５５號",
                 "pay_list": ""
             },
@@ -26934,6 +27704,20 @@
                 "coordinates": [
                     120.59412677093,
                     22.362900019891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣枋寮鄉太源村太源路２０－７、２０－８號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.591511,
+                    22.406821
                 ]
             }
         },
@@ -28956,6 +29740,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣泰武鄉佳平村１９０－２０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.636033,
+                    22.586265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣泰武鄉武潭村老潭巷４之８號",
                 "pay_list": ""
             },
@@ -30468,6 +31266,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣潮州鎮光華里第一市場第４７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.543685,
+                    22.543185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣潮州鎮新生里中山六巷１１號",
                 "pay_list": ""
             },
@@ -30784,6 +31596,20 @@
                 "coordinates": [
                     120.54003275724,
                     22.550956710636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣潮州鎮光華里光華段１３２０－１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.543905,
+                    22.545155
                 ]
             }
         },
@@ -32030,6 +32856,20 @@
                 "coordinates": [
                     120.77293181066,
                     22.126430659034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣牡丹鄉東源村東源路１２０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.850891,
+                    22.204181
                 ]
             }
         },
@@ -34248,6 +35088,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣瑪家鄉凉山村涼山２６之１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.637604,
+                    22.69037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣瑪家鄉三和村玉泉路３５號",
                 "pay_list": ""
             },
@@ -34276,6 +35130,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣瑪家鄉凉山村涼山段１８３６地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.635525,
+                    22.690003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣瑪家鄉北葉村風景２２０號",
                 "pay_list": ""
             },
@@ -34284,6 +35152,20 @@
                 "coordinates": [
                     120.64838701201,
                     22.703330648542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣瑪家鄉瑪家村瑪家段４０３－１地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.647938,
+                    22.703441
                 ]
             }
         },
@@ -34424,6 +35306,20 @@
                 "coordinates": [
                     120.63098183237,
                     22.656219702333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣瑪家鄉排灣村５２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.62744,
+                    22.629054
                 ]
             }
         },
@@ -35278,6 +36174,20 @@
                 "coordinates": [
                     120.48573118011,
                     22.580806592428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣萬丹鄉萬後村萬惠段５５７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.486371,
+                    22.588583
                 ]
             }
         },
@@ -38714,6 +39624,34 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣萬巒鄉佳和村０１０鄰佳興路３２之４及３２之５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.596523,
+                    22.572676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣萬巒鄉新厝村新和段４３５－０地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.610063,
+                    22.571626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣萬巒鄉佳和村１７鄰光明路５１號",
                 "pay_list": ""
             },
@@ -38778,6 +39716,20 @@
                 "coordinates": [
                     120.49714525642,
                     22.668064476921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣萬巒鄉赤新段０１２８－００００地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.603803,
+                    22.61594
                 ]
             }
         },
@@ -39624,6 +40576,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣車城鄉福安村忠孝路１０７４６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.710442,
+                    22.070305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣車城鄉埔墘村埔墘路１－３號",
                 "pay_list": ""
             },
@@ -40128,6 +41094,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣里港鄉鐵店村大港洋段４９５地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.498608,
+                    22.777985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣里港鄉大平村中山南路３６－３號",
                 "pay_list": ""
             },
@@ -40556,6 +41536,20 @@
                 "coordinates": [
                     120.49547324545,
                     22.777164790069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣里港鄉春林村春林村里中路大港洋段１１７０地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.496664,
+                    22.7692
                 ]
             }
         },
@@ -41668,6 +42662,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "屏東縣長治鄉番子寮段１２７５－００００地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.527713,
+                    22.676815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "屏東縣長治鄉繁昌村中山路１１３號",
                 "pay_list": ""
             },
@@ -41956,6 +42964,20 @@
                 "coordinates": [
                     120.55519274761,
                     22.696914715626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣長治鄉長治段６１地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.527713,
+                    22.676815
                 ]
             }
         },
@@ -45358,6 +46380,20 @@
                 "coordinates": [
                     120.52610458187,
                     22.651733679635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "屏東縣麟洛鄉麟蹄村成功路麟愛段５６７－５地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.525737,
+                    22.652721
                 ]
             }
         },

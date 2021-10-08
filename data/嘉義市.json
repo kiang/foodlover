@@ -3672,6 +3672,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "嘉義市東區民權路等１５０號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45639,
+                    23.483429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "嘉義市東區中庄里忠孝路４２９號",
                 "pay_list": ""
             },
@@ -3778,6 +3792,20 @@
                 "coordinates": [
                     120.45406000286,
                     23.494140003639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區安業里吳鳳南路１２８附１號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45466,
+                    23.46544
                 ]
             }
         },
@@ -5408,6 +5436,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "嘉義市東區後湖里保健街１００號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45394,
+                    23.50291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "嘉義市東區東興里中正路２７２號",
                 "pay_list": ""
             },
@@ -5934,6 +5976,20 @@
                 "coordinates": [
                     120.45531000056,
                     23.495260002643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市東區荖藤里遠東段００５９－０００５地號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4384,
+                    23.50842
                 ]
             }
         },
@@ -6864,6 +6920,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "嘉義市西區竹圍里北興街２７５；２７７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43196,
+                    23.48909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "嘉義市西區保福里八德路１１０－１號",
                 "pay_list": ""
             },
@@ -6928,6 +6998,20 @@
                 "coordinates": [
                     120.43938999454,
                     23.4797400052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區慶安里博愛路１段４０７巷８、９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44247,
+                    23.484559
                 ]
             }
         },
@@ -7250,6 +7334,20 @@
                 "coordinates": [
                     120.43971000064,
                     23.484860008411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區美源里民生南路３２１．３２３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44467,
+                    23.462949
                 ]
             }
         },
@@ -7908,6 +8006,20 @@
                 "coordinates": [
                     120.43664000424,
                     23.506670005817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "嘉義市西區新西里平等街１０５．１０７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.436094,
+                    23.470347
                 ]
             }
         },

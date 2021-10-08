@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺南市安南區公學路４段１２２巷２７２弄１８－５０號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺南市]\tT:1,V:-1,R:1,S:1,L:1,A:1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[臺南市]\t { 模糊比對 } (安南區)\t找到符合的[鄉鎮市區]，(公學路)\t找到符合的[路街名]，(4)\t找到符合的[路段]，(122巷)\t找到符合的[巷]，(272弄)\t找到符合的[弄]，(18－50號)\t找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "臺南市安南區佃東里6鄰公學路四段122巷272弄18號之50",
+      "COUNTY": "臺南市",
+      "TOWN": "安南區",
+      "VILLAGE": "佃東里",
+      "NEIGHBORHOOD": "6鄰",
+      "ROAD": "公學路",
+      "SECTION": "4",
+      "LANE": "122巷",
+      "ALLEY": "272弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "18號之50",
+      "X": 120.176863,
+      "Y": 23.072154
+    }
+  ]
+}

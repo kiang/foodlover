@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺中市太平區勤益里９鄰中山路１段２１５巷１８號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺中市]\tT:1,V:1,R:1,S:1,L:1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[臺中市]\t { 模糊比對 } (太平區)\t找到符合的[鄉鎮市區]，(勤益里)\t找到符合的[村里]，(中山路)\t找到符合的[路街名]，(1)\t找到符合的[路段]，(215巷)\t找到符合的[巷]，(18號)\t找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "臺中市太平區勤益里13鄰中山路一段215巷18號",
+      "COUNTY": "臺中市",
+      "TOWN": "太平區",
+      "VILLAGE": "勤益里",
+      "NEIGHBORHOOD": "13鄰",
+      "ROAD": "中山路",
+      "SECTION": "1",
+      "LANE": "215巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "18號",
+      "X": 120.732843,
+      "Y": 24.143107
+    }
+  ]
+}

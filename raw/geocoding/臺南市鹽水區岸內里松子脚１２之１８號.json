@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺南市鹽水區岸內里松子脚１２之１８號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺南市]\tT:1,V:1,R:-1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:1,NO:1(+1),E:-1,N:-1",
+      "OutTraceInfo": "[臺南市]\t { 模糊比對 } (鹽水區)\t找到符合的[鄉鎮市區]，(岸內里)\t找到符合的[村里]，(松子脚)\t找到符合的[地區]，(12之18號)\t找到符合的[門牌號碼]，進行[雙號過濾]，進行[找大於且最接近門牌的號之、之號]，找到大於輸入的門牌的號之、之號 1 號，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "臺南市鹽水區岸內里8鄰松子脚12之19號",
+      "COUNTY": "臺南市",
+      "TOWN": "鹽水區",
+      "VILLAGE": "岸內里",
+      "NEIGHBORHOOD": "8鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "松子脚",
+      "NUMBER": "12之19號",
+      "X": 120.265092,
+      "Y": 23.326813
+    }
+  ]
+}

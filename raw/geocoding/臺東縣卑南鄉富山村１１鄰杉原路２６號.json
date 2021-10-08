@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺東縣卑南鄉富山村１１鄰杉原路２６號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺東縣]\tT:1,V:1,R:0,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:0",
+      "OutTraceInfo": "[臺東縣]\t { 模糊比對 } (卑南鄉)\t找到符合的[鄉鎮市區]，(富山村)\t找到符合的[村里]，(杉原路)\t找不到符合的[路街名]，進行轉換搜尋[街變成路，路變成街]，進行轉換搜尋[路變成地區名]，轉換搜尋找不到符合的[路街名]，(26號)\t找到符合的[門牌號碼]，進行[雙號過濾]，(11鄰)\t找不到進行[忽略鄰]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "臺東縣卑南鄉富山村12鄰杉原26號",
+      "COUNTY": "臺東縣",
+      "TOWN": "卑南鄉",
+      "VILLAGE": "富山村",
+      "NEIGHBORHOOD": "12鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "杉原",
+      "NUMBER": "26號",
+      "X": 121.187154,
+      "Y": 22.838885
+    },
+    {
+      "FULL_ADDR": "臺東縣卑南鄉富山村9鄰富山26號",
+      "COUNTY": "臺東縣",
+      "TOWN": "卑南鄉",
+      "VILLAGE": "富山村",
+      "NEIGHBORHOOD": "9鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "富山",
+      "NUMBER": "26號",
+      "X": 121.186415,
+      "Y": 22.827703
+    }
+  ]
+}

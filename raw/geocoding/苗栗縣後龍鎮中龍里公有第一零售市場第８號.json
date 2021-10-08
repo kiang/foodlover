@@ -1,0 +1,80 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "苗栗縣後龍鎮中龍里公有第一零售市場第８號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "3",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[苗栗縣]\tT:1,V:1,R:-1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[苗栗縣]\t { 模糊比對 } (後龍鎮)\t找到符合的[鄉鎮市區]，(中龍里)\t找到符合的[村里]，(公有第一零售市場第)\t找不到符合的[地區]，轉換搜尋找不到符合的[地區]，(8號)\t找到符合的[門牌號碼]，進行[雙號過濾]，模糊比對找到 3 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "苗栗縣後龍鎮中龍里19鄰舘前街8號",
+      "COUNTY": "苗栗縣",
+      "TOWN": "後龍鎮",
+      "VILLAGE": "中龍里",
+      "NEIGHBORHOOD": "19鄰",
+      "ROAD": "舘前街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "8號",
+      "X": 120.788315,
+      "Y": 24.612728
+    },
+    {
+      "FULL_ADDR": "苗栗縣後龍鎮中龍里5鄰舘前街8號",
+      "COUNTY": "苗栗縣",
+      "TOWN": "後龍鎮",
+      "VILLAGE": "中龍里",
+      "NEIGHBORHOOD": "5鄰",
+      "ROAD": "舘前街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "8號",
+      "X": 120.788315,
+      "Y": 24.612728
+    },
+    {
+      "FULL_ADDR": "苗栗縣後龍鎮中龍里6鄰市興8號",
+      "COUNTY": "苗栗縣",
+      "TOWN": "後龍鎮",
+      "VILLAGE": "中龍里",
+      "NEIGHBORHOOD": "6鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "市興",
+      "NUMBER": "8號",
+      "X": 120.788145,
+      "Y": 24.614128
+    }
+  ]
+}

@@ -5534,6 +5534,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "基隆市七堵區永安里俊賢路４７、４９號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.705361,
+                    25.094853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "基隆市中山區中和里中和路８之６號",
                 "pay_list": ""
             },
@@ -5654,6 +5668,20 @@
                 "coordinates": [
                     121.73936492009,
                     25.145954369033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區安民里安一路４４及４２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.73667,
+                    25.131591
                 ]
             }
         },
@@ -6976,6 +7004,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "基隆市中山區德和里復興路３２８－２、３２８－３號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.727103,
+                    25.149412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "基隆市中山區西華里西定路１８７號",
                 "pay_list": ""
             },
@@ -7250,6 +7292,20 @@
                 "coordinates": [
                     121.73543794335,
                     25.132542309961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市中山區文化里文化路２２１，２２１－５號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.729517,
+                    25.152346
                 ]
             }
         },
@@ -9986,6 +10042,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "基隆市中正區砂灣里祥豐街９５－１、９５－２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.763762,
+                    25.142126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "基隆市中正區正濱里中正路７９０―１號",
                 "pay_list": ""
             },
@@ -12114,6 +12184,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "基隆市仁愛區明德里公園街３１９―１５、１６號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.737862,
+                    25.129211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "基隆市仁愛區明德里忠三路９１號",
                 "pay_list": ""
             },
@@ -12962,6 +13046,20 @@
                 "coordinates": [
                     121.77934091818,
                     25.12886721031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市信義區信綠里東信路３１２、３１４號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.760375,
+                    25.128722
                 ]
             }
         },
@@ -15152,6 +15250,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "基隆市信義區孝忠里深溪路３８巷６—２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.782837,
+                    25.132285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "基隆市信義區義昭里信二路２３４巷２－３號",
                 "pay_list": ""
             },
@@ -16552,6 +16664,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "基隆市安樂區七賢里安和一街２巷３０、３２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.723823,
+                    25.121638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "基隆市安樂區內寮里基金三路８２－４號",
                 "pay_list": ""
             },
@@ -17350,6 +17476,20 @@
         {
             "type": "Feature",
             "properties": {
+                "k": "基隆市安樂區內寮里基金三路８２－６，７號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6953,
+                    25.157285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "k": "基隆市安樂區三民里麥金路４２５號",
                 "pay_list": ""
             },
@@ -17428,6 +17568,20 @@
                 "coordinates": [
                     121.69570986851,
                     25.157007836507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "k": "基隆市安樂區內寮里基金三路５２․５４․６０－２號",
+                "pay_list": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.697177,
+                    25.154271
                 ]
             }
         },

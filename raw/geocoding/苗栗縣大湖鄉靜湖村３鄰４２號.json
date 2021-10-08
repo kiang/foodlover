@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "苗栗縣大湖鄉靜湖村３鄰４２號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[苗栗縣]\tT:1,V:1,R:-1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:0",
+      "OutTraceInfo": "[苗栗縣]\t { 模糊比對 } (大湖鄉)\t找到符合的[鄉鎮市區]，(靜湖村)\t找到符合的[村里]，(42號)\t找到符合的[門牌號碼]，進行[雙號過濾]，(3鄰)\t找不到進行[忽略鄰]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "苗栗縣大湖鄉靜湖村5鄰信義路42號",
+      "COUNTY": "苗栗縣",
+      "TOWN": "大湖鄉",
+      "VILLAGE": "靜湖村",
+      "NEIGHBORHOOD": "5鄰",
+      "ROAD": "信義路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "42號",
+      "X": 120.869609,
+      "Y": 24.425901
+    },
+    {
+      "FULL_ADDR": "苗栗縣大湖鄉靜湖村6鄰忠孝路42號",
+      "COUNTY": "苗栗縣",
+      "TOWN": "大湖鄉",
+      "VILLAGE": "靜湖村",
+      "NEIGHBORHOOD": "6鄰",
+      "ROAD": "忠孝路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "42號",
+      "X": 120.871694,
+      "Y": 24.423938
+    }
+  ]
+}

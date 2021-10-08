@@ -1,0 +1,80 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺中市大甲區中山里１５鄰水源路４５２巷６１弄９號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "3",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺中市]\tT:1,V:1,R:1,S:-1,L:1,A:0,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:1",
+      "OutTraceInfo": "[臺中市]\t { 模糊比對 } (大甲區)\t找到符合的[鄉鎮市區]，(中山里)\t找到符合的[村里]，(水源路)\t找到符合的[路街名]，(452巷)\t找到符合的[巷]，(61弄)\t找不到符合的[弄]，(9號)\t找到符合的[門牌號碼]，進行[單號過濾]，(15鄰)\t找到符合的[鄰]，模糊比對找到 3 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "臺中市大甲區中山里15鄰水源路452巷110弄9號",
+      "COUNTY": "臺中市",
+      "TOWN": "大甲區",
+      "VILLAGE": "中山里",
+      "NEIGHBORHOOD": "15鄰",
+      "ROAD": "水源路",
+      "SECTION": "",
+      "LANE": "452巷",
+      "ALLEY": "110弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "9號",
+      "X": 120.631215,
+      "Y": 24.342108
+    },
+    {
+      "FULL_ADDR": "臺中市大甲區中山里15鄰水源路452巷51弄9號",
+      "COUNTY": "臺中市",
+      "TOWN": "大甲區",
+      "VILLAGE": "中山里",
+      "NEIGHBORHOOD": "15鄰",
+      "ROAD": "水源路",
+      "SECTION": "",
+      "LANE": "452巷",
+      "ALLEY": "51弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "9號",
+      "X": 120.630488,
+      "Y": 24.343312
+    },
+    {
+      "FULL_ADDR": "臺中市大甲區中山里15鄰水源路452巷85弄9號",
+      "COUNTY": "臺中市",
+      "TOWN": "大甲區",
+      "VILLAGE": "中山里",
+      "NEIGHBORHOOD": "15鄰",
+      "ROAD": "水源路",
+      "SECTION": "",
+      "LANE": "452巷",
+      "ALLEY": "85弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "9號",
+      "X": 120.631297,
+      "Y": 24.342898
+    }
+  ]
+}

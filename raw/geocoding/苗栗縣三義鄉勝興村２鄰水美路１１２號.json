@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "苗栗縣三義鄉勝興村２鄰水美路１１２號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[苗栗縣]\tT:1,V:1,R:0,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:0",
+      "OutTraceInfo": "[苗栗縣]\t { 模糊比對 } (三義鄉)\t找到符合的[鄉鎮市區]，(勝興村)\t找到符合的[村里]，(水美路)\t找不到符合的[路街名]，進行轉換搜尋[街變成路，路變成街]，進行轉換搜尋[路變成地區名]，轉換搜尋找不到符合的[路街名]，(112號)\t找到符合的[門牌號碼]，進行[雙號過濾]，(2鄰)\t找不到進行[忽略鄰]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "苗栗縣三義鄉勝興村5鄰二十份112號",
+      "COUNTY": "苗栗縣",
+      "TOWN": "三義鄉",
+      "VILLAGE": "勝興村",
+      "NEIGHBORHOOD": "5鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "二十份",
+      "NUMBER": "112號",
+      "X": 120.766614,
+      "Y": 24.402711
+    },
+    {
+      "FULL_ADDR": "苗栗縣三義鄉勝興村22鄰水美112號",
+      "COUNTY": "苗栗縣",
+      "TOWN": "三義鄉",
+      "VILLAGE": "勝興村",
+      "NEIGHBORHOOD": "22鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "水美",
+      "NUMBER": "112號",
+      "X": 120.760112,
+      "Y": 24.396374
+    }
+  ]
+}

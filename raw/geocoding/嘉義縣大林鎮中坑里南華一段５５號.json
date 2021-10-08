@@ -1,0 +1,80 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "嘉義縣大林鎮中坑里南華一段５５號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "3",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[嘉義縣]\tT:1,V:1,R:-1,-S:0,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[嘉義縣]\t { 模糊比對 } (大林鎮)\t找到符合的[鄉鎮市區]，(中坑里)\t找到符合的[村里]，(南華一段)\t找不到符合的[路段]，(55號)\t找到符合的[門牌號碼]，進行[單號過濾]，模糊比對找到 3 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "嘉義縣大林鎮中坑里2鄰沙崙55號",
+      "COUNTY": "嘉義縣",
+      "TOWN": "大林鎮",
+      "VILLAGE": "中坑里",
+      "NEIGHBORHOOD": "2鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "沙崙",
+      "NUMBER": "55號",
+      "X": 120.495200,
+      "Y": 23.585293
+    },
+    {
+      "FULL_ADDR": "嘉義縣大林鎮中坑里9鄰芎蕉山55號",
+      "COUNTY": "嘉義縣",
+      "TOWN": "大林鎮",
+      "VILLAGE": "中坑里",
+      "NEIGHBORHOOD": "9鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "芎蕉山",
+      "NUMBER": "55號",
+      "X": 120.513486,
+      "Y": 23.567674
+    },
+    {
+      "FULL_ADDR": "嘉義縣大林鎮中坑里10鄰南華路一段55號",
+      "COUNTY": "嘉義縣",
+      "TOWN": "大林鎮",
+      "VILLAGE": "中坑里",
+      "NEIGHBORHOOD": "10鄰",
+      "ROAD": "南華路",
+      "SECTION": "1",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "55號",
+      "X": 120.494412,
+      "Y": 23.569386
+    }
+  ]
+}
