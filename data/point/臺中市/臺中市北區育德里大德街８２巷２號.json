@@ -6,8 +6,12 @@
     "shops": [
         {
             "shop": "韓國食堂",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
+        },
+        {
+            "shop": "李玉美",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": "LINE PAY MONEY"
 }

@@ -1,13 +1,17 @@
 {
-    "name": "餐食攤販\/調理飲料攤販",
+    "name": "調理飲料攤販\/餐食攤販",
     "address": "花蓮縣玉里鎮中城里０２７鄰光復路１２１號",
     "x": 121.45042365654,
     "y": 23.748749097113,
     "shops": [
         {
             "shop": "昱香企業行",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
+        },
+        {
+            "shop": "昱香企業行",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

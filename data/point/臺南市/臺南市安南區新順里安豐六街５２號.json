@@ -1,13 +1,13 @@
 {
-    "name": "經營網路購物\/西點麵包零售\/糕餅麵包製造",
+    "name": "糕餅麵包製造\/西點麵包零售\/經營網路購物",
     "address": "臺南市安南區新順里安豐六街５２號",
     "x": 120.213189,
     "y": 23.0468,
     "shops": [
         {
             "shop": "女子麥面包",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

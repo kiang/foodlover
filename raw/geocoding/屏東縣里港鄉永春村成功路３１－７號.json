@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "屏東縣里港鄉永春村成功路３１－７號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[屏東縣]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:1(-2),E:-1,N:-1",
+      "OutTraceInfo": "[屏東縣]\t { 模糊比對 } (里港鄉)\t找到符合的[鄉鎮市區]，(永春村)\t找到符合的[村里]，(成功路)\t找到符合的[路街名]，(31－7號)\t找到符合的[門牌號碼]，進行[單號過濾]，進行[找小於且最接近門牌的號之、之號]，找到小於輸入的門牌的號之、之號 2 號，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "屏東縣里港鄉永春村6鄰成功路31號之5",
+      "COUNTY": "屏東縣",
+      "TOWN": "里港鄉",
+      "VILLAGE": "永春村",
+      "NEIGHBORHOOD": "6鄰",
+      "ROAD": "成功路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "31號之5",
+      "X": 120.496401,
+      "Y": 22.779133
+    }
+  ]
+}

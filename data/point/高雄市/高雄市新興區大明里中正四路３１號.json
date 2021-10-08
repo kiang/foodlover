@@ -1,13 +1,21 @@
 {
-    "name": "糖果餅乾批發\/糖果餅乾零售",
+    "name": "西點麵包零售",
     "address": "高雄市新興區大明里中正四路３１號",
     "x": 120.300617,
     "y": 22.630714,
     "shops": [
         {
+            "shop": "不二家",
+            "pay_list": ""
+        },
+        {
             "shop": "不二製果有限公司",
-            "pay_list": "一卡通 \/ LINE Pay Money"
+            "pay_list": ""
+        },
+        {
+            "shop": "正統食品有限公司",
+            "pay_list": ""
         }
     ],
-    "pay_list": "一卡通\/LINE Pay Money"
+    "pay_list": ""
 }

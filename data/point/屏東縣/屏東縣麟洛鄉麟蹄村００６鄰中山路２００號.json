@@ -1,13 +1,17 @@
 {
-    "name": "冰果店、冷（熱）飲店",
+    "name": "麵店、小吃店",
     "address": "屏東縣麟洛鄉麟蹄村００６鄰中山路２００號",
     "x": 120.525942,
     "y": 22.651675,
     "shops": [
         {
+            "shop": "麟洛花滷肉飯",
+            "pay_list": ""
+        },
+        {
             "shop": "川靜居茶莊",
-            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+            "pay_list": ""
         }
     ],
-    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+    "pay_list": ""
 }

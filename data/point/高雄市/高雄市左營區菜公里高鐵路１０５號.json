@@ -1,21 +1,25 @@
 {
-    "name": "西點麵包零售\/其他烘焙炊蒸食品製造",
+    "name": "糖果餅乾零售",
     "address": "高雄市左營區菜公里高鐵路１０５號２樓",
     "x": 120.308728,
     "y": 22.687374,
     "shops": [
         {
+            "shop": "三合美食品股份有限公司左營高鐵分公司",
+            "pay_list": ""
+        },
+        {
             "shop": "吳寶春食品股份有限公司左營高鐵店",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         },
         {
-            "shop": "怡天餐飲有限公司",
-            "pay_list": "LINE Pay Money"
+            "shop": "統一多拿滋股份有限公司左營高鐵門市部",
+            "pay_list": ""
         },
         {
-            "shop": "翰林國際企業股份有限公司高鐵左營營業所",
-            "pay_list": "LINE Pay Money"
+            "shop": "翔大食品股份有限公司左營門市",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

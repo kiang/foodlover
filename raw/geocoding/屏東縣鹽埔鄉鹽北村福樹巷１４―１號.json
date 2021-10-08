@@ -1,0 +1,80 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "屏東縣鹽埔鄉鹽北村福樹巷１４―１號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "3",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[屏東縣]\tT:1,V:1,R:-1,S:-1,L:0,A:-1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[屏東縣]\t { 模糊比對 } (鹽埔鄉)\t找到符合的[鄉鎮市區]，(鹽北村)\t找到符合的[村里]，(福樹巷)\t找不到符合的[巷]，(一四―)\t找不到符合的[地區]，轉換搜尋找不到符合的[地區]，(1號)\t找到符合的[門牌號碼]，進行[單號過濾]，模糊比對找到 3 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "屏東縣鹽埔鄉鹽北村12鄰光復路1號",
+      "COUNTY": "屏東縣",
+      "TOWN": "鹽埔鄉",
+      "VILLAGE": "鹽北村",
+      "NEIGHBORHOOD": "12鄰",
+      "ROAD": "光復路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "1號",
+      "X": 120.579238,
+      "Y": 22.757193
+    },
+    {
+      "FULL_ADDR": "屏東縣鹽埔鄉鹽北村18鄰豐年路8巷1號",
+      "COUNTY": "屏東縣",
+      "TOWN": "鹽埔鄉",
+      "VILLAGE": "鹽北村",
+      "NEIGHBORHOOD": "18鄰",
+      "ROAD": "豐年路",
+      "SECTION": "",
+      "LANE": "8巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "1號",
+      "X": 120.581596,
+      "Y": 22.755586
+    },
+    {
+      "FULL_ADDR": "屏東縣鹽埔鄉鹽北村6鄰福神路1號",
+      "COUNTY": "屏東縣",
+      "TOWN": "鹽埔鄉",
+      "VILLAGE": "鹽北村",
+      "NEIGHBORHOOD": "6鄰",
+      "ROAD": "福神路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "1號",
+      "X": 120.579176,
+      "Y": 22.757563
+    }
+  ]
+}

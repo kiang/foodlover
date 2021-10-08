@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "彰化縣伸港鄉曾家村中山路９２７巷１２弄１１號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "完全比對",
+      "OutMatchCode": "[彰化縣]\tFULL:1",
+      "OutTraceInfo": "[彰化縣]\t { 完全比對 } 找到符合的門牌地址"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "彰化縣伸港鄉曾家村15鄰中山路927巷12弄11號",
+      "COUNTY": "彰化縣",
+      "TOWN": "伸港鄉",
+      "VILLAGE": "曾家村",
+      "NEIGHBORHOOD": "15鄰",
+      "ROAD": "中山路",
+      "SECTION": "",
+      "LANE": "927巷",
+      "ALLEY": "12弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "11號",
+      "X": 120.467888,
+      "Y": 24.146072
+    }
+  ]
+}

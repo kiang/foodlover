@@ -1,17 +1,17 @@
 {
-    "name": "糖果餅乾零售\/西點麵包零售\/餐館、餐廳\/咖啡館",
+    "name": "西點麵包零售\/糖果餅乾零售\/餐館、餐廳\/咖啡館",
     "address": "花蓮縣富里鄉竹田村００２鄰東竹５５―１號",
     "x": 121.282899,
     "y": 23.220354,
     "shops": [
         {
             "shop": "深山咖啡",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         },
         {
             "shop": "深山咖啡",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

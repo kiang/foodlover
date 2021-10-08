@@ -1,13 +1,13 @@
 {
-    "name": "未分類其他資訊服務\/飲料零售\/餐館、餐廳",
+    "name": "飲料零售\/未分類其他資訊服務\/餐館、餐廳",
     "address": "新北市板橋區長安里漢生東路１９３巷２３―２號",
     "x": 121.469965,
     "y": 25.011747,
     "shops": [
         {
             "shop": "聖堤妃商行",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

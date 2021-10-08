@@ -1,13 +1,13 @@
 {
     "name": "麵店、小吃店",
-    "address": "臺中市中區大誠里大誠街１０４號１樓騎樓",
+    "address": "臺中市中區大誠里大誠街１０４號",
     "x": 120.680463,
     "y": 24.14654,
     "shops": [
         {
-            "shop": "大興炸物",
-            "pay_list": "LINE Pay Money"
+            "shop": "逢甲阿郎",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

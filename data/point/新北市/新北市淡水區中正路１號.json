@@ -1,17 +1,29 @@
 {
-    "name": "麵店、小吃店",
-    "address": "新北市淡水區中正路１號１樓（５號販賣店）",
+    "name": "其他烘焙炊蒸食品製造",
+    "address": "新北市淡水區中正路１號",
     "x": 121.445554,
     "y": 25.168232,
     "shops": [
         {
-            "shop": "淡水水煎包店",
-            "pay_list": "LINE Pay Money"
+            "shop": "嚐鱻食品有限公司淡水店",
+            "pay_list": ""
         },
         {
-            "shop": "捷運食品行",
-            "pay_list": "LINE Pay Money"
+            "shop": "路易莎職人咖啡股份有限公司淡水捷運分公司",
+            "pay_list": ""
+        },
+        {
+            "shop": "貢茶國際股份有限公司淡水捷運店",
+            "pay_list": ""
+        },
+        {
+            "shop": "爭鮮股份有限公司淡水外門市部",
+            "pay_list": ""
+        },
+        {
+            "shop": "統一多拿滋股份有限公司淡捷門市部",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

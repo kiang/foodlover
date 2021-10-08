@@ -1,13 +1,13 @@
 {
-    "name": "飲料零售\/餐館、餐廳\/未分類其他食品批發",
+    "name": "未分類其他食品批發\/飲料零售\/餐館、餐廳",
     "address": "宜蘭縣宜蘭市進士里女中路三段１號１樓",
     "x": 121.748085,
     "y": 24.744682,
     "shops": [
         {
             "shop": "美吉登餐飲有限公司",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

@@ -5,9 +5,13 @@
     "y": 22.995882491498,
     "shops": [
         {
+            "shop": "馬強麵包坊有限公司",
+            "pay_list": ""
+        },
+        {
             "shop": "馬可先生第四股份有限公司勝利門市部",
-            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money \/ 街口支付"
+            "pay_list": ""
         }
     ],
-    "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money\/街口支付"
+    "pay_list": ""
 }

@@ -1,17 +1,13 @@
 {
-    "name": "醫療耗材零售\/西點麵包零售\/冰果店、冷（熱）飲店\/咖啡館",
+    "name": "西點麵包零售\/冰果店、冷（熱）飲店\/醫療耗材零售\/咖啡館",
     "address": "臺南市安南區新順里安和路２段２８２號１樓",
     "x": 120.216314,
     "y": 23.041962,
     "shops": [
         {
             "shop": "悅品商行",
-            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
-        },
-        {
-            "shop": "悅品商行",
-            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+            "pay_list": ""
         }
     ],
-    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+    "pay_list": ""
 }

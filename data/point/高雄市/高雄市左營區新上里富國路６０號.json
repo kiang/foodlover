@@ -1,21 +1,69 @@
 {
-    "name": "早餐店",
-    "address": "高雄市左營區新上里富國路６０號（龍華公有零售市場甲字第５號）",
-    "x": 120.30676468686,
-    "y": 22.658518407196,
+    "name": "餐食攤販",
+    "address": "高雄市左營區新上里富國路６０號",
+    "x": 120.306765,
+    "y": 22.658518,
     "shops": [
         {
-            "shop": "曉琦飯糰",
-            "pay_list": "LINE Pay Money"
+            "shop": "家的感覺丁字第１４號百貨攤",
+            "pay_list": ""
         },
         {
-            "shop": "吳媽媽私房菜",
-            "pay_list": "LINE Pay Money"
+            "shop": "龍華公有市場丁３６號攤位",
+            "pay_list": ""
         },
         {
-            "shop": "桔之家",
-            "pay_list": "LINE Pay Money"
+            "shop": "老張小吃",
+            "pay_list": ""
+        },
+        {
+            "shop": "吳董秋枝",
+            "pay_list": ""
+        },
+        {
+            "shop": "香噴噴滷味",
+            "pay_list": ""
+        },
+        {
+            "shop": "林詠詮",
+            "pay_list": ""
+        },
+        {
+            "shop": "龍華公有市塲丙字６７號",
+            "pay_list": ""
+        },
+        {
+            "shop": "龍華公有市塲丙字６１號",
+            "pay_list": ""
+        },
+        {
+            "shop": "龍華公有市塲丙字４７號",
+            "pay_list": ""
+        },
+        {
+            "shop": "龍華公有市塲丙字４６號",
+            "pay_list": ""
+        },
+        {
+            "shop": "鍾詠程（龍華公有市塲）丙字１４號",
+            "pay_list": ""
+        },
+        {
+            "shop": "龍華公有市塲乙字７號",
+            "pay_list": ""
+        },
+        {
+            "shop": "楊媽媽日船小丸子",
+            "pay_list": ""
+        },
+        {
+            "shop": "巴蜀美食",
+            "pay_list": ""
+        },
+        {
+            "shop": "小吃部",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

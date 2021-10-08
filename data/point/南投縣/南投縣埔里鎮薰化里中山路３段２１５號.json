@@ -1,17 +1,13 @@
 {
-    "name": "麵店、小吃店\/麵食品零售",
+    "name": "麵食品零售\/麵店、小吃店",
     "address": "南投縣埔里鎮薰化里中山路３段２１５號",
     "x": 120.960916,
     "y": 23.967704,
     "shops": [
         {
             "shop": "振松記商店",
-            "pay_list": "LINE Pay Money"
-        },
-        {
-            "shop": "振松記商店",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

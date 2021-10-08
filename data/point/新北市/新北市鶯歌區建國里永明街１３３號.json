@@ -6,8 +6,12 @@
     "shops": [
         {
             "shop": "欣聖食品有限公司",
-            "pay_list": "台灣 PAY"
+            "pay_list": ""
+        },
+        {
+            "shop": "豪客自助餐店",
+            "pay_list": ""
         }
     ],
-    "pay_list": "台灣 PAY"
+    "pay_list": ""
 }

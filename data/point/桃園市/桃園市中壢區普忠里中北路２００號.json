@@ -1,13 +1,13 @@
 {
-    "name": "冰果店、冷（熱）飲店\/水果零售",
+    "name": "水果零售\/冰果店、冷（熱）飲店",
     "address": "桃園市中壢區普忠里中北路２００號",
     "x": 121.24034894907,
     "y": 24.957278996865,
     "shops": [
         {
             "shop": "中原達人鮮果茶舖",
-            "pay_list": "LINE Pay Money \/ 街口支付"
+            "pay_list": "街口支付 \/ LINE PAY MONEY"
         }
     ],
-    "pay_list": "LINE Pay Money\/街口支付"
+    "pay_list": "街口支付\/LINE PAY MONEY"
 }

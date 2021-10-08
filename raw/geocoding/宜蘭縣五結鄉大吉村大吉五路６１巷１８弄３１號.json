@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "宜蘭縣五結鄉大吉村大吉五路６１巷１８弄３１號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "完全比對",
+      "OutMatchCode": "[宜蘭縣]\tFULL:1",
+      "OutTraceInfo": "[宜蘭縣]\t { 完全比對 } 找到符合的門牌地址"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "宜蘭縣五結鄉大吉村26鄰大吉五路61巷18弄31號",
+      "COUNTY": "宜蘭縣",
+      "TOWN": "五結鄉",
+      "VILLAGE": "大吉村",
+      "NEIGHBORHOOD": "26鄰",
+      "ROAD": "大吉五路",
+      "SECTION": "",
+      "LANE": "61巷",
+      "ALLEY": "18弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "31號",
+      "X": 121.799179,
+      "Y": 24.697396
+    }
+  ]
+}

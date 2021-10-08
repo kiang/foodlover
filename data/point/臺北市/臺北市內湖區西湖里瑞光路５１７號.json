@@ -1,33 +1,17 @@
 {
-    "name": "麵店、小吃店",
+    "name": "連鎖速食店",
     "address": "臺北市內湖區西湖里瑞光路５１７號",
     "x": 121.56910820234,
     "y": 25.079238948172,
     "shops": [
         {
-            "shop": "保欣行",
-            "pay_list": "LINE Pay Money"
+            "shop": "和德昌股份有限公司台北瑞光分公司",
+            "pay_list": ""
         },
         {
             "shop": "築品商行",
-            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
-        },
-        {
-            "shop": "昊翰食品有限公司",
-            "pay_list": "一卡通 \/ LINE Pay Money"
-        },
-        {
-            "shop": "日燿國際有限公司",
-            "pay_list": "台灣 PAY"
-        },
-        {
-            "shop": "珍好吃有限公司",
-            "pay_list": "街口支付 \/ LINE Pay Money"
-        },
-        {
-            "shop": "安誠水飲有限公司",
-            "pay_list": "街口支付 \/ LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money\/台灣 PAY\/街口支付\/一卡通"
+    "pay_list": ""
 }

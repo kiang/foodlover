@@ -55,15 +55,17 @@ foreach (glob($basePath . '/raw/data/*.json') as $jsonFile) {
                 if (is_array($point['shop'])) {
                     $point['shop'] = implode('', $point['shop']);
                 }
-                if(is_string($point['pay_list'])) {
+                if (empty($point['pay_list'])) {
+                    $point['pay_list'] = [];
+                } elseif (is_string($point['pay_list'])) {
                     $point['pay_list'] = [$point['pay_list']];
                 }
-                foreach($point['pay_list'] AS $k => $v) {
+                foreach ($point['pay_list'] as $k => $v) {
                     $v = trim(strtr($v, $payPairs));
-                    if(false !== strpos($v, '、')) {
+                    if (false !== strpos($v, '、')) {
                         unset($point['pay_list'][$k]);
                         $parts = explode('、', $v);
-                        foreach($parts AS $part) {
+                        foreach ($parts as $part) {
                             $point['pay_list'][] = $part;
                         }
                     } else {
@@ -88,7 +90,7 @@ foreach (glob($basePath . '/raw/data/*.json') as $jsonFile) {
                         ];
                     }
                     $isMissing = false;
-                    
+
                     $pool[$point['city']][$address]['shops'][] = [
                         'shop' => $point['shop'],
                         'pay_list' => implode(' / ', $point['pay_list']),
@@ -157,9 +159,9 @@ foreach (glob($basePath . '/raw/data/*.json') as $jsonFile) {
                     $missing[$point['market_address']] = [$point['city'], $point['area']];
                 }
             } else {
-                foreach($point['pay_list'] AS $pay) {
+                foreach ($point['pay_list'] as $pay) {
                     $pool[$point['city']][$address]['pay_list'][$pay] = true;
-                    if(!isset($paylist[$pay])) {
+                    if (!isset($paylist[$pay])) {
                         $paylist[$pay] = 0;
                     }
                     ++$paylist[$pay];

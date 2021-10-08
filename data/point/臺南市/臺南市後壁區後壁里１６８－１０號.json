@@ -1,13 +1,13 @@
 {
-    "name": "水果零售\/外燴（辦桌）承包\/蔬菜零售",
+    "name": "水果零售\/蔬菜零售\/外燴（辦桌）承包",
     "address": "臺南市後壁區後壁里１６８－１０號",
     "x": 120.364109,
     "y": 23.365037,
     "shops": [
         {
             "shop": "金廚商號",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

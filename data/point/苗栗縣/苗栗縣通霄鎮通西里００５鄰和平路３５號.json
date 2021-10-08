@@ -1,17 +1,17 @@
 {
-    "name": "麵店、小吃店\/麵食品零售",
+    "name": "麵食品零售\/麵店、小吃店",
     "address": "苗栗縣通霄鎮通西里００５鄰和平路３５號１樓",
     "x": 120.679804,
     "y": 24.489408,
     "shops": [
         {
             "shop": "冠銘企業社",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         },
         {
             "shop": "冠銘企業社",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "屏東縣新園鄉仙吉村仙吉路市場巷1號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[屏東縣]\tT:1,V:1,R:1,S:-1,L:0,A:-1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[屏東縣]\t { 模糊比對 } (新園鄉)\t找到符合的[鄉鎮市區]，(仙吉村)\t找到符合的[村里]，(仙吉路)\t找到符合的[路街名]，(市場巷)\t找不到符合的[巷]，(市場巷)\t找不到符合的[地區]，進行轉換搜尋[路或街變成地區名]，轉換搜尋找不到符合的[地區]，(1號)\t找到符合的[門牌號碼]，進行[單號過濾]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "屏東縣新園鄉仙吉村20鄰仙吉路210巷1號",
+      "COUNTY": "屏東縣",
+      "TOWN": "新園鄉",
+      "VILLAGE": "仙吉村",
+      "NEIGHBORHOOD": "20鄰",
+      "ROAD": "仙吉路",
+      "SECTION": "",
+      "LANE": "210巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "1號",
+      "X": 120.462793,
+      "Y": 22.545373
+    },
+    {
+      "FULL_ADDR": "屏東縣新園鄉仙吉村4鄰仙吉路150巷1號",
+      "COUNTY": "屏東縣",
+      "TOWN": "新園鄉",
+      "VILLAGE": "仙吉村",
+      "NEIGHBORHOOD": "4鄰",
+      "ROAD": "仙吉路",
+      "SECTION": "",
+      "LANE": "150巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "1號",
+      "X": 120.461754,
+      "Y": 22.543699
+    }
+  ]
+}

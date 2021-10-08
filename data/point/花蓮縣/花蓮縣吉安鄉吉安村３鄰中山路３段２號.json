@@ -1,13 +1,21 @@
 {
-    "name": "糖果餅乾零售",
-    "address": "花蓮縣吉安鄉吉安村３鄰中山路３段２號Ｂ棟１",
+    "name": "西點麵包零售",
+    "address": "花蓮縣吉安鄉吉安村３鄰中山路３段２號Ｂ７５",
     "x": 121.579044,
     "y": 23.973486,
     "shops": [
         {
+            "shop": "攤販商國川",
+            "pay_list": ""
+        },
+        {
             "shop": "攤販世美容",
-            "pay_list": "一卡通 \/ LINE Pay Money"
+            "pay_list": "LINE PAY MONEY \/ 一卡通"
+        },
+        {
+            "shop": "攤販張金女",
+            "pay_list": ""
         }
     ],
-    "pay_list": "一卡通\/LINE Pay Money"
+    "pay_list": "LINE PAY MONEY\/一卡通"
 }

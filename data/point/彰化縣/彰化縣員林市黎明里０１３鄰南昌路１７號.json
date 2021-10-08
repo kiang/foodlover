@@ -1,13 +1,13 @@
 {
-    "name": "調理飲料攤販\/餐食攤販",
+    "name": "餐食攤販\/調理飲料攤販",
     "address": "彰化縣員林市黎明里０１３鄰南昌路１７號",
     "x": 120.573854,
     "y": 23.954635,
     "shops": [
         {
             "shop": "好食雞炸雞店",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": "LINE PAY MONEY"
 }

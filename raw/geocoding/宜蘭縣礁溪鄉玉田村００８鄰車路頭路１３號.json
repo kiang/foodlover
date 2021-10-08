@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "宜蘭縣礁溪鄉玉田村００８鄰車路頭路１３號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[宜蘭縣]\tT:1,V:1,R:0,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:0",
+      "OutTraceInfo": "[宜蘭縣]\t { 模糊比對 } (礁溪鄉)\t找到符合的[鄉鎮市區]，(玉田村)\t找到符合的[村里]，(車路)\t找不到符合的[路街名]，進行轉換搜尋[街變成路，路變成街]，進行轉換搜尋[地區名+路]，進行轉換搜尋[地區名+街]，轉換搜尋找不到符合的[路街名]，(頭路)\t找不到符合的[地區]，進行轉換搜尋[路或街變成地區名]，轉換搜尋找不到符合的[地區]，(13號)\t找到符合的[門牌號碼]，進行[單號過濾]，(8鄰)\t找不到進行[忽略鄰]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "宜蘭縣礁溪鄉玉田村3鄰茅埔路13號",
+      "COUNTY": "宜蘭縣",
+      "TOWN": "礁溪鄉",
+      "VILLAGE": "玉田村",
+      "NEIGHBORHOOD": "3鄰",
+      "ROAD": "茅埔路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "13號",
+      "X": 121.787141,
+      "Y": 24.799631
+    },
+    {
+      "FULL_ADDR": "宜蘭縣礁溪鄉玉田村20鄰踏踏五路13號",
+      "COUNTY": "宜蘭縣",
+      "TOWN": "礁溪鄉",
+      "VILLAGE": "玉田村",
+      "NEIGHBORHOOD": "20鄰",
+      "ROAD": "踏踏五路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "13號",
+      "X": 121.784113,
+      "Y": 24.799422
+    }
+  ]
+}

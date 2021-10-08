@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "屏東縣屏東市斯文里公勤二街７５－１號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[屏東縣]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+6)(-6),E:-1,N:-1",
+      "OutTraceInfo": "[屏東縣]\t { 模糊比對 } (屏東市)\t找到符合的[鄉鎮市區]，(斯文里)\t找到符合的[村里]，(公勤二街)\t找到符合的[路街名]，(75－1號)\t進行[單號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +6 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -6 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "屏東縣屏東市斯文里3鄰公勤二街69號",
+      "COUNTY": "屏東縣",
+      "TOWN": "屏東市",
+      "VILLAGE": "斯文里",
+      "NEIGHBORHOOD": "3鄰",
+      "ROAD": "公勤二街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "69號",
+      "X": 120.493379,
+      "Y": 22.680914
+    },
+    {
+      "FULL_ADDR": "屏東縣屏東市斯文里12鄰公勤二街81號",
+      "COUNTY": "屏東縣",
+      "TOWN": "屏東市",
+      "VILLAGE": "斯文里",
+      "NEIGHBORHOOD": "12鄰",
+      "ROAD": "公勤二街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "81號",
+      "X": 120.493274,
+      "Y": 22.680896
+    }
+  ]
+}

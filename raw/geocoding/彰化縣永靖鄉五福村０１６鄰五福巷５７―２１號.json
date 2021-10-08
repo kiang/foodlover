@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "彰化縣永靖鄉五福村０１６鄰五福巷５７―２１號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[彰化縣]\tT:1,V:1,R:-1,S:-1,L:0,A:-1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:1",
+      "OutTraceInfo": "[彰化縣]\t { 模糊比對 } (永靖鄉)\t找到符合的[鄉鎮市區]，(五福村)\t找到符合的[村里]，(五福巷)\t找不到符合的[巷]，(五七―)\t找不到符合的[地區]，轉換搜尋找不到符合的[地區]，(21號)\t找到符合的[門牌號碼]，進行[單號過濾]，(16鄰)\t找到符合的[鄰]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "彰化縣永靖鄉五福村16鄰五福巷21號",
+      "COUNTY": "彰化縣",
+      "TOWN": "永靖鄉",
+      "VILLAGE": "五福村",
+      "NEIGHBORHOOD": "16鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "五福巷",
+      "NUMBER": "21號",
+      "X": 120.539285,
+      "Y": 23.905961
+    }
+  ]
+}

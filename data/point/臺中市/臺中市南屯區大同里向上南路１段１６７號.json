@@ -6,8 +6,12 @@
     "shops": [
         {
             "shop": "湯尼烘焙屋有限公司",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
+        },
+        {
+            "shop": "海星小舖企業社",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

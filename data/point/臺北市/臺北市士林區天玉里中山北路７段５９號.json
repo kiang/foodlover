@@ -6,8 +6,12 @@
     "shops": [
         {
             "shop": "奇諾餐飲店",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
+        },
+        {
+            "shop": "品香越有限公司",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

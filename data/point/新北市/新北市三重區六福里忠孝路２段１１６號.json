@@ -1,13 +1,13 @@
 {
-    "name": "西點麵包零售\/糕餅麵包製造",
+    "name": "糕餅麵包製造\/西點麵包零售",
     "address": "新北市三重區六福里忠孝路２段１１６號（１樓）",
     "x": 121.483237,
     "y": 25.068919,
     "shops": [
         {
             "shop": "胖町有限公司",
-            "pay_list": "街口支付 \/ LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "街口支付\/LINE Pay Money"
+    "pay_list": ""
 }

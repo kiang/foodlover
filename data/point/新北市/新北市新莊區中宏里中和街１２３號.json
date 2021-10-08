@@ -6,12 +6,12 @@
     "shops": [
         {
             "shop": "友達烘焙坊",
-            "pay_list": "街口支付 \/ LINE Pay Money"
+            "pay_list": ""
         },
         {
             "shop": "宸璵商行",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "街口支付\/LINE Pay Money"
+    "pay_list": ""
 }

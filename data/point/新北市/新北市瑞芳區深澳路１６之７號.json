@@ -1,17 +1,13 @@
 {
     "name": "餐館、餐廳",
-    "address": "新北市瑞芳區深澳路１６之７號旁",
+    "address": "新北市瑞芳區深澳路１６之７號（１、２樓）",
     "x": 121.81877204715,
     "y": 25.129509090681,
     "shops": [
         {
-            "shop": "嵐海秘境鮮味餐廳",
-            "pay_list": "LINE Pay Money"
-        },
-        {
             "shop": "深情海岸海景餐廳有限公司",
-            "pay_list": "街口支付 \/ LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money\/街口支付"
+    "pay_list": ""
 }

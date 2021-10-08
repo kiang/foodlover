@@ -1,17 +1,13 @@
 {
-    "name": "西點麵包零售\/餐館、餐廳\/冰果店、冷（熱）飲店",
+    "name": "冰果店、冷（熱）飲店\/西點麵包零售\/餐館、餐廳",
     "address": "新竹縣竹北市文興路１９７號１樓",
     "x": 121.018621,
     "y": 24.815875,
     "shops": [
         {
             "shop": "語籽麵包",
-            "pay_list": "LINE Pay Money"
-        },
-        {
-            "shop": "語籽麵包",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

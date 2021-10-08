@@ -1,13 +1,13 @@
 {
-    "name": "糖果餅乾零售\/西點麵包零售\/咖啡館",
+    "name": "西點麵包零售\/糖果餅乾零售\/咖啡館",
     "address": "臺北市士林區前港里後港街１５２―２號１樓",
     "x": 121.522426,
     "y": 25.085039,
     "shops": [
         {
             "shop": "捌月肆日甜點坊",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

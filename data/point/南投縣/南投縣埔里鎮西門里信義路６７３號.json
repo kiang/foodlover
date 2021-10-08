@@ -1,13 +1,13 @@
 {
-    "name": "西點麵包零售\/糕餅麵包製造",
+    "name": "糕餅麵包製造\/西點麵包零售",
     "address": "南投縣埔里鎮西門里信義路６７３號１樓",
     "x": 120.96498,
     "y": 23.973068,
     "shops": [
         {
             "shop": "柏丁工坊",
-            "pay_list": "街口支付 \/ LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "街口支付\/LINE Pay Money"
+    "pay_list": ""
 }

@@ -1,17 +1,13 @@
 {
-    "name": "飲料零售\/西點麵包零售\/餐館、餐廳\/菸酒零售",
+    "name": "西點麵包零售\/飲料零售\/餐館、餐廳\/菸酒零售",
     "address": "苗栗縣苗栗市北苗里中山北路１０５―１號",
     "x": 120.82377,
     "y": 24.571653,
     "shops": [
         {
             "shop": "鼎億實業社",
-            "pay_list": "LINE Pay Money"
-        },
-        {
-            "shop": "鼎億實業社",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

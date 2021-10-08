@@ -6,12 +6,16 @@
     "shops": [
         {
             "shop": "源興行",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
         },
         {
-            "shop": "阿鄉飲食店",
-            "pay_list": "街口支付 \/ 愛金卡"
+            "shop": "大順食品行",
+            "pay_list": ""
+        },
+        {
+            "shop": "陳衣心",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money\/街口支付\/愛金卡"
+    "pay_list": "LINE PAY MONEY"
 }

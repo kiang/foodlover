@@ -1,0 +1,80 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "高雄市左營區崇實里崇實里自勉路１１８號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "3",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[高雄市]\tT:1,V:1,R:0,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[高雄市]\t { 模糊比對 } (左營區)\t找到符合的[鄉鎮市區]，(崇實里)\t找到符合的[村里]，(崇實里自勉路)\t找不到符合的[路街名]，進行轉換搜尋[街變成路，路變成街]，進行轉換搜尋[路變成地區名]，轉換搜尋找不到符合的[路街名]，(118號)\t找到符合的[門牌號碼]，進行[雙號過濾]，模糊比對找到 3 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "高雄市左營區崇實里26鄰自勉路118號",
+      "COUNTY": "高雄市",
+      "TOWN": "左營區",
+      "VILLAGE": "崇實里",
+      "NEIGHBORHOOD": "26鄰",
+      "ROAD": "自勉路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "118號",
+      "X": 120.280717,
+      "Y": 22.679800
+    },
+    {
+      "FULL_ADDR": "高雄市左營區崇實里28鄰崇實新村118號",
+      "COUNTY": "高雄市",
+      "TOWN": "左營區",
+      "VILLAGE": "崇實里",
+      "NEIGHBORHOOD": "28鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "崇實新村",
+      "NUMBER": "118號",
+      "X": 120.283613,
+      "Y": 22.680698
+    },
+    {
+      "FULL_ADDR": "高雄市左營區崇實里35鄰先勝路118號",
+      "COUNTY": "高雄市",
+      "TOWN": "左營區",
+      "VILLAGE": "崇實里",
+      "NEIGHBORHOOD": "35鄰",
+      "ROAD": "先勝路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "118號",
+      "X": 120.281150,
+      "Y": 22.680665
+    }
+  ]
+}

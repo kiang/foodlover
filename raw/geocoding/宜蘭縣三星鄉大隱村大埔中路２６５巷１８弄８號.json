@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "宜蘭縣三星鄉大隱村大埔中路２６５巷１８弄８號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "完全比對",
+      "OutMatchCode": "[宜蘭縣]\tFULL:1",
+      "OutTraceInfo": "[宜蘭縣]\t { 完全比對 } 找到符合的門牌地址"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "宜蘭縣三星鄉大隱村22鄰大埔中路265巷18弄8號",
+      "COUNTY": "宜蘭縣",
+      "TOWN": "三星鄉",
+      "VILLAGE": "大隱村",
+      "NEIGHBORHOOD": "22鄰",
+      "ROAD": "大埔中路",
+      "SECTION": "",
+      "LANE": "265巷",
+      "ALLEY": "18弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "8號",
+      "X": 121.708831,
+      "Y": 24.667574
+    }
+  ]
+}

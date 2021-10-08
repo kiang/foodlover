@@ -1,13 +1,13 @@
 {
-    "name": "早餐店\/西點麵包零售\/冰果店、冷（熱）飲店",
+    "name": "西點麵包零售\/冰果店、冷（熱）飲店\/早餐店",
     "address": "臺北市大安區虎嘯里和平東路３段８２號１－２樓",
     "x": 121.550892,
     "y": 25.024304,
     "shops": [
         {
             "shop": "綠之屋食品坊",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

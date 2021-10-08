@@ -1,17 +1,13 @@
 {
-    "name": "麵店、小吃店",
-    "address": "臺中市沙鹿區北勢里北勢東路６０９號１樓",
+    "name": "西點麵包零售",
+    "address": "臺中市沙鹿區北勢里北勢東路６０９號",
     "x": 120.573682,
     "y": 24.228897,
     "shops": [
         {
-            "shop": "金貿商行",
-            "pay_list": "一卡通 \/ LINE Pay Money"
-        },
-        {
-            "shop": "建玉商行",
-            "pay_list": "街口支付 \/ LINE Pay Money"
+            "shop": "露比脆皮雞蛋糕",
+            "pay_list": ""
         }
     ],
-    "pay_list": "一卡通\/LINE Pay Money\/街口支付"
+    "pay_list": ""
 }

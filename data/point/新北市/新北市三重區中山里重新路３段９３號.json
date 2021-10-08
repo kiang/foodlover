@@ -1,13 +1,17 @@
 {
-    "name": "早餐店",
+    "name": "糕餅麵包製造\/西點麵包零售",
     "address": "新北市三重區中山里重新路３段９３號",
     "x": 121.491574,
     "y": 25.060117,
     "shops": [
         {
+            "shop": "金香梅烘焙坊",
+            "pay_list": ""
+        },
+        {
             "shop": "饗樂餐飲實業股份有限公司三重菜寮分公司",
-            "pay_list": "街口支付 \/ LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "街口支付\/LINE Pay Money"
+    "pay_list": ""
 }

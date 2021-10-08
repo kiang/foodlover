@@ -1,13 +1,13 @@
 {
-    "name": "早餐店\/冰果店、冷（熱）飲店",
+    "name": "冰果店、冷（熱）飲店\/早餐店",
     "address": "金門縣金湖鎮新湖里市港三路１５３號",
     "x": 118.41241034617,
     "y": 24.438185028749,
     "shops": [
         {
             "shop": "奕起早餐",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "宜蘭縣宜蘭市中興里慈安路１２巷７號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "完全比對",
+      "OutMatchCode": "[宜蘭縣]\tFULL:1",
+      "OutTraceInfo": "[宜蘭縣]\t { 完全比對 } 找到符合的門牌地址"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "宜蘭縣宜蘭市中興里3鄰慈安路12巷7號",
+      "COUNTY": "宜蘭縣",
+      "TOWN": "宜蘭市",
+      "VILLAGE": "中興里",
+      "NEIGHBORHOOD": "3鄰",
+      "ROAD": "慈安路",
+      "SECTION": "",
+      "LANE": "12巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "7號",
+      "X": 121.762491,
+      "Y": 24.758786
+    }
+  ]
+}

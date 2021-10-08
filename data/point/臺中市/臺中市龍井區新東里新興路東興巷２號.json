@@ -6,12 +6,8 @@
     "shops": [
         {
             "shop": "花茶大師",
-            "pay_list": "LINE Pay Money \/ 街口支付"
-        },
-        {
-            "shop": "森園餐飲有限公司",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "街口支付 \/ LINE PAY MONEY"
         }
     ],
-    "pay_list": "LINE Pay Money\/街口支付"
+    "pay_list": "街口支付\/LINE PAY MONEY"
 }

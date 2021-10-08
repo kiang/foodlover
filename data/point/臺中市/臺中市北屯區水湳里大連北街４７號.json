@@ -1,13 +1,13 @@
 {
-    "name": "西點麵包零售\/其他烘焙炊蒸食品製造",
+    "name": "其他烘焙炊蒸食品製造\/西點麵包零售",
     "address": "臺中市北屯區水湳里大連北街４７號１、２樓",
     "x": 120.673694,
     "y": 24.177472,
     "shops": [
         {
             "shop": "伊圃食品有限公司",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

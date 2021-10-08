@@ -1,13 +1,17 @@
 {
-    "name": "便當、自助餐店",
+    "name": "餐館、餐廳",
     "address": "臺北市內湖區湖元里新湖三路１３４號１樓",
     "x": 121.5778342024,
     "y": 25.064401488808,
     "shops": [
         {
+            "shop": "能火國際有限公司內湖分公司",
+            "pay_list": ""
+        },
+        {
             "shop": "能火國際有限公司",
-            "pay_list": "街口支付 \/ LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "街口支付\/LINE Pay Money"
+    "pay_list": ""
 }

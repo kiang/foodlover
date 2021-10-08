@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "新北市三重區頂崁里１１鄰新北大道２段１３９巷２６號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[新北市]\tT:1,V:1,R:1,S:1,L:1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[新北市]\t { 模糊比對 } (三重區)\t找到符合的[鄉鎮市區]，(頂崁里)\t找到符合的[村里]，(新北大道)\t找到符合的[路街名]，(2)\t找到符合的[路段]，(139巷)\t找到符合的[巷]，(26號)\t找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "新北市三重區頂崁里12鄰新北大道二段139巷26號",
+      "COUNTY": "新北市",
+      "TOWN": "三重區",
+      "VILLAGE": "頂崁里",
+      "NEIGHBORHOOD": "12鄰",
+      "ROAD": "新北大道",
+      "SECTION": "2",
+      "LANE": "139巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "26號",
+      "X": 121.466408,
+      "Y": 25.060537
+    }
+  ]
+}

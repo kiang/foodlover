@@ -1,17 +1,13 @@
 {
-    "name": "其他烘焙炊蒸食品製造\/一般麵條、粉條製造\/其他外燴及團膳承包",
+    "name": "其他外燴及團膳承包\/其他烘焙炊蒸食品製造\/一般麵條、粉條製造",
     "address": "高雄市三民區灣興里灣興街４６號",
     "x": 120.313146,
     "y": 22.651405,
     "shops": [
         {
             "shop": "瑞冠餐飲有限公司",
-            "pay_list": "LINE Pay Money"
-        },
-        {
-            "shop": "瑞冠餐飲有限公司",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

@@ -1,13 +1,13 @@
 {
-    "name": "飲料零售\/未分類其他個人服務\/糖果餅乾零售",
+    "name": "飲料零售\/糖果餅乾零售\/未分類其他個人服務",
     "address": "嘉義縣朴子市安福里山通路１２號",
     "x": 120.249677,
     "y": 23.46769,
     "shops": [
         {
             "shop": "動物好朋友工作坊",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

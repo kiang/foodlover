@@ -1,13 +1,13 @@
 {
-    "name": "早餐店",
-    "address": "新北市泰山區同興里明志路１段４３３號（１樓）",
+    "name": "麵店、小吃店",
+    "address": "新北市泰山區同興里明志路１段４３３號",
     "x": 121.43087,
     "y": 25.056481,
     "shops": [
         {
-            "shop": "宇豐小吃店",
-            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+            "shop": "好氣口烤肉飯",
+            "pay_list": ""
         }
     ],
-    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+    "pay_list": ""
 }

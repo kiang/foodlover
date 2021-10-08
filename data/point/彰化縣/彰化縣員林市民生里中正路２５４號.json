@@ -1,13 +1,13 @@
 {
-    "name": "冰果店、冷（熱）飲店",
+    "name": "西點麵包零售",
     "address": "彰化縣員林市民生里中正路２５４號",
     "x": 120.574425,
     "y": 23.954694,
     "shops": [
         {
-            "shop": "永吉冷飲站",
-            "pay_list": "街口支付 \/ LINE Pay Money"
+            "shop": "金群蛋糕麵包廠",
+            "pay_list": ""
         }
     ],
-    "pay_list": "街口支付\/LINE Pay Money"
+    "pay_list": ""
 }

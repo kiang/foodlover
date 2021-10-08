@@ -1,13 +1,17 @@
 {
-    "name": "脫水蔬果零售\/西點麵包零售\/糖果餅乾零售",
+    "name": "西點麵包零售\/糖果餅乾零售\/脫水蔬果零售",
     "address": "高雄市旗山區湄洲里中山路４９號１樓",
     "x": 120.481908,
     "y": 22.886524,
     "shops": [
         {
             "shop": "月亮香蕉城商行",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
+        },
+        {
+            "shop": "月亮香蕉冰紅茶",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

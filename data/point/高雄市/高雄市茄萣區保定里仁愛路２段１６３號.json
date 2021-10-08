@@ -6,8 +6,12 @@
     "shops": [
         {
             "shop": "珍陳茶行",
-            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+            "pay_list": ""
+        },
+        {
+            "shop": "黃家香小吃店",
+            "pay_list": ""
         }
     ],
-    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+    "pay_list": ""
 }

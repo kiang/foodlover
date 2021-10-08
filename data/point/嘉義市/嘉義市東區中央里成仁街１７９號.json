@@ -1,17 +1,17 @@
 {
-    "name": "茶藝館\/其他烘焙炊蒸食品製造\/醃漬肉品製造",
+    "name": "其他烘焙炊蒸食品製造\/醃漬肉品製造\/茶藝館",
     "address": "嘉義市東區中央里成仁街１７９號１樓",
     "x": 120.45203000153,
     "y": 23.480190000422,
     "shops": [
         {
             "shop": "食開美極股份有限公司",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         },
         {
-            "shop": "食開美極股份有限公司",
-            "pay_list": "LINE Pay Money"
+            "shop": "音符聲甜品與茶",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

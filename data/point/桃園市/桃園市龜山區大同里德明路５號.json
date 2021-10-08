@@ -6,28 +6,32 @@
     "shops": [
         {
             "shop": "木子甜飲店",
-            "pay_list": "一卡通 \/ LINE Pay Money"
+            "pay_list": "LINE PAY MONEY \/ 一卡通"
         },
         {
             "shop": "夏光宇",
-            "pay_list": "一卡通 \/ LINE Pay Money"
+            "pay_list": "LINE PAY MONEY \/ 一卡通"
+        },
+        {
+            "shop": "意麵王",
+            "pay_list": ""
+        },
+        {
+            "shop": "真天津蔥抓餅",
+            "pay_list": ""
         },
         {
             "shop": "粵香港式燒腊",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
+        },
+        {
+            "shop": "蕭郁涵早餐店",
+            "pay_list": ""
         },
         {
             "shop": "粵海自助餐",
-            "pay_list": "LINE Pay Money"
-        },
-        {
-            "shop": "民宸有限公司銘傳門市部",
-            "pay_list": "LINE Pay Money"
-        },
-        {
-            "shop": "藝欣餐廳",
-            "pay_list": "一卡通 \/ LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
         }
     ],
-    "pay_list": "一卡通\/LINE Pay Money"
+    "pay_list": "LINE PAY MONEY\/一卡通"
 }

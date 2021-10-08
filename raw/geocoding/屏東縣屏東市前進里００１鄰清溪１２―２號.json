@@ -1,0 +1,80 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "屏東縣屏東市前進里００１鄰清溪１２―２號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "3",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[屏東縣]\tT:1,V:1,R:-1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:0",
+      "OutTraceInfo": "[屏東縣]\t { 模糊比對 } (屏東市)\t找到符合的[鄉鎮市區]，(前進里)\t找到符合的[村里]，(清溪一二―)\t找不到符合的[地區]，轉換搜尋找不到符合的[地區]，(2號)\t找到符合的[門牌號碼]，進行[雙號過濾]，(1鄰)\t找不到進行[忽略鄰]，模糊比對找到 3 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "屏東縣屏東市前進里2鄰崁頂2號",
+      "COUNTY": "屏東縣",
+      "TOWN": "屏東市",
+      "VILLAGE": "前進里",
+      "NEIGHBORHOOD": "2鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "崁頂",
+      "NUMBER": "2號",
+      "X": 120.471142,
+      "Y": 22.651983
+    },
+    {
+      "FULL_ADDR": "屏東縣屏東市前進里5鄰園中路2號",
+      "COUNTY": "屏東縣",
+      "TOWN": "屏東市",
+      "VILLAGE": "前進里",
+      "NEIGHBORHOOD": "5鄰",
+      "ROAD": "園中路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "2號",
+      "X": 120.456155,
+      "Y": 22.643619
+    },
+    {
+      "FULL_ADDR": "屏東縣屏東市前進里24鄰大橋頭2號",
+      "COUNTY": "屏東縣",
+      "TOWN": "屏東市",
+      "VILLAGE": "前進里",
+      "NEIGHBORHOOD": "24鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "大橋頭",
+      "NUMBER": "2號",
+      "X": 120.442790,
+      "Y": 22.648434
+    }
+  ]
+}

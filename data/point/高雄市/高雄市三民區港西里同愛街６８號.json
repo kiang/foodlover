@@ -1,13 +1,17 @@
 {
-    "name": "冰果店、冷（熱）飲店",
-    "address": "高雄市三民區港西里同愛街６８號",
-    "x": 120.30079510774,
-    "y": 22.637218132817,
+    "name": "餐食攤販",
+    "address": "高雄市三民區港西里同愛街６８號騎樓",
+    "x": 120.300794,
+    "y": 22.637218,
     "shops": [
         {
+            "shop": "??酥雞",
+            "pay_list": ""
+        },
+        {
             "shop": "神農本舖",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": "LINE PAY MONEY"
 }

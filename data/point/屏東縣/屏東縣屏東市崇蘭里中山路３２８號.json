@@ -1,13 +1,13 @@
 {
-    "name": "麵店、小吃店",
-    "address": "屏東縣屏東市崇蘭里中山路３２８號靠廣東路右邊騎樓",
+    "name": "冰果店、冷（熱）飲店",
+    "address": "屏東縣屏東市崇蘭里中山路３２８號",
     "x": 120.484336,
     "y": 22.687391,
     "shops": [
         {
-            "shop": "王同慶",
-            "pay_list": "LINE Pay Money \/ 街口支付"
+            "shop": "楊淑娟",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money\/街口支付"
+    "pay_list": ""
 }

@@ -1,13 +1,77 @@
 {
     "name": "餐食攤販",
-    "address": "嘉義縣布袋鎮岑海里中山路３號嘉義區漁會布袋漁港產品直銷中心Ｆ５攤位",
+    "address": "嘉義縣布袋鎮岑海里中山路３號嘉義區漁會布袋漁港產品直銷中心Ａ１８攤位",
     "x": 120.155936,
     "y": 23.379273,
     "shops": [
         {
+            "shop": "蕭阿燕",
+            "pay_list": ""
+        },
+        {
+            "shop": "陳威帆",
+            "pay_list": ""
+        },
+        {
+            "shop": "張美惠",
+            "pay_list": ""
+        },
+        {
+            "shop": "林武雄",
+            "pay_list": ""
+        },
+        {
+            "shop": "蔡崇程",
+            "pay_list": ""
+        },
+        {
+            "shop": "周江德",
+            "pay_list": ""
+        },
+        {
+            "shop": "翁翠蘋",
+            "pay_list": ""
+        },
+        {
+            "shop": "鄭雅斤",
+            "pay_list": ""
+        },
+        {
+            "shop": "劉淑苑",
+            "pay_list": ""
+        },
+        {
+            "shop": "蔡紅棗",
+            "pay_list": ""
+        },
+        {
+            "shop": "翁宜鄉",
+            "pay_list": ""
+        },
+        {
+            "shop": "蔡麗華",
+            "pay_list": ""
+        },
+        {
             "shop": "翁明鳳",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
+        },
+        {
+            "shop": "蔡嘉仁",
+            "pay_list": ""
+        },
+        {
+            "shop": "黃丁吉",
+            "pay_list": ""
+        },
+        {
+            "shop": "上品海鮮",
+            "pay_list": ""
+        },
+        {
+            "shop": "鑫鱻海產店",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": "LINE PAY MONEY"
 }

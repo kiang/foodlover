@@ -1,13 +1,13 @@
 {
-    "name": "麵店、小吃店\/未分類其他全新商品零售",
+    "name": "未分類其他全新商品零售\/麵店、小吃店",
     "address": "苗栗縣通霄鎮通南里５鄰中山路６６號",
     "x": 120.82341935053,
     "y": 24.568313709512,
     "shops": [
         {
             "shop": "金梅商行",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

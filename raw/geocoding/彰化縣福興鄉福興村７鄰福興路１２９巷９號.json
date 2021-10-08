@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "彰化縣福興鄉福興村７鄰福興路１２９巷９號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "完全比對",
+      "OutMatchCode": "[彰化縣]\tFULL:1",
+      "OutTraceInfo": "[彰化縣]\t { 完全比對 } 找到符合的門牌地址"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "彰化縣福興鄉福興村7鄰福興路129巷9號",
+      "COUNTY": "彰化縣",
+      "TOWN": "福興鄉",
+      "VILLAGE": "福興村",
+      "NEIGHBORHOOD": "7鄰",
+      "ROAD": "福興路",
+      "SECTION": "",
+      "LANE": "129巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "9號",
+      "X": 120.426142,
+      "Y": 24.047073
+    }
+  ]
+}

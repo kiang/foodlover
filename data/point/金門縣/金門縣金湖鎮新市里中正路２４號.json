@@ -1,13 +1,17 @@
 {
-    "name": "菸酒零售\/麵店、小吃店",
+    "name": "麵店、小吃店\/菸酒零售",
     "address": "金門縣金湖鎮新市里中正路２４號",
     "x": 118.41616210042,
     "y": 24.440678935562,
     "shops": [
         {
             "shop": "瀚冠小吃店",
-            "pay_list": "街口支付 \/ LINE Pay Money"
+            "pay_list": ""
+        },
+        {
+            "shop": "懶得找店山外分店",
+            "pay_list": ""
         }
     ],
-    "pay_list": "街口支付\/LINE Pay Money"
+    "pay_list": ""
 }

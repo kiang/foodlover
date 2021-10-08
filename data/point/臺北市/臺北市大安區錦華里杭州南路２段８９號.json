@@ -1,13 +1,17 @@
 {
-    "name": "糕餅麵包製造",
+    "name": "西點麵包零售",
     "address": "臺北市大安區錦華里杭州南路２段８９號１樓",
     "x": 121.52195,
     "y": 25.028642,
     "shops": [
         {
+            "shop": "台灣御倉屋洋菓子股份有限公司",
+            "pay_list": ""
+        },
+        {
             "shop": "台灣伊莎貝爾食品股份有限公司",
-            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+            "pay_list": ""
         }
     ],
-    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+    "pay_list": ""
 }

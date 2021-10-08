@@ -5,6 +5,114 @@
     "y": 24.857313,
     "shops": [
         {
+            "shop": "龍潭觀光夜市-A01",
+            "pay_list": ""
+        },
+        {
+            "shop": "龍潭觀光夜市-A02 03",
+            "pay_list": ""
+        },
+        {
+            "shop": "龍潭觀光夜市-B11",
+            "pay_list": ""
+        },
+        {
+            "shop": "龍潭觀光夜市-B39",
+            "pay_list": ""
+        },
+        {
+            "shop": "龍潭觀光夜市-B79",
+            "pay_list": ""
+        },
+        {
+            "shop": "龍潭觀光夜市-B82",
+            "pay_list": ""
+        },
+        {
+            "shop": "龍潭觀光夜市-B90",
+            "pay_list": ""
+        },
+        {
+            "shop": "龍潭觀光夜市-B95",
+            "pay_list": ""
+        },
+        {
+            "shop": "龍潭觀光夜市-B96",
+            "pay_list": ""
+        },
+        {
+            "shop": "龍潭觀光夜市-B97",
+            "pay_list": ""
+        },
+        {
+            "shop": "龍潭觀光夜市-B106",
+            "pay_list": ""
+        },
+        {
+            "shop": "龍潭觀光夜市-B109",
+            "pay_list": ""
+        },
+        {
+            "shop": "龍潭觀光夜市-B113",
+            "pay_list": ""
+        },
+        {
+            "shop": "龍潭觀光夜市-C01",
+            "pay_list": ""
+        },
+        {
+            "shop": "龍潭觀光夜市-C14",
+            "pay_list": ""
+        },
+        {
+            "shop": "龍潭觀光夜市-C18",
+            "pay_list": ""
+        },
+        {
+            "shop": "龍潭觀光夜市-C21",
+            "pay_list": ""
+        },
+        {
+            "shop": "龍潭觀光夜市-C22 23",
+            "pay_list": ""
+        },
+        {
+            "shop": "龍潭觀光夜市-C24.25",
+            "pay_list": ""
+        },
+        {
+            "shop": "龍潭觀光夜市-C31",
+            "pay_list": "LINE PAY \/ 街口支付"
+        },
+        {
+            "shop": "龍潭觀光夜市-C35",
+            "pay_list": "LINE PAY \/ LINE PAY MONEY"
+        },
+        {
+            "shop": "龍潭觀光夜市-C74",
+            "pay_list": "LINE PAY"
+        },
+        {
+            "shop": "龍潭觀光夜市-套圈圈",
+            "pay_list": ""
+        },
+        {
+            "shop": "龍潭觀光夜市-D05",
+            "pay_list": "LINE PAY \/ LINE PAY MONEY"
+        },
+        {
+            "shop": "龍潭觀光夜市-D18",
+            "pay_list": ""
+        },
+        {
+            "shop": "龍潭觀光夜市-熱狗",
+            "pay_list": ""
+        },
+        {
+            "shop": "龍潭觀光夜市-E18",
+            "pay_list": ""
+        },
+        {
             "shop": "龍潭觀光夜市 C31",
             "pay_list": "街口支付 \/ LINE Pay Money"
         },
@@ -37,5 +145,5 @@
             "pay_list": "LINE Pay Money"
         }
     ],
-    "pay_list": "街口支付\/LINE Pay Money"
+    "pay_list": "LINE PAY\/街口支付\/LINE PAY MONEY\/LINE Pay Money"
 }

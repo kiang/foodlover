@@ -1,13 +1,13 @@
 {
-    "name": "飲料零售\/糕餅麵包製造",
+    "name": "糕餅麵包製造\/飲料零售",
     "address": "臺南市中西區南美里府前路１段３０４巷１１號１樓",
     "x": 120.198912,
     "y": 22.9908,
     "shops": [
         {
             "shop": "米唐家個人工作室",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

@@ -1,13 +1,17 @@
 {
-    "name": "麵店、小吃店\/餐食攤販",
+    "name": "餐食攤販\/麵店、小吃店",
     "address": "雲林縣二崙鄉湳仔村湳子路６２號",
     "x": 120.47921857481,
     "y": 23.729041146937,
     "shops": [
         {
             "shop": "福春小吃部",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
+        },
+        {
+            "shop": "福春小吃部",
+            "pay_list": "LINE PAY MONEY"
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": "LINE PAY MONEY"
 }

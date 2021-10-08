@@ -1,17 +1,21 @@
 {
-    "name": "麵店、小吃店\/飲料零售",
-    "address": "金門縣金城鎮東門里北堤段５３３地號土地（３１號攤）",
+    "name": "麵店、小吃店",
+    "address": "金門縣金城鎮東門里北堤段５３３地號土地（４９號攤）",
     "x": 118.320482,
     "y": 24.430924,
     "shops": [
         {
+            "shop": "岡山羊肉",
+            "pay_list": ""
+        },
+        {
             "shop": "美食天地",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
         },
         {
             "shop": "小雪花小吃店",
             "pay_list": "街口支付"
         }
     ],
-    "pay_list": "LINE Pay Money\/街口支付"
+    "pay_list": "LINE PAY MONEY\/街口支付"
 }

@@ -1,13 +1,13 @@
 {
-    "name": "西點麵包零售\/糕餅麵包製造",
+    "name": "糕餅麵包製造\/西點麵包零售",
     "address": "南投縣埔里鎮北安里東榮路３８５號",
     "x": 120.975554,
     "y": 23.969552,
     "shops": [
         {
             "shop": "優米屋手感烘焙",
-            "pay_list": "LINE Pay Money \/ 街口支付"
+            "pay_list": "街口支付 \/ LINE PAY MONEY"
         }
     ],
-    "pay_list": "LINE Pay Money\/街口支付"
+    "pay_list": "街口支付\/LINE PAY MONEY"
 }

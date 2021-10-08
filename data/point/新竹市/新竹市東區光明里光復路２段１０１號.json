@@ -6,12 +6,8 @@
     "shops": [
         {
             "shop": "墨尼小鋪",
-            "pay_list": "一卡通 \/ LINE Pay Money"
-        },
-        {
-            "shop": "鑫鴻鮮果茶",
-            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money"
+            "pay_list": "LINE PAY MONEY \/ 一卡通"
         }
     ],
-    "pay_list": "一卡通\/LINE Pay Money\/台灣 PAY"
+    "pay_list": "LINE PAY MONEY\/一卡通"
 }

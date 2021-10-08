@@ -6,8 +6,12 @@
     "shops": [
         {
             "shop": "藍綠泡沫冷熱飲店",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
+        },
+        {
+            "shop": "鹽埕吳家金桔豆花",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": "LINE PAY MONEY"
 }

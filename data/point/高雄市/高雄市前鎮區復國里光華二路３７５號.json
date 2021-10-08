@@ -1,13 +1,13 @@
 {
-    "name": "冰果店、冷（熱）飲店",
+    "name": "麵店、小吃店",
     "address": "高雄市前鎮區復國里光華二路３７５號",
     "x": 120.3181106782,
     "y": 22.616611569269,
     "shops": [
         {
-            "shop": "吳昌軍",
-            "pay_list": "LINE Pay Money"
+            "shop": "鼎上飛餐飲",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

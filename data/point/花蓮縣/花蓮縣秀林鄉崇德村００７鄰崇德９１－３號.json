@@ -1,13 +1,13 @@
 {
-    "name": "餐館、餐廳\/冰果店、冷（熱）飲店",
+    "name": "冰果店、冷（熱）飲店\/餐館、餐廳",
     "address": "花蓮縣秀林鄉崇德村００７鄰崇德９１－３號",
     "x": 121.65055654152,
     "y": 24.158861702576,
     "shops": [
         {
             "shop": "明龍商行",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

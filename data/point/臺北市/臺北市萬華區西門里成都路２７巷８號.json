@@ -1,13 +1,13 @@
 {
-    "name": "飲料零售\/菸酒零售\/餐館、餐廳",
+    "name": "飲料零售\/餐館、餐廳\/菸酒零售",
     "address": "臺北市萬華區西門里成都路２７巷８號",
     "x": 121.50677531621,
     "y": 25.042986076855,
     "shops": [
         {
             "shop": "薆莉有限公司",
-            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
+    "pay_list": ""
 }

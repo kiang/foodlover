@@ -1,13 +1,13 @@
 {
-    "name": "機車出租\/菸酒零售\/餐館、餐廳",
+    "name": "機車出租\/餐館、餐廳\/菸酒零售",
     "address": "連江縣南竿鄉珠螺村４鄰５２號",
     "x": 119.930206,
     "y": 26.158718,
     "shops": [
         {
             "shop": "馬祖藍灣景觀餐廳",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

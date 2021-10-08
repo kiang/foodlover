@@ -1,13 +1,13 @@
 {
-    "name": "西點麵包零售\/糕餅麵包製造",
+    "name": "糕餅麵包製造\/西點麵包零售",
     "address": "新竹縣新豐鄉山崎村建興路１段１３０號１樓",
     "x": 120.995033,
     "y": 24.873187,
     "shops": [
         {
             "shop": "尼克烘焙坊",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

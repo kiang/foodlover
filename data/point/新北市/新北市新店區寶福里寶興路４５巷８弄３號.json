@@ -1,13 +1,17 @@
 {
-    "name": "其他糖果製造\/糖果餅乾零售",
+    "name": "西點麵包零售",
     "address": "新北市新店區寶福里寶興路４５巷８弄３號５樓",
     "x": 121.550427,
     "y": 24.974806,
     "shops": [
         {
+            "shop": "宏亞食品股份有限公司士林分公司",
+            "pay_list": ""
+        },
+        {
             "shop": "宏亞食品股份有限公司",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

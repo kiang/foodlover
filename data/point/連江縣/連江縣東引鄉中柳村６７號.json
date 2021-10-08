@@ -1,13 +1,25 @@
 {
-    "name": "菸酒零售\/餐館、餐廳",
+    "name": "其他烘焙炊蒸食品製造\/飲料零售\/餐館、餐廳\/菸酒零售",
     "address": "連江縣東引鄉中柳村６７號",
     "x": 120.487453,
     "y": 26.367896,
     "shops": [
         {
+            "shop": "北緯貳拾陸度咖啡",
+            "pay_list": ""
+        },
+        {
+            "shop": "連江縣東引鄉東湧社區發展協會",
+            "pay_list": ""
+        },
+        {
+            "shop": "北緯貳拾陸度咖啡",
+            "pay_list": ""
+        },
+        {
             "shop": "烹小鮮小吃店",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

@@ -1,13 +1,17 @@
 {
-    "name": "調理飲料攤販\/餐食攤販",
+    "name": "餐食攤販\/調理飲料攤販",
     "address": "屏東縣佳冬鄉玉光村１４鄰中山路６４號騎樓前面",
     "x": 120.56308,
     "y": 22.428878,
     "shops": [
         {
             "shop": "克莉歐沛連鎖佳冬店",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
+        },
+        {
+            "shop": "克莉歐沛連鎖佳冬店",
+            "pay_list": "LINE PAY MONEY"
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": "LINE PAY MONEY"
 }

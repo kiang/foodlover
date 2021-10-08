@@ -1,13 +1,13 @@
 {
-    "name": "餐館、餐廳\/冰果店、冷（熱）飲店",
+    "name": "冰果店、冷（熱）飲店\/餐館、餐廳",
     "address": "新北市林口區湖南里文林六街１５號（１樓）",
     "x": 121.370806,
     "y": 25.080553,
     "shops": [
         {
             "shop": "旬本味餐飲有限公司",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

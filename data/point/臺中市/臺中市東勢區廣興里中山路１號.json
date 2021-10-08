@@ -1,17 +1,37 @@
 {
-    "name": "調理飲料攤販\/餐食攤販",
+    "name": "餐食攤販\/調理飲料攤販",
     "address": "臺中市東勢區廣興里中山路１號（假日黃金市集）",
     "x": 120.830904,
     "y": 24.257431,
     "shops": [
         {
             "shop": "陳嘉棋",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
+        },
+        {
+            "shop": "伍貴英",
+            "pay_list": ""
         },
         {
             "shop": "顏淑芬",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
+        },
+        {
+            "shop": "詹春錫",
+            "pay_list": ""
+        },
+        {
+            "shop": "張誌宸",
+            "pay_list": ""
+        },
+        {
+            "shop": "陳嘉棋",
+            "pay_list": "LINE PAY MONEY"
+        },
+        {
+            "shop": "顏淑芬",
+            "pay_list": "LINE PAY MONEY"
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": "LINE PAY MONEY"
 }

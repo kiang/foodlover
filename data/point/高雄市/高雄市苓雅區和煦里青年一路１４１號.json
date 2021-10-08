@@ -6,12 +6,8 @@
     "shops": [
         {
             "shop": "裕田烘焙坊",
-            "pay_list": "LINE Pay Money"
-        },
-        {
-            "shop": "雅禾飲料店",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

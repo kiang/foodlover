@@ -1,13 +1,13 @@
 {
-    "name": "麵店、小吃店\/冰果店、冷（熱）飲店",
+    "name": "冰果店、冷（熱）飲店\/麵店、小吃店",
     "address": "宜蘭縣礁溪鄉德陽村４鄰溫泉路１５號",
     "x": 121.775197,
     "y": 24.827221,
     "shops": [
         {
             "shop": "禾米小吃部",
-            "pay_list": "一卡通 \/ LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "一卡通\/LINE Pay Money"
+    "pay_list": ""
 }

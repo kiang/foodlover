@@ -1,13 +1,25 @@
 {
-    "name": "冰果店、冷（熱）飲店\/麵店、小吃店",
-    "address": "桃園市龍潭區高平里０１５鄰中豐路高平段４１８號地下室５Ａ－１",
+    "name": "麵店、小吃店",
+    "address": "桃園市龍潭區高平里０１５鄰中豐路高平段４１８號",
     "x": 121.208659,
     "y": 24.832291,
     "shops": [
         {
+            "shop": "旭泰餐飲企業社",
+            "pay_list": ""
+        },
+        {
             "shop": "Ａ咖複合餐飲",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
+        },
+        {
+            "shop": "香味鮮食堂",
+            "pay_list": ""
+        },
+        {
+            "shop": "元氣復合式餐飲",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": "LINE PAY MONEY"
 }

@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "宜蘭縣壯圍鄉復興村４鄰壯濱路２段７２號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "完全比對",
+      "OutMatchCode": "[宜蘭縣]\tFULL:1",
+      "OutTraceInfo": "[宜蘭縣]\t { 完全比對 } 找到符合的門牌地址"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "宜蘭縣壯圍鄉復興村4鄰壯濱路二段72號",
+      "COUNTY": "宜蘭縣",
+      "TOWN": "壯圍鄉",
+      "VILLAGE": "復興村",
+      "NEIGHBORHOOD": "4鄰",
+      "ROAD": "壯濱路",
+      "SECTION": "2",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "72號",
+      "X": 121.818499,
+      "Y": 24.734848
+    }
+  ]
+}

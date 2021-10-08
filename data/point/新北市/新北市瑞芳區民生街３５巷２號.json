@@ -1,17 +1,13 @@
 {
     "name": "餐食攤販",
-    "address": "新北市瑞芳區民生街３５巷２號",
-    "x": 121.80614874793,
-    "y": 25.107041267127,
+    "address": "新北市瑞芳區民生街３５巷２號（瑞芳區第二公有零售市場）",
+    "x": 121.805817,
+    "y": 25.106847,
     "shops": [
         {
-            "shop": "瑞芳第二市場Ｔ３３攤位",
-            "pay_list": "LINE Pay Money"
-        },
-        {
-            "shop": "塔諾妮",
-            "pay_list": "LINE Pay Money"
+            "shop": "阿喜小吃店",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

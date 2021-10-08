@@ -6,12 +6,8 @@
     "shops": [
         {
             "shop": "安裕蛋糕烘焙坊",
-            "pay_list": "LINE Pay Money"
-        },
-        {
-            "shop": "安隆飲料坊",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

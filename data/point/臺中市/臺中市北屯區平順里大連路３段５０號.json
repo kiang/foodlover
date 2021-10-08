@@ -1,13 +1,13 @@
 {
-    "name": "西點麵包零售\/冰果店、冷（熱）飲店\/糖果餅乾零售",
+    "name": "西點麵包零售\/糖果餅乾零售\/冰果店、冷（熱）飲店",
     "address": "臺中市北屯區平順里大連路３段５０號１樓",
     "x": 120.692151,
     "y": 24.174962,
     "shops": [
         {
             "shop": "喃喃商行",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

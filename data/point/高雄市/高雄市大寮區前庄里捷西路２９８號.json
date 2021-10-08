@@ -1,13 +1,17 @@
 {
-    "name": "糖果餅乾批發\/糕餅麵包製造",
+    "name": "糕餅麵包製造\/糖果餅乾批發",
     "address": "高雄市大寮區前庄里捷西路２９８號",
     "x": 120.389259,
     "y": 22.622413,
     "shops": [
         {
             "shop": "舊振南食品股份有限公司",
-            "pay_list": "一卡通 \/ LINE Pay Money"
+            "pay_list": ""
+        },
+        {
+            "shop": "鼎遠記食品股份有限公司",
+            "pay_list": ""
         }
     ],
-    "pay_list": "一卡通\/LINE Pay Money"
+    "pay_list": ""
 }

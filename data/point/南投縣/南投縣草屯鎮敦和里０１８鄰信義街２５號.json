@@ -6,16 +6,12 @@
     "shops": [
         {
             "shop": "麥子鄉村咖啡屋",
-            "pay_list": "台灣 PAY \/ 一卡通 \/ 愛金卡"
+            "pay_list": ""
         },
         {
             "shop": "里蓮蔬食廚房",
-            "pay_list": "LINE Pay Money"
-        },
-        {
-            "shop": "麥子鄉村咖啡屋",
-            "pay_list": "台灣 PAY \/ 一卡通 \/ 愛金卡"
+            "pay_list": "LINE PAY MONEY"
         }
     ],
-    "pay_list": "台灣 PAY\/一卡通\/愛金卡\/LINE Pay Money"
+    "pay_list": "LINE PAY MONEY"
 }

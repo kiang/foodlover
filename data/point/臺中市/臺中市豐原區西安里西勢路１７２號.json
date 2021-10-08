@@ -6,12 +6,8 @@
     "shops": [
         {
             "shop": "小蒔燒行",
-            "pay_list": "LINE Pay Money"
-        },
-        {
-            "shop": "小蒔燒行",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

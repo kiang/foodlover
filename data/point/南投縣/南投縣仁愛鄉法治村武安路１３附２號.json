@@ -1,13 +1,17 @@
 {
     "name": "麵店、小吃店",
-    "address": "南投縣仁愛鄉法治村武安路１３附２號旁",
+    "address": "南投縣仁愛鄉法治村武安路１３附２號",
     "x": 121.046792,
     "y": 23.911158,
     "shops": [
         {
+            "shop": "石居小吃店",
+            "pay_list": ""
+        },
+        {
             "shop": "摩摩納廚房",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": "LINE PAY MONEY"
 }

@@ -1,13 +1,17 @@
 {
-    "name": "非酒精飲料批發\/其他烘焙炊蒸食品製造",
+    "name": "其他烘焙炊蒸食品製造\/非酒精飲料批發",
     "address": "新北市樹林區圳生里俊興街２２９號",
     "x": 121.417616,
     "y": 25.015103,
     "shops": [
         {
             "shop": "諸葛四九食品有限公司",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
+        },
+        {
+            "shop": "豐碩食品有限公司",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

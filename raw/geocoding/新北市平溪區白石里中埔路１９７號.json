@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "新北市平溪區白石里中埔路１９７號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[新北市]\tT:1,V:1,R:0,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+4)(-34),E:-1,N:-1",
+      "OutTraceInfo": "[新北市]\t { 模糊比對 } (平溪區)\t找到符合的[鄉鎮市區]，(白石里)\t找到符合的[村里]，(中埔路)\t找不到符合的[路街名]，進行轉換搜尋[街變成路，路變成街]，進行轉換搜尋[路變成地區名]，轉換搜尋找不到符合的[路街名]，(197號)\t進行[單號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +4 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -34 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "新北市平溪區白石里8鄰中埔163號",
+      "COUNTY": "新北市",
+      "TOWN": "平溪區",
+      "VILLAGE": "白石里",
+      "NEIGHBORHOOD": "8鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "中埔",
+      "NUMBER": "163號",
+      "X": 121.723815,
+      "Y": 25.021684
+    },
+    {
+      "FULL_ADDR": "新北市平溪區白石里9鄰中埔201號",
+      "COUNTY": "新北市",
+      "TOWN": "平溪區",
+      "VILLAGE": "白石里",
+      "NEIGHBORHOOD": "9鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "中埔",
+      "NUMBER": "201號",
+      "X": 121.724504,
+      "Y": 25.022006
+    }
+  ]
+}

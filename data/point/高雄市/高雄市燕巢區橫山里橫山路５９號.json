@@ -1,21 +1,77 @@
 {
-    "name": "冰果店、冷（熱）飲店",
+    "name": "餐食攤販",
     "address": "高雄市燕巢區橫山里橫山路５９號（樹德科大）",
     "x": 120.37496819259,
     "y": 22.764628008064,
     "shops": [
         {
+            "shop": "大禾滷味",
+            "pay_list": ""
+        },
+        {
+            "shop": "富春烘焙坊樹科營業所",
+            "pay_list": ""
+        },
+        {
+            "shop": "拾肆番拉麵",
+            "pay_list": ""
+        },
+        {
+            "shop": "友福餐館",
+            "pay_list": ""
+        },
+        {
+            "shop": "吉開小吃店",
+            "pay_list": ""
+        },
+        {
+            "shop": "千禾餐飲店",
+            "pay_list": ""
+        },
+        {
+            "shop": "福記粥品",
+            "pay_list": ""
+        },
+        {
             "shop": "星八車企業社",
             "pay_list": "街口支付"
         },
         {
+            "shop": "如意坊",
+            "pay_list": ""
+        },
+        {
+            "shop": "江蓉湯包小吃店",
+            "pay_list": ""
+        },
+        {
+            "shop": "昶樂商行",
+            "pay_list": ""
+        },
+        {
             "shop": "奇奇美式炸雞樹科店",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
+        },
+        {
+            "shop": "義大利麵先生樹德店",
+            "pay_list": ""
+        },
+        {
+            "shop": "龐咖啡",
+            "pay_list": ""
+        },
+        {
+            "shop": "福成丼飯",
+            "pay_list": ""
+        },
+        {
+            "shop": "惠盛食品行燕巢分校",
+            "pay_list": ""
         },
         {
             "shop": "阿榮水餃店（八方食堂樹德店）",
-            "pay_list": "街口支付"
+            "pay_list": ""
         }
     ],
-    "pay_list": "街口支付\/LINE Pay Money"
+    "pay_list": "街口支付\/LINE PAY MONEY"
 }

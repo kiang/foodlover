@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "新北市樹林區潭底里保安街一段２８７―６號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[新北市]\tT:1,V:1,R:1,S:1,L:-1,A:-1,SA:-1,T:-1,AR:0,NO:0(+130),E:-1,N:-1",
+      "OutTraceInfo": "[新北市]\t { 模糊比對 } (樹林區)\t找到符合的[鄉鎮市區]，(潭底里)\t找到符合的[村里]，(保安街)\t找到符合的[路街名]，(1)\t找到符合的[路段]，(二八七―)\t找不到符合的[地區]，進行轉換搜尋[路或街變成地區名]，轉換搜尋找不到符合的[地區]，(6號)\t進行[雙號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +130 號，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "新北市樹林區潭底里17鄰保安街一段136之1號",
+      "COUNTY": "新北市",
+      "TOWN": "樹林區",
+      "VILLAGE": "潭底里",
+      "NEIGHBORHOOD": "17鄰",
+      "ROAD": "保安街",
+      "SECTION": "1",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "136之1號",
+      "X": 121.422601,
+      "Y": 24.995308
+    }
+  ]
+}

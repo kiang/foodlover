@@ -1,13 +1,13 @@
 {
-    "name": "西點麵包零售\/糕餅麵包製造",
+    "name": "糕餅麵包製造\/西點麵包零售",
     "address": "新北市三重區和平街５號１樓",
     "x": 121.500296,
     "y": 25.06241,
     "shops": [
         {
             "shop": "明悅堂商行",
-            "pay_list": "台灣 PAY \/ LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "台灣 PAY\/LINE Pay Money"
+    "pay_list": ""
 }

@@ -6,8 +6,12 @@
     "shops": [
         {
             "shop": "三哥麵店",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
+        },
+        {
+            "shop": "Ｙｏｕ　ＴＥＡ　樂活茶飲",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": "LINE PAY MONEY"
 }

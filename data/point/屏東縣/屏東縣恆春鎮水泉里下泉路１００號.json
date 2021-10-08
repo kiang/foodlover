@@ -1,17 +1,29 @@
 {
-    "name": "冰果店、冷（熱）飲店",
+    "name": "餐食攤販\/調理飲料攤販",
     "address": "屏東縣恆春鎮水泉里下泉路１００號",
     "x": 120.737936,
     "y": 21.921972,
     "shops": [
         {
+            "shop": "猫鼻頭３號店",
+            "pay_list": "LINE PAY MONEY"
+        },
+        {
+            "shop": "猫鼻頭公園店舖２號",
+            "pay_list": ""
+        },
+        {
+            "shop": "猫鼻頭公園店舖５號",
+            "pay_list": ""
+        },
+        {
             "shop": "猫鼻頭公園店舖１８號",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
         },
         {
             "shop": "猫鼻頭３號店",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": "LINE PAY MONEY"
 }

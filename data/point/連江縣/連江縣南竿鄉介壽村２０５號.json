@@ -6,8 +6,12 @@
     "shops": [
         {
             "shop": "八方雲集餐飲股份有限公司馬祖店",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
+        },
+        {
+            "shop": "八方雲集餐飲股份有限公司鉑客馬祖店",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

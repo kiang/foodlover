@@ -1,17 +1,17 @@
 {
-    "name": "其他家飾品零售\/糖果餅乾批發\/餐館、餐廳",
+    "name": "其他家飾品零售\/餐館、餐廳\/糖果餅乾批發",
     "address": "苗栗縣三義鄉勝興村１３鄰勝興５７號１樓",
     "x": 120.781831,
     "y": 24.389467,
     "shops": [
         {
             "shop": "幸福猫驛站",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         },
         {
             "shop": "幸福猫驛站",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

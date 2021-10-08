@@ -1,13 +1,17 @@
 {
-    "name": "冰果店、冷（熱）飲店",
+    "name": "西點麵包零售",
     "address": "臺北市信義區松光里松山路５３１號１樓",
     "x": 121.57820185292,
     "y": 25.038014701735,
     "shops": [
         {
+            "shop": "伍叁壹商行",
+            "pay_list": ""
+        },
+        {
             "shop": "原品茶行",
-            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+            "pay_list": ""
         }
     ],
-    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+    "pay_list": ""
 }

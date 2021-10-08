@@ -1,13 +1,13 @@
 {
-    "name": "飲料零售\/咖啡零售\/糖果餅乾零售",
+    "name": "咖啡館",
     "address": "臺南市關廟區香洋里中正路９６９號１樓",
     "x": 120.328333,
     "y": 22.962437,
     "shops": [
         {
-            "shop": "美麗殿咖啡甜點坊",
-            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+            "shop": "八五高典商行關廟店",
+            "pay_list": ""
         }
     ],
-    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+    "pay_list": ""
 }

@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "桃園市大溪區一德里勝利路６９號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[桃園市]\tT:1,V:1,R:2,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[桃園市]\t { 模糊比對 } (大溪區)\t找到符合的[鄉鎮市區]，(一德里)\t找到符合的[村里]，(勝利路)\t找不到符合的[路街名]，進行轉換搜尋[街變成路，路變成街]，轉換搜尋找到符合的[路街名]，(69號)\t找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "桃園市大溪區一德里15鄰勝利街69號",
+      "COUNTY": "桃園市",
+      "TOWN": "大溪區",
+      "VILLAGE": "一德里",
+      "NEIGHBORHOOD": "15鄰",
+      "ROAD": "勝利街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "69號",
+      "X": 121.284330,
+      "Y": 24.873750
+    }
+  ]
+}

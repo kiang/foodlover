@@ -4,28 +4,28 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣北竿鄉塘岐村２２９號",
-                "pay_list": "台灣 PAY\/LINE Pay Money"
+                "k": "連江縣南竿鄉介壽村３２５―２號",
+                "pay_list": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    119.99836,
-                    26.22408
+                    119.952346,
+                    26.160595
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣南竿鄉福沃村５７號",
-                "pay_list": "街口支付\/LINE Pay Money"
+                "k": "連江縣南竿鄉福沃村８４號",
+                "pay_list": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    119.944444,
-                    26.157862
+                    119.943822,
+                    26.157394
                 ]
             }
         },
@@ -33,7 +33,7 @@
             "type": "Feature",
             "properties": {
                 "k": "連江縣南竿鄉清水村８４－１１號",
-                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+                "pay_list": ""
             },
             "geometry": {
                 "type": "Point",
@@ -46,14 +46,14 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣北竿鄉塘岐村２７３―８號",
-                "pay_list": "台灣 PAY"
+                "k": "連江縣東引鄉中柳村６７號",
+                "pay_list": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    119.989129,
-                    26.218892
+                    120.487453,
+                    26.367896
                 ]
             }
         },
@@ -61,7 +61,7 @@
             "type": "Feature",
             "properties": {
                 "k": "連江縣北竿鄉坂里村４７號",
-                "pay_list": "台灣 PAY"
+                "pay_list": ""
             },
             "geometry": {
                 "type": "Point",
@@ -74,42 +74,14 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣北竿鄉芹壁村２２－１號",
-                "pay_list": "台灣 PAY"
+                "k": "連江縣北竿鄉塘岐村２７３―８號",
+                "pay_list": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    119.983684,
-                    26.22474
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣北竿鄉芹壁村５４號",
-                "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.982316,
-                    26.224107
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣北竿鄉芹壁村６０號",
-                "pay_list": "台灣 PAY"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.982139,
-                    26.224087
+                    119.989129,
+                    26.218892
                 ]
             }
         },
@@ -117,7 +89,7 @@
             "type": "Feature",
             "properties": {
                 "k": "連江縣北竿鄉芹壁村１１號",
-                "pay_list": "台灣 PAY"
+                "pay_list": ""
             },
             "geometry": {
                 "type": "Point",
@@ -131,7 +103,7 @@
             "type": "Feature",
             "properties": {
                 "k": "連江縣北竿鄉塘岐村８８號",
-                "pay_list": "台灣 PAY\/LINE Pay Money"
+                "pay_list": ""
             },
             "geometry": {
                 "type": "Point",
@@ -145,7 +117,7 @@
             "type": "Feature",
             "properties": {
                 "k": "連江縣北竿鄉塘岐村９０號",
-                "pay_list": "台灣 PAY\/LINE Pay Money"
+                "pay_list": ""
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +131,7 @@
             "type": "Feature",
             "properties": {
                 "k": "連江縣北竿鄉塘岐村８０號",
-                "pay_list": "台灣 PAY"
+                "pay_list": ""
             },
             "geometry": {
                 "type": "Point",
@@ -172,22 +144,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣北竿鄉塘岐村２２５號",
-                "pay_list": "台灣 PAY"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.998424,
-                    26.22397
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "k": "連江縣南竿鄉介壽村２０５號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": ""
             },
             "geometry": {
                 "type": "Point",
@@ -201,7 +159,7 @@
             "type": "Feature",
             "properties": {
                 "k": "連江縣南竿鄉珠螺村４鄰５２號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": ""
             },
             "geometry": {
                 "type": "Point",
@@ -214,22 +172,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣南竿鄉福沃村５１號",
-                "pay_list": "街口支付\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.944602,
-                    26.157968
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "k": "連江縣南竿鄉復興村１１０－１號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": ""
             },
             "geometry": {
                 "type": "Point",
@@ -243,7 +187,7 @@
             "type": "Feature",
             "properties": {
                 "k": "連江縣南竿鄉津沙村９７號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": ""
             },
             "geometry": {
                 "type": "Point",
@@ -257,7 +201,7 @@
             "type": "Feature",
             "properties": {
                 "k": "連江縣南竿鄉福沃村６５號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": ""
             },
             "geometry": {
                 "type": "Point",
@@ -270,50 +214,8 @@
         {
             "type": "Feature",
             "properties": {
-                "k": "連江縣南竿鄉福沃村９０－３號",
-                "pay_list": "街口支付\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.943237,
-                    26.157164
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉福沃村６３號",
-                "pay_list": "街口支付\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.944334,
-                    26.157793
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣南竿鄉馬祖村５３號",
-                "pay_list": "街口支付\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.91849,
-                    26.15951
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "k": "連江縣南竿鄉馬祖村６８號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": ""
             },
             "geometry": {
                 "type": "Point",
@@ -327,7 +229,7 @@
             "type": "Feature",
             "properties": {
                 "k": "連江縣東引鄉樂華村９５號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": ""
             },
             "geometry": {
                 "type": "Point",
@@ -341,7 +243,7 @@
             "type": "Feature",
             "properties": {
                 "k": "連江縣東引鄉樂華村１２１號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": ""
             },
             "geometry": {
                 "type": "Point",
@@ -355,41 +257,13 @@
             "type": "Feature",
             "properties": {
                 "k": "連江縣東引鄉樂華村１０６號",
-                "pay_list": "街口支付\/LINE Pay Money"
+                "pay_list": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     120.487671,
                     26.367069
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣東引鄉樂華村４７號",
-                "pay_list": "街口支付\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.487396,
-                    26.367092
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "k": "連江縣東引鄉中柳村６７號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.487453,
-                    26.367896
                 ]
             }
         }

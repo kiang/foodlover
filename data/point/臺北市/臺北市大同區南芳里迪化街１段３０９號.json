@@ -6,8 +6,12 @@
     "shops": [
         {
             "shop": "李亭香食品有限公司",
-            "pay_list": "街口支付 \/ LINE Pay Money"
+            "pay_list": ""
+        },
+        {
+            "shop": "李亭香餅店",
+            "pay_list": ""
         }
     ],
-    "pay_list": "街口支付\/LINE Pay Money"
+    "pay_list": ""
 }

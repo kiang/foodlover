@@ -1,13 +1,13 @@
 {
-    "name": "麵食品零售\/冰果店、冷（熱）飲店",
+    "name": "冰果店、冷（熱）飲店\/麵食品零售",
     "address": "臺北市松山區敦化里八德路３段１２巷５９號１樓",
     "x": 121.550757,
     "y": 25.045179,
     "shops": [
         {
             "shop": "瑾之寶烘培企業社",
-            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+            "pay_list": ""
         }
     ],
-    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+    "pay_list": ""
 }

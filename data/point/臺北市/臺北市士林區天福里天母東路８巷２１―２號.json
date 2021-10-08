@@ -1,13 +1,17 @@
 {
-    "name": "餐館、餐廳",
+    "name": "其他烘焙炊蒸食品製造",
     "address": "臺北市士林區天福里天母東路８巷２１―２號１樓",
     "x": 121.53207197721,
     "y": 25.117365189154,
     "shops": [
         {
+            "shop": "亞樂生活有限公司",
+            "pay_list": ""
+        },
+        {
             "shop": "主義甜時有限公司",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

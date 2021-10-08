@@ -1,13 +1,13 @@
 {
-    "name": "麵店、小吃店\/冰果店、冷（熱）飲店",
+    "name": "冰果店、冷（熱）飲店\/麵店、小吃店",
     "address": "金門縣金沙鎮何斗里中蘭６８號",
     "x": 118.38516725909,
     "y": 24.463167148791,
     "shops": [
         {
             "shop": "圓來在這商店",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

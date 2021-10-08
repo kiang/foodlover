@@ -1,13 +1,13 @@
 {
-    "name": "經營網路購物\/餐食攤販",
+    "name": "餐食攤販\/經營網路購物",
     "address": "臺中市東勢區南平里豐勢路３６２號",
     "x": 120.829622,
     "y": 24.2541,
     "shops": [
         {
             "shop": "品味美食屋",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": "LINE PAY MONEY"
 }

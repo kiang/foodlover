@@ -1,13 +1,13 @@
 {
-    "name": "飲料零售\/其他烘焙炊蒸食品製造",
+    "name": "其他烘焙炊蒸食品製造\/飲料零售",
     "address": "臺中市西屯區何成里大墩二十街１２８號",
     "x": 120.652148,
     "y": 24.160049,
     "shops": [
         {
             "shop": "承品咖啡有限公司",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

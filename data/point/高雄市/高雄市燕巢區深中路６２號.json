@@ -1,21 +1,45 @@
 {
-    "name": "麵店、小吃店",
-    "address": "高雄市燕巢區深中路６２號",
-    "x": 120.4044049397,
-    "y": 22.781783266519,
+    "name": "調理飲料攤販",
+    "address": "高雄市燕巢區深中路６２號（分區七）",
+    "x": 120.404405,
+    "y": 22.781783,
     "shops": [
         {
+            "shop": "呂宜珍",
+            "pay_list": ""
+        },
+        {
+            "shop": "南台灣餐飲店",
+            "pay_list": ""
+        },
+        {
             "shop": "日韓風味小館高師店",
-            "pay_list": "一卡通 \/ LINE Pay Money"
+            "pay_list": "LINE PAY MONEY \/ 一卡通"
+        },
+        {
+            "shop": "９６８早午餐",
+            "pay_list": ""
         },
         {
             "shop": "盈銀簡餐便當店",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
+        },
+        {
+            "shop": "柯媽媽麵食館",
+            "pay_list": ""
         },
         {
             "shop": "陳家貞",
-            "pay_list": "一卡通 \/ LINE Pay Money"
+            "pay_list": "LINE PAY MONEY \/ 一卡通"
+        },
+        {
+            "shop": "鄭連成",
+            "pay_list": ""
+        },
+        {
+            "shop": "Ｂａｔｔｅｒｙ芭蝶里商行",
+            "pay_list": ""
         }
     ],
-    "pay_list": "一卡通\/LINE Pay Money"
+    "pay_list": "LINE PAY MONEY\/一卡通"
 }

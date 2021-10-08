@@ -1,17 +1,17 @@
 {
-    "name": "西點麵包零售",
-    "address": "新北市板橋區福丘里中山路１段１６１號Ｂ１",
+    "name": "餐館、餐廳",
+    "address": "新北市板橋區福丘里中山路１段１６１號１樓、８樓",
     "x": 121.465624,
     "y": 25.01208,
     "shops": [
         {
-            "shop": "新北市府喜憨兒烘焙屋",
-            "pay_list": "一卡通 \/ LINE Pay Money \/ 街口支付"
+            "shop": "鎮饌股份有限公司新板分公司",
+            "pay_list": ""
         },
         {
-            "shop": "鎮饌股份有限公司新板分公司",
-            "pay_list": "LINE Pay Money"
+            "shop": "典藏藝術家庭股份有限公司３３觀景餐廳門市",
+            "pay_list": ""
         }
     ],
-    "pay_list": "一卡通\/LINE Pay Money\/街口支付"
+    "pay_list": ""
 }

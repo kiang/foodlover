@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "宜蘭縣員山鄉尚德村２７鄰員山路１段７０３巷４弄９號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "完全比對",
+      "OutMatchCode": "[宜蘭縣]\tFULL:1",
+      "OutTraceInfo": "[宜蘭縣]\t { 完全比對 } 找到符合的門牌地址"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "宜蘭縣員山鄉尚德村27鄰員山路一段703巷4弄9號",
+      "COUNTY": "宜蘭縣",
+      "TOWN": "員山鄉",
+      "VILLAGE": "尚德村",
+      "NEIGHBORHOOD": "27鄰",
+      "ROAD": "員山路",
+      "SECTION": "1",
+      "LANE": "703巷",
+      "ALLEY": "4弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "9號",
+      "X": 121.717496,
+      "Y": 24.734848
+    }
+  ]
+}

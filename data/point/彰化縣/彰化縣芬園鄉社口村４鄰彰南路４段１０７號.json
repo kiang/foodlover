@@ -1,13 +1,13 @@
 {
-    "name": "免洗餐具零售\/冰果店、冷（熱）飲店",
+    "name": "冰果店、冷（熱）飲店\/免洗餐具零售",
     "address": "彰化縣芬園鄉社口村４鄰彰南路４段１０７號",
     "x": 120.628313,
     "y": 24.013759,
     "shops": [
         {
             "shop": "福菁冷飲站",
-            "pay_list": "街口支付 \/ LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "街口支付\/LINE Pay Money"
+    "pay_list": ""
 }

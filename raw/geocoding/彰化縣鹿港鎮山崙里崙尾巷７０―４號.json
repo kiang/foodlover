@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "彰化縣鹿港鎮山崙里崙尾巷７０―４號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[彰化縣]\tT:1,V:1,R:-1,S:-1,L:1,A:-1,SA:-1,T:-1,AR:0,NO:0,E:-1,N:-1",
+      "OutTraceInfo": "[彰化縣]\t { 模糊比對 } (鹿港鎮)\t找到符合的[鄉鎮市區]，(山崙里)\t找到符合的[村里]，(崙尾巷)\t找到符合的[巷]，(七0―)\t找不到符合的[地區]，轉換搜尋找不到符合的[地區]，(4號)\t模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "彰化縣鹿港鎮山崙里16鄰崙尾巷133之29號",
+      "COUNTY": "彰化縣",
+      "TOWN": "鹿港鎮",
+      "VILLAGE": "山崙里",
+      "NEIGHBORHOOD": "16鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "崙尾巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "133之29號",
+      "X": 120.445190,
+      "Y": 24.114744
+    }
+  ]
+}

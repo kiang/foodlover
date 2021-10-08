@@ -1,13 +1,13 @@
 {
-    "name": "菸酒零售\/西點麵包零售\/咖啡館",
+    "name": "西點麵包零售\/菸酒零售\/咖啡館",
     "address": "新竹縣竹北市中崙里光明六路９５號１樓",
     "x": 121.008737,
     "y": 24.82721,
     "shops": [
         {
             "shop": "德寶商行",
-            "pay_list": "街口支付 \/ LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "街口支付\/LINE Pay Money"
+    "pay_list": ""
 }

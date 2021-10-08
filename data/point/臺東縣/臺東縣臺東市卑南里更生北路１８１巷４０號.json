@@ -6,8 +6,12 @@
     "shops": [
         {
             "shop": "宇暉企業社",
-            "pay_list": "街口支付 \/ LINE Pay Money"
+            "pay_list": ""
+        },
+        {
+            "shop": "全記手工饅頭坊",
+            "pay_list": ""
         }
     ],
-    "pay_list": "街口支付\/LINE Pay Money"
+    "pay_list": ""
 }

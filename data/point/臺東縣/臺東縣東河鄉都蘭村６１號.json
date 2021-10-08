@@ -1,13 +1,13 @@
 {
-    "name": "冰果店、冷（熱）飲店\/餐館、餐廳\/其他未分類教育",
+    "name": "餐館、餐廳\/冰果店、冷（熱）飲店\/其他未分類教育",
     "address": "臺東縣東河鄉都蘭村６１號廠區內第３倉庫",
     "x": 121.212087,
     "y": 22.870265,
     "shops": [
         {
             "shop": "東甯咖啡屋",
-            "pay_list": "一卡通 \/ LINE Pay Money"
+            "pay_list": "LINE PAY MONEY \/ 一卡通"
         }
     ],
-    "pay_list": "一卡通\/LINE Pay Money"
+    "pay_list": "LINE PAY MONEY\/一卡通"
 }

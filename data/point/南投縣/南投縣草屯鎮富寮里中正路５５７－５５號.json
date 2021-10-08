@@ -6,16 +6,8 @@
     "shops": [
         {
             "shop": "安柏點心屋",
-            "pay_list": "LINE Pay Money"
-        },
-        {
-            "shop": "風雨球場早午餐",
-            "pay_list": "LINE Pay Money"
-        },
-        {
-            "shop": "好粥到商店",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

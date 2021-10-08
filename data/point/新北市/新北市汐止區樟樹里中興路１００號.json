@@ -1,13 +1,13 @@
 {
-    "name": "冰果店、冷（熱）飲店",
+    "name": "餐館、餐廳",
     "address": "新北市汐止區樟樹里中興路１００號",
     "x": 121.634399,
     "y": 25.062705,
     "shops": [
         {
-            "shop": "小蒔光餐飲店",
-            "pay_list": "LINE Pay Money"
+            "shop": "德爐實業有限公司",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

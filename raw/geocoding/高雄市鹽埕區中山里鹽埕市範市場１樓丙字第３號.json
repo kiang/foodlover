@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "高雄市鹽埕區中山里鹽埕市範市場１樓丙字第３號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[高雄市]\tT:1,V:1,R:-1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:0,NO:0(+74),E:-1,N:-1",
+      "OutTraceInfo": "[高雄市]\t { 模糊比對 } (鹽埕區)\t找到符合的[鄉鎮市區]，(中山里)\t找到符合的[村里]，(鹽埕市範市場一樓丙字第)\t找不到符合的[地區]，轉換搜尋找不到符合的[地區]，(3號)\t進行[單號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +74 號，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "高雄市鹽埕區中山里16鄰新興街77號",
+      "COUNTY": "高雄市",
+      "TOWN": "鹽埕區",
+      "VILLAGE": "中山里",
+      "NEIGHBORHOOD": "16鄰",
+      "ROAD": "新興街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "77號",
+      "X": 120.281268,
+      "Y": 22.626078
+    }
+  ]
+}

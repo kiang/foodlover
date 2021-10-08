@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "苗栗縣苗栗市高苗里天雲街２４－１號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[苗栗縣]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+2)(-4),E:-1,N:-1",
+      "OutTraceInfo": "[苗栗縣]\t { 模糊比對 } (苗栗市)\t找到符合的[鄉鎮市區]，(高苗里)\t找到符合的[村里]，(天雲街)\t找到符合的[路街名]，(24－1號)\t進行[雙號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +2 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -4 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "苗栗縣苗栗市高苗里2鄰天雲街20號",
+      "COUNTY": "苗栗縣",
+      "TOWN": "苗栗市",
+      "VILLAGE": "高苗里",
+      "NEIGHBORHOOD": "2鄰",
+      "ROAD": "天雲街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "20號",
+      "X": 120.816571,
+      "Y": 24.552381
+    },
+    {
+      "FULL_ADDR": "苗栗縣苗栗市高苗里7鄰天雲街26號",
+      "COUNTY": "苗栗縣",
+      "TOWN": "苗栗市",
+      "VILLAGE": "高苗里",
+      "NEIGHBORHOOD": "7鄰",
+      "ROAD": "天雲街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "26號",
+      "X": 120.816194,
+      "Y": 24.552541
+    }
+  ]
+}

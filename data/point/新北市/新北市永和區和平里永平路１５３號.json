@@ -6,12 +6,8 @@
     "shops": [
         {
             "shop": "咖哩王子餐飲有限公司",
-            "pay_list": "LINE Pay Money"
-        },
-        {
-            "shop": "戀咖哩咖哩店",
-            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money\/台灣 PAY\/街口支付"
+    "pay_list": ""
 }

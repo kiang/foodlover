@@ -1,13 +1,17 @@
 {
-    "name": "調理飲料攤販\/餐食攤販",
+    "name": "餐食攤販\/調理飲料攤販",
     "address": "彰化縣員林市新生里新生路４８號",
     "x": 120.568871,
     "y": 23.957446,
     "shops": [
         {
             "shop": "曹小吃部",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
+        },
+        {
+            "shop": "曹小吃部",
+            "pay_list": "LINE PAY MONEY"
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": "LINE PAY MONEY"
 }

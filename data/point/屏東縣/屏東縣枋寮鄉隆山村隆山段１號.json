@@ -1,13 +1,13 @@
 {
-    "name": "飲料零售\/未分類其他食品、飲料及菸草製品零售\/麵店、小吃店\/菸酒零售",
+    "name": "菸酒零售\/麵店、小吃店\/飲料零售\/未分類其他食品、飲料及菸草製品零售",
     "address": "屏東縣枋寮鄉隆山村隆山段１號",
     "x": 120.602379,
     "y": 22.367531,
     "shops": [
         {
             "shop": "黃安檳榔攤小吃店",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": "LINE PAY MONEY"
 }

@@ -6,24 +6,32 @@
     "shops": [
         {
             "shop": "平安小吃",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
+        },
+        {
+            "shop": "聖果蔬食營養餐",
+            "pay_list": ""
+        },
+        {
+            "shop": "角落商社",
+            "pay_list": ""
         },
         {
             "shop": "寧記商行",
-            "pay_list": "台灣 PAY \/ LINE Pay Money"
+            "pay_list": ""
         },
         {
             "shop": "歐哈尼複合式餐飲",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         },
         {
             "shop": "專師速食店",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         },
         {
             "shop": "大城小廚",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money\/台灣 PAY"
+    "pay_list": "LINE PAY MONEY"
 }

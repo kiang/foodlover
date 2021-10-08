@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "彰化縣埔心鄉油車村瑤鳳路２段４１６巷３７號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "完全比對",
+      "OutMatchCode": "[彰化縣]\tFULL:1",
+      "OutTraceInfo": "[彰化縣]\t { 完全比對 } 找到符合的門牌地址"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "彰化縣埔心鄉油車村10鄰瑤鳳路二段416巷37號",
+      "COUNTY": "彰化縣",
+      "TOWN": "埔心鄉",
+      "VILLAGE": "油車村",
+      "NEIGHBORHOOD": "10鄰",
+      "ROAD": "瑤鳳路",
+      "SECTION": "2",
+      "LANE": "416巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "37號",
+      "X": 120.540659,
+      "Y": 23.962273
+    }
+  ]
+}

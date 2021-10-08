@@ -1,12 +1,16 @@
 {
-    "name": "麵店、小吃店",
+    "name": "餐食攤販",
     "address": "高雄市燕巢區鳳雄里大學路１號",
     "x": 120.33802677751,
     "y": 22.758409481439,
     "shops": [
         {
+            "shop": "盒食",
+            "pay_list": ""
+        },
+        {
             "shop": "茶供館",
-            "pay_list": "一卡通 \/ LINE Pay Money"
+            "pay_list": "LINE PAY MONEY \/ 一卡通"
         },
         {
             "shop": "麵之屋商行",
@@ -14,20 +18,16 @@
         },
         {
             "shop": "這家商行",
-            "pay_list": "一卡通 \/ LINE Pay Money"
+            "pay_list": "LINE PAY MONEY \/ 一卡通"
         },
         {
             "shop": "烏秋商行",
-            "pay_list": "一卡通 \/ LINE Pay Money"
+            "pay_list": "LINE PAY MONEY \/ 一卡通"
         },
         {
             "shop": "菇蒂早安吧",
-            "pay_list": "LINE Pay Money"
-        },
-        {
-            "shop": "政倡美食小吃店",
-            "pay_list": "台灣 PAY"
+            "pay_list": "LINE PAY MONEY"
         }
     ],
-    "pay_list": "一卡通\/LINE Pay Money\/台灣 PAY"
+    "pay_list": "LINE PAY MONEY\/一卡通"
 }

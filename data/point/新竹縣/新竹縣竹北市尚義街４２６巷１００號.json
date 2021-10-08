@@ -6,8 +6,16 @@
     "shops": [
         {
             "shop": "童美子",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
+        },
+        {
+            "shop": "林永澄",
+            "pay_list": ""
+        },
+        {
+            "shop": "曾欽淵",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": "LINE PAY MONEY"
 }

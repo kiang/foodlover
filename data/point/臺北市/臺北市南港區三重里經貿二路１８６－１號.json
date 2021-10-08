@@ -6,12 +6,36 @@
     "shops": [
         {
             "shop": "伊勝實業有限公司經貿營業處",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
+        },
+        {
+            "shop": "瓦城泰統股份有限公司南港分公司",
+            "pay_list": ""
+        },
+        {
+            "shop": "瓦城泰統股份有限公司南港二分公司",
+            "pay_list": ""
+        },
+        {
+            "shop": "共樂遊有限公司南港分公司",
+            "pay_list": ""
         },
         {
             "shop": "全宇光有限公司",
-            "pay_list": "街口支付"
+            "pay_list": ""
+        },
+        {
+            "shop": "乾杯股份有限公司乾杯南港中信店",
+            "pay_list": ""
+        },
+        {
+            "shop": "乾杯股份有限公司黑毛屋南港中信店",
+            "pay_list": ""
+        },
+        {
+            "shop": "蔬河有限公司－中信營業所",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money\/街口支付"
+    "pay_list": ""
 }

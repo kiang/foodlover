@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "彰化縣彰化市延平里寶山路１２６巷１弄４號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "完全比對",
+      "OutMatchCode": "[彰化縣]\tFULL:1",
+      "OutTraceInfo": "[彰化縣]\t { 完全比對 } 找到符合的門牌地址"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "彰化縣彰化市延平里8鄰寶山路126巷1弄4號",
+      "COUNTY": "彰化縣",
+      "TOWN": "彰化市",
+      "VILLAGE": "延平里",
+      "NEIGHBORHOOD": "8鄰",
+      "ROAD": "寶山路",
+      "SECTION": "",
+      "LANE": "126巷",
+      "ALLEY": "1弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "4號",
+      "X": 120.558009,
+      "Y": 24.063455
+    }
+  ]
+}

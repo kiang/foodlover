@@ -1,17 +1,17 @@
 {
-    "name": "冰果店、冷（熱）飲店\/西點麵包零售",
+    "name": "西點麵包零售\/冰果店、冷（熱）飲店",
     "address": "臺中市龍井區龍津里中央路１段１８１號",
     "x": 120.523037,
     "y": 24.200844,
     "shops": [
         {
             "shop": "英格蘭西點麵包",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
         },
         {
             "shop": "英格蘭西點麵包",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": "LINE PAY MONEY"
 }

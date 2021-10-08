@@ -1,13 +1,17 @@
 {
-    "name": "冰果店、冷（熱）飲店",
-    "address": "嘉義縣中埔鄉和美村中山路５段９３６號１樓旁",
+    "name": "麵店、小吃店",
+    "address": "嘉義縣中埔鄉和美村中山路５段９３６號",
     "x": 120.46002,
     "y": 23.453562,
     "shops": [
         {
+            "shop": "三和清粥小菜",
+            "pay_list": ""
+        },
+        {
             "shop": "庄腳來的店",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": "LINE PAY MONEY"
 }

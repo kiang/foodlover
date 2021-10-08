@@ -1,13 +1,17 @@
 {
-    "name": "未分類其他食品、飲料及菸草製品零售\/冰品零售\/糖果餅乾零售",
+    "name": "糖果餅乾零售",
     "address": "屏東縣內埔鄉大新村大新路５８２號",
     "x": 120.583654,
     "y": 22.668167,
     "shops": [
         {
+            "shop": "徐家蛋捲行",
+            "pay_list": ""
+        },
+        {
             "shop": "徐氏企業行",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

@@ -6,16 +6,16 @@
     "shops": [
         {
             "shop": "饞香家常菜",
-            "pay_list": "LINE Pay Money \/ 街口支付"
+            "pay_list": "街口支付 \/ LINE PAY MONEY"
         },
         {
             "shop": "幸福寶點企業社",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         },
         {
             "shop": "銓億晨食美味館",
-            "pay_list": "台灣 PAY \/ LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money\/街口支付\/台灣 PAY"
+    "pay_list": "街口支付\/LINE PAY MONEY"
 }

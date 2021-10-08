@@ -6,20 +6,16 @@
     "shops": [
         {
             "shop": "約瑟芬咖啡坊",
-            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money"
+            "pay_list": ""
         },
         {
-            "shop": "約瑟芬咖啡坊",
-            "pay_list": "台灣 PAY \/ 一卡通 \/ LINE Pay Money"
+            "shop": "熙異企業社",
+            "pay_list": ""
         },
         {
-            "shop": "友泉企業社",
-            "pay_list": "LINE Pay Money"
-        },
-        {
-            "shop": "麗州餐坊",
-            "pay_list": "台灣 PAY"
+            "shop": "臻品食品行",
+            "pay_list": ""
         }
     ],
-    "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
+    "pay_list": ""
 }

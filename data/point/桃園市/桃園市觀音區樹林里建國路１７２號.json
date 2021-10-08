@@ -1,13 +1,21 @@
 {
-    "name": "飲料零售\/早餐店",
+    "name": "麵店、小吃店",
     "address": "桃園市觀音區樹林里建國路１７２號",
     "x": 121.12187377758,
     "y": 25.051316957067,
     "shops": [
         {
+            "shop": "徐朝枝",
+            "pay_list": ""
+        },
+        {
+            "shop": "合風小吃店",
+            "pay_list": ""
+        },
+        {
             "shop": "麥麥早餐店",
-            "pay_list": "台灣 PAY \/ LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "台灣 PAY\/LINE Pay Money"
+    "pay_list": ""
 }

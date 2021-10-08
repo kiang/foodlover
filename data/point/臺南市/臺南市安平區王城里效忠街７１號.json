@@ -1,13 +1,13 @@
 {
-    "name": "冰果店、冷（熱）飲店\/其他服裝及其配件零售\/麵店、小吃店",
+    "name": "冰果店、冷（熱）飲店\/麵店、小吃店\/其他服裝及其配件零售",
     "address": "臺南市安平區王城里效忠街７１號１樓",
     "x": 120.164347,
     "y": 23.001301,
     "shops": [
         {
             "shop": "船家堡食尚工藝",
-            "pay_list": "一卡通 \/ LINE Pay Money"
+            "pay_list": "LINE PAY MONEY \/ 一卡通"
         }
     ],
-    "pay_list": "一卡通\/LINE Pay Money"
+    "pay_list": "LINE PAY MONEY\/一卡通"
 }

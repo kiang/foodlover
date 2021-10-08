@@ -1,13 +1,13 @@
 {
-    "name": "茶葉批發\/冰果店、冷（熱）飲店",
+    "name": "冰果店、冷（熱）飲店\/茶葉批發",
     "address": "新竹縣湖口鄉鳳山村國泰街８巷２０號",
     "x": 121.00851485774,
     "y": 24.859429910067,
     "shops": [
         {
             "shop": "三點一六有限公司",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

@@ -1,17 +1,25 @@
 {
-    "name": "冰果店、冷（熱）飲店",
-    "address": "基隆市中正區德義里義二路２６號（１樓）",
+    "name": "餐館、餐廳",
+    "address": "基隆市中正區德義里義二路２６號",
     "x": 121.745419,
     "y": 25.1309,
     "shops": [
         {
+            "shop": "聚川園餐飲事業有限公司",
+            "pay_list": ""
+        },
+        {
             "shop": "水雲堂義二店",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
+        },
+        {
+            "shop": "饕客館",
+            "pay_list": ""
         },
         {
             "shop": "水雲堂",
-            "pay_list": "台灣 PAY"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money\/台灣 PAY"
+    "pay_list": ""
 }

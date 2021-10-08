@@ -1,33 +1,13 @@
 {
-    "name": "麵店、小吃店",
-    "address": "臺中市北區新北里一中街９６號１樓",
+    "name": "未分類其他食品、飲料及菸草製品零售\/西點麵包零售",
+    "address": "臺中市北區新北里一中街９６號",
     "x": 120.68525,
     "y": 24.149338,
     "shops": [
         {
-            "shop": "豐好運",
-            "pay_list": "LINE Pay Money"
-        },
-        {
-            "shop": "牛仔炙燒牛排坊",
-            "pay_list": "台灣 PAY"
-        },
-        {
-            "shop": "老虎堂國際有限公司",
-            "pay_list": "LINE Pay Money"
-        },
-        {
-            "shop": "涔飲國際有限公司",
-            "pay_list": "LINE Pay Money"
-        },
-        {
-            "shop": "鈺橙有限公司",
-            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
-        },
-        {
-            "shop": "富榮餐飲股份有限公司",
-            "pay_list": "台灣 PAY"
+            "shop": "昊延有限公司一中分公司",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money\/台灣 PAY\/街口支付"
+    "pay_list": ""
 }

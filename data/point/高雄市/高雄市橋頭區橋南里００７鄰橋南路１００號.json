@@ -5,9 +5,13 @@
     "y": 22.754779238547,
     "shops": [
         {
+            "shop": "歆恩茶行",
+            "pay_list": ""
+        },
+        {
             "shop": "小蜜娜冷飲店",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

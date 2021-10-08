@@ -1,13 +1,13 @@
 {
-    "name": "西點麵包零售\/糕餅麵包製造",
+    "name": "糕餅麵包製造\/西點麵包零售",
     "address": "新北市板橋區國慶路２７號１樓",
     "x": 121.458702,
     "y": 24.995621,
     "shops": [
         {
             "shop": "米迦專業烘焙有限公司",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

@@ -1,13 +1,13 @@
 {
-    "name": "經營網路購物\/飲料零售\/糕餅麵包製造",
+    "name": "糕餅麵包製造\/飲料零售\/經營網路購物",
     "address": "新北市中和區連和里連城路１３４巷３號",
     "x": 121.49542,
     "y": 24.999611,
     "shops": [
         {
             "shop": "維宏食品有限公司",
-            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+            "pay_list": ""
         }
     ],
-    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+    "pay_list": ""
 }

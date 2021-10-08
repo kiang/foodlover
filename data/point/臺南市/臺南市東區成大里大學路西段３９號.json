@@ -1,17 +1,13 @@
 {
-    "name": "發酵乳製造\/西點麵包零售\/糕餅麵包製造\/咖啡館",
+    "name": "糕餅麵包製造\/西點麵包零售\/發酵乳製造\/咖啡館",
     "address": "臺南市東區成大里大學路西段３９號",
     "x": 120.217344,
     "y": 22.996279,
     "shops": [
         {
             "shop": "歐滿樂志業食品有限公司",
-            "pay_list": "LINE Pay Money"
-        },
-        {
-            "shop": "歐滿樂志業食品有限公司",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

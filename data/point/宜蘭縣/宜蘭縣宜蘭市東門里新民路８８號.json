@@ -1,13 +1,13 @@
 {
-    "name": "麵店、小吃店",
-    "address": "宜蘭縣宜蘭市東門里新民路８８號１樓",
+    "name": "早餐店",
+    "address": "宜蘭縣宜蘭市東門里新民路８８號",
     "x": 121.756108,
     "y": 24.757104,
     "shops": [
         {
-            "shop": "大樂商行",
-            "pay_list": "LINE Pay Money"
+            "shop": "香噴噴舊城東店",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

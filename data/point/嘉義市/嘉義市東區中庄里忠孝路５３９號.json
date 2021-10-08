@@ -1,13 +1,17 @@
 {
-    "name": "連鎖速食店",
+    "name": "麵店、小吃店",
     "address": "嘉義市東區中庄里忠孝路５３９號",
     "x": 120.45004999604,
     "y": 23.499400003165,
     "shops": [
         {
+            "shop": "美食家族",
+            "pay_list": ""
+        },
+        {
             "shop": "富國企業社",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": "LINE PAY MONEY"
 }

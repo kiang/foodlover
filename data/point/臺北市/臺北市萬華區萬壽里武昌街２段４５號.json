@@ -1,13 +1,13 @@
 {
-    "name": "冰果店、冷（熱）飲店",
+    "name": "麵店、小吃店",
     "address": "臺北市萬華區萬壽里武昌街２段４５號",
     "x": 121.50743848698,
     "y": 25.044678541339,
     "shops": [
         {
-            "shop": "品佳商行",
-            "pay_list": "LINE Pay Money"
+            "shop": "好運旺實業有限公司",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

@@ -1,13 +1,13 @@
 {
-    "name": "麵店、小吃店",
-    "address": "新北市泰山區同興里明志路１段４９３之１號騎樓",
+    "name": "連鎖速食店",
+    "address": "新北市泰山區同興里明志路１段４９３之１號",
     "x": 121.430666,
     "y": 25.055069,
     "shops": [
         {
-            "shop": "張丞智",
-            "pay_list": "LINE Pay Money"
+            "shop": "治綺企業社",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

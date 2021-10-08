@@ -1,17 +1,13 @@
 {
-    "name": "食用油脂零售\/餐館、餐廳\/糖果餅乾零售",
+    "name": "食用油脂零售\/糖果餅乾零售\/餐館、餐廳",
     "address": "臺北市信義區景新里莊敬路２１２號１樓",
     "x": 121.561607,
     "y": 25.030163,
     "shops": [
         {
             "shop": "尚圓食品有限公司",
-            "pay_list": "街口支付 \/ LINE Pay Money"
-        },
-        {
-            "shop": "尚圓食品有限公司",
-            "pay_list": "街口支付 \/ LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "街口支付\/LINE Pay Money"
+    "pay_list": ""
 }

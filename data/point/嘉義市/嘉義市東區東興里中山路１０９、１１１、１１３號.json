@@ -1,17 +1,13 @@
 {
-    "name": "飲料零售\/西點麵包零售\/咖啡館",
+    "name": "西點麵包零售\/飲料零售\/咖啡館",
     "address": "嘉義市東區東興里中山路１０９、１１１、１１３號１樓",
     "x": 120.453509,
     "y": 23.4813,
     "shops": [
         {
             "shop": "以馬忤斯飲料店",
-            "pay_list": "台灣 PAY \/ LINE Pay Money"
-        },
-        {
-            "shop": "以馬忤斯飲料店",
-            "pay_list": "台灣 PAY \/ LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "台灣 PAY\/LINE Pay Money"
+    "pay_list": ""
 }

@@ -6,12 +6,8 @@
     "shops": [
         {
             "shop": "朝藝私房蛋糕店",
-            "pay_list": "LINE Pay Money"
-        },
-        {
-            "shop": "雍上意國際貿易股份有限公司逢甲旗艦店分公司",
-            "pay_list": "一卡通"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money\/一卡通"
+    "pay_list": ""
 }

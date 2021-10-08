@@ -1,13 +1,13 @@
 {
-    "name": "飲料零售\/茶葉批發\/冰果店、冷（熱）飲店",
+    "name": "便當、自助餐店",
     "address": "高雄市旗山區大德里延平一路７５０號１樓",
     "x": 120.48404705602,
     "y": 22.882259106527,
     "shops": [
         {
-            "shop": "恩典綠茶專賣店",
-            "pay_list": "LINE Pay Money"
+            "shop": "火雞肉飯",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

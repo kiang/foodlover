@@ -1,13 +1,13 @@
 {
-    "name": "糖果餅乾批發\/糖果餅乾零售",
+    "name": "糖果餅乾零售\/糖果餅乾批發",
     "address": "臺中市外埔區大東里甲后路五段１４０號",
     "x": 120.637206,
     "y": 24.34288,
     "shops": [
         {
             "shop": "飽食食品有限公司",
-            "pay_list": "台灣 PAY \/ LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "台灣 PAY\/LINE Pay Money"
+    "pay_list": ""
 }

@@ -1,13 +1,25 @@
 {
-    "name": "調理飲料攤販\/麵店、小吃店",
+    "name": "麵店、小吃店\/調理飲料攤販",
     "address": "彰化縣福興鄉橋頭村４鄰中正路１３１號",
     "x": 120.441103,
     "y": 24.052443,
     "shops": [
         {
+            "shop": "劉勝田",
+            "pay_list": ""
+        },
+        {
             "shop": "黃曾玉櫻",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
+        },
+        {
+            "shop": "劉勝田",
+            "pay_list": ""
+        },
+        {
+            "shop": "黃曾玉櫻",
+            "pay_list": "LINE PAY MONEY"
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": "LINE PAY MONEY"
 }

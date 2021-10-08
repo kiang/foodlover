@@ -6,8 +6,12 @@
     "shops": [
         {
             "shop": "早安美芝城",
-            "pay_list": "LINE Pay Money \/ 街口支付"
+            "pay_list": "街口支付 \/ LINE PAY MONEY"
+        },
+        {
+            "shop": "台南排骨飯",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money\/街口支付"
+    "pay_list": "街口支付\/LINE PAY MONEY"
 }

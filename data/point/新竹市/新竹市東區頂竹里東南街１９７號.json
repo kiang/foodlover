@@ -1,17 +1,13 @@
 {
-    "name": "西點麵包零售\/糕餅麵包製造\/咖啡飲料製造\/冰果店、冷（熱）飲店",
+    "name": "西點麵包零售\/冰果店、冷（熱）飲店\/糕餅麵包製造\/咖啡飲料製造",
     "address": "新竹市東區頂竹里東南街１９７號１樓",
     "x": 120.97526876725,
     "y": 24.796329724143,
     "shops": [
         {
             "shop": "緹亞娜有限公司",
-            "pay_list": "台灣 PAY \/ LINE Pay Money"
-        },
-        {
-            "shop": "緹亞娜有限公司",
-            "pay_list": "台灣 PAY \/ LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "台灣 PAY\/LINE Pay Money"
+    "pay_list": ""
 }

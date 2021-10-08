@@ -1,13 +1,13 @@
 {
-    "name": "便當、自助餐店\/餐館、餐廳",
+    "name": "餐館、餐廳\/便當、自助餐店",
     "address": "雲林縣虎尾鎮安慶里１鄰中山路３－１３號１樓",
     "x": 120.43583236324,
     "y": 23.704784862681,
     "shops": [
         {
             "shop": "古式魯肉飯",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": "LINE PAY MONEY"
 }

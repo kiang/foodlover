@@ -1,13 +1,13 @@
 {
-    "name": "餐食攤販",
+    "name": "西點麵包零售",
     "address": "臺南市北區文成三路７３６號",
     "x": 120.198659,
     "y": 23.016041,
     "shops": [
         {
-            "shop": "燒燒雞蛋糕",
-            "pay_list": "LINE Pay Money"
+            "shop": "女子麥面包文成二店",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

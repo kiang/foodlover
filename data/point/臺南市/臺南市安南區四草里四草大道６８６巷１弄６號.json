@@ -6,8 +6,12 @@
     "shops": [
         {
             "shop": "綠綠小麥有限公司",
-            "pay_list": "一卡通 \/ LINE Pay Money"
+            "pay_list": ""
+        },
+        {
+            "shop": "小食光食品行",
+            "pay_list": ""
         }
     ],
-    "pay_list": "一卡通\/LINE Pay Money"
+    "pay_list": ""
 }

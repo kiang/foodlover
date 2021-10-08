@@ -5,9 +5,17 @@
     "y": 22.63969,
     "shops": [
         {
+            "shop": "林淑靜",
+            "pay_list": ""
+        },
+        {
             "shop": "林秀芬",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
+        },
+        {
+            "shop": "趙金清",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": "LINE PAY MONEY"
 }

@@ -6,8 +6,12 @@
     "shops": [
         {
             "shop": "明犇餐飲",
-            "pay_list": "街口支付"
+            "pay_list": ""
+        },
+        {
+            "shop": "韓燒餐飲國際有限公司",
+            "pay_list": ""
         }
     ],
-    "pay_list": "街口支付"
+    "pay_list": ""
 }

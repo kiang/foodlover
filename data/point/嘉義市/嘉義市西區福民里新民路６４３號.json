@@ -6,20 +6,12 @@
     "shops": [
         {
             "shop": "多更多麵包坊",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         },
         {
             "shop": "多億多食品有限公司",
-            "pay_list": "LINE Pay Money"
-        },
-        {
-            "shop": "多更多麵包坊",
-            "pay_list": "LINE Pay Money"
-        },
-        {
-            "shop": "多億多食品有限公司",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

@@ -1,13 +1,17 @@
 {
-    "name": "麵店、小吃店",
+    "name": "冰果店、冷（熱）飲店",
     "address": "臺南市將軍區平沙里０１３鄰平沙１５７號",
     "x": 120.08814411291,
     "y": 23.211706194848,
     "shops": [
         {
+            "shop": "可愛多茶飲",
+            "pay_list": ""
+        },
+        {
             "shop": "楊家蚵仔煎",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": "LINE PAY MONEY"
 }

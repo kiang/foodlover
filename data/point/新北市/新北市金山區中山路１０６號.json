@@ -1,13 +1,13 @@
 {
-    "name": "菸酒零售\/冰果店、冷（熱）飲店",
+    "name": "冰果店、冷（熱）飲店\/菸酒零售",
     "address": "新北市金山區中山路１０６號１樓",
     "x": 121.63993043928,
     "y": 25.219345512262,
     "shops": [
         {
             "shop": "漁港咖啡屋",
-            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+            "pay_list": ""
         }
     ],
-    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+    "pay_list": ""
 }

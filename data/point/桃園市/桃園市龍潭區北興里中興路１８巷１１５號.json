@@ -1,17 +1,17 @@
 {
-    "name": "其他商品批發經紀\/糖果餅乾批發\/糖果餅乾零售",
+    "name": "糖果餅乾零售\/其他商品批發經紀\/糖果餅乾批發",
     "address": "桃園市龍潭區北興里中興路１８巷１１５號（２樓）",
     "x": 121.241808,
     "y": 24.879767,
     "shops": [
         {
             "shop": "台三叔公食品有限公司",
-            "pay_list": "台灣 PAY \/ 一卡通"
+            "pay_list": ""
         },
         {
             "shop": "雪之戀貿易有限公司",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "台灣 PAY\/一卡通\/LINE Pay Money"
+    "pay_list": ""
 }

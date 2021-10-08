@@ -1,13 +1,13 @@
 {
-    "name": "麵店、小吃店\/冰果店、冷（熱）飲店",
+    "name": "冰果店、冷（熱）飲店\/麵店、小吃店",
     "address": "基隆市中山區西康里復興路９５之６號１樓",
     "x": 121.725851,
     "y": 25.144086,
     "shops": [
         {
             "shop": "小夫妻商行",
-            "pay_list": "街口支付 \/ LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "街口支付\/LINE Pay Money"
+    "pay_list": ""
 }

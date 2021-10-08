@@ -5,9 +5,17 @@
     "y": 22.92209974803,
     "shops": [
         {
+            "shop": "鍋燒小吃",
+            "pay_list": ""
+        },
+        {
             "shop": "瀅家小吃",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
+        },
+        {
+            "shop": "桃樂絲茶飲",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": "LINE PAY MONEY"
 }

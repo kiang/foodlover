@@ -6,8 +6,12 @@
     "shops": [
         {
             "shop": "沅未食品企業社",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
+        },
+        {
+            "shop": "友情西點麵包店",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

@@ -1,13 +1,13 @@
 {
-    "name": "視聽中心\/飲料零售\/餐食攤販",
+    "name": "餐食攤販\/飲料零售\/視聽中心",
     "address": "屏東縣潮州鎮八爺里大同路１２７之２１號",
     "x": 120.526981,
     "y": 22.541746,
     "shops": [
         {
             "shop": "越南小吃",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": "LINE PAY MONEY"
 }

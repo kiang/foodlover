@@ -1,13 +1,13 @@
 {
-    "name": "麵店、小吃店\/外燴（辦桌）承包\/餐館、餐廳",
+    "name": "外燴（辦桌）承包\/麵店、小吃店\/餐館、餐廳",
     "address": "新北市板橋區新民里文化路１段１８８巷３６號１樓",
     "x": 121.466573,
     "y": 25.019067,
     "shops": [
         {
             "shop": "春野國際有限公司",
-            "pay_list": "台灣 PAY \/ LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "台灣 PAY\/LINE Pay Money"
+    "pay_list": ""
 }

@@ -1,13 +1,13 @@
 {
-    "name": "視聽中心\/麵店、小吃店",
+    "name": "麵店、小吃店\/視聽中心",
     "address": "高雄市小港區店鎮里中鋼路６０號",
     "x": 120.35553631823,
     "y": 22.560470054635,
     "shops": [
         {
             "shop": "楓樹林小吃店",
-            "pay_list": "LINE Pay Money"
+            "pay_list": "LINE PAY MONEY"
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": "LINE PAY MONEY"
 }

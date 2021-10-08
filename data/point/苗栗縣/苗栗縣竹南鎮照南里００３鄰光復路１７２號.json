@@ -1,17 +1,17 @@
 {
-    "name": "菸酒零售\/水果零售\/西點麵包零售\/冰果店、冷（熱）飲店",
+    "name": "水果零售\/西點麵包零售\/冰果店、冷（熱）飲店\/菸酒零售",
     "address": "苗栗縣竹南鎮照南里００３鄰光復路１７２號１樓",
     "x": 120.879334,
     "y": 24.687725,
     "shops": [
         {
             "shop": "杰絲商行",
-            "pay_list": "台灣 PAY \/ LINE Pay Money"
+            "pay_list": ""
         },
         {
             "shop": "杰絲商行",
-            "pay_list": "台灣 PAY \/ LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "台灣 PAY\/LINE Pay Money"
+    "pay_list": ""
 }

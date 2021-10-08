@@ -1,17 +1,13 @@
 {
-    "name": "經營網路購物\/西點麵包零售\/糕餅麵包製造\/西點麵包批發",
+    "name": "糕餅麵包製造\/西點麵包零售\/西點麵包批發\/經營網路購物",
     "address": "高雄市前金區新生里市中一路２７０號",
     "x": 120.289064,
     "y": 22.631962,
     "shops": [
         {
             "shop": "木木江實業股份有限公司",
-            "pay_list": "LINE Pay Money"
-        },
-        {
-            "shop": "木木江鳥衣谷甜點工作室",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

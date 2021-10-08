@@ -1,17 +1,17 @@
 {
-    "name": "外燴（辦桌）承包\/麵店、小吃店\/糖果餅乾零售",
+    "name": "糖果餅乾零售\/外燴（辦桌）承包\/麵店、小吃店",
     "address": "苗栗縣通霄鎮內湖里００５鄰５３―５號",
     "x": 120.694374,
     "y": 24.49765,
     "shops": [
         {
             "shop": "吳媽媽創意廚房",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         },
         {
             "shop": "吳媽媽創意廚房",
-            "pay_list": "LINE Pay Money"
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

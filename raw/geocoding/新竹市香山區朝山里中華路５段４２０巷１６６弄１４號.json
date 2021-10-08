@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "新竹市香山區朝山里中華路５段４２０巷１６６弄１４號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "完全比對",
+      "OutMatchCode": "[新竹市]\tFULL:1",
+      "OutTraceInfo": "[新竹市]\t { 完全比對 } 找到符合的門牌地址"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "新竹市香山區朝山里10鄰中華路五段420巷166弄14號",
+      "COUNTY": "新竹市",
+      "TOWN": "香山區",
+      "VILLAGE": "朝山里",
+      "NEIGHBORHOOD": "10鄰",
+      "ROAD": "中華路",
+      "SECTION": "5",
+      "LANE": "420巷",
+      "ALLEY": "166弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "14號",
+      "X": 120.914989,
+      "Y": 24.773244
+    }
+  ]
+}
