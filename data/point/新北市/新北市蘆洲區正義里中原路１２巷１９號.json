@@ -1,13 +1,13 @@
 {
     "name": "餐館、餐廳",
-    "address": "新北市蘆洲區正義里中原路１２巷１９號（１樓）",
+    "address": "新北市蘆洲區正義里中原路１２巷１９號",
     "x": 121.46083989597,
     "y": 25.083754573616,
     "shops": [
         {
-            "shop": "丁熹涮涮鍋",
-            "pay_list": "LINE Pay Money"
+            "shop": "特稚有限公司",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

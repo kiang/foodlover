@@ -1,13 +1,13 @@
 {
-    "name": "冰果店、冷（熱）飲店",
-    "address": "嘉義市東區過溝里文化路９２號騎樓",
+    "name": "麵店、小吃店",
+    "address": "嘉義市東區過溝里文化路９２號",
     "x": 120.45006000212,
     "y": 23.476660002327,
     "shops": [
         {
-            "shop": "黃建勝",
-            "pay_list": "LINE Pay Money"
+            "shop": "楊坤宗",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

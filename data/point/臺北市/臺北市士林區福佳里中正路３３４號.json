@@ -1,13 +1,13 @@
 {
     "name": "餐館、餐廳",
-    "address": "臺北市士林區福佳里中正路３３４號１樓",
+    "address": "臺北市士林區福佳里中正路３３４號",
     "x": 121.52223883619,
     "y": 25.094653571262,
     "shops": [
         {
-            "shop": "本初良品有限公司",
-            "pay_list": "LINE Pay Money"
+            "shop": "鬍鬚張股份有限公司士林中正分公司",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

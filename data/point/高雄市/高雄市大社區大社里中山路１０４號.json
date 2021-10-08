@@ -1,13 +1,13 @@
 {
-    "name": "麵店、小吃店",
-    "address": "高雄市大社區大社里中山路１０４號",
+    "name": "餐館、餐廳",
+    "address": "高雄市大社區大社里中山路１０４號１樓",
     "x": 120.34624357145,
     "y": 22.731915640174,
     "shops": [
         {
-            "shop": "今年貴焿中山店",
-            "pay_list": "LINE Pay Money"
+            "shop": "麵麵粥道食品有限公司大社營業所",
+            "pay_list": ""
         }
     ],
-    "pay_list": "LINE Pay Money"
+    "pay_list": ""
 }

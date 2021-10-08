@@ -1,17 +1,57 @@
 {
-    "name": "菸酒零售\/麵店、小吃店\/飲酒店\/視唱中心（ＫＴＶ）",
-    "address": "臺中市中區綠川里綠川西街１３５號８樓之１",
+    "name": "其他烘焙炊蒸食品製造",
+    "address": "臺中市中區綠川里綠川西街１３５號３樓（東協廣場第３３２號櫃位）",
     "x": 120.6838079526,
     "y": 24.139389588497,
     "shops": [
         {
-            "shop": "美樂地有限公司",
-            "pay_list": "台灣 PAY \/ LINE Pay Money \/ 街口支付"
+            "shop": "蘇珠環",
+            "pay_list": ""
         },
         {
-            "shop": "星河商旅",
-            "pay_list": "台灣 PAY"
+            "shop": "南定小吃",
+            "pay_list": ""
+        },
+        {
+            "shop": "泰國店小吃",
+            "pay_list": ""
+        },
+        {
+            "shop": "泰越小吃店",
+            "pay_list": ""
+        },
+        {
+            "shop": "喬伊泰國小吃",
+            "pay_list": ""
+        },
+        {
+            "shop": "怡安小吃店",
+            "pay_list": ""
+        },
+        {
+            "shop": "劉德小吃店",
+            "pay_list": ""
+        },
+        {
+            "shop": "幸發亭冰果店",
+            "pay_list": ""
+        },
+        {
+            "shop": "陽光燒烤店",
+            "pay_list": ""
+        },
+        {
+            "shop": "媽媽麵",
+            "pay_list": ""
+        },
+        {
+            "shop": "美鳳小吃",
+            "pay_list": ""
+        },
+        {
+            "shop": "阿崑小吃店",
+            "pay_list": ""
         }
     ],
-    "pay_list": "台灣 PAY\/LINE Pay Money\/街口支付"
+    "pay_list": ""
 }

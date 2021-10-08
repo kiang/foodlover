@@ -1,13 +1,13 @@
 {
-    "name": "麵店、小吃店",
-    "address": "桃園市蘆竹區錦中里南崁路３５２號１樓",
+    "name": "咖啡館",
+    "address": "桃園市蘆竹區錦中里南崁路３５２號",
     "x": 121.29106648471,
     "y": 25.050504246851,
     "shops": [
         {
-            "shop": "九麵饌小吃店",
-            "pay_list": "街口支付 \/ LINE Pay Money"
+            "shop": "午逅咖啡店",
+            "pay_list": ""
         }
     ],
-    "pay_list": "街口支付\/LINE Pay Money"
+    "pay_list": ""
 }
