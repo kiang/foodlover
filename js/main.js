@@ -103,7 +103,7 @@ function countyStyle(f) {
     }),
     text: new ol.style.Text({
       font: '14px "Open Sans", "Arial Unicode MS", "sans-serif"',
-      text: p.COUNTYNAME + "\n(點選縣市才會載入店家)",
+      text: p.COUNTYNAME,
       fill: new ol.style.Fill({
         color: textColor
       })
@@ -158,6 +158,7 @@ map.on('singleclick', function (evt) {
       } else {
         currentFeature = feature;
         vectorPoints.getSource().refresh();
+        sidebar.close();
         $.getJSON(baseUrl + 'data/point/' + selectedCounty + '/' + p.k + '.json', function (c) {
           var currentP = currentFeature.getProperties();
           var lonLat = ol.proj.toLonLat(currentP.geometry.getCoordinates());
