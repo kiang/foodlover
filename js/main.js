@@ -103,7 +103,7 @@ function countyStyle(f) {
     }),
     text: new ol.style.Text({
       font: '14px "Open Sans", "Arial Unicode MS", "sans-serif"',
-      text: p.COUNTYNAME,
+      text: p.COUNTYNAME + "\n(點選縣市才會載入店家)",
       fill: new ol.style.Fill({
         color: textColor
       })
