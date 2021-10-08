@@ -164,7 +164,7 @@ map.on('singleclick', function (evt) {
           var lonLat = ol.proj.toLonLat(currentP.geometry.getCoordinates());
           var message = '<table class="table table-dark">';
           message += '<tbody>';
-          message += '<tr><th scope="row" style="width: 100px;">名稱</th><td>' + c.name + '</td></tr>';
+          message += '<tr><th scope="row" style="width: 100px;">名稱</th><td>' + c.shop + '(' + c.name + ')' + '</td></tr>';
           message += '<tr><th scope="row" style="width: 100px;">住址</th><td>' + c.address + '</td></tr>';
           message += '<tr><td colspan="2"><ul>';
           for (k in c.shops) {
