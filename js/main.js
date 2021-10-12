@@ -111,7 +111,7 @@ function countyStyle(f) {
     }),
     text: new ol.style.Text({
       font: '14px "Open Sans", "Arial Unicode MS", "sans-serif"',
-      text: p.COUNTYNAME,
+      text: p.COUNTYNAME + "\n(請點選)",
       fill: new ol.style.Fill({
         color: textColor
       })
