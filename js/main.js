@@ -15,9 +15,17 @@ for (var z = 0; z < 20; ++z) {
 var baseUrl = 'https://kiang.github.io/foodlover.tw/';
 
 var filterPayment = '';
+var filterCategory = '';
+var filterArea = '';
 function pointStyle(f) {
   var p = f.getProperties(), color = '#ceaf30', stroke, radius;
   if (filterPayment !== '' && p.pay_list.indexOf(filterPayment) === -1) {
+    return null;
+  }
+  if (filterCategory !== '' && p.category.indexOf(filterCategory) === -1) {
+    return null;
+  }
+  if (filterArea !== '' && p.area.indexOf(filterArea) === -1) {
     return null;
   }
   if (f === currentFeature) {
@@ -134,6 +142,24 @@ map.addControl(sidebar);
 var pointClicked = false;
 var selectedCounty = '';
 var pointsPool = {};
+var areasPool = {};
+var updateAreas = function() {
+  vectorPoints.getSource().forEachFeature(function(f) {
+    var p = f.getProperties();
+    if(!areasPool[p.area]) {
+      areasPool[p.area] = true;
+      $('#filterAreas').append('<a href="#" class="btn btn-secondary btn-lg btn-block filter-area" data-area="' + p.area + '">' + p.area + '</a>');
+    }
+  });
+  $('a.filter-area').click(function () {
+    var currentObj = $(this);
+    $('a.filter-area').removeClass('btn-primary').addClass('btn-secondary');
+    filterArea = currentObj.attr('data-area');
+    currentObj.removeClass('btn-secondary').addClass('btn-primary');
+    vectorPoints.getSource().refresh();
+    sidebar.close();
+  });
+}
 map.on('singleclick', function (evt) {
   content.innerHTML = '';
   pointClicked = false;
@@ -144,16 +170,22 @@ map.on('singleclick', function (evt) {
       if (p.COUNTYNAME) {
         selectedCounty = p.COUNTYNAME;
         vectorPoints.getSource().clear();
+        filterArea = '';
+        areasPool = {};
+        $('#filterAreas').html('<a href="#" class="btn btn-primary btn-lg btn-block filter-area" data-area="">全部顯示</a>');
         if (!pointsPool[selectedCounty]) {
           $.getJSON(baseUrl + selectedCounty + '.json', function (c) {
             pointsPool[selectedCounty] = c;
             vectorPoints.getSource().addFeatures(pointFormat.readFeatures(pointsPool[selectedCounty]));
             vectorPoints.getSource().refresh();
+            updateAreas();
           });
         } else {
           vectorPoints.getSource().addFeatures(pointFormat.readFeatures(pointsPool[selectedCounty]));
           vectorPoints.getSource().refresh();
+          updateAreas();
         }
+        
         county.getSource().refresh();
       } else {
         currentFeature = feature;
@@ -245,6 +277,15 @@ $('a.filter-payment').click(function () {
   var currentObj = $(this);
   $('a.filter-payment').removeClass('btn-primary').addClass('btn-secondary');
   filterPayment = currentObj.attr('data-payment');
+  currentObj.removeClass('btn-secondary').addClass('btn-primary');
+  vectorPoints.getSource().refresh();
+  sidebar.close();
+});
+
+$('a.filter-category').click(function () {
+  var currentObj = $(this);
+  $('a.filter-category').removeClass('btn-primary').addClass('btn-secondary');
+  filterCategory = currentObj.attr('data-category');
   currentObj.removeClass('btn-secondary').addClass('btn-primary');
   vectorPoints.getSource().refresh();
   sidebar.close();
