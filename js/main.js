@@ -12,12 +12,12 @@ for (var z = 0; z < 20; ++z) {
   matrixIds[z] = z;
 }
 
-var baseUrl = window.location.origin + window.location.pathname;
+var baseUrl = 'https://kiang.github.io/foodlover.tw/';
 
 var filterPayment = '';
 function pointStyle(f) {
   var p = f.getProperties(), color = '#ceaf30', stroke, radius;
-  if(filterPayment !== '' && p.pay_list.indexOf(filterPayment) === -1) {
+  if (filterPayment !== '' && p.pay_list.indexOf(filterPayment) === -1) {
     return null;
   }
   if (f === currentFeature) {
@@ -91,7 +91,7 @@ function countyStyle(f) {
   var color = 'rgba(255,255,255,0.6)';
   var strokeWidth = 1;
   var strokeColor = 'rgba(0,0,0,0.3)';
-  var cityKey = p.COUNTYNAME;
+  var cityKey = p.COUNTYNAME + "\n(請點選)";
   var textColor = '#000000';
   var baseStyle = new ol.style.Style({
     stroke: new ol.style.Stroke({
@@ -145,7 +145,7 @@ map.on('singleclick', function (evt) {
         selectedCounty = p.COUNTYNAME;
         vectorPoints.getSource().clear();
         if (!pointsPool[selectedCounty]) {
-          $.getJSON(baseUrl + 'data/' + selectedCounty + '.json', function (c) {
+          $.getJSON(baseUrl + selectedCounty + '.json', function (c) {
             pointsPool[selectedCounty] = c;
             vectorPoints.getSource().addFeatures(pointFormat.readFeatures(pointsPool[selectedCounty]));
             vectorPoints.getSource().refresh();
@@ -158,30 +158,24 @@ map.on('singleclick', function (evt) {
       } else {
         currentFeature = feature;
         vectorPoints.getSource().refresh();
-        sidebar.close();
-        $.getJSON(baseUrl + 'data/point/' + selectedCounty + '/' + p.k + '.json', function (c) {
-          var currentP = currentFeature.getProperties();
-          var lonLat = ol.proj.toLonLat(currentP.geometry.getCoordinates());
-          var message = '<table class="table table-dark">';
-          message += '<tbody>';
-          message += '<tr><th scope="row" style="width: 100px;">名稱</th><td>' + c.name + '</td></tr>';
-          message += '<tr><th scope="row" style="width: 100px;">住址</th><td>' + c.address + '</td></tr>';
-          message += '<tr><td colspan="2"><ul>';
-          for (k in c.shops) {
-            message += '<li><strong>' + c.shops[k].shop + '</strong>: ' + c.shops[k].pay_list + '</li>';
-          }
-          message += '</ul></td></tr>';
-          message += '<tr><td colspan="2">';
-          message += '<hr /><div class="btn-group-vertical" role="group" style="width: 100%;">';
-          message += '<a href="https://www.google.com/maps/dir/?api=1&destination=' + lonLat[1] + ',' + lonLat[0] + '&travelmode=driving" target="_blank" class="btn btn-info btn-lg btn-block">Google 導航</a>';
-          message += '<a href="https://wego.here.com/directions/drive/mylocation/' + lonLat[1] + ',' + lonLat[0] + '" target="_blank" class="btn btn-info btn-lg btn-block">Here WeGo 導航</a>';
-          message += '<a href="https://bing.com/maps/default.aspx?rtp=~pos.' + lonLat[1] + '_' + lonLat[0] + '" target="_blank" class="btn btn-info btn-lg btn-block">Bing 導航</a>';
-          message += '</div></td></tr>';
-          message += '</tbody></table>';
-          sidebarTitle.innerHTML = c.name;
-          content.innerHTML = message;
-          sidebar.open('home');
-        });
+        var lonLat = ol.proj.toLonLat(p.geometry.getCoordinates());
+        var message = '<table class="table table-dark">';
+        message += '<tbody>';
+        message += '<tr><th scope="row" style="width: 100px;">名稱</th><td>' + p.shop + '</td></tr>';
+        message += '<tr><th scope="row" style="width: 100px;">支付方式</th><td>' + p.pay_list + '</td></tr>';
+        message += '<tr><th scope="row" style="width: 100px;">類型</th><td>' + p.category + '</td></tr>';
+        message += '<tr><th scope="row" style="width: 100px;">鄉鎮市區</th><td>' + p.area + '</td></tr>';
+        message += '<tr><th scope="row" style="width: 100px;">住址</th><td>' + p.market_address + '</td></tr>';
+        message += '<tr><td colspan="2">';
+        message += '<hr /><div class="btn-group-vertical" role="group" style="width: 100%;">';
+        message += '<a href="https://www.google.com/maps/dir/?api=1&destination=' + lonLat[1] + ',' + lonLat[0] + '&travelmode=driving" target="_blank" class="btn btn-info btn-lg btn-block">Google 導航</a>';
+        message += '<a href="https://wego.here.com/directions/drive/mylocation/' + lonLat[1] + ',' + lonLat[0] + '" target="_blank" class="btn btn-info btn-lg btn-block">Here WeGo 導航</a>';
+        message += '<a href="https://bing.com/maps/default.aspx?rtp=~pos.' + lonLat[1] + '_' + lonLat[0] + '" target="_blank" class="btn btn-info btn-lg btn-block">Bing 導航</a>';
+        message += '</div></td></tr>';
+        message += '</tbody></table>';
+        sidebarTitle.innerHTML = p.shop;
+        content.innerHTML = message;
+        sidebar.open('home');
       }
     }
   });
@@ -247,10 +241,11 @@ $('#btn-geolocation').click(function () {
   return false;
 });
 
-$('a.filter-payment').click(function() {
+$('a.filter-payment').click(function () {
   var currentObj = $(this);
   $('a.filter-payment').removeClass('btn-primary').addClass('btn-secondary');
   filterPayment = currentObj.attr('data-payment');
   currentObj.removeClass('btn-secondary').addClass('btn-primary');
   vectorPoints.getSource().refresh();
+  sidebar.close();
 });
