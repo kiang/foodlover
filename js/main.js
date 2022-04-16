@@ -14,13 +14,21 @@ for (var z = 0; z < 20; ++z) {
 
 var baseUrl = 'https://kiang.github.io/foodlover.tw/';
 
-var filterPayment = '';
+var filterPayment = {};
 var filterCategory = '';
 var filterArea = '';
 function pointStyle(f) {
   var p = f.getProperties(), color = '#ceaf30', stroke, radius;
   if (filterPayment !== '' && p.pay_list.indexOf(filterPayment) === -1) {
-    return null;
+    var paymentCheck = true;
+    for(pay in filterPayment) {
+      if(filterPayment[pay] && p.pay_list.indexOf(pay) === -1) {
+        paymentCheck = false;
+      }
+    }
+    if(!paymentCheck) {
+      return null;
+    }
   }
   if (filterCategory !== '' && p.category.indexOf(filterCategory) === -1) {
     return null;
@@ -275,11 +283,24 @@ $('#btn-geolocation').click(function () {
 
 $('a.filter-payment').click(function () {
   var currentObj = $(this);
-  $('a.filter-payment').removeClass('btn-primary').addClass('btn-secondary');
-  filterPayment = currentObj.attr('data-payment');
-  currentObj.removeClass('btn-secondary').addClass('btn-primary');
+  var selectedPayment = currentObj.attr('data-payment');
+  if(selectedPayment === '') {
+    filterPayment = {};
+  } else if(filterPayment[selectedPayment]) {
+    filterPayment[selectedPayment] = false;
+  } else {
+    filterPayment[selectedPayment] = true;
+  }
+  $('a.filter-payment').each(function() {
+    var theObj = $(this);
+    var cPayment = theObj.attr('data-payment');
+    if(filterPayment[cPayment]) {
+      theObj.removeClass('btn-secondary').addClass('btn-primary');
+    } else {
+      theObj.removeClass('btn-primary').addClass('btn-secondary');
+    }
+  });
   vectorPoints.getSource().refresh();
-  sidebar.close();
 });
 
 $('a.filter-category').click(function () {
